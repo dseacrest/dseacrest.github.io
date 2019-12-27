@@ -1,6 +1,15 @@
 module.exports = {
   presets: ["@vue/cli-plugin-babel/preset"],
-  publicPath: process.env.NODE_ENV === 'production'
-  ? '/dseacrest.github.io/'
-  : '/'
+  publicPath: "/",
+  plugins: [
+    [
+      "transform-imports",
+      {
+        quasar: {
+          transform: "quasar/dist/babel-transforms/imports.js",
+          preventFullImport: true
+        }
+      }
+    ]
+  ]
 };
