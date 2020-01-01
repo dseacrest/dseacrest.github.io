@@ -1,18 +1,18 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Hello Shared Checklists" />
+    <img alt="Vue logo" src="../assets/checklist.png" width="350px"/>
+    <ChecklistsList msg="Shared Checklists" />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
+import ChecklistsList from "@/components/ChecklistsList.vue";
 
 export default {
   name: "home",
   components: {
-    HelloWorld
+    ChecklistsList
   }
 };
 </script>
