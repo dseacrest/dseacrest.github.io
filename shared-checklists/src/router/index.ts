@@ -20,15 +20,22 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/About.vue")
   },
   {
-    path: "/editor/:id",
-    name: "editor",
+    path: "/todo/:id",
+    name: "todo",
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/Editor.vue")
+      import(/* webpackChunkName: "about" */ "../views/ToDo.vue")
+  },
+  {
+    path: "/upload",
+    name: "upload",
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/Upload.vue")
   }
 ];
 
 const router = new VueRouter({
-  routes
+  routes,
+  mode: 'history',
 });
 
 export default router;

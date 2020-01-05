@@ -1,0 +1,161 @@
+{
+    "subject": "Faster Reading",
+    "credit": "10 DAYS FASTER READING",
+    "todos": [
+    {
+        "id": "5316",
+        "title": "Three Bad Habits of Reading",
+        "body": "1.MindWandering,2.Regression,3.Subvocalization."
+    },
+    {
+        "id": "5318",
+        "title": "Ways to reduce subvocalization",
+        "body": "1.Pushyourselftoreadfaster,2.Readonlykeywords.3.Useapacer,4.Humatunetoyourselforchewgum,5.Pushtonguetothetopofyourmouth."
+    },
+    {
+        "id": "5331",
+        "title": "Reading from Screen",
+        "body": "30%lessefficientbecause1.Distancetoscreen,2.Resolution,3.Marginwidth,4.Postureofreader,5.Familiaritywithmedium,6.Systemresponsetime.Usesansseriffontsof12to18point."
+    },
+    {
+        "id": "5380",
+        "title": "Concentration",
+        "body": "Abilitytofocusonsingletask.Traitofhighlysuccessfulpeople."
+    },
+    {
+        "id": "5385",
+        "title": "Reading Aides",
+        "body": "AceReader(acereader.com),E-Read(kerus.com),andJamestownPublishers(800-USA-Read)."
+    },
+    {
+        "id": "5504",
+        "title": "Mind Wandering",
+        "body": "Badhabitofdaydreamingwhilereading."
+    },
+    {
+        "id": "5505",
+        "title": "Regression",
+        "body": "Badhabitofgoingbackandreadingwordsyou’vealreadyread."
+    },
+    {
+        "id": "5506",
+        "title": "Subvocalization",
+        "body": "Badhabitofspeakingwordswhileyoureadthem."
+    },
+    {
+        "id": "5578",
+        "title": "Make inferences",
+        "body": "Byunderstandingtheauthor’spointsofviewyoucanstarttofillinanymissingwordsthatareoutsideofthekeywords."
+    },
+    {
+        "id": "5957",
+        "title": "Network Reading",
+        "body": "Findoutwhatotherpeopleinyourfieldrecommendtoread.Ithelpsyoufindqualitybooksandalsotellsyoualotaboutthatpersonsstyle."
+    },
+    {
+        "id": "5965",
+        "title": "Read Between Lines",
+        "body": "Focusonthewhitespacebetweenthelinesandnotonthewordsthemselves."
+    },
+    {
+        "id": "5966",
+        "title": "Indenting",
+        "body": "Focusonwordsaninchinwardsoneachsideofthemargins.Youwillautomaticallypickupthewordsontheedgesofthemargins."
+    },
+    {
+        "id": "5974",
+        "title": "Pacer",
+        "body": "Forcetheeyetomoveinadirectedpatterndownthepagetohelpincreasereadingspeed."
+    },
+    {
+        "id": "6143",
+        "title": "Change Reading Speed Rates",
+        "body": "Ifyourpurposeistogetthegistofthematerial,speedup,ifyourlookingtostudyormemorize,slowdown."
+    },
+    {
+        "id": "6260",
+        "title": "Reading Retrieval System",
+        "body": "Keepasystemofnotesonabookthathelpsyouretrieveinformationyouneeded(suchasthesechecklistdocuments)."
+    },
+    {
+        "id": "6278",
+        "title": "Background Knowledge",
+        "body": "Knowingevenalittleaboutthesubjecthelpsyoulearnalotmore.Spendtimeresearchingthesubjectbeforeyoureadaboutit."
+    },
+    {
+        "id": "3777",
+        "title": "Keywords",
+        "body": "Most important words that give you the most information in the lease amount of time."
+    },
+    {
+        "id": "6497",
+        "title": "Note Making Tools",
+        "body": "Penorpenciltohelpyoumarkkeywordsorareasthatincludeimportanttext.Remember20%oftextincludes80%ofimportantwords."
+    },
+    {
+        "id": "6594",
+        "title": "Two Finger Pull",
+        "body": "Puttingyourfingersontheoutsideoftheleftandrightmarginsforthewordsyouaretryingtoread."
+    },
+    {
+        "id": "6599",
+        "title": "Pre-Viewing",
+        "body": "Quicklyskimmingthroughtheentiretexttogetanideaofwhatitisaboutandtheauthorspointofview.Readcover,insidecover,backcovers,tableofcontents,titlelines,boldwords,firstsentenceofparagraphs,endingchapterparagraphs,etc.Ittakestimetosavetime."
+    },
+    {
+        "id": "6610",
+        "title": "Phrasing",
+        "body": "Readingagroupofwordsthatformathought.AKAthoughtgrouping."
+    },
+    {
+        "id": "6633",
+        "title": "Jump Into It",
+        "body": "Repetitionofideasandconceptsovertimeincreasesyourcomprehension.Don’tbeafraidtoreadbooksevenwhenyoucanonlyunderstand10%ofthematerial."
+    },
+    {
+        "id": "6665",
+        "title": "Scan v. Skim v. Skip",
+        "body": "Scanningislookingforsomethingspecificinatext.Skimmingisreadingthekeywordsofthetexttogetthegistofallthematerialandtoseeifthereisanythingyoushouldreadindetail.Skippingisjumpingovercertainareasofthetext."
+    },
+    {
+        "id": "6695",
+        "title": "Skipping Rules",
+        "body": "Skipoverareasthat1.Containnothingnew,2.Containnothingyouneed,3.Istoodifficulttocomprehend(inthiscasestillskim)."
+    },
+    {
+        "id": "6696",
+        "title": "Helpful Reading Habits",
+        "body": "Sleepover7hoursaday,addmovementtoyourday,eatbrainfood,reducestress."
+    },
+    {
+        "id": "6717",
+        "title": "Rhythm",
+        "body": "Speedreadinginvolvesgettinginasteadyeyemovementrhythm.Useametronomeifnecessary."
+    },
+    {
+        "id": "6807",
+        "title": "Vocabulary",
+        "body": "Thegreateryourvocabulary,thefasteryouwillread."
+    },
+    {
+        "id": "6861",
+        "title": "Read Distractors",
+        "body": "Thingssuchastv,phone,email,music(exceptMozart),kids,location,thatdistractyoufromfocusing."
+    },
+    {
+        "id": "6945",
+        "title": "Muscle Memory",
+        "body": "Usingrepetitivetaskstotrainyourbrain."
+    },
+    {
+        "id": "5087",
+        "title": "5 W’s and H",
+        "body": "When reading, what you want to be looking for are the who, what, when, where, why and how keywords."
+    },
+    {
+        "id": "7040",
+        "title": "Column Width",
+        "body": "Widercolumntexttakeslongertoreadbecauseyoureyeneedstotravelfartherineachdirectiontogroupphrases."
+    }
+    ]
+}

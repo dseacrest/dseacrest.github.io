@@ -1,68 +1,12 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div>
+    <h1>Shared Checklists</h1>
     <h3>Checklists</h3>
     <ul>
-      <li v-for="checklist in checklists" :key="checklist.id">
-        <router-link :to="{ name: 'editor', params: {id: checklist.id}}">
-          {{checklist.title}}
+      <li v-for="(subject, index) in subjects" :key="index">
+        <router-link :to="{ name: 'todo', params: {id: subject.recordId}}">
+          {{subject.name}}
         </router-link>
-      </li>
-    </ul>
-    <h3>Essential Links</h3>
-    <ul>
-      <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
-      </li>
-      <li>
-        <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
-          >Forum</a
-        >
-      </li>
-      <li>
-        <a href="https://chat.vuejs.org" target="_blank" rel="noopener"
-          >Community Chat</a
-        >
-      </li>
-      <li>
-        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener"
-          >Twitter</a
-        >
-      </li>
-      <li>
-        <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
-      </li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
-          >vue-router</a
-        >
-      </li>
-      <li>
-        <a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a>
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-devtools#vue-devtools"
-          target="_blank"
-          rel="noopener"
-          >vue-devtools</a
-        >
-      </li>
-      <li>
-        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
-          >vue-loader</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/awesome-vue"
-          target="_blank"
-          rel="noopener"
-          >awesome-vue</a
-        >
       </li>
     </ul>
     <h3>Credits</h3>
@@ -74,17 +18,16 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from "vue-property-decorator";
-import checklists from "../assets/mock-checklists/checklists.json";
-import IChecklist from "../models/checklist";
+import IDocument from '@/models/document';
+import documents from '@/assets/mock-data/documents.json';
 
 @Component
 export default class ChecklistsList extends Vue {
-  @Prop() private msg!: string;
-  public checklists: IChecklist[] = checklists;
+  public subjects: IDocument[] = documents;
+
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 @import '../styles/quasar.variables.scss';
 

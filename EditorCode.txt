@@ -51,7 +51,7 @@
             class="o-editor-qeditor"
             flat
             square
-            v-model="checklistBody"
+            v-model="checklistTask"
             min-height="70vh"
         />
     </div>
@@ -59,20 +59,20 @@
 
 <script lang="ts">
 import {Component, Vue, Prop } from 'vue-property-decorator';
-import checklists from "../assets/mock-checklists/checklists.json"
+// import checklists from "../assets/mock-checklists/checklists.json"
 import IChecklist from '../models/checklist';
 
 @Component
 export default class Editor extends Vue {
-    public get checklistBody(): string {
-		const checklist: IChecklist | null = checklists.find((checklist: IChecklist) => checklist.id === this.$route.params.id) || null;
+    // public get checklistTask(): string {
+	// 	const checklist: IChecklist | null = checklists.find((checklist: IChecklist) => checklist.id === this.$route.params.id) || null;
 		
-		if (checklist) {
-			return checklist.body;
-		} else {
-			return "";
-		}
-	}
+	// 	if (checklist) {
+	// 		return checklist.task;
+	// 	} else {
+	// 		return "";
+	// 	}
+	// }
 }
 </script>
 

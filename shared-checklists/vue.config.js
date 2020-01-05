@@ -1,4 +1,5 @@
 module.exports = {
+  
   publicPath:
     process.env.NODE_ENV === "production" ? "/dseacrest.github.io/" : "/",
 
@@ -10,13 +11,4 @@ module.exports = {
   },
 
   transpileDependencies: ["quasar"],
-
-  chainWebpack: config => {
-    config.module
-      .rule('raw')
-      .test(/\.txt$/)
-      .use('raw-loader')
-      .loader('raw-loader')
-      .end()
-  },
 };
