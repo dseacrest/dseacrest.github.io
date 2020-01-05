@@ -1,0 +1,292 @@
+{
+  "subject": "Usability Notes",
+  "credit": "Usability Notes",
+  "todos": [
+    {
+      "id": "6470",
+      "title": "http://sensible.com/downloads-rsme.html",
+      "body": ""
+    },
+    {
+      "id": "6471",
+      "title": "http://customerdevlabs.com/",
+      "body": ""
+    },
+    {
+      "id": "6472",
+      "title": "Dig Deep to Identify Root Causes Of Their Problems",
+      "body": "When you validate, people will share their surface level problems and often not realize that they have a deeper problem that they haven’t even recognized.  Try to uncover those deeper issues by continually asking “why is that a problem or why is that important”."
+    },
+    {
+      "id": "6473",
+      "title": "Justin Wilcox - Customer Discovery",
+      "body": "What Do You Ask"
+    },
+    {
+      "id": "6474",
+      "title": "Prototyping",
+      "body": "Test prototypes even before anything is developed.  The early you can identify issues, the cheaper they are to fix.  Some prototyping software includes  Balsamic, Axure, Invision."
+    },
+    {
+      "id": "6475",
+      "title": "Prominent UI People",
+      "body": "Steve Krug, Don Norman, Laura Klein, Ginny Radix."
+    },
+    {
+      "id": "6476",
+      "title": "Importance of Thank You",
+      "body": "Set a reminder to follow up with your respondents 24 hours after your meeting to thank them for their time.  If you have the resources, send them a handwritten card with a $5 gift card to their local coffee house.  These respondents may become your customers or help you out with further testing so you want to treat them really well."
+    },
+    {
+      "id": "6477",
+      "title": "Give Your Respondents Permission to Be Candid",
+      "body": "People often agree, make things up, or remain silent because they don’t want to sound stupid or hurt your feelings.  Remind them that you are not testing their knowledge and that they aren’t going to hurt your feelings.  Remind them that the more candid they are, the more it will help your business."
+    },
+    {
+      "id": "6478",
+      "title": "People Don’t Know What They Want or Will Do",
+      "body": "People are only good at answering two basic types of questions   1.) what they don’t like and 2.) what they’ve done in the past.  Structure all your questions around these two basic concepts.  People are not very good at predicting what they will do in the future or understanding what they even want as a consumer."
+    },
+    {
+      "id": "6479",
+      "title": "Avoiding Conflicts of Interest Best Practices - Proper Usability Testing",
+      "body": "Once a month test with three people in the morning (Ex  First Friday or Third Thursday). Follow Steve Krug Script Usability Testing Script.  Have all departments watch and listen to the testing screen in a separate room.  Bribe them to show up with good food and make it a fun event.  Afterward have each department write down the three issues that were most serious and most frequently occurring.  Combine all the departments issues and prioritize the most commonly marked issues."
+    },
+    {
+      "id": "6480",
+      "title": "Better Wrong Than Vague",
+      "body": "Early stage validation is one of the only times where being wrong should be encouraged.  Being wrong means, you saved yourself the time and money of pursing an idea or version of your idea that would have failed.  Being wrong means, you can pivot to a better idea or better version of your idea quicker than the competition.  "
+    },
+    {
+      "id": "6481",
+      "title": "Two Magic Questions",
+      "body": "Always start every conversation with one of two magic question  1.) what do you think is the biggest problem with _(insert subject)_, and 2.) why, why, why?"
+    },
+    {
+      "id": "6482",
+      "title": "Usability Testing Other Solutions",
+      "body": "You should usability test other people’s solutions and competitors to get ideas on user experience.  If you don’t have mockups you can usability test competitors to start thinking ahead about your own user design."
+    },
+    {
+      "id": "6483",
+      "title": "First Reasonable Option",
+      "body": "We usually don’t chose the best option, we chore the first reasonable option that we find on the site.  We do this because we are in a hurry, there is no penalty for guessing wrong, guessing is more fun.  We don’t take time to figure out how things work, we tinker and muddle through them."
+    },
+    {
+      "id": "6484",
+      "title": "Usability Testing",
+      "body": "Watching people try to use what you created while they talk about it out loud."
+    },
+    {
+      "id": "6485",
+      "title": "Websites for Usability Testing",
+      "body": "Usertesting.com"
+    },
+    {
+      "id": "6486",
+      "title": "Flailing",
+      "body": "Trying new things constantly and then abandoning them without further or proper study.  Flailing leads to wildly overcomplicated products with abandoned features used by a small percentage of users.  "
+    },
+    {
+      "id": "6487",
+      "title": "Avoid Bias",
+      "body": "The worst thing you can do is tell the test subject what you are working on and how great it will be for them.  You are not there to talk you are there to listen.  This requires humility and putting your ego on the back burner.  The more you have to explain, the more you bias the experiment."
+    },
+    {
+      "id": "6488",
+      "title": "Validation Trap",
+      "body": "The ability to validate a hypothesis can be tricky and requires several different approaches.  "
+    },
+    {
+      "id": "6489",
+      "title": "Minimal Effort",
+      "body": "Testing does not have to always be statistically significant or 300 pages long.  Sometimes it is meeting with a couple people and sketching something on paper.  Your testing never needs to be seen outside of your office so fancy reports are useless.  Try to find the minimal possible effort to confidently prove or disprove your hypothesis."
+    },
+    {
+      "id": "6490",
+      "title": "Test First",
+      "body": "Test your product hypothesis before you build it."
+    },
+    {
+      "id": "6491",
+      "title": "Narrow Market",
+      "body": "Start with a narrow market (ex   urban moms who work FT and don’t have nannies).  Don’t worry if it isn’t very big because you can always expand.  "
+    },
+    {
+      "id": "6492",
+      "title": "Books",
+      "body": "Rocket Surgery Made Easy, Don’t Make Me Think, Design of Everyday Things, UX for Lean Startups, Letting Go of the Words."
+    },
+    {
+      "id": "6493",
+      "title": "Making Things Pretty Warning",
+      "body": "Premature prettification can cause lots of user experience disasters.  Make it clean and clear but not pixel perfect until you’ve tested it.  Users are less likely to give you critical feedback when things are pretty.  Good visuals will distract people from functionality.  You will subconsciously make compromises to suit the visual design.  "
+    },
+    {
+      "id": "6494",
+      "title": "Fun",
+      "body": "Make the experience fun and rewarding for the tester, facilitator, and the audience watching screen from another room.  Use humor, snacks, drinks, etc."
+    },
+    {
+      "id": "6495",
+      "title": "Qualifying criteria for usability testers",
+      "body": "Make sure you qualify the testers.  Early on they don’t have to be part of your target market, although it is best to test your target customer.  Example of criteria, English speaking, has used a web browser, has used a spreadsheet, has used LinkedIn, FB.  "
+    },
+    {
+      "id": "6496",
+      "title": "Conflicts of Interest",
+      "body": "In any organization you have multiple interests working on a single product (example  developers, marketers, user experience, sales people, finance people, hr, etc.).  Each interest has their separate goals such as technical ease, aesthetics, actionable design, onboarding, ease of use, ets.  Many times people will disguise their personal opinions as facts in order to push their agenda and in turn will sacrifice the quality of the overall product."
+    },
+    {
+      "id": "6497",
+      "title": "Get Out of The Building",
+      "body": "If you have questions about your product, message, feature, the answer is not in your office or in your CEO, your answer is outside of the building and only your customers can help you find it.  "
+    },
+    {
+      "id": "6498",
+      "title": "Clarity Trumps Consistency",
+      "body": "If you can make something significantly clearer by making it slightly inconsistent, choose in favor of clarity but make sure you have thoroughly exhausted every option for consistency.  "
+    },
+    {
+      "id": "6499",
+      "title": "Tweak Don’t Redesign",
+      "body": "Following agile principles, don’t create large reports from usability testing and keep the changes you make from testing as small tweaks and not large redesigns."
+    },
+    {
+      "id": "6500",
+      "title": "Customer Profile",
+      "body": "Finalize the hypothesized customer profile. Brainstorm what factors most dramatically distinguish users from another {e.g., age, use, current solution, size, gender, type of sales, tech savviness, title, problem, inputs, outputs, education, target, B2B/B2C, Co Age, Co Size, Experience, Sales Cycle, LTV, etc)."
+    },
+    {
+      "id": "6501",
+      "title": "Scheduling Usability Tests",
+      "body": "Don’t schedule more than three to five people.  No labs or mirrors.  Better to test in person but you can test remotely.  Schedule once a month consistently.  Don’t schedule around release dates because those can constantly shift and be moved back."
+    },
+    {
+      "id": "6502",
+      "title": "Number One Usability Rule",
+      "body": "Don’t Make Them Think.  Things should be obvious and not require thought or interpretation."
+    },
+    {
+      "id": "6503",
+      "title": "Usability",
+      "body": "Design that a person of average or below average skill can use without it being more trouble than it is worth."
+    },
+    {
+      "id": "6504",
+      "title": "MVP",
+      "body": "Building the smallest possible thing you can in order to conclusively validate or invalidate your hypothesis."
+    },
+    {
+      "id": "6505",
+      "title": "Usability Problems",
+      "body": "Bad wording, ambiguity, multiple definitions, technical language, alignment, proximity, scale, etc."
+    },
+    {
+      "id": "6506",
+      "title": "Usability",
+      "body": "A person of average or below average ability and experience can figure out how to use the thing to accomplish something without it being more trouble than it is worth."
+    },
+    {
+      "id": "6507",
+      "title": "Check Out These Documents",
+      "body": ""
+    },
+    {
+      "id": "6508",
+      "title": "Google Customer Discovery - How to do a user interview",
+      "body": ""
+    },
+    {
+      "id": "6509",
+      "title": "Steve Blank – Acting on Customer Discovery",
+      "body": ""
+    },
+    {
+      "id": "6510",
+      "title": "Steve Blank - Conducting a Customer Interview",
+      "body": ""
+    },
+    {
+      "id": "6511",
+      "title": "Steve Krug - Do-It-Yourself Usability Testing with Steve Krug",
+      "body": ""
+    },
+    {
+      "id": "6512",
+      "title": "Watch These YouTube Videos",
+      "body": ""
+    },
+    {
+      "id": "6513",
+      "title": "Prototyping",
+      "body": "Test prototypes even before anything is developed.  The early you can identify issues, the cheaper they are to fix.  Some prototyping software includes  Balsamic, Axure, Invision."
+    },
+    {
+      "id": "6514",
+      "title": "Prominent UI People",
+      "body": "Steve Krug, Don Norman, Laura Klein, Ginny Radix."
+    },
+    {
+      "id": "6515",
+      "title": "Avoiding Conflicts of Interest Best Practices - Proper Usability Testing",
+      "body": "Once a month test with three people in the morning (Ex  First Friday or Third Thursday). Follow Steve Krug Script Usability Testing Script.  Have all departments watch and listen to the testing screen in a separate room.  Bribe them to show up with good food and make it a fun event.  Afterward have each department write down the three issues that were most serious and most frequently occurring.  Combine all the departments issues and prioritize the most commonly marked issues."
+    },
+    {
+      "id": "6516",
+      "title": "Usability Testing Other Solutions",
+      "body": "You should usability test other people’s solutions and competitors to get ideas on user experience.  If you don’t have mockups you can usability test competitors to start thinking ahead about your own user design."
+    },
+    {
+      "id": "6517",
+      "title": "Usability Testing",
+      "body": "Watching people try to use what you created while they talk about it out loud."
+    },
+    {
+      "id": "6518",
+      "title": "Websites for Usability Testing",
+      "body": "Usertesting.com"
+    },
+    {
+      "id": "6519",
+      "title": "Books",
+      "body": "Rocket Surgery Made Easy, Don’t Make Me Think, Design of Everyday Things, UX for Lean Startups, Letting Go of the Words."
+    },
+    {
+      "id": "6520",
+      "title": "Fun",
+      "body": "Make the experience fun and rewarding for the tester, facilitator, and the audience watching screen from another room.  Use humor, snacks, drinks, etc."
+    },
+    {
+      "id": "6521",
+      "title": "Qualifying criteria for usability testers",
+      "body": "Make sure you qualify the testers.  Early on they don’t have to be part of your target market, although it is best to test your target customer.  Example of criteria, English speaking, has used a web browser, has used a spreadsheet, has used LinkedIn, FB.  "
+    },
+    {
+      "id": "6522",
+      "title": "Conflicts of Interest",
+      "body": "In any organization you have multiple interests working on a single product (example  developers, marketers, user experience, sales people, finance people, hr, etc.).  Each interest has their separate goals such as technical ease, aesthetics, actionable design, onboarding, ease of use, ets.  Many times people will disguise their personal opinions as facts in order to push their agenda and in turn will sacrifice the quality of the overall product."
+    },
+    {
+      "id": "6523",
+      "title": "Tweak Don’t Redesign",
+      "body": "Following agile principles, don’t create large reports from usability testing and keep the changes you make from testing as small tweaks and not large redesigns."
+    },
+    {
+      "id": "6524",
+      "title": "Scheduling Usability Tests",
+      "body": "Don’t schedule more than three to five people.  No labs or mirrors.  Better to test in person but you can test remotely.  Schedule once a month consistently.  Don’t schedule around release dates because those can constantly shift and be moved back."
+    },
+    {
+      "id": "6525",
+      "title": "Usability",
+      "body": "Design that a person of average or below average skill can use without it being more trouble than it is worth."
+    },
+    {
+      "id": "6526",
+      "title": "Usability Problems",
+      "body": "Bad wording, ambiguity, multiple definitions, technical language, alignment, proximity, scale, etc."
+    }
+  ]
+}
+

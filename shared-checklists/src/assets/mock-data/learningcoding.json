@@ -1,0 +1,182 @@
+{
+  "subject": "Learning Coding Checklist",
+  "credit": "Learning Coding Checklist",
+  "todos": [
+    {
+      "id": "3661",
+      "title": "Determine Your Best Learning Method",
+      "body": "Visual, Auditory, Reading/Writing, Kinesthetic.  "
+    },
+    {
+      "id": "3662",
+      "title": "Competitive Programming",
+      "body": "SPOJ, Codechef, Codeforces, Topcoder, Hackerrank, Geeksforgeeks."
+    },
+    {
+      "id": "3663",
+      "title": "Math & Computer Problems",
+      "body": "Project Euler"
+    },
+    {
+      "id": "3664",
+      "title": "Websites to Learn",
+      "body": "LeetCode, HackerRank"
+    },
+    {
+      "id": "3665",
+      "title": "Code Review",
+      "body": "Code Review, a Stack Overflow community.  Get a review of your code.  Take a look at the beginners section.  "
+    },
+    {
+      "id": "3666",
+      "title": "Don’t Give Up",
+      "body": "Beat the learning curves."
+    },
+    {
+      "id": "3667",
+      "title": "Google Error Messages",
+      "body": "Your not the first person to usually have this problem.  Play around with what you Google.  Think about your true problem, the correct terminology, and the frameworks or context you are working in as you assemble your search queries.  Leave out filler words.  "
+    },
+    {
+      "id": "3668",
+      "title": "Visual Learner",
+      "body": "Use mind maps, videos, diagrams."
+    },
+    {
+      "id": "3669",
+      "title": "Diversity",
+      "body": "Take projects that will allow you to learn different parts of a language.  "
+    },
+    {
+      "id": "3670",
+      "title": "20 Minute Rule",
+      "body": "Take atleast 20 minutes to figure something out before you even think of asking for help.  Strengthening your problem solving skills is more important than your knowledge of languages."
+    },
+    {
+      "id": "3671",
+      "title": "Post Questions Online",
+      "body": "Take advantage of Stack Overflow or Reddit’s Programming.  Remember, there are sections just for beginners."
+    },
+    {
+      "id": "3672",
+      "title": "Debug",
+      "body": "Step through code to see how it works.  Open up the objects as the code is loading to understand what’s inside of them.  "
+    },
+    {
+      "id": "3673",
+      "title": "Don’t Stop Studying",
+      "body": "Spend time each day studyi"
+    },
+    {
+      "id": "3674",
+      "title": "Inspect Code",
+      "body": "Right click on pages and inspect how the code is compiled."
+    },
+    {
+      "id": "3675",
+      "title": "Official Docs",
+      "body": "Read the languages official docs and code while you are doing it so you can see how it works.  "
+    },
+    {
+      "id": "3676",
+      "title": "Compare Languages",
+      "body": "Look for things that look familiar and act the same, things that look familiar but do something unexpected, and things that look new.  "
+    },
+    {
+      "id": "3677",
+      "title": "Learn Theory",
+      "body": "Learn the lingo and jargon that occur in every language (loops, variables, methods, etc.)."
+    },
+    {
+      "id": "3678",
+      "title": "Build Something",
+      "body": "Jump in and build.  Quantity over quality when you’re first starting."
+    },
+    {
+      "id": "3679",
+      "title": "Learn Problem Solving",
+      "body": "Improve skills at pattern recognition, algorithms, and abstractions."
+    },
+    {
+      "id": "3680",
+      "title": "Coding Games",
+      "body": "Hour of Code, Minecraft Educational Edition, CodinGame.  "
+    },
+    {
+      "id": "3681",
+      "title": "Read a lot of code",
+      "body": "Go to GitHub and read a bunch of code.  This is the only way you will learn to code idiomatically."
+    },
+    {
+      "id": "3682",
+      "title": "Mentor",
+      "body": "Get a mentor that can help you.  Make sure to return the value to that person or pass it on."
+    },
+    {
+      "id": "3683",
+      "title": "Install Linting Tools",
+      "body": "Flags bugs, idiomatic offenses, style errors and more.  "
+    },
+    {
+      "id": "3684",
+      "title": "Create List of Questions",
+      "body": "Find an expert to answer your list once compiled."
+    },
+    {
+      "id": "3685",
+      "title": "Take a Breather",
+      "body": "Don’t forget to step away from your computer and let your brain retain information you learned and think of more efficient solutions to a problem."
+    },
+    {
+      "id": "3686",
+      "title": "Coding Video Channels",
+      "body": "CS Dojo, TheNetNinja, Kudvenkat, CS50, LinkedIn Learning’s video library."
+    },
+    {
+      "id": "3687",
+      "title": "Treat yourself",
+      "body": "Create positive reinforcements every time you hit a milestone.  "
+    },
+    {
+      "id": "3688",
+      "title": "Lookup Projects",
+      "body": "Create a project per language that has the fundamentals you can refer back to."
+    },
+    {
+      "id": "3689",
+      "title": "Reverse Engineer",
+      "body": "Clone someone else’s code and try to add onto it or make changes.  "
+    },
+    {
+      "id": "3690",
+      "title": "Free Online Courses",
+      "body": "Check out Harvard’s CS50X Intro to Computer Science course.  You can audit courses free via edX and watch lectures on YouTube.  "
+    },
+    {
+      "id": "3691",
+      "title": "Online Camps",
+      "body": "Check out FreeCodeCamp.  "
+    },
+    {
+      "id": "3692",
+      "title": "Technical Interview Preparation",
+      "body": "Check out Cracking the Coding Interview, LeetCode, Gainlo, Glassdoor."
+    },
+    {
+      "id": "3693",
+      "title": "Coding Academies",
+      "body": "Check out Codecademy, freeCodeCamp, edX, Codewars, GA Dash, MIT OpenCourseware, SoloLearn (mobile), The Code Player, Haskr.io, W3Schools, Microsoft Virtual Academy, Edabit, Launch School Open Book Shelf, LearnCode.academy, Css-Tricks, Lean Enough Command Line to Be Dangerous, Command Line Power User, Git Immersion, Try Git, Javascript for Cats, NodeSchool, Eloquent Javascript, Javascript.com, Cybrary, The Encyclopedia of Human Computer Interaction, UXPin, UX Beginner"
+    },
+    {
+      "id": "3694",
+      "title": "Clone Popular Sites",
+      "body": "Build imitation sites.  Start simple."
+    },
+    {
+      "id": "3695",
+      "title": "ng.  Use notecards or phone apps to study on the toilet, in the bath, while in waiting rooms.",
+      "body": ""
+    }
+  ]
+}
+

@@ -1,0 +1,556 @@
+{
+  "subject": "Agile Development Checklist",
+  "credit": "Agile Development Checklist",
+  "todos": [
+    {
+      "id": "255",
+      "title": "Update",
+      "body": "To update your sandbox by getting the latest changes from the repository."
+    },
+    {
+      "id": "256",
+      "title": "Horizontal Market Software",
+      "body": "Software built for many organizations across a wide range of industries."
+    },
+    {
+      "id": "257",
+      "title": "Tip or head",
+      "body": "Part of the repository that contains the latest changes that have been checked in.  When you update your sandbox you get the files at the tip.  "
+    },
+    {
+      "id": "258",
+      "title": "Good Office Equipment",
+      "body": "pairing stations, build machine, noise partitions, whiteboards, calendar, index cards, food.  "
+    },
+    {
+      "id": "259",
+      "title": "Definition of Success",
+      "body": "On-time, on budget, with all functions and features working as specified.  Remember you usually only get two out of the three.  Pick the two that are most important."
+    },
+    {
+      "id": "260",
+      "title": ".NET Testing Tools",
+      "body": "NUnit"
+    },
+    {
+      "id": "261",
+      "title": "Repository",
+      "body": "Master storage for all your files.  "
+    },
+    {
+      "id": "262",
+      "title": "Interruptions",
+      "body": "It takes a programmer 15 minutes to get back into flow after they have been interrupted.  Chunk time to communicate with each other (first ten minutes of each hour) to avoid distractions."
+    },
+    {
+      "id": "263",
+      "title": "Iteration",
+      "body": "Full cycle of design-code-verify-release."
+    },
+    {
+      "id": "264",
+      "title": "Unit Tests",
+      "body": "Focus just on the class or method at hand."
+    },
+    {
+      "id": "265",
+      "title": "Build Script",
+      "body": "Definition of how the code should be compiled."
+    },
+    {
+      "id": "266",
+      "title": "Retrospectives",
+      "body": "Debriefing past work to find the good and bad.  State that regardless of what we discover today, we understand and truly believe that everyone did the best job they could give their resources and information at hand.  Brainstorming what went well and what went wrong.  Put related cards together and separate unrelated cards.  Vote on the top priorities.  Discuss how to improve.  See traction IDS."
+    },
+    {
+      "id": "267",
+      "title": "Stop and Think",
+      "body": "Biggest gains in productivity come from stopping and thinking about what you are doing."
+    },
+    {
+      "id": "268",
+      "title": "Osmotic Communication",
+      "body": "Benefits from working together and overhearing each other’s conversations.  "
+    },
+    {
+      "id": "269",
+      "title": "Tests",
+      "body": "Write tests first."
+    },
+    {
+      "id": "270",
+      "title": "Prioritizing Stories",
+      "body": "Write all stories on an index card, programmers estimate time on the back of the card, customers prioritize which features should be completed first.  "
+    },
+    {
+      "id": "271",
+      "title": "Sandbox",
+      "body": "Working copy of code on the team members local machine, contains all files of repository from a specific point in time.  Is not shared."
+    },
+    {
+      "id": "272",
+      "title": "Student Syndrome",
+      "body": "Work is delayed until its deadline."
+    },
+    {
+      "id": "273",
+      "title": "Parkinson’s Law",
+      "body": "Work expands to fill the time available."
+    },
+    {
+      "id": "274",
+      "title": "Branch",
+      "body": "When you split the repository into distinct alternative histories.  You can edit files independently in on branch.  Avoid to many branches or code customization and keep them short lived.  "
+    },
+    {
+      "id": "275",
+      "title": "Shotgun Surgery",
+      "body": "When you have to modify multiple classes to change a single idea.  Merge and create a single home for the classes.  "
+    },
+    {
+      "id": "276",
+      "title": "Constraint Presentation",
+      "body": "When you cannot complete what the customer wants because of limitations of time, money or resources, give the customer two choices that are both doable and let them pick."
+    },
+    {
+      "id": "277",
+      "title": "Divergent Change",
+      "body": "When unrelated changes affect the same class.  Occurs when your class has too many concepts and needs to be split."
+    },
+    {
+      "id": "278",
+      "title": "Gaming",
+      "body": "When people get too focused on a number at the expense of overall progress.  "
+    },
+    {
+      "id": "279",
+      "title": "Time Dependency",
+      "body": "When a class’ methods must be called in a specific order.  "
+    },
+    {
+      "id": "280",
+      "title": "Daily Scrum",
+      "body": "What did I do yesterday, what will I do today, what problems are preventing me from making progress?  Should be 5-10 minutes."
+    },
+    {
+      "id": "281",
+      "title": "Promise to Investors",
+      "body": "We will make steady progress, finish the features you consider most valuable first, show you working software that reflects our progress every week, be honest and open with you about our success, challenges, and what we can reasonably provide."
+    },
+    {
+      "id": "282",
+      "title": "Speed Matters",
+      "body": "Users lose interest and switch tasks when a computer makes them wait for more than 10 seconds.  "
+    },
+    {
+      "id": "283",
+      "title": "Joint Responsibility",
+      "body": "Train the team to say us and we, not I or me."
+    },
+    {
+      "id": "284",
+      "title": "Courage",
+      "body": "To make the right decisions, even when they are difficult, and to tell stakeholder’s the truth when they need to hear it."
+    },
+    {
+      "id": "285",
+      "title": "Check Out",
+      "body": "To create a sandbox by checking out code from local repository."
+    },
+    {
+      "id": "286",
+      "title": "Hustle",
+      "body": "Things come to those that wait, but only the things left by those that hustle (A. Lincoln)."
+    },
+    {
+      "id": "287",
+      "title": "Velocity",
+      "body": "The number of story points you can complete in an iteration (usually one or two weeks, 5-10 working days).  The more technical debt you have, the slower your velocity will be.  Only count stories that are done done and never extend the iteration time.  "
+    },
+    {
+      "id": "288",
+      "title": "Source Code Length",
+      "body": "The more lines of code a program has the more defects it will have.  "
+    },
+    {
+      "id": "289",
+      "title": "Story Timing",
+      "body": "The first 90% takes 10% of the time and the last 10% takes 90% of the time."
+    },
+    {
+      "id": "290",
+      "title": "Cost Efficient Software",
+      "body": "The best way to reduce the cost of writing software is to improve the internal quality of the code and design.  "
+    },
+    {
+      "id": "291",
+      "title": "Customer Tests",
+      "body": "Tests to insure that tricky domain knowledge is working properly.  "
+    },
+    {
+      "id": "292",
+      "title": "Test Driven Development",
+      "body": "Testing, coding, design, and architecture that are all weaved together."
+    },
+    {
+      "id": "293",
+      "title": "Exploratory Testing",
+      "body": "Testing code in untested conditions.  Take good notes, test boundaries of data types or limitations, test none, some, all, test create, read, update, delete.  "
+    },
+    {
+      "id": "294",
+      "title": "Integration Test",
+      "body": "Test that talks to the outside world such as a database, or communicates across networks.  "
+    },
+    {
+      "id": "295",
+      "title": "Reading Groups",
+      "body": "Take turns reading sections of a book or an article out load and then discuss them.  "
+    },
+    {
+      "id": "296",
+      "title": "Mock Objects",
+      "body": "Substituting its own object for an object that talks to the outside world."
+    },
+    {
+      "id": "297",
+      "title": "Iteration Planning",
+      "body": "Structure for the teams daily activities.  Stop at predetermined, unchangeable time intervals to compare reality to plan.  "
+    },
+    {
+      "id": "298",
+      "title": "Vertical Market Software",
+      "body": "Software built for many organizations in one industry.  "
+    },
+    {
+      "id": "299",
+      "title": "Team Calendar",
+      "body": "Shows important dates, releases, iteration numbers, time off, etc."
+    },
+    {
+      "id": "300",
+      "title": "Testers & UI",
+      "body": "Should stay one step ahead of programmers."
+    },
+    {
+      "id": "301",
+      "title": "Timeboxing",
+      "body": "Setting aside a specific amount of time for an activity so that the team or team members focus on that activity and stop, regardless of the progress made."
+    },
+    {
+      "id": "302",
+      "title": "Stories",
+      "body": "Self-contained elements of the projects, correspond to individual features. Criteria for story  1. Can be completed in a week, usually half a day to 2.5 days, usually complete 2-5 per week per full-time person 2. Represents the customer value written in the customers’ terminology (customer-centric), not technical issues, 3. Describes the end result, not the implementation details, 4. Has clear completion criteria.  "
+    },
+    {
+      "id": "303",
+      "title": "Release Plan",
+      "body": "Scopeboxed defines the features and leaves release date uncertain, timeboxed plan defines the release date but leaves the features uncertain.  Timeboxed plans are better.  To see a timeboxed plan, set a release date, define minimum marketable features."
+    },
+    {
+      "id": "304",
+      "title": "Roll back",
+      "body": "Rolling back a check in to remove it from the tip of the repository.  "
+    },
+    {
+      "id": "305",
+      "title": "Release Planning",
+      "body": "roadmap for reaching you destination."
+    },
+    {
+      "id": "306",
+      "title": "Revert",
+      "body": "Revert your sandbox by throwing away changes and returning to the point of your last update.  Sometimes faster than debugging."
+    },
+    {
+      "id": "307",
+      "title": "Vision Planning",
+      "body": "Reveals where a project is going, why it is going there, and what success looks like.  Need a single vision. See page 202 of Agile Development."
+    },
+    {
+      "id": "308",
+      "title": "Avoid Overtime",
+      "body": "Reliance on overtime indicates systemic problems."
+    },
+    {
+      "id": "309",
+      "title": "Business Analyst",
+      "body": "Refines customer needs into functional software requirements."
+    },
+    {
+      "id": "310",
+      "title": "Test-Driven Development",
+      "body": "Rapid cycle of automated testing, coding, and refactoring.  Reduces the incidence of defects.  Allows you to quickly refactor and improve design while instantly making sure that everything is still working correctly.  "
+    },
+    {
+      "id": "311",
+      "title": "Requirement Storage",
+      "body": "Put into version control instead of wiki or database."
+    },
+    {
+      "id": "312",
+      "title": "Eat together",
+      "body": "Promote team unity by eating together.  "
+    },
+    {
+      "id": "313",
+      "title": "Pair Programming",
+      "body": "Programmers should pair together to increase quality, learning, velocity, etc.  Includes a driver (details and code syntax) and a navigator (big picture strategy and quality control).  Never assign partners, pairs should be fluid and shifting during the day."
+    },
+    {
+      "id": "314",
+      "title": "Speaking Language",
+      "body": "Programmers should adapt their language to the domain experts, not the other way around.  Use class names that the domain experts understand."
+    },
+    {
+      "id": "315",
+      "title": "Merge",
+      "body": "Process of combining multiple branches or changes and resolving any conflicts.  The second person to check in a file has to merge the first person’s changes."
+    },
+    {
+      "id": "316",
+      "title": "Lock",
+      "body": "Preventing anyone from editing a file but you."
+    },
+    {
+      "id": "317",
+      "title": "Root Cause Analysis",
+      "body": "Prevent mistakes by fixing process.  Ask why 5 times to fix the process.  "
+    },
+    {
+      "id": "318",
+      "title": "Improving Velocity",
+      "body": "Pay down technical debt, improve customer involvement, support energized work, offload non-programmer activities to other people, provide needed resources and tools for greater efficiency, pair programmers.  Be careful simply adding new programmer (read Mythical Man Month)."
+    },
+    {
+      "id": "319",
+      "title": "Done done",
+      "body": "Once you finish a story you should never have to come back to it.  Make stories small so you can get them done done in a week."
+    },
+    {
+      "id": "320",
+      "title": "No bugs",
+      "body": "No bugs."
+    },
+    {
+      "id": "321",
+      "title": "Performance Story/Acceptance Tests",
+      "body": "Need a customer valued goal, identifies how many operation should be completed in a given period of time, how much delay is acceptable between starting and completing a single operation, how much leeway is acceptable between starting an operation and getting feedback on that operation, acceptable performance, minimum satisfactory response, best possible performance, conditions under which story must perform.  "
+    },
+    {
+      "id": "322",
+      "title": "Usability Testing",
+      "body": "Monthly testing of software with users."
+    },
+    {
+      "id": "323",
+      "title": "Tag or label",
+      "body": "Marking a particular time in the history of the repository, allowing you to easily access it again."
+    },
+    {
+      "id": "324",
+      "title": "Demo Progress",
+      "body": "Make sure to demo your progress to team and stakeholders at least once a month."
+    },
+    {
+      "id": "325",
+      "title": "Product Manager",
+      "body": "Maintains and promotes the product vision."
+    },
+    {
+      "id": "326",
+      "title": "Technical Debt",
+      "body": "Less than perfect design that “works” but requires time to cleanup, refactor, debug, improve, etc.  Don’t forget to allocate time to pay down technical debt."
+    },
+    {
+      "id": "327",
+      "title": "Silver Stories",
+      "body": "Less important stories that the team can set aside if they need additional team.  Best practice is to instead work on technical debt instead of silver stories."
+    },
+    {
+      "id": "328",
+      "title": "Version control",
+      "body": "Keeping your source code in a single, authoritative place.  "
+    },
+    {
+      "id": "329",
+      "title": "Interaction Designers",
+      "body": "Judge product solely based on the quality of the user experience."
+    },
+    {
+      "id": "330",
+      "title": "Manifesto for Agile Development",
+      "body": "Individual interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, responding to change over following a plan.  "
+    },
+    {
+      "id": "331",
+      "title": "Practices for Clean Code",
+      "body": "Incremental requirements (get started before customers work out all details), customer tests (to help communicate tricky domain rules), test-driven development, refactoring, simple design, incremental design architecture, spike solutions, performance optimization (using data to drive optimization), exploratory testing (identifying gas in the team’s thought process).  "
+    },
+    {
+      "id": "332",
+      "title": "Mentorship",
+      "body": "Important to find good mentors."
+    },
+    {
+      "id": "333",
+      "title": "Creative Alternatives",
+      "body": "If stuff cannot be done in time find creative alternatives instead of trying to force the work."
+    },
+    {
+      "id": "334",
+      "title": "Release early, release often",
+      "body": "Helps with early cash flow, product feedback, etc."
+    },
+    {
+      "id": "335",
+      "title": "Programmer Coach",
+      "body": "Helps programmers with technical practices."
+    },
+    {
+      "id": "336",
+      "title": "Time Travel",
+      "body": "Going back in the repository to identify when a bug was introduced.  "
+    },
+    {
+      "id": "337",
+      "title": "Backlog",
+      "body": "Features that have not made the current sprint.  "
+    },
+    {
+      "id": "338",
+      "title": "Aggressive Deadlines",
+      "body": "Extend schedules rather than reducing them."
+    },
+    {
+      "id": "339",
+      "title": "Domain Experts",
+      "body": "Experts in their field."
+    },
+    {
+      "id": "340",
+      "title": "Planning Game",
+      "body": "Expertise of the whole team to create achievable plans."
+    },
+    {
+      "id": "341",
+      "title": "Theory of Constraints",
+      "body": "Every system has a single constraint that determines the overall throughput of the system."
+    },
+    {
+      "id": "342",
+      "title": "Dedicated Research Time",
+      "body": "Encourages learning and adds additional slack into your iteration.  "
+    },
+    {
+      "id": "343",
+      "title": "Risk Management Problems (& solutions)",
+      "body": "Employee turnover (positive cultures, promote good energy, no overtime, reasonable sprints, healthy environment, fair pay, company ownership), new requirements (prioritize tasks), time off (team calendar), work disruption (chunk communication, use slack, no popups), unknown technology (discover phase, spike solutions, mentors, community, slack), faulty technology (take care of technology, buy good equipment, slack), etc. Make sure to review all issues after a sprint to minimize future risks.  "
+    },
+    {
+      "id": "344",
+      "title": "Agile Principles",
+      "body": "Early and continuous release of software, welcome changes, business professionals and developers should work together, build around motivated individuals, face to face conversations, constant pace, attention to technical excellence and design, simplicity, self-organizing teams, reflection and debriefing."
+    },
+    {
+      "id": "345",
+      "title": "Big Visible Charts",
+      "body": "Display information so unambiguously that it can communicate even across the room.  "
+    },
+    {
+      "id": "346",
+      "title": "Coding Standards",
+      "body": "Development practices, tools, keybinding, IDE, file and directory layout, build conventions, error handling and assertions, approach to events and logging, design conventions, testing."
+    },
+    {
+      "id": "347",
+      "title": "Deploy",
+      "body": "Deploy something every week so that you can get quick feedback and adapt to customer response."
+    },
+    {
+      "id": "348",
+      "title": "Last Responsible Moment",
+      "body": "Delay decisions until the “moment at which failing to make a decision will cause harm or eliminates an important alternative.”  Delaying gives you time to increase the amount of information you have and increases the likelihood you make a correct decision.  "
+    },
+    {
+      "id": "349",
+      "title": "Batman",
+      "body": "Deals with organizational emergencies and support requests so the other programmers can focus on programming.  The batman does not work on stories or the iteration plan.  Rotate a new programmer into the batman role.  "
+    },
+    {
+      "id": "350",
+      "title": "Binary Chop",
+      "body": "Cutting the versions in half until you find the bug."
+    },
+    {
+      "id": "351",
+      "title": "On-site customers",
+      "body": "Customers that are made easily available when programmers have a question.  Ideally there should be two customers for every three programmers."
+    },
+    {
+      "id": "352",
+      "title": "Planning Game",
+      "body": "Customer defines features, programmers provide estimates, customer prioritizes features.  "
+    },
+    {
+      "id": "353",
+      "title": "Simple Code",
+      "body": "communicates what you want to communicate, no duplicate code, fewest possible classes, fewest possible methods, appropriate for the intended audience, every idea is communicated to the audience, refactored."
+    },
+    {
+      "id": "354",
+      "title": "Spike Solutions",
+      "body": "Code that is research based that you don’t plan to add to your source code.  Keep a separate spike directory in source code."
+    },
+    {
+      "id": "355",
+      "title": "Energized Work",
+      "body": "Clear goals, collective responsibility, go home on time, stay home when sick, healthy snacks, frequent breaks, exercise."
+    },
+    {
+      "id": "356",
+      "title": "CRC Cards",
+      "body": "Class, Responsibility, Collaborator"
+    },
+    {
+      "id": "357",
+      "title": "Check in-commit",
+      "body": "Checking in files from your sandbox to the repository."
+    },
+    {
+      "id": "358",
+      "title": "Refactoring",
+      "body": "Changing the structure of code without changing its behavior or output.  Refactor in smalls steps and use testing to insure that code behavior is not changed."
+    },
+    {
+      "id": "359",
+      "title": "Software cycle",
+      "body": "Analysis, design, coding, testing, deployment.  Occur simultaneously and rapidly in agile development."
+    },
+    {
+      "id": "360",
+      "title": "Kludge",
+      "body": "An ill assorted collection of parts or a hack to get something done."
+    },
+    {
+      "id": "361",
+      "title": "Concurrent Model",
+      "body": "Allows two people to edit the same file simultaneously and version control automatically merges their changes.  If two people edit the same code the version control prompt them to merge the two lines manually.  "
+    },
+    {
+      "id": "362",
+      "title": "Slack",
+      "body": "Allows the team padded time during an iteration to reliably deliver results every iteration.  "
+    },
+    {
+      "id": "363",
+      "title": "Iteration Demo",
+      "body": "Agile teams produce working software every week.  After demo ask is our work to date satisfactory, may we continue."
+    },
+    {
+      "id": "364",
+      "title": ".NET Build Tools;  NAnt, MSBuild.",
+      "body": ""
+    }
+  ]
+}

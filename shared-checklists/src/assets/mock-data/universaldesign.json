@@ -1,0 +1,377 @@
+{
+  "subject": "Universal Principals of Design Checklist",
+  "credit": "Universal Principals of Design Checklist",
+  "todos": [
+    {
+      "id": "6321",
+      "title": "Surface v. Deep Propositions",
+      "body": "Surface propositions are the perceivable and physical elements of a design, deep propositions are the underlying meaning of those elements.  Example Obama logo has a lot of hidden meaning which makes it a good logo.  "
+    },
+    {
+      "id": "6322",
+      "title": "Hierarchy",
+      "body": "Simplest structure for visualizing and understanding complexity.  Can be done with tree structures, nest structures, and stair structures.  "
+    },
+    {
+      "id": "6323",
+      "title": "NIH",
+      "body": "Not invented here.  Groups reject products not invented where they are from.  "
+    },
+    {
+      "id": "6324",
+      "title": "Others",
+      "body": "Mapping, Mental Model, Proximity, Readability, Serial Position, Similarity, Storytelling, Symmetry,"
+    },
+    {
+      "id": "6325",
+      "title": "Mnemonic Device",
+      "body": "Making it easier to remember something through first letters, keyword, rhyme, or imagery."
+    },
+    {
+      "id": "6326",
+      "title": "Waba Sabi",
+      "body": "Impermanence, imperfection, and incompleteness.  It is not sloppy but embodies imperfection and nature to achieve a deeper, more meaningful view.  "
+    },
+    {
+      "id": "6327",
+      "title": "Freeze–Flight-Fight-Forfeit",
+      "body": "Four responses to acute stress in humans.  "
+    },
+    {
+      "id": "6328",
+      "title": "80/20",
+      "body": "Eighty percent of product usage involves twenty percent of features."
+    },
+    {
+      "id": "6329",
+      "title": "Pen & Paper",
+      "body": "Always start designs with a pen a paper.  Go through multiple iterations before you put it on the screen.  "
+    },
+    {
+      "id": "6330",
+      "title": "Size of Committee",
+      "body": "Working groups should be three members and boards should be seven to twelve."
+    },
+    {
+      "id": "6331",
+      "title": "Red Effect",
+      "body": "Women wearing red are more attractive and men wearing red are more dominant."
+    },
+    {
+      "id": "6332",
+      "title": "Framing",
+      "body": "Use of words to manipulate how people think.  Ex the glass is half full v half empty.  "
+    },
+    {
+      "id": "6333",
+      "title": "Orientation sensitivity",
+      "body": "thirty degrees is the minimally noticed angle for humans.  "
+    },
+    {
+      "id": "6334",
+      "title": "Scarcity",
+      "body": "Things are desirable when there is exclusive information, limited access, limited time, limited number, suddenness."
+    },
+    {
+      "id": "6335",
+      "title": "Weakest Link",
+      "body": "The weakest element will fail in order to protect the other elements in the system.  "
+    },
+    {
+      "id": "6336",
+      "title": "Factor of Safety",
+      "body": "The use of elements beyond what is thought necessary to offset unknown facts and prevent system failure.  "
+    },
+    {
+      "id": "6337",
+      "title": "Hick’s Law",
+      "body": "The time it takes to make a decision increases as the number of alternatives increases."
+    },
+    {
+      "id": "6338",
+      "title": "Face-ism Ratio",
+      "body": "The more face to body that is shown in a picture, the more intellectual the person will look, the more body to face in a picture resembles sensual and physical attributes of the person.  "
+    },
+    {
+      "id": "6339",
+      "title": "Satisficing",
+      "body": "The best decisions are not always those that perfectly satisfy the optimal design but roughly satisfy it.  "
+    },
+    {
+      "id": "6340",
+      "title": "Veblen Effect",
+      "body": "Tendency to find a product desirable because it has a high price."
+    },
+    {
+      "id": "6341",
+      "title": "Convergence",
+      "body": "Similar characteristics and will evolve from independent systems in nature.  Ex hanglider design closely resembles a soaring bird or flying squirrel."
+    },
+    {
+      "id": "6342",
+      "title": "Nudging",
+      "body": "Setting intelligent defaults to nudge user to the intended behavior.  They have to take action to opt out.  "
+    },
+    {
+      "id": "6343",
+      "title": "Fibonacci Sequence",
+      "body": "Sequence of numbers, which the next is the sum of the preceding two.  Creates aesthetic designs..  "
+    },
+    {
+      "id": "6344",
+      "title": "Exposure Effect",
+      "body": "Repeated exposure to something which people have a neutral feeling with increase their likeability of the item."
+    },
+    {
+      "id": "6345",
+      "title": "Signal-to-Noise Ratio",
+      "body": "Removing unnecessary elements.  "
+    },
+    {
+      "id": "6346",
+      "title": "Picture Superiority",
+      "body": "Pictures are remembered more than words.  "
+    },
+    {
+      "id": "6347",
+      "title": "Baby Face Bias",
+      "body": "People with baby faces are seen as more naïve, helpless, and honest.  Use mature faces when expressing authority and expertise.  "
+    },
+    {
+      "id": "6348",
+      "title": "Sunk Cost",
+      "body": "People who invest time into something will continue to use the product even if it doesn’t make sense anymore.  Ex Aol free memberships got people to use the product and then they continued because they had already invested in it.  "
+    },
+    {
+      "id": "6349",
+      "title": "Savanna Preference",
+      "body": "People prefer open areas and some white space to dense areas or too much whitespace."
+    },
+    {
+      "id": "6350",
+      "title": "Most Average Facial Appearance Effect",
+      "body": "People prefer faces which are closest to their cultures average."
+    },
+    {
+      "id": "6351",
+      "title": "Prospect-Refuge",
+      "body": "People prefer an environment where there are good sightlines to see the surroundings but also areas of concealment and retreat.  See and be seen without seeing or being seen."
+    },
+    {
+      "id": "6352",
+      "title": "Threat Detection",
+      "body": "People notice things and pay greater attention when they detect a threat.  Fear mongering."
+    },
+    {
+      "id": "6353",
+      "title": "Entry Points",
+      "body": "People judge a book by its cover and an internet site by its first page.  Entry points should have minimal barriers and progressive lures to draw people in.  "
+    },
+    {
+      "id": "6354",
+      "title": "Golden Ration",
+      "body": "Natural ratio of 0.618."
+    },
+    {
+      "id": "6355",
+      "title": "Maya",
+      "body": "Most advanced yet acceptable design.  People want designs to be cutting edge but not so abstract or unique that they become estranged."
+    },
+    {
+      "id": "6356",
+      "title": "Progressive Disclosure",
+      "body": "Managing complexity by only showing necessary information and revealing more information as the user progresses forward.  Ex one search feature on Google with shopping, images, web options on next page."
+    },
+    {
+      "id": "6357",
+      "title": "Consistency",
+      "body": "Makes it more aesthetic for user."
+    },
+    {
+      "id": "6358",
+      "title": "Gutenburg diagram",
+      "body": "Main optical area for left to right readers is top left then bottom right, then top right, then bottom left."
+    },
+    {
+      "id": "6359",
+      "title": "Constraint",
+      "body": "Limiting the actions of the user to improve system performance."
+    },
+    {
+      "id": "6360",
+      "title": "Control",
+      "body": "Level of control of a system should be adaptable to user’s expertise."
+    },
+    {
+      "id": "6361",
+      "title": "Three dimensional projection",
+      "body": "Inferred by overlapping, size difference, elevation, linear perspective, texture gradient, shading, atmospheric perspective.  Use top down lighting versus uplighting.  Don’t make fake humans look too real."
+    },
+    {
+      "id": "6362",
+      "title": "Forgiveness",
+      "body": "Includes good affordances, constraints, safety nets, reversibility, undo-ability, confirmation of action, warnings, help."
+    },
+    {
+      "id": "6363",
+      "title": "Hunter v Nurturer",
+      "body": "Hunter (male) is object oriented, tools, fighting, predators, physical play.  Nurturer (female) is form and colors, facial expressions, nurturing, babies, verbal play.  "
+    },
+    {
+      "id": "6364",
+      "title": "Anthropomorphic Form",
+      "body": "Humans perceive certain patterns as humanlike and will be drawn to them.  Use feminine forms to elicit associations of sexuality and vitality, round forms for baby like associations, and angular forms for masculine/aggressive associations.  "
+    },
+    {
+      "id": "6365",
+      "title": "Cost Benefit",
+      "body": "How many steps is user willing to take to accomplish the action."
+    },
+    {
+      "id": "6366",
+      "title": "Visuospatial Resonance",
+      "body": "High spatial frequency images have strong crisp edges with little detail between.  They are easy to see up close but hard to comprehend from a distance.  Low spatial frequency images have blurry edges with lots of detail in between.  They are hard to comprehend up close but easy to comprehend from a distance.  "
+    },
+    {
+      "id": "6367",
+      "title": "Cathedral Effect",
+      "body": "High ceilings promote abstract thinking and creativity, low ceilings promote detail oriented thinking.  "
+    },
+    {
+      "id": "6368",
+      "title": "Depth of Processing",
+      "body": "Having to think hard about information will improve the likelihood of being able to recall it."
+    },
+    {
+      "id": "6369",
+      "title": "Expectation Effect",
+      "body": "Greatly influences perception and behavior."
+    },
+    {
+      "id": "6370",
+      "title": "Stickiness",
+      "body": "Getting an idea to stick by simplicity, surprise, concreteness, credibility, emotion, story."
+    },
+    {
+      "id": "6371",
+      "title": "Hierarchy of Needs",
+      "body": "Functionality, reliability, usability, proficiency, and creativity.  "
+    },
+    {
+      "id": "6372",
+      "title": "Five Hat Racks",
+      "body": "Five ways to organize information are category, time, location, alphabet, and continuum (highest to lowest, best to worst)."
+    },
+    {
+      "id": "6373",
+      "title": "Horror Vacui",
+      "body": "Fear of emptiness.  The more white space the more high end the product appears.  "
+    },
+    {
+      "id": "6374",
+      "title": "Scaling Fallacy",
+      "body": "Error in assuming that a system that works on one scale will work on another scale."
+    },
+    {
+      "id": "6375",
+      "title": "Biophilia Effect",
+      "body": "Environments rich in nature reduce stress and enhance focus and concentration."
+    },
+    {
+      "id": "6376",
+      "title": "Figure-Ground Relationship",
+      "body": "Elements are perceived as ether figures (objects of focus) or ground (rest of perceptual field).  When the composition is clearly distinguished, the relationship is stable and the figure will be better remembered.  "
+    },
+    {
+      "id": "6377",
+      "title": "Rule of Thirds",
+      "body": "Dividing a medium into thirds creates greater aesthetics."
+    },
+    {
+      "id": "6378",
+      "title": "Design by Committee",
+      "body": "Design by dictator is preferred for time-driven projects with straightforward requirements, consequences of error are tolerable, and stakeholder buy-in is unimportant.  Design by committee is preferred when projects are quality driven, complex, can be consequential, and buy in is important."
+    },
+    {
+      "id": "6379",
+      "title": "Inverted Pyramid",
+      "body": "Critical information should be presented first."
+    },
+    {
+      "id": "6380",
+      "title": "Personas",
+      "body": "Creation of profiles to help describe your major users."
+    },
+    {
+      "id": "6381",
+      "title": "Mimicry",
+      "body": "Copying familiar products in design.  "
+    },
+    {
+      "id": "6382",
+      "title": "Fitts Laws",
+      "body": "Control buttons and movable objects should be large and near each other when rapid movements and accuracy are important.  "
+    },
+    {
+      "id": "6383",
+      "title": "Shaping",
+      "body": "Complex behaviors that are difficult to teach are broken down into subbehaviors and taught one by one.  Salespeople shape by offering a prize to come to their location, providing food and drink, and then showing them how product works.  "
+    },
+    {
+      "id": "6384",
+      "title": "Defensible space",
+      "body": "Clearly marked territories around property to deter crime."
+    },
+    {
+      "id": "6385",
+      "title": "Highlighting",
+      "body": "Bringing attention to an area."
+    },
+    {
+      "id": "6386",
+      "title": "Form Follows Function",
+      "body": "Beauty results from purity of function with the absence of ornamentation."
+    },
+    {
+      "id": "6387",
+      "title": "Attractiveness Bias",
+      "body": "Attractive people are seen as more intelligent."
+    },
+    {
+      "id": "6388",
+      "title": "Archetype",
+      "body": "Associating products with commonly known myths, stories, or fairytales.  Ex Harley Davidson models brand with the outlaw archetype, Nike with the Greek goddess of victory."
+    },
+    {
+      "id": "6389",
+      "title": "Flexibility-Usability",
+      "body": "As the flexibility of a system increases, the usability decreases."
+    },
+    {
+      "id": "6390",
+      "title": "Contour Bias",
+      "body": "Angular objects grab attention but contour and round objects are better liked."
+    },
+    {
+      "id": "6391",
+      "title": "Area Alignment",
+      "body": "Align objects by their area weight and not by their edges or center.  Align quotes by edge of text, not quotation marks."
+    },
+    {
+      "id": "6392",
+      "title": "Aesthetics",
+      "body": "Aesthetic designs are perceived as easier to use and create a positive relationship with the user."
+    },
+    {
+      "id": "6393",
+      "title": "Closure",
+      "body": "A logo that includes recognizable elements does not have to have complete closed lines to be effective.  "
+    },
+    {
+      "id": "6394",
+      "title": "Colors.  Try to keep the number of colors to five or less.  Use warmer colors for foreground and cooler colors for background.  ",
+      "body": ""
+    }
+  ]
+}
+

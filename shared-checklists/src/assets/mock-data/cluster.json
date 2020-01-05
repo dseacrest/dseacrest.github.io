@@ -1,0 +1,107 @@
+{
+  "subject": "Cluster Analysis",
+  "credit": "Cluster Analysis",
+  "todos": [
+    {
+      "id": "752",
+      "title": "Bivariate",
+      "body": "Two variables."
+    },
+    {
+      "id": "753",
+      "title": "Multivariate",
+      "body": "Many variables."
+    },
+    {
+      "id": "754",
+      "title": "Principal Component Analysis",
+      "body": "When there are many variables, scatterplot matrixes must be adapted with a technique to preserve their multivariate structure.  PCA transforms the variables into uncorrelated variables for better visualizing in lower dimensional space."
+    },
+    {
+      "id": "755",
+      "title": "Scatterplot Matrix",
+      "body": "Symmetric grid of bivariate scatterplots.  Works well when there are not many variables."
+    },
+    {
+      "id": "756",
+      "title": "Clustering programs",
+      "body": "SPSS, Stata, R (cluster, clusterSim, proxy, daisy), SAS."
+    },
+    {
+      "id": "757",
+      "title": "Swadesh",
+      "body": "Set of most basic words that can be expanded into similar word groupings."
+    },
+    {
+      "id": "758",
+      "title": "Multidimensional Scaling",
+      "body": "Representing similarities or differences using  measure of distance."
+    },
+    {
+      "id": "759",
+      "title": "Patterns",
+      "body": "Humans are good at discerning subtle patterns but also imagining them (Carl Sagan).  "
+    },
+    {
+      "id": "760",
+      "title": "Mixed Mode Data",
+      "body": "Data with different measurement types (categorical, ordinal, continuous)."
+    },
+    {
+      "id": "761",
+      "title": "Average Linkage Clustering",
+      "body": ""
+    },
+    {
+      "id": "762",
+      "title": "Ward’s method",
+      "body": "In this method all possible pairs of clusters are combined and the sum of the squared distances within each cluster is calculated. This is then summed over all clusters. The combination that gives the lowest sum of squares is chosen. This method tends to produce clusters of approximately equal size, which is not always desirable. It is also quite sensitive to outliers. Despite this, it is one of the most popular methods, along with the average linkage method."
+    },
+    {
+      "id": "763",
+      "title": "Curse of Different Variable Type",
+      "body": "If variables are measured on different scales, variables with large values contribute more to the distance measure than variables with small values.  Need to standardize data."
+    },
+    {
+      "id": "764",
+      "title": "Types of Clustering",
+      "body": "Hierarchical, K-Means, Two-Step.  If you have a large data file (even 1,000 cases is large for clustering) or a mixture of continuous and categorical variables, you should use the SPSS two-step procedure. If you have a small data set and want to easily examine solutions with increasing numbers of clusters, you may want to use hierarchical clustering. If you know how many clusters you want and you have a moderately sized data set, you can use k-means clustering."
+    },
+    {
+      "id": "765",
+      "title": "Cluster v. Discriminant Analysis",
+      "body": "Although both cluster analysis and discriminant analysis classify objects (or cases) into categories, discriminant analysis requires you to know group membership for the cases used to derive the classification rule. The goal of cluster analysis is to identify the actual groups."
+    },
+    {
+      "id": "766",
+      "title": "Hierarchical Clustering",
+      "body": "Agglomerative methods, in which subjects start in their own separate cluster. The two ’closest’ (most similar) clusters are then combined and this is done repeatedly until all subjects are in one cluster. At the end, the optimum number of clusters is then chosen out of all cluster solutions.  Divisive methods, in which all subjects start in the same cluster and the above strategy is applied in reverse until every subject is in a separate cluster. Agglomerative methods are used more often than divisive methods, so this handout will concentrate on the former rather than the latter."
+    },
+    {
+      "id": "767",
+      "title": "Outliers",
+      "body": "K-means clustering is very sensitive to outliers, since they will usually be selected as initial cluster centers. This will result in outliers forming clusters with small numbers of cases. Before you start a cluster analysis, screen the data for outliers and remove them from the initial analysis."
+    },
+    {
+      "id": "768",
+      "title": "Data Types",
+      "body": "Interval, ordinal, categorical.  "
+    },
+    {
+      "id": "769",
+      "title": "Distance Measures",
+      "body": "Euclidean, Manhattan, and Canberra.  "
+    },
+    {
+      "id": "770",
+      "title": "Chaining",
+      "body": "Clusters end up being long and straggly.  "
+    },
+    {
+      "id": "771",
+      "title": "Irrelevant Variables",
+      "body": "Cluster analysis has no mechanism for differentiating between relevant and irrelevant variables.  Therefore the choice of variables included in a cluster analysis must be underpinned by conceptual considerations. This is very important because the clusters formed can be very dependent on the variables included."
+    }
+  ]
+}
+

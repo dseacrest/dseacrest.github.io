@@ -1,0 +1,57 @@
+{
+  "subject": "Sequoia Pitch Deck Checklist",
+  "credit": "Sequoia Pitch Deck Checklist",
+  "todos": [
+    {
+      "id": "5740",
+      "title": "Financials",
+      "body": "P&L, Balance Sheet, Cash Flow, Cap Table, The Deal."
+    },
+    {
+      "id": "5741",
+      "title": "Product",
+      "body": "Functionality, features, architecture, intellectual property, development roadmap."
+    },
+    {
+      "id": "5742",
+      "title": "Team",
+      "body": "Founders and management, board of directors, board of advisors."
+    },
+    {
+      "id": "5743",
+      "title": "Solution",
+      "body": "Company’s value proposition (how you make life better for customer), where product physically sits, provide use cases."
+    },
+    {
+      "id": "5744",
+      "title": "Why Now",
+      "body": "What has led breakthrough, historical evolution, recent trends."
+    },
+    {
+      "id": "5745",
+      "title": "Business Model",
+      "body": "Revenue model, pricing, average account size/lifetime value, sales and distribution models, customer pipeline."
+    },
+    {
+      "id": "5746",
+      "title": "Problem",
+      "body": "Pain of customer, how the customer addresses the problem today."
+    },
+    {
+      "id": "5747",
+      "title": "Competition",
+      "body": "List competitors, list competitive advantages."
+    },
+    {
+      "id": "5748",
+      "title": "Market Size",
+      "body": "Identify profile customer, calculate TAM (top-down), SAM (bottoms up), and SOM."
+    },
+    {
+      "id": "5749",
+      "title": "Company purpose",
+      "body": "Define the company in a single declarative sentence."
+    }
+  ]
+}
+

@@ -1,0 +1,81 @@
+{
+  "subject": "Customer Selection Checklist:",
+  "credit": "Customer Selection Checklist:",
+  "todos": [
+    {
+      "id": "1112",
+      "title": "Customer’s Purchasing Power",
+      "body": "What is customer’s annual revenue/net worth?"
+    },
+    {
+      "id": "1113",
+      "title": "Company Age",
+      "body": "Time in business?"
+    },
+    {
+      "id": "1114",
+      "title": "Payment",
+      "body": "Prompt payment history?"
+    },
+    {
+      "id": "1115",
+      "title": "Listening Power",
+      "body": "Is the customer willing to listen and take advice?"
+    },
+    {
+      "id": "1116",
+      "title": "Loyalty",
+      "body": "Customer loyalty.  "
+    },
+    {
+      "id": "1117",
+      "title": "Timing Work",
+      "body": "When does customer need project completed?  Are they patient?"
+    },
+    {
+      "id": "1118",
+      "title": "Gut",
+      "body": "What is their gut score (A, B, C, D, F)."
+    },
+    {
+      "id": "1119",
+      "title": "Growth",
+      "body": "Potential for customer to grow?"
+    },
+    {
+      "id": "1120",
+      "title": "Innovation",
+      "body": "How much of their business is making money from services from services or products introduced in the last five years.  "
+    },
+    {
+      "id": "1121",
+      "title": "Vulnerability",
+      "body": "How much are the clients willing to open up.  Is there a personal connection?"
+    },
+    {
+      "id": "1122",
+      "title": "Expectations",
+      "body": "Does the customer have reasonable expectations?"
+    },
+    {
+      "id": "1123",
+      "title": "Capital",
+      "body": "Are they well capitalized?"
+    },
+    {
+      "id": "1124",
+      "title": "Technical Competency",
+      "body": "Are they technically competent?"
+    },
+    {
+      "id": "1125",
+      "title": "Personality",
+      "body": "Are they enjoyable to work with?"
+    },
+    {
+      "id": "1126",
+      "title": "Referrals",
+      "body": "Actual referrals and potential for future referrals."
+    }
+  ]
+}

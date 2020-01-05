@@ -1,0 +1,262 @@
+{
+  "subject": "Marketing Analytics Checklist",
+  "credit": "Marketing Analytics Checklist",
+  "todos": [
+    {
+      "id": "4001",
+      "title": "Sensitivity Analysis",
+      "body": "Vary inputs and figure out what happens to the outputs.  Also referred to as stress testing."
+    },
+    {
+      "id": "4002",
+      "title": "Decision Tree",
+      "body": "Use to segment your markets."
+    },
+    {
+      "id": "4003",
+      "title": "Shaping Markets",
+      "body": "To make the market receptive to your product or service, often through independent third party recommendations (ex  consultant relationships, social media blogging).  Recommended to spend 8% of funds on this area for B2B."
+    },
+    {
+      "id": "4004",
+      "title": "Payback",
+      "body": "The time for a marketing investment to pay back the cost of the initiative."
+    },
+    {
+      "id": "4005",
+      "title": "Infrastructure",
+      "body": "Technology and training to support the marketing team (ex  CRM tech, EDW).  Recommended to spend 12% of funds on this area for B2B."
+    },
+    {
+      "id": "4006",
+      "title": "Profit",
+      "body": "Revenue less cost.  Competing on profit is normally a losing game unless you have exceptional supply chain management practices.  "
+    },
+    {
+      "id": "4007",
+      "title": "Internal Rate of Return (IRR)",
+      "body": "Rate that money is compounding internally to the campaign or program."
+    },
+    {
+      "id": "4008",
+      "title": "Churn",
+      "body": "Percentage of customers who signed up for your service and stopped purchasing your products or services, often measured in a year.  Growth rate is the number of new customers that have added your service during the year (Ex  Start with 100 users, lose 5 and add 10, your churn is 5%, growth rate is 10% and net growth is 5%).  You can also measure this in 30 or 90 day increments if you are a younger company."
+    },
+    {
+      "id": "4009",
+      "title": "Transaction Conversion Rate (TCR)",
+      "body": "Percentage of customers who purchase after clicking through your website.  "
+    },
+    {
+      "id": "4010",
+      "title": "Take Rate",
+      "body": "Percentage of customers that accept a marketing offer.  Calculate by dividing number of accepted offers by number of contracts.  "
+    },
+    {
+      "id": "4011",
+      "title": "Net Present Value (NPV)",
+      "body": "Net present value of an offer.  Profit is worth less now if you get it in the future."
+    },
+    {
+      "id": "4012",
+      "title": "Operational Metrics",
+      "body": "Metrics that measure the execution efficiency such as take rate, ad dollars spent, cost to serve, cost to acquire, etc."
+    },
+    {
+      "id": "4013",
+      "title": "Branding and Awareness",
+      "body": "Marketing activities to promote the company or product, not any specific offer.  Recommended to spend 11% of funds on this area for B2B."
+    },
+    {
+      "id": "4014",
+      "title": "Strategic Metrics",
+      "body": "Leading or forward metrics that help indicate the future condition.  Include brand awareness, CLTV, and customer satisfaction.  "
+    },
+    {
+      "id": "4015",
+      "title": "Test-Drive",
+      "body": "Customer tests, tries, or demos a product prior to purchasing it.  Track whether they tested product or service before using."
+    },
+    {
+      "id": "4016",
+      "title": "Customer Relationships",
+      "body": "Creating a personal link to the customer that driver loyalty and engagement (thank-you notes, loyalty programs, concierge service).  Recommended to spend 13% of funds on this area for B2B."
+    },
+    {
+      "id": "4017",
+      "title": "Cost Per Click (CPC)",
+      "body": "Cost per click on a sponsored search link or banner advertisement."
+    },
+    {
+      "id": "4018",
+      "title": "Tactical Metrics",
+      "body": "Backwards or lagging indicators that tell you what happened in the past.  Include sales, lead conversion."
+    },
+    {
+      "id": "4019",
+      "title": "Recall Question",
+      "body": "Asking users whether they’ve heard about you or your product and where they heard about you."
+    },
+    {
+      "id": "4020",
+      "title": "Brand Awareness",
+      "body": "Ability to recall or be aware of a product or service.  Ask for [product or service] what is the first [company or product] you think of?  Or for [product or service] what other [companies or products] have you heard of?  Should be initially tied to geography or segment of people."
+    },
+    {
+      "id": "4021",
+      "title": "Data Rule",
+      "body": "What is 20% of data that will give us 80% value."
+    },
+    {
+      "id": "4022",
+      "title": "All Customers Are Not Equal",
+      "body": "Treat your marketing to high value customers different than low value customers."
+    },
+    {
+      "id": "4023",
+      "title": "Relating to IT Department",
+      "body": "Treat it like going to your doctor.  Don’t pretend you know the solution.  Just mention the symptoms and what you are looking to achieve and let them figure out the right solution."
+    },
+    {
+      "id": "4024",
+      "title": "Base Case",
+      "body": "The past marketing data that you can use to compare the effectiveness of new campaigns."
+    },
+    {
+      "id": "4025",
+      "title": "Control Groups",
+      "body": "Test groups that you use to compare the results of changing variables."
+    },
+    {
+      "id": "4026",
+      "title": "Discount Rate",
+      "body": "Software companies typically look for a 18-20% return since they are more risky."
+    },
+    {
+      "id": "4027",
+      "title": "Customer Satisfaction",
+      "body": "See Net Promoter Score.  Ask how likely would you be to recommend [product, service, or company] to a friend or colleague?"
+    },
+    {
+      "id": "4028",
+      "title": "Frequent User Program",
+      "body": "Rewarding customers that use your product or service."
+    },
+    {
+      "id": "4029",
+      "title": "Word of Mouth/Social Media Reach (WOM)",
+      "body": "Number of direct clicks plus number of clicks from recommendations divided by number of direct clicks."
+    },
+    {
+      "id": "4030",
+      "title": "Return on Ad Dollars Spent (ROA)",
+      "body": "Net revenue/ad cost spent."
+    },
+    {
+      "id": "4031",
+      "title": "Demand Generation Marketing",
+      "body": "Marketing activities to drive revenue in a short period of time.  Recommended to spend 46% of funds on this area for B2B."
+    },
+    {
+      "id": "4032",
+      "title": "Custom Offer Pages",
+      "body": "Make offers and calls to action (CTA) specific for the event, audience, person (Ex  scoutsheet.com/1MillionCupsOffer or scoutsheet.com/John.Smith.  Use custom URLs to track."
+    },
+    {
+      "id": "4033",
+      "title": "Fail Fast",
+      "body": "Kill campaigns, channels and strategies that do not produce results.  Win big by increasing campaigns that show early results."
+    },
+    {
+      "id": "4034",
+      "title": "Scorecard Best Practices",
+      "body": "Keep to 4 or 5 metrics and no more than 10.  "
+    },
+    {
+      "id": "4035",
+      "title": "Scorecard",
+      "body": "It is important to track your data from day 1 so that you can have a base level to compare with your new marketing activities."
+    },
+    {
+      "id": "4036",
+      "title": "Recession",
+      "body": "Invest more in recessions."
+    },
+    {
+      "id": "4037",
+      "title": "Customer Lifetime Value (CLV/CLTV/LTV)",
+      "body": "Future value of a customer."
+    },
+    {
+      "id": "4038",
+      "title": "Brand Equity",
+      "body": "Estimated by subtracting all tangible assets of a firm from the market valuation of that firm.  A better approach is to survey to ask people how much more they would pay for a branded versus the equivalent nonbranded product and multiply that by the product sales."
+    },
+    {
+      "id": "4039",
+      "title": "EDW",
+      "body": "Enterprise data warehouse.  Stores data from all your sales and marketing activities.  "
+    },
+    {
+      "id": "4040",
+      "title": "Evaluative Marketing",
+      "body": "Drive customer purchase intent by enabling customers to compare different products or services.  "
+    },
+    {
+      "id": "4041",
+      "title": "Roadmap",
+      "body": "Define a roadmap for your marketing and data drive plans.  "
+    },
+    {
+      "id": "4042",
+      "title": "Bounce Rate",
+      "body": "Customer who leave your site spending less than a certain amount of time (now 30 sec)."
+    },
+    {
+      "id": "4043",
+      "title": "Acquisition Cost",
+      "body": "Cost per customer multiplied by number of contracts divided by number of accepted offers or cost per contact divided by take rate."
+    },
+    {
+      "id": "4044",
+      "title": "Resellers",
+      "body": "Contractually require them to share their data."
+    },
+    {
+      "id": "4045",
+      "title": "SEM Testing",
+      "body": "Best way is to do a rapid test, learn, and iterate approach.  Don’t delete old data.  Ad dollar should be spent proportionately across the assist click keywords."
+    },
+    {
+      "id": "4046",
+      "title": "End to End Tracking",
+      "body": "Being able to track a person from original source of marketing all the way through to customer success."
+    },
+    {
+      "id": "4047",
+      "title": "Social Media",
+      "body": "All internet content created by Internet users."
+    },
+    {
+      "id": "4048",
+      "title": "Cross Platform",
+      "body": "A way to track users switching from platform to platform is to gauge them on their brand awareness and where they came from."
+    },
+    {
+      "id": "4049",
+      "title": "Fifteen Essential Metrics for Marketing",
+      "body": ""
+    },
+    {
+      "id": "4050",
+      "title": "Marketing Activities Broken Down (5 buckets)",
+      "body": ""
+    },
+    {
+      "id": "4051",
+      "title": "Three Types of Scorecard Metrics",
+      "body": ""
+    }
+  ]
+}
+

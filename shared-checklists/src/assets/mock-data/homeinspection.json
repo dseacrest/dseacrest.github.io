@@ -1,0 +1,592 @@
+{
+  "subject": "HOME INSPECTION CHECKLIST",
+  "credit": "HOME INSPECTION CHECKLIST",
+  "todos": [
+    {
+      "id": "3150",
+      "title": "Additions",
+      "body": ""
+    },
+    {
+      "id": "3151",
+      "title": "Aluminum wiring in paneling",
+      "body": ""
+    },
+    {
+      "id": "3152",
+      "title": "Asbestos (6x6 tiles, pipe insulation)",
+      "body": ""
+    },
+    {
+      "id": "3153",
+      "title": "Attic vents",
+      "body": ""
+    },
+    {
+      "id": "3154",
+      "title": "Backflow preventer",
+      "body": ""
+    },
+    {
+      "id": "3155",
+      "title": "Bathrooms",
+      "body": ""
+    },
+    {
+      "id": "3156",
+      "title": "Bedrooms",
+      "body": ""
+    },
+    {
+      "id": "3157",
+      "title": "Block",
+      "body": ""
+    },
+    {
+      "id": "3158",
+      "title": "Busy roads",
+      "body": ""
+    },
+    {
+      "id": "3159",
+      "title": "Cable",
+      "body": ""
+    },
+    {
+      "id": "3160",
+      "title": "Carbon Monoxide",
+      "body": ""
+    },
+    {
+      "id": "3161",
+      "title": "Carpenter ants (look for dust piles)",
+      "body": ""
+    },
+    {
+      "id": "3162",
+      "title": "Carpet",
+      "body": ""
+    },
+    {
+      "id": "3163",
+      "title": "Chimney and flue",
+      "body": ""
+    },
+    {
+      "id": "3164",
+      "title": "Complexity of rooflines",
+      "body": ""
+    },
+    {
+      "id": "3165",
+      "title": "Concrete",
+      "body": ""
+    },
+    {
+      "id": "3166",
+      "title": "Condition",
+      "body": ""
+    },
+    {
+      "id": "3167",
+      "title": "Copper",
+      "body": ""
+    },
+    {
+      "id": "3168",
+      "title": "Cracking",
+      "body": ""
+    },
+    {
+      "id": "3169",
+      "title": "Double shingles",
+      "body": ""
+    },
+    {
+      "id": "3170",
+      "title": "Driveway",
+      "body": ""
+    },
+    {
+      "id": "3171",
+      "title": "Dryer",
+      "body": ""
+    },
+    {
+      "id": "3172",
+      "title": "Drywall",
+      "body": ""
+    },
+    {
+      "id": "3173",
+      "title": "Edging (caulk)",
+      "body": ""
+    },
+    {
+      "id": "3174",
+      "title": "ELECTRICAL",
+      "body": ""
+    },
+    {
+      "id": "3175",
+      "title": "Electricity",
+      "body": ""
+    },
+    {
+      "id": "3176",
+      "title": "ENVIRONMENTAL",
+      "body": ""
+    },
+    {
+      "id": "3177",
+      "title": "Even flooring",
+      "body": ""
+    },
+    {
+      "id": "3178",
+      "title": "EXTERIOR",
+      "body": ""
+    },
+    {
+      "id": "3179",
+      "title": "Exterior foundation inspection",
+      "body": ""
+    },
+    {
+      "id": "3180",
+      "title": "Fencing",
+      "body": ""
+    },
+    {
+      "id": "3181",
+      "title": "Flashing",
+      "body": ""
+    },
+    {
+      "id": "3182",
+      "title": "FLOORINIG",
+      "body": ""
+    },
+    {
+      "id": "3183",
+      "title": "Foundation",
+      "body": ""
+    },
+    {
+      "id": "3184",
+      "title": "Functioning drains",
+      "body": ""
+    },
+    {
+      "id": "3185",
+      "title": "Garage",
+      "body": ""
+    },
+    {
+      "id": "3186",
+      "title": "GENERAL",
+      "body": ""
+    },
+    {
+      "id": "3187",
+      "title": "GFCIs",
+      "body": ""
+    },
+    {
+      "id": "3188",
+      "title": "Gutters",
+      "body": ""
+    },
+    {
+      "id": "3189",
+      "title": "History",
+      "body": ""
+    },
+    {
+      "id": "3190",
+      "title": "Hot water heater",
+      "body": ""
+    },
+    {
+      "id": "3191",
+      "title": "HVAC",
+      "body": ""
+    },
+    {
+      "id": "3192",
+      "title": "HVAC and water heater drain",
+      "body": ""
+    },
+    {
+      "id": "3193",
+      "title": "HVAC vent riser (more vertical than horizontal)",
+      "body": ""
+    },
+    {
+      "id": "3194",
+      "title": "Insulation",
+      "body": ""
+    },
+    {
+      "id": "3195",
+      "title": "INTERIOR",
+      "body": ""
+    },
+    {
+      "id": "3196",
+      "title": "Internet",
+      "body": ""
+    },
+    {
+      "id": "3197",
+      "title": "Landscaping",
+      "body": ""
+    },
+    {
+      "id": "3198",
+      "title": "Lead",
+      "body": ""
+    },
+    {
+      "id": "3199",
+      "title": "LEGAL",
+      "body": ""
+    },
+    {
+      "id": "3200",
+      "title": "Location",
+      "body": ""
+    },
+    {
+      "id": "3201",
+      "title": "Masonry cap on chimney",
+      "body": ""
+    },
+    {
+      "id": "3202",
+      "title": "Mismatched roofing (additions)",
+      "body": ""
+    },
+    {
+      "id": "3203",
+      "title": "Mold",
+      "body": ""
+    },
+    {
+      "id": "3204",
+      "title": "Neighbors",
+      "body": ""
+    },
+    {
+      "id": "3205",
+      "title": "Noise",
+      "body": ""
+    },
+    {
+      "id": "3206",
+      "title": "Overhead wiring",
+      "body": ""
+    },
+    {
+      "id": "3207",
+      "title": "Panel clearance area per building code",
+      "body": ""
+    },
+    {
+      "id": "3208",
+      "title": "Pipe locations away from exterior wall (freezing)",
+      "body": ""
+    },
+    {
+      "id": "3209",
+      "title": "Plaster and lath",
+      "body": ""
+    },
+    {
+      "id": "3210",
+      "title": "PLUMBING",
+      "body": ""
+    },
+    {
+      "id": "3211",
+      "title": "Pressure",
+      "body": ""
+    },
+    {
+      "id": "3212",
+      "title": "Property lines",
+      "body": ""
+    },
+    {
+      "id": "3213",
+      "title": "Psychologically disturbed",
+      "body": ""
+    },
+    {
+      "id": "3214",
+      "title": "Radon (crawl spaces)",
+      "body": ""
+    },
+    {
+      "id": "3215",
+      "title": "Return",
+      "body": ""
+    },
+    {
+      "id": "3216",
+      "title": "Rodents",
+      "body": ""
+    },
+    {
+      "id": "3217",
+      "title": "ROOFING",
+      "body": ""
+    },
+    {
+      "id": "3218",
+      "title": "School district",
+      "body": ""
+    },
+    {
+      "id": "3219",
+      "title": "Schools",
+      "body": ""
+    },
+    {
+      "id": "3220",
+      "title": "Sealed junction boxes",
+      "body": ""
+    },
+    {
+      "id": "3221",
+      "title": "Seller motivation",
+      "body": ""
+    },
+    {
+      "id": "3222",
+      "title": "SELLING CHARACTERISTICS",
+      "body": ""
+    },
+    {
+      "id": "3223",
+      "title": "Settling",
+      "body": ""
+    },
+    {
+      "id": "3224",
+      "title": "Settling foundations",
+      "body": ""
+    },
+    {
+      "id": "3225",
+      "title": "Sewer backup",
+      "body": ""
+    },
+    {
+      "id": "3226",
+      "title": "Sewer vents",
+      "body": ""
+    },
+    {
+      "id": "3227",
+      "title": "Sexual predators",
+      "body": ""
+    },
+    {
+      "id": "3228",
+      "title": "Siding",
+      "body": ""
+    },
+    {
+      "id": "3229",
+      "title": "Size of panel (100,150,200)",
+      "body": ""
+    },
+    {
+      "id": "3230",
+      "title": "Slate",
+      "body": ""
+    },
+    {
+      "id": "3231",
+      "title": "Sloping yard for drainage",
+      "body": ""
+    },
+    {
+      "id": "3232",
+      "title": "Smoke and carbon monoxide detectors",
+      "body": ""
+    },
+    {
+      "id": "3233",
+      "title": "Sprinkler drainage system",
+      "body": ""
+    },
+    {
+      "id": "3234",
+      "title": "Sprinkler system",
+      "body": ""
+    },
+    {
+      "id": "3235",
+      "title": "Steel",
+      "body": ""
+    },
+    {
+      "id": "3236",
+      "title": "Storm windows",
+      "body": ""
+    },
+    {
+      "id": "3237",
+      "title": "Supply",
+      "body": ""
+    },
+    {
+      "id": "3238",
+      "title": "SURROUNDING ENVIRONMENT",
+      "body": ""
+    },
+    {
+      "id": "3239",
+      "title": "Surrounding home sales",
+      "body": ""
+    },
+    {
+      "id": "3240",
+      "title": "Surrounding property values",
+      "body": ""
+    },
+    {
+      "id": "3241",
+      "title": "Synthetic",
+      "body": ""
+    },
+    {
+      "id": "3242",
+      "title": "Tampering with sewer drain",
+      "body": ""
+    },
+    {
+      "id": "3243",
+      "title": "Telephone",
+      "body": ""
+    },
+    {
+      "id": "3244",
+      "title": "Termite holes drilled in exterior",
+      "body": ""
+    },
+    {
+      "id": "3245",
+      "title": "Termites",
+      "body": ""
+    },
+    {
+      "id": "3246",
+      "title": "Termites (mud tubes)",
+      "body": ""
+    },
+    {
+      "id": "3247",
+      "title": "Three phase",
+      "body": ""
+    },
+    {
+      "id": "3248",
+      "title": "Time on market",
+      "body": ""
+    },
+    {
+      "id": "3249",
+      "title": "Title",
+      "body": ""
+    },
+    {
+      "id": "3250",
+      "title": "Traffic",
+      "body": ""
+    },
+    {
+      "id": "3251",
+      "title": "Treated wood siding",
+      "body": ""
+    },
+    {
+      "id": "3252",
+      "title": "Tree health",
+      "body": ""
+    },
+    {
+      "id": "3253",
+      "title": "Trees growing near water main",
+      "body": ""
+    },
+    {
+      "id": "3254",
+      "title": "Underground cables",
+      "body": ""
+    },
+    {
+      "id": "3255",
+      "title": "Warranties",
+      "body": ""
+    },
+    {
+      "id": "3256",
+      "title": "Washer",
+      "body": ""
+    },
+    {
+      "id": "3257",
+      "title": "Water damage",
+      "body": ""
+    },
+    {
+      "id": "3258",
+      "title": "Water heater vent riser (more vertical than horizontal)",
+      "body": ""
+    },
+    {
+      "id": "3259",
+      "title": "Water main",
+      "body": ""
+    },
+    {
+      "id": "3260",
+      "title": "Water softener",
+      "body": ""
+    },
+    {
+      "id": "3261",
+      "title": "Whitefish",
+      "body": ""
+    },
+    {
+      "id": "3262",
+      "title": "Window type",
+      "body": ""
+    },
+    {
+      "id": "3263",
+      "title": "Wood",
+      "body": ""
+    },
+    {
+      "id": "3264",
+      "title": "Wood structure",
+      "body": ""
+    },
+    {
+      "id": "3265",
+      "title": "YEAR BUILT PROBLEMS",
+      "body": ""
+    },
+    {
+      "id": "3266",
+      "title": "Zoning",
+      "body": ""
+    }
+  ]
+}
+

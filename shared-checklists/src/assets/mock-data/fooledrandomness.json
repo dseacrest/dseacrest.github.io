@@ -1,0 +1,257 @@
+{
+  "subject": "Fooled by Randomness Checklist",
+  "credit": "Fooled by Randomness Checklist",
+  "todos": [
+    {
+      "id": "2512",
+      "title": "Skewness",
+      "body": "The Median is Not The Message.  Most markets don’t have asymmetry.  A person dying from cancer could have a predicted lifespan of 3 months and live 40 years.  Those wo die do so very early in the game and those who live last very long.  "
+    },
+    {
+      "id": "2513",
+      "title": "Schadenfreude",
+      "body": "The joy humans experience upon their rival’s misfortune."
+    },
+    {
+      "id": "2514",
+      "title": "Non-Luck",
+      "body": "Results attributed to skill"
+    },
+    {
+      "id": "2515",
+      "title": "Lucky Fool",
+      "body": "Person who benefited from a disproportionate share of luck but attributes his success to some other, generally very precise reason."
+    },
+    {
+      "id": "2516",
+      "title": "Determinism",
+      "body": "Non-randomness, a theory or doctrine that acts of the will (see WILL entry 2 sense 4a), occurrences in nature, or social or psychological phenomena are causally determined by preceding events or natural laws"
+    },
+    {
+      "id": "2517",
+      "title": "Charlatan",
+      "body": "Is a person practicing quackery or some similar confidence trick or deception in order to obtain money, fame or other advantages via some form of pretense or deception."
+    },
+    {
+      "id": "2518",
+      "title": "Table of Making Money",
+      "body": "How often you check your stocks to see if they are up or down in value..  "
+    },
+    {
+      "id": "2519",
+      "title": "Mentality of Failure",
+      "body": "Failure causes quitting (more failure), success causes creating or continuing (more chance of success).  "
+    },
+    {
+      "id": "2520",
+      "title": "Stochastic Process",
+      "body": "Dynamics of events unfolding with the course of time or the unfolding of successive random events.  Ex   Say you have a $1,000 to gamble at a casino starting at 7 pm.  By 8 pm you have $800, by 9 pm $1,400, by 10 pm $40, by 11 pm $1,100.  Are you a winner?  By how much?  If you had $1,400 and ended at $1,100 didn’t you lose money?  What’s the story and moments you are likely to share with others? Success and rate of returns depends a lot on what time you count your wealth.  "
+    },
+    {
+      "id": "2521",
+      "title": "Crisis Hunters",
+      "body": "Traders that lose money frequently but in small amounts and make money rarely but in large amounts.  "
+    },
+    {
+      "id": "2522",
+      "title": "Invest in older people",
+      "body": "They have been more exposed to the rare events of life."
+    },
+    {
+      "id": "2523",
+      "title": "Getting Married to Positions",
+      "body": "There is a saying that bad traders divorce their spouses sooner than abandon their positions.  "
+    },
+    {
+      "id": "2524",
+      "title": "Sandpile Effect, Chaos Theory, Butterfly Effect",
+      "body": "The world is unfair in a very non-linear way.  A very small single piece of sand can topple a very large sandcastle.  Was that sand extra powerful to cause the castle to fall or was it a larger series of events, right timing?"
+    },
+    {
+      "id": "2525",
+      "title": "Conditional Probability",
+      "body": "That probabilities are affected by other probabilities.  In the OJ Simpson case, a lawyer stated that only 10% of men who brutalize their wives go on to murder them.  However, the percent of cases where women were killed by their husband and had previously been battered by him were 50% (conditional probability).  "
+    },
+    {
+      "id": "2526",
+      "title": "Generator",
+      "body": "Public often observes the external signs of wealth without even having a glimpse at the source of how they accumulated this wealth.  "
+    },
+    {
+      "id": "2527",
+      "title": "Black Swan Problem",
+      "body": "No amount of observations of white swans (other than entire population) can allow the interference that there are no black swans.  But the observation of one black swan is able to refute the conclusion that there are no black swans.  Data should always be used to disprove a proposition, never to prove one. I can use history to refute a conjecture, never to confirm it."
+    },
+    {
+      "id": "2528",
+      "title": "Pecking Order",
+      "body": "Most people prefer to make $70,000 when others are making $60,000 than to make $80,000 when others are making $90,000."
+    },
+    {
+      "id": "2529",
+      "title": "Losing Money v Blowing Up",
+      "body": "Losing money is something good traders and business people are accustomed to doing.  Blowing up is when you lose more than you planned, your personal confidence is wiped out, and you can’t recover."
+    },
+    {
+      "id": "2530",
+      "title": "Probability",
+      "body": "Looking at a course of events played out a million times, what is the chance that the outcomes will be very similar (or narrow).  Take for instance someone who accumulates wealth as dentist versus someone who accumulates wealth winning the lottery."
+    },
+    {
+      "id": "2531",
+      "title": "Bull & Bearish",
+      "body": "Is it possible to predict that a market will go up but still be wise in recommending to  short the market.  It is if you think that the drop in the market could be unproportionate to the gain.  "
+    },
+    {
+      "id": "2532",
+      "title": "Survivorship Bias",
+      "body": "Is a millionaire who lives on fifth avenue surrounded by billionaires a failure even though he is better off than 99.5% of the rest of the population?  "
+    },
+    {
+      "id": "2533",
+      "title": "Monkeys on Typewriters",
+      "body": "If you put enough monkeys on a typewriter and have them just hitting the keys, you will eventually have one that types a perfect copy of The Iliad.  "
+    },
+    {
+      "id": "2534",
+      "title": "Russian Roulette",
+      "body": "If one person plays Russian roulette once a year, there is not much likelihood that they would reach their 25th birthday.  But if you have thousands play the game, their will be several that reach their 75th.    "
+    },
+    {
+      "id": "2535",
+      "title": "Biases",
+      "body": "If a roulette table is poorly constructed and favors red, it has a bias."
+    },
+    {
+      "id": "2536",
+      "title": "Data Snooping",
+      "body": "Fitting a rule on the data you have.  As time progresses, rules that happen to perform well in the past will receive more attention.  Just because the rule worked in the past does not mean it will work in the future.   "
+    },
+    {
+      "id": "2537",
+      "title": "Mean, Expectation",
+      "body": "Expectation equals sum of the probabilities times the outcomes.  "
+    },
+    {
+      "id": "2538",
+      "title": "Reverse Turing Test",
+      "body": "Can a human be considered unintelligent if we can replicate his speech by a computer."
+    },
+    {
+      "id": "2539",
+      "title": "George Soros",
+      "body": "Based on statistics and just plain luck, half of you will be gone next year."
+    },
+    {
+      "id": "2540",
+      "title": "Tendency to Change Story",
+      "body": "Bad traders have a tendency to “invest for the long haul” when they are losing money.  "
+    },
+    {
+      "id": "2541",
+      "title": "Plan",
+      "body": "Bad traders don’t have a game plan in the event of losses."
+    },
+    {
+      "id": "2542",
+      "title": "Leadership ability",
+      "body": "An increase in personal performance regardless of randomness or determinism causes a rise in serotonin (confidence) in the subject."
+    },
+    {
+      "id": "2543",
+      "title": "Path Dependent Outcomes, Network Effect, Network Externalities",
+      "body": "Actors become known by some parts of the public simply because they are known by other parts of the public.  We still use an inefficient typing keyboard Qwerty because people were trained on it long time ago and they don’t want to invest in switching and computer manufactures don’t want to have to produce multiple layouts.  "
+    },
+    {
+      "id": "2544",
+      "title": "Open Society",
+      "body": "A society in which no permanent truth can be held to exist.  "
+    },
+    {
+      "id": "2545",
+      "title": "Non-linear nudge",
+      "body": "A donkey is equal distance from water.  If he was equally thirsty and hungry he would die because he could not decide which to get first.    However if someone gave him a nudge one way he would then satisfy both hunger and thirst.  Many times we are randomly nudged in one way or another (using a coin, or other’s random past experiences)."
+    },
+    {
+      "id": "2546",
+      "title": "Wealth Above or Below",
+      "body": "A billionaire could lose most of his wealth, leaving him only with a million dollars.  He would be ruined in his mind yet he would still be richer than 99.9% of inhabitants on our planet.  There is a huge difference between wealth reach from above and wealth reach from below."
+    },
+    {
+      "id": "2547",
+      "title": "“The wise man listens to the meaning; the fool only gets the noise.”",
+      "body": ""
+    },
+    {
+      "id": "2548",
+      "title": "A test of a disease presents 5% false positives.  The disease strikes 1/1,000 of population.  A patients test is positive.  What is the probability they have been stricken with the disease?  Most people would say 95% given the tests accuracy.  If you combine the probability of 1/1,000 of population getting the disease the conditional probability of having the disease drops to 2%.  At birth your unconditional life expectancy is 73 years.  Once you have reached 80 you don’t have a negative life expectancy.  Your life expectancy is conditional so it increase as you outlive others.",
+      "body": ""
+    },
+    {
+      "id": "2549",
+      "title": "Absence of Critical thinking or denial to what happened.  ",
+      "body": ""
+    },
+    {
+      "id": "2550",
+      "title": "Are the wealthiest likely to be found among the less suspected to be wealthy.  Do those who act and look wealthy subject their net worth to such a drain that is irreversible.  Is becoming rich a moral achievement?",
+      "body": ""
+    },
+    {
+      "id": "2551",
+      "title": "Can past performance predict future performance?  ",
+      "body": ""
+    },
+    {
+      "id": "2552",
+      "title": "Can we judge the success of someone by their raw performance and their personal wealth?",
+      "body": ""
+    },
+    {
+      "id": "2553",
+      "title": "Do some trades require more luck than other?  How does deliberate practice (consistent repetition of a single skill) affect randomness and luck?  ",
+      "body": ""
+    },
+    {
+      "id": "2554",
+      "title": "I’m expected to lose 10 cents or $.10 in this game.  There is such a big gap in the outcomes that the results of each series of events could be drastically different but over time I would end up losing.  Most events are like this.  There is not perfect symmetry like winning or losing a dollar in a coin toss (Bell Curve).  ",
+      "body": ""
+    },
+    {
+      "id": "2555",
+      "title": "Independence.  Say you are playing the same game but you replace the balls after you draw them.  Your next draw does not depend on past outcomes and your probability remains the same.",
+      "body": ""
+    },
+    {
+      "id": "2556",
+      "title": "It is not just how likely an event is to happen that matters, it is how much is made when it happens that should be in consideration.  It is best to benefit from rare events or skewed bets that do not tend to repeat themselves frequently but when they do, have a large payoff.  In the market, shorts usually have a higher payoff than options.  ",
+      "body": ""
+    },
+    {
+      "id": "2557",
+      "title": "Sampling Without Replacement.  If you are drawing red balls from a hat with red and black balls and there are 50/50 in the hat.  Your luck in getting a red ball will be increased as you remove black balls from the hat without replacing either balls.  Thus the probability of winning increases after past losses.",
+      "body": ""
+    },
+    {
+      "id": "2558",
+      "title": "Table of Confusion",
+      "body": ""
+    },
+    {
+      "id": "2559",
+      "title": "The more frequently you monitor performance and success, the more you are going to either see failure or noise (randomness).  People who look too often, burn out, with their emotions drained by the series of pangs their experience.  They don’t cancel out either.  A negative pang has a 2.5 greater effect on emotions than a positive effect.  ",
+      "body": ""
+    },
+    {
+      "id": "2560",
+      "title": "Volatility can actually help some bad investment decisions.",
+      "body": ""
+    },
+    {
+      "id": "2561",
+      "title": "When journalists study patterns in successful people, do they consider all the other people with the same background that tried the same thing and failed?",
+      "body": ""
+    }
+  ]
+}
+

@@ -1,0 +1,242 @@
+{
+  "subject": "COMPETING ON ANALYTICS",
+  "credit": "COMPETING ON ANALYTICS",
+  "todos": [
+    {
+      "id": "839",
+      "title": "Data Mining",
+      "body": "Using large information sources such as the internet to extract relevant data.  "
+    },
+    {
+      "id": "840",
+      "title": "Constraint Analysis",
+      "body": "Using constraints to test feasible solutions."
+    },
+    {
+      "id": "841",
+      "title": "Conjoint Analysis",
+      "body": "Used to determine the main factors (such as price, time, quality) for a purchase."
+    },
+    {
+      "id": "842",
+      "title": "Chi-Square Automatic Interaction Detection",
+      "body": "Segments customers based on creating a tree based on statistically significant variables and continuing that tree.  "
+    },
+    {
+      "id": "843",
+      "title": "Bayesian Inference",
+      "body": "Predicting revenues.  "
+    },
+    {
+      "id": "844",
+      "title": "Swarm Intelligence",
+      "body": "Observance of complex societies to create real-world simulations to understand system behavior."
+    },
+    {
+      "id": "845",
+      "title": "Online Analytical Processors (OLAP)",
+      "body": "Multidimensional array-based problem solving tools (spreadsheets with up to seven dimensions).  Work with Data Cubes.  Business Objects and Cognos are among the leading vendors in this category.  "
+    },
+    {
+      "id": "846",
+      "title": "Face-to-Face Meetings",
+      "body": "Meeting with clients and competitors and listening to their problems, projects, etc."
+    },
+    {
+      "id": "847",
+      "title": "Rational Expectations",
+      "body": "It is difficult to profit from widely anticipated or predictable, events, since rational actors would already have taken the actin necessary to arbitrage any such opportunities."
+    },
+    {
+      "id": "848",
+      "title": "Multiple Regression Analysis",
+      "body": "How one variable affects another variable."
+    },
+    {
+      "id": "849",
+      "title": "Optimization",
+      "body": "Determining the efficient allocation of limited resources.  "
+    },
+    {
+      "id": "850",
+      "title": "Monte-Carlo",
+      "body": "Assess the probability of certain outcomes or risks.  "
+    },
+    {
+      "id": "851",
+      "title": "Analytical Competitors",
+      "body": "Anheuser-Busch, Mars, P&G, CEMEX, John Deer, Spring, O2, Bouygues Telecom, Barclays Bank, Capital One, Royal Bank of Canada, Progress Casualty, WellPoint, AstraZeneca, Solvay, Vertex, FedEx, Schneider National, UPS, Harrah’s Entertainment, Marriott, Amazon, JCPenny, Wal-Mart, Google, Netflix, Yahoo!"
+    },
+    {
+      "id": "852",
+      "title": "Decision Support Systems",
+      "body": "Analytical systems that provide insight to re-occurring business decisions.  Key personnel should always have the power to override the decision if they have sound reason that wouldn’t have been factored into the analytical work."
+    },
+    {
+      "id": "853",
+      "title": "Textual Analysis",
+      "body": "Analysis of the frequency, semantic relationship, and relative importance of terms, phrases, and documents in online text."
+    },
+    {
+      "id": "854",
+      "title": "Activity Based Costing",
+      "body": "Allocating costs by different objects of the business."
+    },
+    {
+      "id": "855",
+      "title": "Biggest Challenges",
+      "body": "What are the biggest challenges your firm will face.  How can you collect data so that you can have greater information and compete better than your competitors."
+    },
+    {
+      "id": "856",
+      "title": "Demand-Supply Matching",
+      "body": "Ways to insure that supply will equal demand and the point of shipment.  "
+    },
+    {
+      "id": "857",
+      "title": "Experimental Design – A/B Testing",
+      "body": "Using two groups to test two different variations of an object to see which is preferred.  "
+    },
+    {
+      "id": "858",
+      "title": "Dashboards/Scorecards",
+      "body": "Used to keep track of certain metrics in a company."
+    },
+    {
+      "id": "859",
+      "title": "Lifetime Value Analysis",
+      "body": "Used to assess the profitability of a customer."
+    },
+    {
+      "id": "860",
+      "title": "Modeling",
+      "body": "Tool to help simulate events."
+    },
+    {
+      "id": "861",
+      "title": "Neural Network Analysis",
+      "body": "System is trained until it can identify one object from another object."
+    },
+    {
+      "id": "862",
+      "title": "Successful Analytics Strategy",
+      "body": "should be hard to duplicate, unique, adaptable to many situations, better than the competition, renewable.  "
+    },
+    {
+      "id": "863",
+      "title": "Surveying",
+      "body": "Sending humans out to collect data manually."
+    },
+    {
+      "id": "864",
+      "title": "Last Step Data Collection",
+      "body": "Require customers, employees, or vendors to answer data analysis question immediately prior to receiving their payment or product.  "
+    },
+    {
+      "id": "865",
+      "title": "Throttling",
+      "body": "Regulating the flow of traffic or service, which may be unfair to customer but provides economic value to company.  Ex   Netflix prioritizes shipping to infrequent customers because they are more likely to terminate service than frequent customers.  "
+    },
+    {
+      "id": "866",
+      "title": "Source Mining",
+      "body": "Reading books, websites, and articles and extracting sources to gain additional insight."
+    },
+    {
+      "id": "867",
+      "title": "Market Experiments",
+      "body": "Reaching out to customers via different channels and assessing which channel gains the most response."
+    },
+    {
+      "id": "868",
+      "title": "Public Enemies",
+      "body": "Perfect competition and perfect information are a business’s greatest enemies.  Look for industries, firms, and products that are tough to replicate and gather information."
+    },
+    {
+      "id": "869",
+      "title": "Location Analysis",
+      "body": "Optimization of locations for stores, distribution centers, manufacturing, office, etc."
+    },
+    {
+      "id": "870",
+      "title": "Strategic Focus",
+      "body": "Most organizations focus on one or two areas for analytical competition.  "
+    },
+    {
+      "id": "871",
+      "title": "Graph Modeling/Clustering",
+      "body": "Mapping the relationships among objects.  "
+    },
+    {
+      "id": "872",
+      "title": "Touch Point Management",
+      "body": "Making sure you reach out to customers and employees in a way that provide them the most value in the least annoying way.  "
+    },
+    {
+      "id": "873",
+      "title": "Chief Objection to Analytics",
+      "body": "Lack of understanding on what it can do and the difficulty to implement the systems.  "
+    },
+    {
+      "id": "874",
+      "title": "Shadowing",
+      "body": "Inserting yourself into your customers or competitors lives to see how they do things and what their real problems are.  "
+    },
+    {
+      "id": "875",
+      "title": "Capacity Planning",
+      "body": "Identifying capacity and bottlenecks of an operation."
+    },
+    {
+      "id": "876",
+      "title": "Implementing Analytics",
+      "body": "Identify the questions you would want to know in order to best grow and develop your company, then institute programs and collect data to answer those questions."
+    },
+    {
+      "id": "877",
+      "title": "Time Series Experiments",
+      "body": "Follows a population for a period of time to determine how a variable affected them."
+    },
+    {
+      "id": "878",
+      "title": "Skimming the Cream off the Garbage",
+      "body": "Finding the profitable clients in a mess of risky customers.  "
+    },
+    {
+      "id": "879",
+      "title": "Routing",
+      "body": "Finding the best path for transporation."
+    },
+    {
+      "id": "880",
+      "title": "Customer Goal",
+      "body": "Data analysis should enable companies to discover, target, and serve the most profitable customers while leaving the less profitable customers to their competition.  "
+    },
+    {
+      "id": "881",
+      "title": "Data is Not Always Numbers",
+      "body": "Data analysis doesn’t just apply to numbers and spreadsheets.  Data is any type of quantative or qualitive information to benefit your business."
+    },
+    {
+      "id": "882",
+      "title": "Scheduling",
+      "body": "Creating the best flow of resources for work.  "
+    },
+    {
+      "id": "883",
+      "title": "Successful Traits of Analytical Companies",
+      "body": "clear and consistent strategy, enterprise wide, adopted by senior management, company made a serious commitment/gamble on analytical approached business."
+    },
+    {
+      "id": "884",
+      "title": "Spreadsheets",
+      "body": "20% of spreadsheets have errors and 5% of cells are incorrect."
+    },
+    {
+      "id": "885",
+      "title": "Pitfalls of Analytical Competition",
+      "body": "1.Focusing too much on one dimension of analytics (ex  only using technology), 2. Attempting to do everything at once, 3. Investing in analytics that don’t drive business goals, 4. Investing too little in analytics, 5. Choosing the wrong problem, 6. Automated decision applications without careful supervision and human oversight."
+    }
+  ]
+}
+

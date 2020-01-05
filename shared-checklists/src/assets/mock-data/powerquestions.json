@@ -1,0 +1,397 @@
+{
+  "subject": "Power Questions",
+  "credit": "Power Questions",
+  "todos": [
+    {
+      "id": "4983",
+      "title": "Difficult Question",
+      "body": "What is the most difficult question you have ever been asked?  "
+    },
+    {
+      "id": "4984",
+      "title": "Future",
+      "body": "What gets you excited about the future?"
+    },
+    {
+      "id": "4985",
+      "title": "Meeting",
+      "body": "Can we do this in thirty minutes?"
+    },
+    {
+      "id": "4986",
+      "title": "Awareness",
+      "body": "Your bias and prejudices will blind you.  Women often make decision about new car to buy but men often target sales to men.  "
+    },
+    {
+      "id": "4987",
+      "title": "Trust Answer",
+      "body": "You want to hire us because of our expertise, experience, efficiency, and reputation in the marketplace."
+    },
+    {
+      "id": "4988",
+      "title": "CEO Intake",
+      "body": "You don’t communicate with CEOs with 100 slides, they digest information in short, concentrated bits.  Top executives are not interested in methodology, they want to know if they can trust you.  "
+    },
+    {
+      "id": "4989",
+      "title": "Start End",
+      "body": "You can tell what kind of day it is going to be from the morning."
+    },
+    {
+      "id": "4990",
+      "title": "Plus minus exercise",
+      "body": "Writing pros and cons on each side of a piece of paper and asking what do you fell is the right decision for you."
+    },
+    {
+      "id": "4991",
+      "title": "Personal Interest",
+      "body": "Why do you do what you do?  What in your life has given you the greatest satisfaction?"
+    },
+    {
+      "id": "4992",
+      "title": "Customers",
+      "body": "Who would you say your most valuable customer is?"
+    },
+    {
+      "id": "4993",
+      "title": "Mentors",
+      "body": "Who have been influential role models to you?  "
+    },
+    {
+      "id": "4994",
+      "title": "Complaints",
+      "body": "When your customers complain what do they say?"
+    },
+    {
+      "id": "4995",
+      "title": "Clarity/Brevity",
+      "body": "What’s your question?"
+    },
+    {
+      "id": "4996",
+      "title": "Focus",
+      "body": "What’s the most important thing we should be discussing this morning?"
+    },
+    {
+      "id": "4997",
+      "title": "Follow-Up",
+      "body": "What would be a helpful follow up to this meeting?"
+    },
+    {
+      "id": "4998",
+      "title": "Parents",
+      "body": "What were your parents like?"
+    },
+    {
+      "id": "4999",
+      "title": "Follow Up",
+      "body": "What should I be doing more of?  Less of?  What have I done that has been most helpful to you."
+    },
+    {
+      "id": "5000",
+      "title": "Time",
+      "body": "What parts of your job do you wish you could spend more time on, and what things do you wish you could do less of?  What are the most enjoyable parts of your job?"
+    },
+    {
+      "id": "5001",
+      "title": "Buyer trust",
+      "body": "What other solutions are you looking at?  How do you feel about our capabilities in this area?  What concerns do you have about our approach?"
+    },
+    {
+      "id": "5002",
+      "title": "Buyer trust",
+      "body": "What other solutions are you looking at?  "
+    },
+    {
+      "id": "5003",
+      "title": "Appreciation",
+      "body": "What made this day special to you?"
+    },
+    {
+      "id": "5004",
+      "title": "Cliché Questions - Don’t Ask",
+      "body": "What keeps you up at night?  What has surprised you?  What questions haven’t I asked.  Make sure you research client and ask questions that really focus in on their problems."
+    },
+    {
+      "id": "5005",
+      "title": "Mission",
+      "body": "What is your mission?  How will this further your mission and goals?"
+    },
+    {
+      "id": "5006",
+      "title": "Mission",
+      "body": "What is your mission?  "
+    },
+    {
+      "id": "5007",
+      "title": "Is there a problem they have worth solving",
+      "body": "What is this costing you right now?  If you don’t fix this what are the consequences?  What do you think this is worth?  How much time are you spending on this?  Is this a high priority for you?"
+    },
+    {
+      "id": "5008",
+      "title": "Is there a problem they have worth solving",
+      "body": "What is this costing you right now?"
+    },
+    {
+      "id": "5009",
+      "title": "Feedback",
+      "body": "What ideas would you have to help grow our organization?"
+    },
+    {
+      "id": "5010",
+      "title": "Reaction",
+      "body": "What do you think?"
+    },
+    {
+      "id": "5011",
+      "title": "Assumptions",
+      "body": "What do you know already about us?"
+    },
+    {
+      "id": "5012",
+      "title": "Debrief",
+      "body": "What did you learn from that experience?"
+    },
+    {
+      "id": "5013",
+      "title": "Decisiveness",
+      "body": "What decisions have we made today?  What decisions do we need to make?"
+    },
+    {
+      "id": "5014",
+      "title": "Support",
+      "body": "What can I do to support you as you pursue your goals?"
+    },
+    {
+      "id": "5015",
+      "title": "Business",
+      "body": "What business are you really in and what do your customers value most.  "
+    },
+    {
+      "id": "5016",
+      "title": "Work Activities",
+      "body": "What activities take up most of your time at work?"
+    },
+    {
+      "id": "5017",
+      "title": "Focus",
+      "body": "Well what would you like to know about us?  What would you like to focus on?  "
+    },
+    {
+      "id": "5018",
+      "title": "Off to the wrong start",
+      "body": "Walk out of the room, come back and say do you mind if we start over?"
+    },
+    {
+      "id": "5019",
+      "title": "Jesus",
+      "body": "Used counter questions to fight off persecutors?  Will you give me a drink?  Who do you say I am?  How do you see me as a leader?"
+    },
+    {
+      "id": "5020",
+      "title": "Care",
+      "body": "Until people believe you care, they won’t fully engage with you.  Make them believe you care through the little things.  "
+    },
+    {
+      "id": "5021",
+      "title": "Humility",
+      "body": "To discover truth you must become as humble as the dust, you must believe you can learn from everything you encounter."
+    },
+    {
+      "id": "5022",
+      "title": "Preparation",
+      "body": "There is no substitute for a genuine lack of preparation."
+    },
+    {
+      "id": "5023",
+      "title": "Books",
+      "body": "Tell me a book you would recommend."
+    },
+    {
+      "id": "5024",
+      "title": "Gorilla Dust",
+      "body": "Running around a question instead of asking  is it a yes or no?"
+    },
+    {
+      "id": "5025",
+      "title": "Key Skills",
+      "body": "Relationships and analytical vigor."
+    },
+    {
+      "id": "5026",
+      "title": "Allegory of Caves",
+      "body": "Questions help you see the world outside of your cave."
+    },
+    {
+      "id": "5027",
+      "title": "Jobs",
+      "body": "No one could rival his sense of drama.  Make it even better he would always say.  Is this the best you can do?  Is there room for further improvement?  In what ways cold this be even better?"
+    },
+    {
+      "id": "5028",
+      "title": "Jobs",
+      "body": "No one could rival his sense of drama.  "
+    },
+    {
+      "id": "5029",
+      "title": "Drucker Principles",
+      "body": "Mission, People/Customer, Values, Expectations, Plan."
+    },
+    {
+      "id": "5030",
+      "title": "Question to Question",
+      "body": "Master the art of turning clients questions into questions so that they are the ones to answer."
+    },
+    {
+      "id": "5031",
+      "title": "Legatus",
+      "body": "Largest Catholic organization in the world for CEOs."
+    },
+    {
+      "id": "5032",
+      "title": "Life",
+      "body": "Its not what happens in life that matters it is how you handle it.  If you had to write your obituary today what would you like it to say?  What was the happiest day of your life?"
+    },
+    {
+      "id": "5033",
+      "title": "Chasing Daylight",
+      "body": "Is you had three years to live what would you do?  What difference will your footsteps make one hundred years from now?"
+    },
+    {
+      "id": "5034",
+      "title": "Competition",
+      "body": "Is there a particular competitor you admire?"
+    },
+    {
+      "id": "5035",
+      "title": "Five Why’s",
+      "body": "In consulting you have to get to the root of the problem or else you won’t fix anything.   Why do you want to do that?  Why is that happening?  Why is that?  How do you know that?"
+    },
+    {
+      "id": "5036",
+      "title": "Unlimited Resources",
+      "body": "If you had additional resources what would you invest them in?"
+    },
+    {
+      "id": "5037",
+      "title": "Dress",
+      "body": "If you dress properly you think properly."
+    },
+    {
+      "id": "5038",
+      "title": "Fairness",
+      "body": "If the circumstances were turned around how would you like to be treated?  What do you wish they would do more of?"
+    },
+    {
+      "id": "5039",
+      "title": "Woodrow Wilson",
+      "body": "If I am to speak 10 minutes I need a week of preparation, if an hour I am ready now.  "
+    },
+    {
+      "id": "5040",
+      "title": "Recovery",
+      "body": "I’m sorry this happened, what would you like to see done at this point?"
+    },
+    {
+      "id": "5041",
+      "title": "Empathy",
+      "body": "I know what it is like to walk in your shoes.  "
+    },
+    {
+      "id": "5042",
+      "title": "Presentation",
+      "body": "I have planned to cover the following areas.  Which of these area are most valuable to you guys so that I can focus extra time on?"
+    },
+    {
+      "id": "5043",
+      "title": "Service",
+      "body": "How would you assess our customer service levels?"
+    },
+    {
+      "id": "5044",
+      "title": "Is there dissatisfaction with current offering",
+      "body": "How satisfied are you with the current solution?  What would you say is missing?  Why do you feel now is the time to work on this?  "
+    },
+    {
+      "id": "5045",
+      "title": "Is there dissatisfaction with current offering",
+      "body": "How satisfied are you with the current solution?"
+    },
+    {
+      "id": "5046",
+      "title": "Family",
+      "body": "How old are your children?"
+    },
+    {
+      "id": "5047",
+      "title": "Success",
+      "body": "How have you been successful so was and how will those reasons change in the future?"
+    },
+    {
+      "id": "5048",
+      "title": "Free-Time",
+      "body": "How do you spend your free-time."
+    },
+    {
+      "id": "5049",
+      "title": "Communication",
+      "body": "How do you best like to communicate?"
+    },
+    {
+      "id": "5050",
+      "title": "Company Background",
+      "body": "How did you get started?  What was the toughest lesson you had to learn?  "
+    },
+    {
+      "id": "5051",
+      "title": "Need",
+      "body": "Can you give me an example?"
+    },
+    {
+      "id": "5052",
+      "title": "How To Get it Done",
+      "body": "Begin at the beginning…and go until you come to the end."
+    },
+    {
+      "id": "5053",
+      "title": "Verbal Confidence",
+      "body": "Avoid saying “ums”, “you know”.  "
+    },
+    {
+      "id": "5054",
+      "title": "Curiosity",
+      "body": "As we grow older our curiosity dies.  The average five year old asks 200 questions per day.  How many questions do you guys ask?"
+    },
+    {
+      "id": "5055",
+      "title": "Do they own the problem",
+      "body": "Are you responsible for fixing this?  Who would authorize this?  Who needs to be involved to make this decision?"
+    },
+    {
+      "id": "5056",
+      "title": "Do they own the problem",
+      "body": "Are you responsible for fixing this?  "
+    },
+    {
+      "id": "5057",
+      "title": "Meals",
+      "body": "Are good for relationship building."
+    },
+    {
+      "id": "5058",
+      "title": "Preview Conclusions",
+      "body": "Always preview your conclusions with the client before you present."
+    },
+    {
+      "id": "5059",
+      "title": "Semper Fidelus",
+      "body": "Always faithful.  What is the greatest achievement in your life?"
+    },
+    {
+      "id": "5060",
+      "title": "end.",
+      "body": ""
+    }
+  ]
+}
+

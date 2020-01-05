@@ -1,0 +1,352 @@
+{
+  "subject": "Developing Analytical Talent Checklist",
+  "credit": "Developing Analytical Talent Checklist",
+  "todos": [
+    {
+      "id": "1341",
+      "title": "Books",
+      "body": "www.analyticbridge.com/group/books"
+    },
+    {
+      "id": "1342",
+      "title": "Data Videos",
+      "body": "vcla.stat.ucla.edu/publications.html"
+    },
+    {
+      "id": "1343",
+      "title": "Lookup Tables",
+      "body": "Used to determine whether a text is part of a category or is an alias of another text."
+    },
+    {
+      "id": "1344",
+      "title": "Blacklists and Whitelists",
+      "body": "Used to determine spam and unwanted text."
+    },
+    {
+      "id": "1345",
+      "title": "Stemming",
+      "body": "Plural replaced by singular."
+    },
+    {
+      "id": "1346",
+      "title": "Data Science Tools",
+      "body": "Java, MapReduce, R, Hadoop, Python, NoSQL."
+    },
+    {
+      "id": "1347",
+      "title": "Granger Causality Test",
+      "body": "Cross correlation."
+    },
+    {
+      "id": "1348",
+      "title": "Bumpiness",
+      "body": "Bumpiness is linked to how the data points are ordered, while centrality and volatility completely ignore order. So, bumpiness is useful for datasets where order matters, in particular time series. Also, bumpiness integrates the notion of dependence (among the data points), while centrality and variance do not."
+    },
+    {
+      "id": "1349",
+      "title": "Natural Language Processing",
+      "body": "Analyzing unstructured data.  "
+    },
+    {
+      "id": "1350",
+      "title": "Trend of Data Science",
+      "body": "Analytics engineering, data shaping, art of optimization, optimization science, data intelligence, business optimization."
+    },
+    {
+      "id": "1351",
+      "title": "Stock Price Data",
+      "body": "www.stockhistoricaldata.com/daily-download"
+    },
+    {
+      "id": "1352",
+      "title": "Abnormal Purchase Patterns",
+      "body": "Would a ninety year old lady buy a motorcycle at 2 am in the morning.  "
+    },
+    {
+      "id": "1353",
+      "title": "Stopwords",
+      "body": "Words that connect such as the, or, and, of from, about, it."
+    },
+    {
+      "id": "1354",
+      "title": "Predictive Analytics",
+      "body": "What will happen."
+    },
+    {
+      "id": "1355",
+      "title": "Descriptive Analytics",
+      "body": "What happened and why."
+    },
+    {
+      "id": "1356",
+      "title": "Extreme Events",
+      "body": "Using Monte Carlo to predict fraud by detecting extreme events unlikely to naturally occur."
+    },
+    {
+      "id": "1357",
+      "title": "Schools",
+      "body": "UC Berkeley, CUNY"
+    },
+    {
+      "id": "1358",
+      "title": "Decision Trees",
+      "body": "Tree like graph model to determine decisions and their possible outcomes, avoid large trees and use small decision trees."
+    },
+    {
+      "id": "1359",
+      "title": "Normalizing Text",
+      "body": "Tokens rearranged in alphabetical order and sorted."
+    },
+    {
+      "id": "1360",
+      "title": "Synonym Tables",
+      "body": "To determine if words are the same or similar enough as other words and should be merged.  "
+    },
+    {
+      "id": "1361",
+      "title": "Taxonomy",
+      "body": "The output of a clustering algorithm.  "
+    },
+    {
+      "id": "1362",
+      "title": "Data Dictionary",
+      "body": "Table with three or four columns, label, value, frequency, dimension of the label (1 if one variable and 2 if pair of variables)."
+    },
+    {
+      "id": "1363",
+      "title": "Linear Discriminant Analysis",
+      "body": "Supervised clustering.  Bad technique because it assumes that clusters do not overlap and are well separated by hyperplanes.  Use density estimation techniques instead."
+    },
+    {
+      "id": "1364",
+      "title": "Prescriptive",
+      "body": "Suggesting actions or decisions based on the descriptive and predictive analytics.  "
+    },
+    {
+      "id": "1365",
+      "title": "Density Estimation in high dimensions",
+      "body": "Subject to dimensionality.  Instead use nonparametric kernel density estimators with adaptive bandwidths.  "
+    },
+    {
+      "id": "1366",
+      "title": "Optimizing Web Crawlers",
+      "body": "Split crawling across 8,000 servers, run 20 copies on each server, change timeout thresholds, max size, blacklist of websites to ignore, avoid infinite loop with site lookup table."
+    },
+    {
+      "id": "1367",
+      "title": "Hidden Decision Trees",
+      "body": "Scores large volumes of transactional data."
+    },
+    {
+      "id": "1368",
+      "title": "K Means Clustering",
+      "body": "Produces circular clusters and not good for data points that are not a mixture of Gaussian distributions.   "
+    },
+    {
+      "id": "1369",
+      "title": "Regression",
+      "body": "Predictive statistical tool using independent variables to predict a dependent variable.  Avoid linear regression. Best tools are to reduce number of variables and use constrained regression such as ridge, logic, or lasso regression."
+    },
+    {
+      "id": "1370",
+      "title": "Conferences",
+      "body": "Predictive Analytics World, GoPivotal Data Science, SAS, Association for Computing Machinery, IEEE, IE Group, Text Analytics News, IQPC, Whitehall Media."
+    },
+    {
+      "id": "1371",
+      "title": "Metrics for Marketing",
+      "body": "Open rate, # opens, click rate, trends, churn, unsubscribe rate, spam complaints, geography, language"
+    },
+    {
+      "id": "1372",
+      "title": "Repetitive small purchases",
+      "body": "Lots of $9,99 purchases.  "
+    },
+    {
+      "id": "1373",
+      "title": "Gibberish",
+      "body": "Looking at websites for random text gibberish."
+    },
+    {
+      "id": "1374",
+      "title": "Data Science Competitions",
+      "body": "Kaggle, CrowdAnalytix, Data Science Central."
+    },
+    {
+      "id": "1375",
+      "title": "Training Programs",
+      "body": "Informs, digital analytics association, TDWI, Americal Statistical Association, Data Science Central, International Institute for Analytics, Statistics.com"
+    },
+    {
+      "id": "1376",
+      "title": "Data Engineers",
+      "body": "Extract, load, transform."
+    },
+    {
+      "id": "1377",
+      "title": "Neural Networks",
+      "body": "Examines inputs and hidden inputs to map their connectivity towards an output."
+    },
+    {
+      "id": "1378",
+      "title": "Data Scientists",
+      "body": "Discover, access, distill."
+    },
+    {
+      "id": "1379",
+      "title": "Three types of analytics",
+      "body": "Descriptive, predictive, and prescriptive."
+    },
+    {
+      "id": "1380",
+      "title": "Domain Experience",
+      "body": "Critical to succeed in data analytics.  Need advisors in different industries."
+    },
+    {
+      "id": "1381",
+      "title": "Free Training Programs",
+      "body": "Coursera, Data Science Central,"
+    },
+    {
+      "id": "1382",
+      "title": "Data Science",
+      "body": "Computer science, statistical science, business management, software engineering, domain expertise, statistical science."
+    },
+    {
+      "id": "1383",
+      "title": "AaaS",
+      "body": "Analytics as a service.  "
+    },
+    {
+      "id": "1384",
+      "title": "Posting Sites",
+      "body": "Analyticbridge.com, BigDataNews.com, Quora.com"
+    },
+    {
+      "id": "1385",
+      "title": "Attaching",
+      "body": "Algorithms to determine whether two tokens such as San and Francisco should be attached or separated.  "
+    },
+    {
+      "id": "1386",
+      "title": "User Intention",
+      "body": "Algorithm to determine what the user is intending to do with the search.  "
+    },
+    {
+      "id": "1387",
+      "title": "Experimental design",
+      "body": "A/B testing, multivariate testing, taguchi methods."
+    },
+    {
+      "id": "1388",
+      "title": "Tarjan’s Strongly Connected Components Algorithm",
+      "body": "  "
+    },
+    {
+      "id": "1389",
+      "title": "Actuarial Sciences",
+      "body": ""
+    },
+    {
+      "id": "1390",
+      "title": "Analyzing Domain Patterns",
+      "body": ""
+    },
+    {
+      "id": "1391",
+      "title": "Arcsine Law",
+      "body": ""
+    },
+    {
+      "id": "1392",
+      "title": "BIRT",
+      "body": ""
+    },
+    {
+      "id": "1393",
+      "title": "Black-Scholes",
+      "body": ""
+    },
+    {
+      "id": "1394",
+      "title": "Boosted Trees",
+      "body": ""
+    },
+    {
+      "id": "1395",
+      "title": "Correlograms",
+      "body": ""
+    },
+    {
+      "id": "1396",
+      "title": "Cron Job",
+      "body": ""
+    },
+    {
+      "id": "1397",
+      "title": "Cross-Correlation",
+      "body": ""
+    },
+    {
+      "id": "1398",
+      "title": "Fuzzy Merging",
+      "body": ""
+    },
+    {
+      "id": "1399",
+      "title": "Gaussian Distribution",
+      "body": ""
+    },
+    {
+      "id": "1400",
+      "title": "HashTable",
+      "body": ""
+    },
+    {
+      "id": "1401",
+      "title": "Lorenz Curve",
+      "body": ""
+    },
+    {
+      "id": "1402",
+      "title": "Naïve Bayes",
+      "body": ""
+    },
+    {
+      "id": "1403",
+      "title": "PCA",
+      "body": ""
+    },
+    {
+      "id": "1404",
+      "title": "Schema",
+      "body": ""
+    },
+    {
+      "id": "1405",
+      "title": "Sensitivity Analysis",
+      "body": ""
+    },
+    {
+      "id": "1406",
+      "title": "Signal Processing",
+      "body": ""
+    },
+    {
+      "id": "1407",
+      "title": "Six Sigma",
+      "body": ""
+    },
+    {
+      "id": "1408",
+      "title": "Spectral Analysis",
+      "body": ""
+    },
+    {
+      "id": "1409",
+      "title": "Toad/Brio",
+      "body": ""
+    }
+  ]
+}
+

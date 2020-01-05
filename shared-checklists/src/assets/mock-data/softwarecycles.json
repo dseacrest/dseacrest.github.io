@@ -1,0 +1,132 @@
+{
+  "subject": "Software Release Life Cycle Checklist",
+  "credit": "Software Release Life Cycle Checklist",
+  "todos": [
+    {
+      "id": "5802",
+      "title": "End-of-life/Abandonware",
+      "body": "When software is no longer sold or supported, the product is said to have reached end-of-life, to be discontinued, retired, or obsolete, but user loyalty may continue its existence for some time, even long after its platform is obsolete."
+    },
+    {
+      "id": "5803",
+      "title": "Unit Testing",
+      "body": "Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation."
+    },
+    {
+      "id": "5804",
+      "title": "Release to Manufacturing (RTM) ",
+      "body": "The term \"release to manufacturing\", also known as \"going gold\", is a term used when a software product is ready to be delivered. This build may be digitally signed, allowing the end user to verify the integrity and authenticity of the software purchase. A copy of the RTM build known as the \"gold master\" or GM is sent for mass duplication if applicable. RTM precedes general availability (GA), when the product is released to the public.  It is typically used in certain retail mass-production software contexts—as opposed to a specialized software production or project in a commercial or government production and distribution."
+    },
+    {
+      "id": "5805",
+      "title": "Alpha ",
+      "body": "The alpha phase of the release life cycle is the first phase to begin software testing.  In this phase, developers generally test the software using white-box techniques. Additional validation is then performed using black-box or gray-box techniques, by another testing team. Moving to black-box testing inside the organization is known as alpha release.  Alpha software can be unstable and could cause crashes or data loss. Alpha software may not contain all of the features that are planned for the final version.  The alpha phase usually ends with a feature freeze.  At this time, the software is said to be feature complete."
+    },
+    {
+      "id": "5806",
+      "title": "Software Release Life Cycle",
+      "body": "Stages of development and maturity for a piece of computer software  ranging from its initial development to its eventual release."
+    },
+    {
+      "id": "5807",
+      "title": "Beta",
+      "body": "Software in the beta stage is also known as betaware.  Beta phase generally begins when the software is feature complete but likely to contain a number of known or unknown bugs, as well as speed/performance issues and may still cause crashes or data loss. The focus of beta testing is reducing impacts to users, often incorporating acceptance and usability testing. This is typically the first time that the software is available outside of the organization or trusted advisors that developed it. Some developers refer to this stage as a preview, preview release, prototype, technical preview / technology preview (TP), or early access."
+    },
+    {
+      "id": "5808",
+      "title": "Release to web (RTW)",
+      "body": "Release to web (RTW) or web release is a means of software delivery that utilizes the Internet for distribution. No physical media are produced in this type of release mechanism by the manufacturer. Web releases are becoming more common as Internet usage grows."
+    },
+    {
+      "id": "5809",
+      "title": "Pre-alpha",
+      "body": "Pre-alpha refers to all activities performed during the software project before formal testing. This phase usually involves identifying the proper technology to build the release version and assessing the risks with that technology.  These activities can include requirements analysis, software design, software development, and unit testing. In typical open source development, there are several types of pre-alpha versions."
+    },
+    {
+      "id": "5810",
+      "title": "Beta testers",
+      "body": "People who actively report issues of beta software. They are usually customers or representatives of prospective customers of the organization that develops the software. Beta testers tend to volunteer their services free of charge but often receive versions of the product they test, discounts on the release version, or other incentives."
+    },
+    {
+      "id": "5811",
+      "title": "General availability (GA)",
+      "body": "Marketing stage at which all necessary commercialization activities have been completed and a software product is available for purchase, depending, however, on language, region, electronic vs. media availability.  Commercialization activities could include security and compliance tests, as well as localization and worldwide availability. The time between RTM and GA can be from a week to months."
+    },
+    {
+      "id": "5812",
+      "title": "Feature Freeze",
+      "body": "Indicating that no more features will be added to the software. At this time, the software is said to be feature complete."
+    },
+    {
+      "id": "5813",
+      "title": "Pioneer Edition",
+      "body": "Getting people to pay for the privilege of testing the product."
+    },
+    {
+      "id": "5814",
+      "title": "Open and closed beta",
+      "body": "Developers release either a closed beta also called private beta or an open beta also called public beta; closed beta versions are released to a restricted group of individuals for a user test by invitation, while open beta testers are from a larger group, or anyone interested. Private beta could be suitable for the software that is capable to deliver value, but is not ready to be used by everyone either due to scaling issues, lack of documentation or still missing vital features. The testers report any bugs that they find, and sometimes suggest additional features they think should be available in the final version."
+    },
+    {
+      "id": "5815",
+      "title": "Acceptance Testing",
+      "body": "Acceptance Testing is a level of the software testing where a system is tested for acceptability. The purpose of this test is to evaluate the systems compliance with the business requirements and assess whether it is acceptable for delivery."
+    },
+    {
+      "id": "5816",
+      "title": "Release",
+      "body": "A release candidate (RC), also known as \"going silver\", is a beta version with potential to be a final product, which is ready to release unless significant bugs emerge. In this stage of product stabilization, all product features have been designed, coded and tested through one or more beta cycles with no known showstopper-class bugs. A release is called code complete when the development team agrees that no entirely new source code will be added to this release. There could still be source code changes to fix defects, changes to documentation and data files, and peripheral code for test cases or utilities."
+    },
+    {
+      "id": "5817",
+      "title": "Black-box testing",
+      "body": "A method of software testing that examines the functionality of an application without peering into its internal structures or workings. This method of test can be applied virtually to every level of software testing  unit, integration, system and acceptance."
+    },
+    {
+      "id": "5818",
+      "title": "White-box testing",
+      "body": "(also known as clear box testing, glass box testing, transparent box testing, and structural testing) A method of testing software that tests internal structures or workings of an application, as opposed to its functionality (i.e. black-box testing)."
+    },
+    {
+      "id": "5819",
+      "title": "Validation",
+      "body": "Testing the software prior to coding.  This may include developing mockups or simply describing the product to a prospective end user.  "
+    },
+    {
+      "id": "5820",
+      "title": "System Testing",
+      "body": "System Testing is a level of the software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the systems compliance with the specified requirements (includes black box testing)."
+    },
+    {
+      "id": "5821",
+      "title": "Pre-Beta (ScoutSheet definition)",
+      "body": "Software in the pre-beta is generally known as feature complete but needs to be tested with a select group of trusted users prior to customer onboarding.  This may include system and acceptance testing of security, multi-tenancy, payment gateways, admin features, throttles, scalability, etc.  "
+    },
+    {
+      "id": "5822",
+      "title": "Support",
+      "body": "During its supported lifetime, software is sometimes subjected to service releases, patches or service packs, sometimes also called \"interim releases\". For example, Microsoft released three major service packs for the 32-bit editions of Windows XP and two service packs for the 64-bit editions. Such service releases contain a collection of updates, fixes and enhancements, delivered in the form of a single installable package. They may also implement new features."
+    },
+    {
+      "id": "5823",
+      "title": "Prototype",
+      "body": "A first, typical or preliminary model of something, especially a machine, from which other forms are developed or copied.  Developing a prototype is method to help further validate a concept or to begin discovery on the technical challenges that you may face in building a working version.  A prototype is often built using “temporary” technologies or processes that are not intended to scale efficiently.  Some people refer to later stage beta testing as “prototype” testing.  "
+    },
+    {
+      "id": "5824",
+      "title": "Perpetual Beta",
+      "body": "A beta version often staying for years and being used as if it were in production level.  This technique may allow a developer to delay offering full support and responsibility for remaining issues."
+    },
+    {
+      "id": "5825",
+      "title": "Integration testing (sometimes called integration and testing, abbreviated I&T) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing.",
+      "body": ""
+    },
+    {
+      "id": "5826",
+      "title": "Usability testing is a way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher, to see where they encounter problems and experience confusion.",
+      "body": ""
+    }
+  ]
+}
+

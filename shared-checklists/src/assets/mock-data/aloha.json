@@ -1,0 +1,28 @@
+{
+  "subject": "Aloha Checklist",
+  "credit": "Aloha Checklist",
+  "todos": [
+    {
+      "id": "365",
+      "title": "Sales Pitch",
+      "body": "You mentioned you are looking for… we have this (feature) that will help you (benefit) .  For example, you can use it to (example of use).  So and so used it to (success story).  It will make you (individual value/career proposition).  "
+    },
+    {
+      "id": "366",
+      "title": "Aloha Time",
+      "body": "Method for person-to-person feedback.  Usually done once a week.  Not done as a group.  Tell the other person behaviors or tasks that they should start, stop, and continue.  Finish with things you want to thank them for.  "
+    },
+    {
+      "id": "367",
+      "title": "Spray and Pray",
+      "body": "Bad tactic for selling where you throw out a bunch of features and benefits and hope that they mean something to the prospective customer.  "
+    },
+    {
+      "id": "368",
+      "title": "Three Magic Questions",
+      "body": "1.) what are you looking for, 2.) what is the most important thing you are looking for, 3.) why.  Helps you hit the customers bullseye."
+    }
+  ]
+}
+
+

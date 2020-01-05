@@ -1,0 +1,77 @@
+{
+  "subject": "How to Turn an Idea into a Product",
+  "credit": "How to Turn an Idea into a Product",
+  "todos": [
+    {
+      "id": "3296",
+      "title": "11.  ABANDONWARE",
+      "body": "When products are no longer sold or supported, the product is said to have reached end-of-life, to be discontinued, retired, or obsolete, but user loyalty may continue for some time, even long after its platform is obsolete."
+    },
+    {
+      "id": "3297",
+      "title": "3.      MEDIUM FIDELITY MOCKUPS",
+      "body": "Use medium fidelity mockups when you’re focusing on layout, information and interaction design (the tools should be capable of more precise design).  If you’ve got design skills or are good with computers, you can do this on your own.  If you don’t, you’ll have to hire someone.     "
+    },
+    {
+      "id": "3298",
+      "title": "2.      LOW FIDELITY MOCKUPS",
+      "body": "Use low fidelity mockups when you simply want to test an idea.  Use tools that allow you to build a couple versions of your idea.  You should be able to do low-fidelity mockups without outside help.    "
+    },
+    {
+      "id": "3299",
+      "title": "4.      HIGH FIDELITY MOCKUPS",
+      "body": "The closer you get to the actual look of the final product, the easier and more reliable it will be to validate.  High fidelity prototyping is especially effective when presenting to investors or larger clients.  High fidelity mockups are needed when the most important things are visual design, animation, and micro-interactions (the tool should be capable of adding motion and transitions).  Some people don’t have the design skills to do high-fidelity prototyping.  If you don’t have the skills, find a gifted student at your local university who can help or find a freelancer (Fiverr, Upwork, Freelancer, 99designs, Envato Studio, Guru). "
+    },
+    {
+      "id": "3300",
+      "title": "10.  SUPPORT",
+      "body": "Support   During its supported lifetime, products are sometimes subjected to service releases, patches, recalls, or service packs.  Such service releases contain a collection of updates, fixes and enhancements, delivered in the form of a single installable package or replacement parts. They may also implement new features. "
+    },
+    {
+      "id": "3301",
+      "title": "7.      BUILD A BETA VERSION",
+      "body": "Products in the beta stage are also known as betaware.  The beta phase generally begins when the products is feature complete but likely to contain a number of known or unknown bugs, as well as speed/performance issues and may still cause crashes or data loss. The focus of beta testing is reducing impacts to users, often incorporating acceptance and usability testing. This is typically the first time that the products is available outside of the organization."
+    },
+    {
+      "id": "3302",
+      "title": "3.      MEDIUM FIDELITY MOCKUPS",
+      "body": "Medium fidelity mockup programs include  Adobe Illustrator, Adobe Photoshop, Balsamiq, Hype, RapidUI, Flinto, Balsamiq, Vision Studios, Sketchup, MockFlow, Webflow, HotGloo."
+    },
+    {
+      "id": "3303",
+      "title": "2.      LOW FIDELITY MOCKUPS",
+      "body": "Low fidelity mockup programs include   Microsoft Word, Paint, Adobe Illustrator, Adobe Draw, Adobe Photoshop, Adobe XD, Bluebeam, Sketchup, Sketchbook, Microsoft Visio.  "
+    },
+    {
+      "id": "3304",
+      "title": "4.      HIGH FIDELITY MOCKUPS",
+      "body": "High fidelity mockup programs include  Sketchup, Rhino, 3D Studio Max, Adobe Illustrator, Photoshop, Cubify, Illustrator, Photoshop, Adobe Premiere Pro, VideoStudio, AutoCAD, Revit."
+    },
+    {
+      "id": "3305",
+      "title": "1.      PAPER & PENCIL",
+      "body": "Always start with paper and pencil.  Paper and pencil are recommended as the first medium over a computer because your idea should be fixed and this medium lets you erase, modify, and redo much quicker.  "
+    },
+    {
+      "id": "3306",
+      "title": "6.      BUILD AN ALPHA VERSION",
+      "body": "Alpha products are usually built using a scalable technology.  It can be unstable and could cause crashes or data loss.  Alpha products may not contain all the features that are planned for the final version.  The alpha phase usually ends with a feature freeze.  At this time, the product is said to be feature complete."
+    },
+    {
+      "id": "3307",
+      "title": "9.      GENERAL AVAILABILITY “GOING GOLD”",
+      "body": "All necessary commercialization activities have been completed.  Commercialization activities could include scalable manufacturing, shipping, construction, security, and compliance tests, as well as worldwide availability. "
+    },
+    {
+      "id": "3308",
+      "title": "8.      RELEASE CANDIDATE “GOING SILVER”",
+      "body": "A release candidate (RC), also known as \"going silver\", is a beta version with potential to be a final product, which is ready to release unless significant bugs or product issues emerge. In this stage of product stabilization, all product features have been designed and tested through one or more beta cycles with no known showstopper-class bugs. A release is called complete when the development team agrees that no new design will be added to this release."
+    },
+    {
+      "id": "3309",
+      "title": "5.      BUILD A FUNCTIONAL PROTOTYPE",
+      "body": "A first, typical, or preliminary model of something, from which other forms are developed or copied.  Developing a prototype is a method to help further validate a concept or to begin discovery on the technical challenges that you may face in building a working version.  A prototype is often built using “temporary” technologies or processes that are not intended to scale efficiently.  Note  The State of Nebraska has a prototype grant for up to $150,000."
+    }
+  ]
+}
+

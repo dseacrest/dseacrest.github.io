@@ -1,0 +1,182 @@
+{
+  "subject": "Code Smarter Checklist",
+  "credit": "Code Smarter Checklist",
+  "todos": [
+    {
+      "id": "772",
+      "title": "Reconsidering the Problem",
+      "body": "New Solutions"
+    },
+    {
+      "id": "773",
+      "title": "Assess the Difficulty of the Code",
+      "body": "  "
+    },
+    {
+      "id": "774",
+      "title": "Establish Clear Requirements",
+      "body": "  "
+    },
+    {
+      "id": "775",
+      "title": "Create an Execution Plan",
+      "body": " "
+    },
+    {
+      "id": "776",
+      "title": "Are you familiar with the languages and technologies to completet the code?  ",
+      "body": ""
+    },
+    {
+      "id": "777",
+      "title": "Areas Needing Refactoring",
+      "body": ""
+    },
+    {
+      "id": "778",
+      "title": "Categorize and rank possible solutions.",
+      "body": ""
+    },
+    {
+      "id": "779",
+      "title": "Code Files that Will Likely Be Affected",
+      "body": ""
+    },
+    {
+      "id": "780",
+      "title": "Contingency Plan (how long will you spend on desired solution until you fallback on required)",
+      "body": ""
+    },
+    {
+      "id": "781",
+      "title": "Create notecards for items to practice.",
+      "body": ""
+    },
+    {
+      "id": "782",
+      "title": "Criteria for success/what does solved look like (desired – best practices)?",
+      "body": ""
+    },
+    {
+      "id": "783",
+      "title": "Criteria for success/what does solved look like (required – minimum required solution)?",
+      "body": ""
+    },
+    {
+      "id": "784",
+      "title": "Debrief & Record",
+      "body": ""
+    },
+    {
+      "id": "785",
+      "title": "Debrief and Lessons Learned from Testing Each Solution",
+      "body": ""
+    },
+    {
+      "id": "786",
+      "title": "Debrief lessons learned.",
+      "body": ""
+    },
+    {
+      "id": "787",
+      "title": "Do you foresee any issues in coding, debugging, testing?",
+      "body": ""
+    },
+    {
+      "id": "788",
+      "title": "Document Along The Way",
+      "body": ""
+    },
+    {
+      "id": "789",
+      "title": "Documents for major parts of the program.",
+      "body": ""
+    },
+    {
+      "id": "790",
+      "title": "File any documentation created.",
+      "body": ""
+    },
+    {
+      "id": "791",
+      "title": "Flow charts.",
+      "body": ""
+    },
+    {
+      "id": "792",
+      "title": "Forced Breaks",
+      "body": ""
+    },
+    {
+      "id": "793",
+      "title": "Is there a clear written statement?",
+      "body": ""
+    },
+    {
+      "id": "794",
+      "title": "Language/Technology Involved?",
+      "body": ""
+    },
+    {
+      "id": "795",
+      "title": "Large Issues broken down into smaller problems that can be solved one at a time?",
+      "body": ""
+    },
+    {
+      "id": "796",
+      "title": "More Information Needed?",
+      "body": ""
+    },
+    {
+      "id": "797",
+      "title": "Possible Solutions?",
+      "body": ""
+    },
+    {
+      "id": "798",
+      "title": "Potential issues? ",
+      "body": ""
+    },
+    {
+      "id": "799",
+      "title": "Problems?",
+      "body": ""
+    },
+    {
+      "id": "800",
+      "title": "Requirements? ",
+      "body": ""
+    },
+    {
+      "id": "801",
+      "title": "Seeking outside help.",
+      "body": ""
+    },
+    {
+      "id": "802",
+      "title": "Smallest tests for each possible solution?",
+      "body": ""
+    },
+    {
+      "id": "803",
+      "title": "Testing Possible Solutions",
+      "body": ""
+    },
+    {
+      "id": "804",
+      "title": "Timebox Limits (how long you will spend in each sitting)",
+      "body": ""
+    },
+    {
+      "id": "805",
+      "title": "What is the complexity of the code base?  ",
+      "body": ""
+    },
+    {
+      "id": "806",
+      "title": "Will it take more than an hour to complete?  ",
+      "body": ""
+    }
+  ]
+}
+

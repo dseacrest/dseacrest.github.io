@@ -1,0 +1,52 @@
+{
+  "subject": "Data Science Modeling Mistakes Checklist",
+  "credit": "Data Science Modeling Mistakes Checklist",
+  "todos": [
+    {
+      "id": "1176",
+      "title": "Anachronistic",
+      "body": "Using anachronistic fields as variables."
+    },
+    {
+      "id": "1177",
+      "title": "Visualization",
+      "body": "Poor visualization."
+    },
+    {
+      "id": "1178",
+      "title": "Handcraft",
+      "body": "Not handcrafting some variables."
+    },
+    {
+      "id": "1179",
+      "title": "Variables",
+      "body": "Not enough variables."
+    },
+    {
+      "id": "1180",
+      "title": "Outliers",
+      "body": "Not accounting for outliers or missing values."
+    },
+    {
+      "id": "1181",
+      "title": "Population",
+      "body": "Modeling too small of a population."
+    },
+    {
+      "id": "1182",
+      "title": "Joining",
+      "body": "Joining on a filed encoded slightly different."
+    },
+    {
+      "id": "1183",
+      "title": "Ids",
+      "body": "Includign ID fields and predictors."
+    },
+    {
+      "id": "1184",
+      "title": "Duplicates",
+      "body": "Allowing duplicate records."
+    }
+  ]
+}
+

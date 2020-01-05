@@ -1,0 +1,142 @@
+{
+  "subject": "Outsourcing",
+  "credit": "Outsourcing",
+  "todos": [
+    {
+      "id": "4362",
+      "title": "Hiring Process",
+      "body": "Vet first hire thoroughly.  Use first hire to hire subsequent developers."
+    },
+    {
+      "id": "4363",
+      "title": "Cap",
+      "body": "Set an hour cap.  Be clear with tasks."
+    },
+    {
+      "id": "4364",
+      "title": "Best Foreign Developer Providers",
+      "body": "Philippines, Sri Lanka, Moscow, India, Belaruse."
+    },
+    {
+      "id": "4365",
+      "title": "Double Outsource",
+      "body": "Never let them outsource to freelancers without permission."
+    },
+    {
+      "id": "4366",
+      "title": "Security",
+      "body": "make sure they have background checks, credit cards should only be handled by supervisers, removal of paper from office prohibited, floppy drives and usb ports disabled, BS779 certification for international security standards, 128 – bit encryption, secure vpn network, vlan based access restriction between teams, electronic access cards for entry and exit, never use debit cards, create unique logins."
+    },
+    {
+      "id": "4367",
+      "title": "Way to Post Jobs",
+      "body": "Indeed or Craigslist."
+    },
+    {
+      "id": "4368",
+      "title": "Trial Period",
+      "body": "Hire them for a 4-6 month contractor period at standard monthly rate (~$1,000/m in Philippines).  "
+    },
+    {
+      "id": "4369",
+      "title": "Don’t Hire Best of Batch",
+      "body": "You might have to do the hiring process a couple times before you find a Rockstar.  Don’t just hire a person because they are the best option of your available options.  Restart the process.  "
+    },
+    {
+      "id": "4370",
+      "title": "Overlap in Business Hours",
+      "body": "Some countries like Philippines will have no overlap in U.S. business hours which means you may be required to do standup meetings at 9 pm at night.  "
+    },
+    {
+      "id": "4371",
+      "title": "First Round Interview",
+      "body": "Should be with engineering team.  Don’t do any whiteboard coding questions at this stage.  "
+    },
+    {
+      "id": "4372",
+      "title": "Pay",
+      "body": "Recommend starting with market rate (~$1,000/m) in Phillippines.  Give them a 150% to 200% raise once they prove themselves effective. Pay through Paypal (8% fee).  "
+    },
+    {
+      "id": "4373",
+      "title": "Agile Outsourcing",
+      "body": "Recommend doing 2 week sprints with stand up every day.  Use an internal developer you trust for code review.  "
+    },
+    {
+      "id": "4374",
+      "title": "Posting Job Process",
+      "body": "Put your core values in the job posting and the job description.  For every response you get, send them a questionnaire, but tell them you are only sending it to the top 10% so they will take time to fill it out.  Only 10% will fill out questionnaire and it becomes a way to vet the serious candidates.  Only look at resumes for those that fill out the questionnaire."
+    },
+    {
+      "id": "4375",
+      "title": "Cultural Differences",
+      "body": "Pay close attention to cultural differences.  In the Philippines they are very family oriented.  They will treat them company like family.  In business, this can be positive or negative depending on the situation.  "
+    },
+    {
+      "id": "4376",
+      "title": "Two Shifts",
+      "body": "Outsource to a company on opposite time zones so they work when you rest and vice versa.  "
+    },
+    {
+      "id": "4377",
+      "title": "Security Issues",
+      "body": "No passwords in code.  Don’t give access to full database.  Give super-admin access that has an audit trail and logging.  Make them give a reason why they need to access certain data.  "
+    },
+    {
+      "id": "4378",
+      "title": "3rd World",
+      "body": "If you hire programmers in countries that are third world, expect issues with power, sickness, politics, etc.  They will get sick more often.  There will be issues outside of their control that they cannot affect."
+    },
+    {
+      "id": "4379",
+      "title": "Skill",
+      "body": "If you can hire multiple developers, you don’t need them to be full stack.  They can specialize in an area that you need help with indefinitely.  "
+    },
+    {
+      "id": "4380",
+      "title": "Paid Meetup",
+      "body": "If they are in proximity, they may want to meetup once a week for work or fun.  Have the company pay for their meal or expense.   "
+    },
+    {
+      "id": "4381",
+      "title": "Promote Leader",
+      "body": "If there is a leader in the group who has good people skills, promote him to help hire other programmers.  "
+    },
+    {
+      "id": "4382",
+      "title": "Proximity",
+      "body": "If possible, hire people within proximity of each other so they have the opportunity to meetup and build some culture.  "
+    },
+    {
+      "id": "4383",
+      "title": "Fun-sourcing",
+      "body": "Have fun with outsourcing and get them to do funny things like prank your friends."
+    },
+    {
+      "id": "4384",
+      "title": "Second Round Interview",
+      "body": "Give them an 8 -hour project to complete and pay them for the project (~$200).  Give them 1 week to finish project.  Have a meeting to discuss the code.  Look for bugs and faulty logic.  Have them explain the code so you know they did it themselves.  Have them replicate and fix bugs in front of you."
+    },
+    {
+      "id": "4385",
+      "title": "Commute",
+      "body": "Find countries (like Phillippines) where their downtowns are overcrowded, growing and they don’t have great transportation infrastructure.  When workers have to commute 3-4 hours a day they will be more incentivized to want to work remotely.  Don’t rent an office that is tough to get to an make them commute.  Find the districts in the outskirts of town and try to hire there."
+    },
+    {
+      "id": "4386",
+      "title": "Tips",
+      "body": "Don’t just accept the first person they assign, give precise directions, give short deadlines, define order of importance for tasks, don’t give too many tasks, ask for conformation when completed, give permission to ask for clarification.  "
+    },
+    {
+      "id": "4387",
+      "title": "Virtual Assistant Firms",
+      "body": "Brickwork, YMII, see website library."
+    },
+    {
+      "id": "4388",
+      "title": "Issues w/Requirements",
+      "body": "   Training, communication, clear requirements docs, sprint meetings, and standups will help with requirement ambiguity.  Knowledge of the English language is very important.  Countries like Philippines begin teaching English as early as second grade.  For them language is not as much of an issue.  "
+    }
+  ]
+}
+

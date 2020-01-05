@@ -1,0 +1,47 @@
+{
+  "subject": "User Experience Checklist",
+  "credit": "User Experience Checklist",
+  "todos": [
+    {
+      "id": "6546",
+      "title": "Build List",
+      "body": "Identify a list of potential customers that fit the hypothesized primary profile (see above).  Use the hypothesized sales strategy as a recruiting strategy. For example, if you suspect that blast emails might work to sell the product, create a blast email to recruit research participants"
+    },
+    {
+      "id": "6547",
+      "title": "Sales Strategy",
+      "body": "Develop a hypothesized sales strategy that is highly scalable {blast email; cold calling campaign and script; Google Adwords ad and splash page). Word of mouth or personal connections is likely not highly scalable."
+    },
+    {
+      "id": "6548",
+      "title": "Track Results",
+      "body": "Create a Google form that contains all the inputs required to generate a list of data for the primary target"
+    },
+    {
+      "id": "6549",
+      "title": "Interview",
+      "body": "Conduct exploratory interviews to understand key feature needs for the narrowly defined primary target; Gauge interest in proposed solutions to validate the primary target as the correct target; Ask what type of list of people they would want and listen to how they define their customer"
+    },
+    {
+      "id": "6550",
+      "title": "Modify Sales Strategy",
+      "body": "Using data from tracking your user interviews, modify customer profile, sales strategy, build lists, setup outbound and inbound sales process, cadences, lead nurturing, sell."
+    },
+    {
+      "id": "6551",
+      "title": "Customer Profile",
+      "body": "Finalize the hypothesized customer profile. Brainstorm what factors most dramatically distinguish users from another {e.g., age, use, current solution, size, gender, type of sales, tech savviness, title, problem, inputs, outputs, education, target, B2B/B2C, Co Age, Co Size, Experience, Sales Cycle, LTV, etc)."
+    },
+    {
+      "id": "6552",
+      "title": "Revise Mockups",
+      "body": "Continue to iterate on the mocked-up user interface until 80% of users are able to successfully complete the steps needed to pull the list of information they need"
+    },
+    {
+      "id": "6553",
+      "title": "Develop Product",
+      "body": "Build it.  "
+    }
+  ]
+}
+

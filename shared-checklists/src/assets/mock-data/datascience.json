@@ -1,0 +1,157 @@
+{
+  "subject": "Data Science Checklist, Analyzing the Analyzers",
+  "credit": "Data Science Checklist, Analyzing the Analyzers",
+  "todos": [
+    {
+      "id": "1146",
+      "title": "Visualization",
+      "body": "Vis.js"
+    },
+    {
+      "id": "1147",
+      "title": "Tools",
+      "body": "Tools, technical expertise, mentoring, curiosity, storytelling, and cleverness are critical to data scientists effectiveness."
+    },
+    {
+      "id": "1148",
+      "title": "Structured Data",
+      "body": "SQL, JSON, XML"
+    },
+    {
+      "id": "1149",
+      "title": "Analytics",
+      "body": "spatial analytics, business intelligence, clustering"
+    },
+    {
+      "id": "1150",
+      "title": "Graphical Models",
+      "body": "social networks, Bayes networks"
+    },
+    {
+      "id": "1151",
+      "title": "Data",
+      "body": "regexes, R, SAS, web scraping, data mining, databases"
+    },
+    {
+      "id": "1152",
+      "title": "Unstructured Data",
+      "body": "noSQL, text mining"
+    },
+    {
+      "id": "1153",
+      "title": "Working with companies",
+      "body": "Need access to raw data and decision makers.  "
+    },
+    {
+      "id": "1154",
+      "title": "Surveys and Marketing",
+      "body": "multinomial modeling"
+    },
+    {
+      "id": "1155",
+      "title": "Bayesian/Monte-Carlo Statistics",
+      "body": "MCMC, BUGS"
+    },
+    {
+      "id": "1156",
+      "title": "Business",
+      "body": "management, business development, budgeting, communication, economics"
+    },
+    {
+      "id": "1157",
+      "title": "Optimization",
+      "body": "linear, integer, convex, global"
+    },
+    {
+      "id": "1158",
+      "title": "Math",
+      "body": "linear algebra, real analysis, calculus"
+    },
+    {
+      "id": "1159",
+      "title": "Front-End Programming",
+      "body": "JavaScript, HTML, CSS"
+    },
+    {
+      "id": "1160",
+      "title": "Back-End Programming",
+      "body": "JAVA/Rails/Objective C"
+    },
+    {
+      "id": "1161",
+      "title": "Programs/Languages",
+      "body": "Hadoop, SVM, Scala, R, Matlab,"
+    },
+    {
+      "id": "1162",
+      "title": "Big and Distributed Data",
+      "body": "Hadoop, Map/Reduce"
+    },
+    {
+      "id": "1163",
+      "title": "Spatial Statistics",
+      "body": "geographic covariates, GIS"
+    },
+    {
+      "id": "1164",
+      "title": "Classical Statistics",
+      "body": "general linear model, ANOVA"
+    },
+    {
+      "id": "1165",
+      "title": "Temporal Statistics",
+      "body": "forecasting, time-series analysis"
+    },
+    {
+      "id": "1166",
+      "title": "Science",
+      "body": "experimental design, technical writing/publishing, social or physical science"
+    },
+    {
+      "id": "1167",
+      "title": "Spreadsheets",
+      "body": "Excel"
+    },
+    {
+      "id": "1168",
+      "title": "Simulation",
+      "body": "discrete, agent-based, continuous"
+    },
+    {
+      "id": "1169",
+      "title": "Product Development",
+      "body": "design, project management"
+    },
+    {
+      "id": "1170",
+      "title": "Machine Learning",
+      "body": "decision trees, neural nets, SVM, clustering"
+    },
+    {
+      "id": "1171",
+      "title": "Four types of data scientists",
+      "body": "Data developer (programmer, engineer), Data researcher (researcher, scientist, statistician), Data businessperson (leader, businessperson, entrepreneur)"
+    },
+    {
+      "id": "1172",
+      "title": "Algorithms",
+      "body": "computational complexity, CS theory"
+    },
+    {
+      "id": "1173",
+      "title": "Systems Administration",
+      "body": "*nix, DBA, cloud tech"
+    },
+    {
+      "id": "1174",
+      "title": "Interview question",
+      "body": "Find a publicly available data set at least several hundred gigabytes in size, pose and answer an interesting question about the data, and detail all steps, assumptions, and conclusions, including code."
+    },
+    {
+      "id": "1175",
+      "title": "Data science qualifications",
+      "body": "Defining feature of data scientists is the breadth of their skills — their ability to single-handedly do at least prototype-level versions of all the steps needed to derive new insights or build data products.  Most successful data scientists are those with substantial, deep expertise in at least one aspect of data science, be it statistics, big data, or business communication."
+    }
+  ]
+}
+

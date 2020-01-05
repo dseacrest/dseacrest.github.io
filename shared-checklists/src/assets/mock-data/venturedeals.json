@@ -1,0 +1,332 @@
+{
+  "subject": "Venture Deals Checklist",
+  "credit": "Venture Deals Checklist",
+  "todos": [
+    {
+      "id": "6677",
+      "title": "Vesting",
+      "body": "Typical stock options will vest over four years.  Make sure you can purchase unvested stock at financing price if you leave the company or are terminated."
+    },
+    {
+      "id": "6678",
+      "title": "Stages",
+      "body": "Seed funding, Series A…B…C…, Qualified IPO."
+    },
+    {
+      "id": "6679",
+      "title": "Approval by investor’s partnership",
+      "body": "Secret code that the deal has not been fully approved."
+    },
+    {
+      "id": "6680",
+      "title": "Anti-dilution Clause",
+      "body": "Protects investor if future financing wounds have a lower valuation.  "
+    },
+    {
+      "id": "6681",
+      "title": "Employee Pool Trap",
+      "body": "larger employee stock option pools are good but they lower your pre-money valuation.  In other words they reduce your valuation.  "
+    },
+    {
+      "id": "6682",
+      "title": "Demo",
+      "body": "Is the best presentation."
+    },
+    {
+      "id": "6683",
+      "title": "Lawyer",
+      "body": "Is a reflection upon you.  Early stage fees should cost $5,000 to $15,000 and later stages $25,000 to $40,000."
+    },
+    {
+      "id": "6684",
+      "title": "Super Angels/Micro VC",
+      "body": "Individual invested in many startups."
+    },
+    {
+      "id": "6685",
+      "title": "Single Vote",
+      "body": "If you have multiple classes of shares make sure there is only one layer of voting.  "
+    },
+    {
+      "id": "6686",
+      "title": "Clawback",
+      "body": "If VCs get paid on a good investment but then lose money on a bad investment, the fund might have the option to get back some of the profit paid to the VC."
+    },
+    {
+      "id": "6687",
+      "title": "Drag Along Agreement",
+      "body": "If a certain amount of investors vote one way, the other investors are required to do the same."
+    },
+    {
+      "id": "6688",
+      "title": "VC Money Sources",
+      "body": "Gov’t and corporate pension funds, large corporations, banks, institutional investors, educational endowments, high-net-worth individuals, funds of funds, charitable organizations, insurance companies, trusts.  VCs keep little cash on hand and have to ask for capital calls for each investment.  Management fee is usually 1.5 to 2.5%."
+    },
+    {
+      "id": "6689",
+      "title": "EIR",
+      "body": "Entrepreneurs in residence.  Split time working at VC and working on product."
+    },
+    {
+      "id": "6690",
+      "title": "Convertible Note Upon Sale of Company",
+      "body": "Either lender gets money plus interest, lender gets money, interest, and multiple, or a conversion occurs."
+    },
+    {
+      "id": "6691",
+      "title": "Two Things VCs Care About",
+      "body": "Economics and Control."
+    },
+    {
+      "id": "6692",
+      "title": "VC Etiquette",
+      "body": "Don’t spam, no means no, don’t ask for a referral if you get a no, don’t be solo founder,"
+    },
+    {
+      "id": "6693",
+      "title": "Syndicate",
+      "body": "Collection of investors. The lead investor should speak for the whole syndicate."
+    },
+    {
+      "id": "6694",
+      "title": "83(b) Election",
+      "body": "Capital gains treatment.  Must be done within 30 days after receiving your stock in a company.  "
+    },
+    {
+      "id": "6695",
+      "title": "Term Sheet",
+      "body": "Average 8 pages."
+    },
+    {
+      "id": "6696",
+      "title": "Single-trigger acceleration",
+      "body": "Automatic vesting upon merger of the company."
+    },
+    {
+      "id": "6697",
+      "title": "Double trigger acceleration",
+      "body": "Automatic vesting upon both merger and employee being fired.  "
+    },
+    {
+      "id": "6698",
+      "title": "BATNA",
+      "body": "Always have in your pocket a best alternative negotiated agreement.  Time things so that you are receiving term sheets at the same time.   Be open and transparent but never share term sheets.  "
+    },
+    {
+      "id": "6699",
+      "title": "Three Keys to Negotiating Financing",
+      "body": "Achieve a good and fair result, don’t kill your relationship or reputation, and understand the deal you are striking.  Pick a few things that really matter to you and let the rest be flexible.  Ask them what their three most important things are.  Get to know whom you are dealing with.  Figure out your superpower and their kryptonite."
+    },
+    {
+      "id": "6700",
+      "title": "Four Responses",
+      "body": "Willing to take lead investment, willing to follow a lead investment, slow no, and hell no.  The middle two are the most dangerous.  "
+    },
+    {
+      "id": "6701",
+      "title": "Less is more",
+      "body": "When presenting to an investor keep it to 10 slides or less."
+    },
+    {
+      "id": "6702",
+      "title": "Protective Provisions",
+      "body": "Veto rights by investors for certain actions by company.  Ex change stock terms, authorize more stock, issue senior stock, by back common stock, sell company, change incorporation or bylaws, change size of board, pay dividend, borrow money."
+    },
+    {
+      "id": "6703",
+      "title": "Experience",
+      "body": "VCs look at experience of team as much as quality of product.  "
+    },
+    {
+      "id": "6704",
+      "title": "Pattern Recognition",
+      "body": "VCs are in the business of pattern recognition.  Know the companies that they see as successful and pattern like them.  "
+    },
+    {
+      "id": "6705",
+      "title": "Letter of Intent",
+      "body": "Used for purchase-sales.  "
+    },
+    {
+      "id": "6706",
+      "title": "Social Media",
+      "body": "Use it to research your VC."
+    },
+    {
+      "id": "6707",
+      "title": "Age of Fund",
+      "body": "The older the age of the fund, the more problems can occur with investor liquidity.  Most VCs can raise new money when around 70% of existing fund is committed."
+    },
+    {
+      "id": "6708",
+      "title": "409A Valuations",
+      "body": "Stock options to employees must be fair market value.  "
+    },
+    {
+      "id": "6709",
+      "title": "Financials",
+      "body": "Should include revenue forecasts and burn rates."
+    },
+    {
+      "id": "6710",
+      "title": "Managing Directors/General Partners",
+      "body": "Run the show. Insist on developing a direct relationship with them."
+    },
+    {
+      "id": "6711",
+      "title": "Pro-rata right",
+      "body": "Right of first refusal."
+    },
+    {
+      "id": "6712",
+      "title": "Key Man Clause",
+      "body": "Provision if a key person leaves the company."
+    },
+    {
+      "id": "6713",
+      "title": "Pre v. Post Money Trap",
+      "body": "Pre-money means they are calculating their equity with their investment added to your valuation (ex $5 with $20 valuation gets 20%).  Post money which is most often used means they are calculating their percent equity without their money added to valuation (ex $5 with $20 valuation gets 25%).  Make sure you clarify."
+    },
+    {
+      "id": "6714",
+      "title": "Early Stage",
+      "body": "Pay attention to liquidation preference and protective provisions."
+    },
+    {
+      "id": "6715",
+      "title": "Later Stages",
+      "body": "Pay attention to board and voting control."
+    },
+    {
+      "id": "6716",
+      "title": "Warrant",
+      "body": "Option to buy stock at a certain price for a given term.  "
+    },
+    {
+      "id": "6717",
+      "title": "Sharing Ideas",
+      "body": "Only share your ideas with people you know and would trust.  "
+    },
+    {
+      "id": "6718",
+      "title": "Accredited Investors",
+      "body": "Only certain individuals can by stock.  "
+    },
+    {
+      "id": "6719",
+      "title": "Convertible Debt",
+      "body": "Note with interest (6 to 12%) that converts to preferred stock usually when another round is raised.  Can include a discount value (10 to 20%) and a valuation cap to incentivize investor.  Consider a reasonable time horizon with forced conversion and a floor, not a ceiling on conversion value."
+    },
+    {
+      "id": "6720",
+      "title": "First Offer",
+      "body": "Never make the first offer.  "
+    },
+    {
+      "id": "6721",
+      "title": "Ethics",
+      "body": "Never assume that the other side has the same ethical code as you.  "
+    },
+    {
+      "id": "6722",
+      "title": "Dealing with Family",
+      "body": "Need to 1.) treat investment as a lottery ticket and 2.) know that holidays are not investor relations meetings."
+    },
+    {
+      "id": "6723",
+      "title": "State of Incorporation",
+      "body": "Most VCs prefer Delaware because corporate law is well defined and business friendly.  "
+    },
+    {
+      "id": "6724",
+      "title": "Liquidation Preference",
+      "body": "Money returned to a series of stock ahead of other series of stock.  Used on event of mergers, acquisitions, funding, change of control."
+    },
+    {
+      "id": "6725",
+      "title": "Competition",
+      "body": "Make VCs compete by getting multiple term sheets."
+    },
+    {
+      "id": "6726",
+      "title": "Employment Agreements",
+      "body": "Make sure they are negotiated beforehand and included in the deal."
+    },
+    {
+      "id": "6727",
+      "title": "Angel Investor",
+      "body": "Individual investor.  "
+    },
+    {
+      "id": "6728",
+      "title": "Prisoner’s Dilemma",
+      "body": "If two prisoners cooperate, the outcome is best for both of them."
+    },
+    {
+      "id": "6729",
+      "title": "Pay to Play",
+      "body": "If investor does not participate in future fundraising their preferred stock is converted to common stock.  "
+    },
+    {
+      "id": "6730",
+      "title": "Convertible Debt Caution",
+      "body": "If a company has more debt than assets they are technically insolvent and may have a fiduciary responsibility to debtors, not equity.  Some states impose personal liability on directors for things that occur when insolvent.  In other words, make sure you are following the law.  "
+    },
+    {
+      "id": "6731",
+      "title": "Confidence",
+      "body": "Have the mindset that you will succeed in your quest of raising funds."
+    },
+    {
+      "id": "6732",
+      "title": "Typical Board",
+      "body": "Five members, founder, CEO, VC, second VC, and outside board member.  Outside board members are usually compensated with stock options."
+    },
+    {
+      "id": "6733",
+      "title": "Early Stage Valuation",
+      "body": "Experience of entrepreneur, amount being raised, perception of overall opportunity.  Current economic climate also plays a big part.  "
+    },
+    {
+      "id": "6734",
+      "title": "Carried Interest",
+      "body": "Dwarfs VCs management fee.  Profit VCs get after returning money to investors.  VCs also recycle their management fees into their investments.  "
+    },
+    {
+      "id": "6735",
+      "title": "NDAs",
+      "body": "Don’t ask a VC for a non-disclosure agreement.  Guard your secrets but don’t be afraid to share ideas with VCs.  They want to protect them like you do.  "
+    },
+    {
+      "id": "6736",
+      "title": "No-Shop Agreement",
+      "body": "Companies agree not to continue to shop around and to close agreement.  "
+    },
+    {
+      "id": "6737",
+      "title": "Private Placement Memorandum",
+      "body": "Business plan with legal disclaimers."
+    },
+    {
+      "id": "6738",
+      "title": "Negotiating Styles",
+      "body": "Bully (stay cool), Nice Guy (pressure to close), Detail Guy (don’t lose focus on big picture), Wimp (don’t be greedy, negotiate for both sides), Curmudgeon (patient, upbeat, tolerant, realize that you’ll never please)."
+    },
+    {
+      "id": "6739",
+      "title": "Conversion",
+      "body": "Allowing investors to convert preferred stock into common stock to avoid participation amount."
+    },
+    {
+      "id": "6740",
+      "title": "Employment Lawyer",
+      "body": "Add one to your team.  Create an employee management checklist.  "
+    },
+    {
+      "id": "6741",
+      "title": "Proprietary Information and Inventions Agreement",
+      "body": ""
+    }
+  ]
+}
+

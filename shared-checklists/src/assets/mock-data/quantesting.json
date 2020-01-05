@@ -1,0 +1,62 @@
+{
+  "subject": "Quantative Testing Checklist",
+  "credit": "Quantative Testing Checklist",
+  "todos": [
+    {
+      "id": "5312",
+      "title": "Surveys",
+      "body": "Surveys are not good at getting in touch with your users because you will either have to ask closed ended questions that will bias the results or open-ended questions that won’t get you to what you need to know.  To get a lot of information, use the telephone.  Surveys are not good at generating hypotheses but may be okay at validating hypotheses.  "
+    },
+    {
+      "id": "5313",
+      "title": "Landing Page Testing",
+      "body": "Setting up multiple landing pages to test out how many people are interested in a product, your messaging, etc."
+    },
+    {
+      "id": "5314",
+      "title": "Best Use Case",
+      "body": "Quantitative testing is best when you have few variables that you want to test.  Goal is to develop results that are statistically significant."
+    },
+    {
+      "id": "5315",
+      "title": "User Tracking",
+      "body": "Tracking what features the users are using, what they are clicking on, what pages they are visiting.  "
+    },
+    {
+      "id": "5316",
+      "title": "Sales/Validation Interviews",
+      "body": "Testing with sales or validation interviews.  Expensive and not recommended until you prove several hypotheses.  "
+    },
+    {
+      "id": "5317",
+      "title": "Quantative Testing",
+      "body": "Surveying a user’s specific performance or opinion on specific and narrow level.  "
+    },
+    {
+      "id": "5318",
+      "title": "NPS Survey",
+      "body": "Net promoter score is a way to establish accountability for the customer experience through a simple one question proven feedback; “On a scale from xero to ten, how likely are you to recommend our services/product to a friend…what is the primary reason for giving us this score?”"
+    },
+    {
+      "id": "5319",
+      "title": "Old Fashioned Research",
+      "body": "Looking things up online. Using existing quantitative studies that closely resemble your study."
+    },
+    {
+      "id": "5320",
+      "title": "A/B Testing",
+      "body": "Good for getting statistically significant data that you can hang your hat on, proving hypothesis, understand what customers are actually doing, make decisions on what to cut and what to improve, validate design decision and hypotheses, see which small changes have big impact on metrics.  Not good if you are constantly making many changes on your product, message, etc.  In other words not great for early testing unless you are isolating your changes and can test them individually."
+    },
+    {
+      "id": "5321",
+      "title": "Cohort Analysis",
+      "body": "Cohort analysis is a subset of behavioral analytics that rather than looking at all users as one unit, it breaks them into related groups for analysis."
+    },
+    {
+      "id": "5322",
+      "title": "Feature Stub (Fake Door)",
+      "body": "Add a button that says upgrade or buy to test whether users will pay additional for a certain feature or version of your software.  "
+    }
+  ]
+}
+

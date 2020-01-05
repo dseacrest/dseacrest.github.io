@@ -1,0 +1,132 @@
+{
+  "subject": "Personal Fuel Checklist.",
+  "credit": "Personal Fuel Checklist.",
+  "todos": [
+    {
+      "id": "4527",
+      "title": "Analysis Paralysis",
+      "body": "Paralyzed by tough decision?"
+    },
+    {
+      "id": "4528",
+      "title": "Meditation",
+      "body": "Have you meditated?"
+    },
+    {
+      "id": "4529",
+      "title": "Stress",
+      "body": "Balance of stress (negative threat) and eustress (positive challenge with meaning hope or vigor)?"
+    },
+    {
+      "id": "4530",
+      "title": "Eating",
+      "body": "Balance in healthy foods?"
+    },
+    {
+      "id": "4531",
+      "title": "Mental Training",
+      "body": "Balance in exercising your mind?"
+    },
+    {
+      "id": "4532",
+      "title": "Relationships",
+      "body": "Are there any relationships in disarray?"
+    },
+    {
+      "id": "4533",
+      "title": "Objective",
+      "body": "Unsure whether something is a fact or interpretation?"
+    },
+    {
+      "id": "4534",
+      "title": "Triggers",
+      "body": "Other triggers?"
+    },
+    {
+      "id": "4535",
+      "title": "Alcohol",
+      "body": "Moderation in alcohol consumption?  "
+    },
+    {
+      "id": "4536",
+      "title": "Intimacy",
+      "body": "Intimacy issues?"
+    },
+    {
+      "id": "4537",
+      "title": "Judgment",
+      "body": "Have you been too hard on others?"
+    },
+    {
+      "id": "4538",
+      "title": "Self",
+      "body": "Have you been taking enough time for yourself?"
+    },
+    {
+      "id": "4539",
+      "title": "Values",
+      "body": "Have you been sticking to your values?"
+    },
+    {
+      "id": "4540",
+      "title": "Illness/Injury",
+      "body": "Have you been sick or have others been sick, have you been washing hands?"
+    },
+    {
+      "id": "4541",
+      "title": "Time Management",
+      "body": "Have you been properly managing your time?"
+    },
+    {
+      "id": "4542",
+      "title": "Listen",
+      "body": "Have you been listening to others?"
+    },
+    {
+      "id": "4543",
+      "title": "Temperature",
+      "body": "Have you been in environments of severe temperature?"
+    },
+    {
+      "id": "4544",
+      "title": "Guidance",
+      "body": "Have you been helping guide others?"
+    },
+    {
+      "id": "4545",
+      "title": "Purpose",
+      "body": "Do you have a clear purpose for your actions and goals?"
+    },
+    {
+      "id": "4546",
+      "title": "Present",
+      "body": "Do you feel present in the moment?"
+    },
+    {
+      "id": "4547",
+      "title": "Stressors",
+      "body": "Can you list other stressors?  "
+    },
+    {
+      "id": "4548",
+      "title": "Physically Stable",
+      "body": "Balance in sitting and standing?"
+    },
+    {
+      "id": "4549",
+      "title": "Gym",
+      "body": "Balance in exercise?"
+    },
+    {
+      "id": "4550",
+      "title": "Big Picture",
+      "body": "Are you looking at big picture or too focused on details?"
+    },
+    {
+      "id": "4551",
+      "title": "Wrong Seat",
+      "body": "Are the people you are working with in the right seat?"
+    }
+  ]
+}
+

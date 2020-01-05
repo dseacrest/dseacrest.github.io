@@ -1,0 +1,77 @@
+{
+  "subject": "Data Smart Checklist",
+  "credit": "Data Smart Checklist",
+  "todos": [
+    {
+      "id": "1185",
+      "title": "Index()",
+      "body": "Returns the value of a cell when given the row and column."
+    },
+    {
+      "id": "1186",
+      "title": "Offset()",
+      "body": "Returns the offsetting row and column to a given reference."
+    },
+    {
+      "id": "1187",
+      "title": "Random Value from 0 to 1",
+      "body": "Rand()"
+    },
+    {
+      "id": "1188",
+      "title": "Min/Max()",
+      "body": "Provides the min or max value in an array."
+    },
+    {
+      "id": "1189",
+      "title": "Sumproduct()",
+      "body": "Provides a single sum value when multiplying two or more arrays.  May need to transpose value of arrays so they face the same way.  "
+    },
+    {
+      "id": "1190",
+      "title": "Small/Large()",
+      "body": "Provide the nth smallest or largest number."
+    },
+    {
+      "id": "1191",
+      "title": "Array Formulas",
+      "body": "Must end with ctrl/cmd plus shift plus enter."
+    },
+    {
+      "id": "1192",
+      "title": "Moving Quickly Around Excel",
+      "body": "Move to or select to first or last populated row or column by clicking ctrl/cmd button plus arrow or ctrl/cmd plus shift plus arrows.  "
+    },
+    {
+      "id": "1193",
+      "title": "Vlookup()",
+      "body": "Looks up offsetting value from a keyword.  "
+    },
+    {
+      "id": "1194",
+      "title": "Match()",
+      "body": "Gives back the position of keyword you are searching for."
+    },
+    {
+      "id": "1195",
+      "title": "Find/Replace",
+      "body": "Ctrl/cmd plus F (H for replace)"
+    },
+    {
+      "id": "1196",
+      "title": "Pivot tables",
+      "body": "Builds dynamic tables from a set of data."
+    },
+    {
+      "id": "1197",
+      "title": "Solver",
+      "body": "Add solver by going to Options or Tools and Add-ins.  Solver uses an objective cell that you want to minimize, maximize or equal value, allows you to select the array of values that can be changed to affect the optimized value, and allows you to input constraints to get the optimal solution.  "
+    },
+    {
+      "id": "1198",
+      "title": "Absolute Reference",
+      "body": "Add “!” or click ctrl/cmd plus T."
+    }
+  ]
+}
+

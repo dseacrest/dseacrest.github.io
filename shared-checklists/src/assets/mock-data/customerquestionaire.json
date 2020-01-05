@@ -1,0 +1,122 @@
+{
+  "subject": "Customer Questionnaire Checklist",
+  "credit": "Customer Questionnaire Checklist",
+  "todos": [
+    {
+      "id": "1051",
+      "title": "Costs",
+      "body": "What is your cost of not solving this problem?"
+    },
+    {
+      "id": "1052",
+      "title": "Growth",
+      "body": "What are your growth plans?"
+    },
+    {
+      "id": "1053",
+      "title": "Switch",
+      "body": "Why are you changing firms?"
+    },
+    {
+      "id": "1054",
+      "title": "Standards",
+      "body": "What service standards do you have of us?"
+    },
+    {
+      "id": "1055",
+      "title": "Privacy",
+      "body": "What privacy issues do you have and are there certain pieces of information or meetings you want us to stay away from?"
+    },
+    {
+      "id": "1056",
+      "title": "Stresses",
+      "body": "What keeps you up at night?"
+    },
+    {
+      "id": "1057",
+      "title": "Model",
+      "body": "What is you business model?"
+    },
+    {
+      "id": "1058",
+      "title": "Restrooms",
+      "body": "What is the state of your restrooms?"
+    },
+    {
+      "id": "1059",
+      "title": "Highest Value",
+      "body": "What is the most value to you?"
+    },
+    {
+      "id": "1060",
+      "title": "Expectations",
+      "body": "What do you expect from us?"
+    },
+    {
+      "id": "1061",
+      "title": "Pains",
+      "body": "What are your current problems?"
+    },
+    {
+      "id": "1062",
+      "title": "Alternative",
+      "body": "What are your alternatives (products and competitors) to this solution?"
+    },
+    {
+      "id": "1063",
+      "title": "Success",
+      "body": "What are you company’s success factors/key predictive indicators?"
+    },
+    {
+      "id": "1064",
+      "title": "Associates",
+      "body": "May we contact your associates for information?"
+    },
+    {
+      "id": "1065",
+      "title": "Lottery",
+      "body": "If price were not an issue what would you have us do?"
+    },
+    {
+      "id": "1066",
+      "title": "Turnaround",
+      "body": "How quick do you expect responses to e-mails and delivered product?"
+    },
+    {
+      "id": "1067",
+      "title": "Newness",
+      "body": "How new is your firm?"
+    },
+    {
+      "id": "1068",
+      "title": "Decision Timeline",
+      "body": "How much time do you have to select a firm?"
+    },
+    {
+      "id": "1069",
+      "title": "Value",
+      "body": "How do you see us adding value?"
+    },
+    {
+      "id": "1070",
+      "title": "Referral",
+      "body": "How did you hear about us?"
+    },
+    {
+      "id": "1071",
+      "title": "Boomerang",
+      "body": "Have you returned after pricing elsewhere (usually means pricing is too low and customer is only focused on price – not a great customer)"
+    },
+    {
+      "id": "1072",
+      "title": "Options",
+      "body": "Are you pricing with other firms?"
+    },
+    {
+      "id": "1073",
+      "title": "Who’s Money",
+      "body": "Are you paying with your money or billing this out?"
+    }
+  ]
+}
+

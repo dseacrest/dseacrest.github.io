@@ -1,0 +1,338 @@
+{
+  "subject": "Design of Everyday Things Checklist",
+  "credit": "Design of Everyday Things Checklist",
+  "todos": [
+    {
+      "id": "1263",
+      "title": "Human Error Myth",
+      "body": "When something fails, it means that it was not designed properly.  "
+    },
+    {
+      "id": "1264",
+      "title": "Anti Affordance",
+      "body": "The prevention of interaction."
+    },
+    {
+      "id": "1265",
+      "title": "Subconscious v. Conscious",
+      "body": "Subconscious is fast, automatic, multiple resources, conscious is slow, controlled, limited resources."
+    },
+    {
+      "id": "1266",
+      "title": "Short Term Memory",
+      "body": "Limited to five to seven items."
+    },
+    {
+      "id": "1267",
+      "title": "Discoverability",
+      "body": "Is it possible to figure out what actions are possible and how to perform them.  "
+    },
+    {
+      "id": "1268",
+      "title": "Understanding",
+      "body": "How is the product supposed to be used?"
+    },
+    {
+      "id": "1269",
+      "title": "Hidden",
+      "body": "Hide all critical components that are not necessary for user.  The ideal product should have one button."
+    },
+    {
+      "id": "1270",
+      "title": "Poka-Yoke",
+      "body": "Error proofing.  Devices to constrain operations so they are done correctly.  "
+    },
+    {
+      "id": "1271",
+      "title": "Good Enough",
+      "body": "Don’t strive for perfection in every single aspect of the design and be willing to settle for good enough.  "
+    },
+    {
+      "id": "1272",
+      "title": "Paper",
+      "body": "Always draw it first on paper."
+    },
+    {
+      "id": "1273",
+      "title": "Testing Environment",
+      "body": "You don’t test a real shotgun playing buck hunter.  Test your product in a fully developed environment that best matches the user’s situation."
+    },
+    {
+      "id": "1274",
+      "title": "Focus",
+      "body": "You can have a broad customers segment or a broad product feature/user experience but not both (Ex  Anyone can use Google but it has a very narrow product feature/simple user experience, Not everyone can use Microsoft Excel but it has a much broader product features/more advanced user experience)"
+    },
+    {
+      "id": "1275",
+      "title": "Five Whys",
+      "body": "When searching for the reason to a problem ask why it happened, then asked why that happened four more times.  When do you stop the blame?"
+    },
+    {
+      "id": "1276",
+      "title": "Drill Down",
+      "body": "When people go to a bookstore to buy a drill, that is not their real goal.  Perhaps they want to install shelves so why not discover their true goal and design shelves that don’t require a drill.  "
+    },
+    {
+      "id": "1277",
+      "title": "Random Objects",
+      "body": "Think of random objects and try to find ways to apply them to your product.  "
+    },
+    {
+      "id": "1278",
+      "title": "Mistake Error",
+      "body": "The wrong goal or wrong plan is established.  "
+    },
+    {
+      "id": "1279",
+      "title": "Mapping",
+      "body": "The relationship between the elements of two sets of things.  Mapping helps mimic a product to help the user understand how to interact with the product.  An example is the placing the switches for a stove top in the same order and position to mimic the burners that they operate.  "
+    },
+    {
+      "id": "1280",
+      "title": "Different",
+      "body": "The attempt to match competition is what makes all products the same.  Focus on your users (“customer obsessed”), and throw off the competition.  "
+    },
+    {
+      "id": "1281",
+      "title": "Semantics",
+      "body": "Study of meaning.  "
+    },
+    {
+      "id": "1282",
+      "title": "Feedback",
+      "body": "Some way of letting you know that the system is working on your request.  Remember that too much feedback (dishwasher beeping at 3am) can be annoying."
+    },
+    {
+      "id": "1283",
+      "title": "Sleep Rehearsal",
+      "body": "Sleep helps us rehearse things in our head.  "
+    },
+    {
+      "id": "1284",
+      "title": "Feedforward",
+      "body": "Signifiers, constraints and mapping that help indicate what a user can do with the product.  "
+    },
+    {
+      "id": "1285",
+      "title": "Wizard of Oz",
+      "body": "Set a customer up in a room to interact with your software.  Have them ask it questions and instead of having the computer respond, have a person in the other room pretend to be the computer and respond.  This will help teach you a lot about your user experience."
+    },
+    {
+      "id": "1286",
+      "title": "Affordance (“is for”)",
+      "body": "Relationship between a physical object and a person.  A chair affords (is for) sitting.  If the chair weighs 300 lbs it does not afford lifting or moving.  Affordance is a relationship, not a property.  "
+    },
+    {
+      "id": "1287",
+      "title": "Accepting Multiple Formats",
+      "body": "Programs should be able to treat 1/5/15, Jan. 1, 2015 and 01-05-15 as the same."
+    },
+    {
+      "id": "1288",
+      "title": "Instructions Not Needed",
+      "body": "Products should be simple and simple products do not need instructions."
+    },
+    {
+      "id": "1289",
+      "title": "Legacy Problem",
+      "body": "Products are designed poorly because of outdated standards."
+    },
+    {
+      "id": "1290",
+      "title": "Lock-In",
+      "body": "Prevents a a person from prematurely stopping an operation.  An example is keeping the program running until it is finished saving."
+    },
+    {
+      "id": "1291",
+      "title": "Lockouts",
+      "body": "Preventing and action until something has been done.  Example password protected site."
+    },
+    {
+      "id": "1292",
+      "title": "Expectations",
+      "body": "Play and important role in our emotional lives.  "
+    },
+    {
+      "id": "1293",
+      "title": "Forcing Function",
+      "body": "Physical constraint that forces the user to do something so that they cannot fail.  An example is forcing a driver to push down the brake before you can shift gears.  "
+    },
+    {
+      "id": "1294",
+      "title": "Slip Error",
+      "body": "Person intends to do one action but ends up doing something else.  "
+    },
+    {
+      "id": "1295",
+      "title": "Learned Helplessness",
+      "body": "People experience repeated failures at a task so they assume it cannot be done.  Reason you should eliminate error message from programs and instead provide a process to help user.  "
+    },
+    {
+      "id": "1296",
+      "title": "Purchaser v. User",
+      "body": "Often the purchaser is not the user and you must design so that both parties understand.  "
+    },
+    {
+      "id": "1297",
+      "title": "Design Thinking",
+      "body": "Never solve the problem you are asked to solve.  The problem you are asked to solve is never the root problem.  "
+    },
+    {
+      "id": "1298",
+      "title": "Checklists",
+      "body": "Need to cover the essential but not too burdensome to perform.  "
+    },
+    {
+      "id": "1299",
+      "title": "Undo Command",
+      "body": "Most powerful tool to prevent errors."
+    },
+    {
+      "id": "1300",
+      "title": "Thermostat Myth",
+      "body": "Most people think that if you turn a thermostat on high, it will heat up quicker, most thermostats only have two settings, full blast until temperature is reached, and off."
+    },
+    {
+      "id": "1301",
+      "title": "Time Stress",
+      "body": "Most errors are caused by time stress.  "
+    },
+    {
+      "id": "1302",
+      "title": "Combatting Errors",
+      "body": "Minimize steps, contrast features, provide reminders, force functions (like removing card before receiving cash).  "
+    },
+    {
+      "id": "1303",
+      "title": "Multiple Faculties",
+      "body": "Make sure that people from all company divisions are involved in design process.  "
+    },
+    {
+      "id": "1304",
+      "title": "Security Balance",
+      "body": "Make something too secure and it becomes less secure.  Example, having too many passwords that you must trust them in something insecure or securing the building to much so that people end up propping certain doors with bricks.  "
+    },
+    {
+      "id": "1305",
+      "title": "Waterfall Method",
+      "body": "Linear and sequential design that is hard to backtrack when decisions have been made."
+    },
+    {
+      "id": "1306",
+      "title": "Contrast",
+      "body": "Like parts cause confusion.  Contrast everything.  "
+    },
+    {
+      "id": "1307",
+      "title": "Keep it Simple",
+      "body": "Keep it simple.  "
+    },
+    {
+      "id": "1308",
+      "title": "Skeumorphism",
+      "body": "Incorporating old fashioned and familiar ideas, images, machines, into new technologies.  "
+    },
+    {
+      "id": "1309",
+      "title": "Three Ways to Store Knowledge",
+      "body": "In the head (brain), in the outside world (journals, hard drives), and via imposing constraints on the world (setting self up for future success).  The most effective way of helping people remember something is to make it unnecessary."
+    },
+    {
+      "id": "1310",
+      "title": "Cultural Differences",
+      "body": "In Arabic and Hebrew time flows from right to left, others use a left to right system.  "
+    },
+    {
+      "id": "1311",
+      "title": "Clues",
+      "body": "Human mind with a few clues can discover how to do almost anything.  "
+    },
+    {
+      "id": "1312",
+      "title": "Resilience engineering",
+      "body": "How to help people cope with complexity under pressure."
+    },
+    {
+      "id": "1313",
+      "title": "Standards",
+      "body": "Generally accepted terms and designs to help people carry knowledge and usability from one product to another.  "
+    },
+    {
+      "id": "1314",
+      "title": "Interlock",
+      "body": "Forces an operation to take place in the correct sequence.  "
+    },
+    {
+      "id": "1315",
+      "title": "Shadowing",
+      "body": "Follow customers into the shower to identify their real problems.  "
+    },
+    {
+      "id": "1316",
+      "title": "Activity Centered Design",
+      "body": "Focus on the greater activity, not the individual tasks a person is trying to accomplish."
+    },
+    {
+      "id": "1317",
+      "title": "Constraints",
+      "body": "Features that limit options to help use the product correctly."
+    },
+    {
+      "id": "1318",
+      "title": "Featuritis",
+      "body": "Excessive features.  "
+    },
+    {
+      "id": "1319",
+      "title": "Human Centered Design",
+      "body": "Designs to accommodate human needs, habits, capabilities, behaviors, and emotions."
+    },
+    {
+      "id": "1320",
+      "title": "Swiss Cheese",
+      "body": "Design redundancies to prevent the law of compounding errors.  Requires you to identify all the possible mistakes that could be made and then install redundancies to make sure that they don’t all line up and compound.  "
+    },
+    {
+      "id": "1321",
+      "title": "CRAP",
+      "body": "Contrast, repetition, alignment, and proximity are fundamental to good design.  "
+    },
+    {
+      "id": "1322",
+      "title": "Mental Models",
+      "body": "Conceptual models in people’s minds."
+    },
+    {
+      "id": "1323",
+      "title": "Complexity",
+      "body": "Complexity is essential, confusion is undesirable.  "
+    },
+    {
+      "id": "1324",
+      "title": "Signifiers",
+      "body": "Communicate where an action should take place.  "
+    },
+    {
+      "id": "1325",
+      "title": "Jidoka (Japanese)",
+      "body": "Automation with a human touch."
+    },
+    {
+      "id": "1326",
+      "title": "Conceptual Model",
+      "body": "A highly simplified model of how something works.  "
+    },
+    {
+      "id": "1327",
+      "title": "Storytelling",
+      "body": "   Very persuasive medium.  People are innately disposed to look for causes of events to form explanations.  "
+    },
+    {
+      "id": "1328",
+      "title": "Number Five",
+      "body": "   Five is the ideal number of subjects to study for your test product."
+    }
+  ]
+}
+
+

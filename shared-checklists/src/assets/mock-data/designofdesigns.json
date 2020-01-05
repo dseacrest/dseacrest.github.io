@@ -1,0 +1,286 @@
+{
+  "subject": "Design of Designs",
+  "credit": "Design of Designs",
+  "todos": [
+    {
+      "id": "1207",
+      "title": "Creative Design",
+      "body": "Is not a matter of fixing the problem and then searching for a satisfactory solution concept, instead is creating an iteration of analysis, synthesis, and evaluation.  "
+    },
+    {
+      "id": "1208",
+      "title": "Dual Ladder",
+      "body": "Where employees have the ability to grow in compensation and ability to influence change."
+    },
+    {
+      "id": "1209",
+      "title": "Interaction",
+      "body": "When the software is used."
+    },
+    {
+      "id": "1210",
+      "title": "Change",
+      "body": "We who are crazy enough to think we can change the world are the one’s actually doing it."
+    },
+    {
+      "id": "1211",
+      "title": "Get Things in Writing",
+      "body": "We cannot always trust our own memories."
+    },
+    {
+      "id": "1212",
+      "title": "Noun Verb Rhythm",
+      "body": "Verb (make), adverb (this), object noun (door), adjective (purple)."
+    },
+    {
+      "id": "1213",
+      "title": "Settling Conflicts",
+      "body": "Use version control to manage conflicts in design."
+    },
+    {
+      "id": "1214",
+      "title": "Better Wrong Than Vague",
+      "body": "Truth will sooner come out of error than from confusion.  Make explicit assumptions and work to prove or disprove them.  "
+    },
+    {
+      "id": "1215",
+      "title": "How to Begin a Program",
+      "body": "Think about data structure and algorithm."
+    },
+    {
+      "id": "1216",
+      "title": "Specifying Nouns",
+      "body": "There must be standardization in nouns but it must also allow individual users to create individualized synonym dictionaries that supplement and override the system dictionary."
+    },
+    {
+      "id": "1217",
+      "title": "Consistency",
+      "body": "There must be a standardization of common elements across all the components, some commonality of design style must be established."
+    },
+    {
+      "id": "1218",
+      "title": "Schedule Urgency",
+      "body": "The best defense against requirement creep.  The other best defense is seasoned, domain-knowledge managers."
+    },
+    {
+      "id": "1219",
+      "title": "Small Tests",
+      "body": "Test all your assumptions and questions with the smallest test feasible to get you towards a decision.  Tests do not always need to be statistically significant but should have enough results for you to clearly identify a common pattern."
+    },
+    {
+      "id": "1220",
+      "title": "Specification is Hierarchical",
+      "body": "Style specification is inherently hierarchical and should be applied that way.  This allows for consistency.  "
+    },
+    {
+      "id": "1221",
+      "title": "How to Achieve Good Style",
+      "body": "Study other designers.  Write opinions of their style.  Practice, revise, evaluate, start over.  Constantly sketch and seek criticism.  Study exemplars."
+    },
+    {
+      "id": "1222",
+      "title": "2-D Context View",
+      "body": "Study a big spatial chunk, zoom in, create or manipulate some portion, zoom out, repeat."
+    },
+    {
+      "id": "1223",
+      "title": "Problem",
+      "body": "Sometimes the problem is to discover the problem.  The hardest part of design is deciding what to design.  Designers are supposed to help their clients discover what they want design with as minimal effort as possible to discover their hidden desires or requirements."
+    },
+    {
+      "id": "1224",
+      "title": "Changing Constraints",
+      "body": "Sometimes design breakthroughs are achieved by changing or tearing down the constraints."
+    },
+    {
+      "id": "1225",
+      "title": "Methodic Design Process",
+      "body": "See Methodic Checklist."
+    },
+    {
+      "id": "1226",
+      "title": "Firmness, Usefulness, and Delight",
+      "body": "Quality, Function, and Aesthetic Appeal."
+    },
+    {
+      "id": "1227",
+      "title": "Stifling Creativity",
+      "body": "Predictability and process can stifle good design.  A great designer should have time on the problem before the business needs are established.  The trick is to hold off on process long enough to permit great design to occur so that lesser issues can be debated once great design is on the table, rather than smothering great design in the cradle."
+    },
+    {
+      "id": "1228",
+      "title": "Design Environment",
+      "body": "Physical isolation, small teams, intense concentration, leadership by one mind."
+    },
+    {
+      "id": "1229",
+      "title": "Design Mistake #1",
+      "body": "Not designing the thing wrong but designing the wrong thing.  "
+    },
+    {
+      "id": "1230",
+      "title": "Track Scarcity",
+      "body": "Name the scarce resource and track it publicly, control it firmly."
+    },
+    {
+      "id": "1231",
+      "title": "One or Two Minds Only",
+      "body": "Most great works have been made by one mind or two working closely.  Two is a magic number for collaboration.  Encourage pair working."
+    },
+    {
+      "id": "1232",
+      "title": "Essence",
+      "body": "Mental crafting and concept constructing."
+    },
+    {
+      "id": "1233",
+      "title": "Empiricist",
+      "body": "Man is inherently flawed, anything he makes will be flawed, design process is to learn how to determine the flaws by experiment."
+    },
+    {
+      "id": "1234",
+      "title": "Spiral Design Process",
+      "body": "Iterative approach to development that includes identifying objectives, constraints, alternatives, evaluating, building prototypes, analyzing risk, testing, verifying."
+    },
+    {
+      "id": "1235",
+      "title": "Extraneousness",
+      "body": "Introducing immaterial functions that can be hidden in the system."
+    },
+    {
+      "id": "1236",
+      "title": "Accident",
+      "body": "Implementation process."
+    },
+    {
+      "id": "1237",
+      "title": "Constraints",
+      "body": "If there are no constraints there is no criteria for excellence.  Often constraints and critical resources are not dollars or time but some other resource."
+    },
+    {
+      "id": "1238",
+      "title": "Originality as a Goal or Byproduct",
+      "body": "He who seeks originality as a goal is apt to find novelty by not permanence of delight.  He who seeks working design is most apt to come up with novel designs of lasting value as a by-product.  Prideful designers will fail."
+    },
+    {
+      "id": "1239",
+      "title": "Designers",
+      "body": "Great design comes from great designers.  Find them.  Great designers require bold leaders who demand innovation.  All rules can be broken.  Great designers in the past, Joh Roebling, George Goethals, R. J. Mitchell, Seymour Cray, Ken Thompson, Dennis Ritchie."
+    },
+    {
+      "id": "1240",
+      "title": "Process Outline",
+      "body": "Goals, Desired Objectives, Utility Function, Constraints, Design Tree of Decisions."
+    },
+    {
+      "id": "1241",
+      "title": "Consistent",
+      "body": "Given a partial knowledge of the system, one can predict the remainder."
+    },
+    {
+      "id": "1242",
+      "title": "Design by Committee",
+      "body": "Generally creates products that are bloated because there are too many requirements that are not prioritized."
+    },
+    {
+      "id": "1243",
+      "title": "Protect Designers",
+      "body": "From distractions, managers, having to manage others."
+    },
+    {
+      "id": "1244",
+      "title": "Software Process",
+      "body": "Essence, Accident, Implementation."
+    },
+    {
+      "id": "1245",
+      "title": "Better Models",
+      "body": "Emphasize progressive discovery and evolution of design and are memorably visualized so they can be readily taught and understood (big charts)."
+    },
+    {
+      "id": "1246",
+      "title": "Design Tree of Decisions",
+      "body": "Do until good enough or time runs out, do again to improve utility function, backtrack up tree, explore a path not searched before, take best design.  We usually don’t know the design tree, we discover it as we go.  Nodes on a decision tree are tentative designs."
+    },
+    {
+      "id": "1247",
+      "title": "Generality",
+      "body": "Do not restrict what is inherent.  Ability to use a function for many ends.  "
+    },
+    {
+      "id": "1248",
+      "title": "Orthogonality",
+      "body": "Do not link what is independent."
+    },
+    {
+      "id": "1249",
+      "title": "Propriety",
+      "body": "Do not introduce what is immaterial."
+    },
+    {
+      "id": "1250",
+      "title": "Graphical Representation",
+      "body": "Develop a common model for the product."
+    },
+    {
+      "id": "1251",
+      "title": "Alternatives",
+      "body": "Design isn’t simply selecting from alternatives, but also realizing their existence."
+    },
+    {
+      "id": "1252",
+      "title": "Clarity",
+      "body": "Demands expansion and illustrations with examples."
+    },
+    {
+      "id": "1253",
+      "title": "Success",
+      "body": "Dangerous for the professional designer.  Failure stimulates analysis, scrutiny, re-thinking.  Study failures more than success.  Be humble."
+    },
+    {
+      "id": "1254",
+      "title": "Face to Face Time",
+      "body": "Crucial for collaborating teams.  "
+    },
+    {
+      "id": "1255",
+      "title": "Customize Process",
+      "body": "Challenge every process to make sure it best fits the problem you are trying to solve."
+    },
+    {
+      "id": "1256",
+      "title": "Competition",
+      "body": "Can be seen as an alternative to collaboration.  "
+    },
+    {
+      "id": "1257",
+      "title": "Exemplars in Design",
+      "body": "Bringing past solutions to the table."
+    },
+    {
+      "id": "1258",
+      "title": "Specifying Adverbs",
+      "body": "Be careful making statements without properly clarity (ex  Move, which way, how far, to where)."
+    },
+    {
+      "id": "1259",
+      "title": "Fixing Things",
+      "body": "Be careful fixing what you don’t understand.  Two wrong things are worse than one wrong thing."
+    },
+    {
+      "id": "1260",
+      "title": "Estimation",
+      "body": "Be careful about estimation, it can lop off design branches that are in fact feasible but do not appear to be feasible.  Incorporate estimation through small tests if at all possible."
+    },
+    {
+      "id": "1261",
+      "title": "Parsimony",
+      "body": "Accomplishing a great deal with few elements."
+    },
+    {
+      "id": "1262",
+      "title": "Process",
+      "body": "A good process and project manager blends both proven processes and personal experience when creating a design process.  No two processes should be the same."
+    }
+  ]
+}

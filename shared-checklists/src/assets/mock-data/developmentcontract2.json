@@ -1,0 +1,697 @@
+{
+  "subject": "Development Checklist - Contract Negotiations Part 2",
+  "credit": "Development Checklist - Contract Negotiations Part 2",
+  "todos": [
+    {
+      "id": "1567",
+      "title": "Litigation",
+      "body": ""
+    },
+    {
+      "id": "1568",
+      "title": "LLC Endorsement Certificate",
+      "body": ""
+    },
+    {
+      "id": "1569",
+      "title": "Loan Fee",
+      "body": ""
+    },
+    {
+      "id": "1570",
+      "title": "Loans by Members",
+      "body": ""
+    },
+    {
+      "id": "1571",
+      "title": "Loss Payee",
+      "body": ""
+    },
+    {
+      "id": "1572",
+      "title": "Maintenance and Repairs Responsibility",
+      "body": ""
+    },
+    {
+      "id": "1573",
+      "title": "Majority-In-Interest/Super-Majority-In-Interest",
+      "body": ""
+    },
+    {
+      "id": "1574",
+      "title": "Management Agreements",
+      "body": ""
+    },
+    {
+      "id": "1575",
+      "title": "Management Negotiations",
+      "body": ""
+    },
+    {
+      "id": "1576",
+      "title": "Manager",
+      "body": ""
+    },
+    {
+      "id": "1577",
+      "title": "Markup",
+      "body": ""
+    },
+    {
+      "id": "1578",
+      "title": "Maximum Loan",
+      "body": ""
+    },
+    {
+      "id": "1579",
+      "title": "Maximum Loan to Value",
+      "body": ""
+    },
+    {
+      "id": "1580",
+      "title": "Meeting with Urban Development",
+      "body": ""
+    },
+    {
+      "id": "1581",
+      "title": "Meetings & Meeting Rules",
+      "body": ""
+    },
+    {
+      "id": "1582",
+      "title": "Members",
+      "body": ""
+    },
+    {
+      "id": "1583",
+      "title": "MEP ",
+      "body": ""
+    },
+    {
+      "id": "1584",
+      "title": "Minimum Annual Rent",
+      "body": ""
+    },
+    {
+      "id": "1585",
+      "title": "Minimum Guaranteed Investment",
+      "body": ""
+    },
+    {
+      "id": "1586",
+      "title": "Miscellaneous (condemnation, successors, damage or destruction, conflicts of interest, notices,  )",
+      "body": ""
+    },
+    {
+      "id": "1587",
+      "title": "Mortgage Holder Obligations",
+      "body": ""
+    },
+    {
+      "id": "1588",
+      "title": "Mortgage/Endorsement",
+      "body": ""
+    },
+    {
+      "id": "1589",
+      "title": "Multiple Counterparts",
+      "body": ""
+    },
+    {
+      "id": "1590",
+      "title": "Net Asset Value",
+      "body": ""
+    },
+    {
+      "id": "1591",
+      "title": "Net Available Cash Flow",
+      "body": ""
+    },
+    {
+      "id": "1592",
+      "title": "No Exclusive Duty to Company",
+      "body": ""
+    },
+    {
+      "id": "1593",
+      "title": "No leases",
+      "body": ""
+    },
+    {
+      "id": "1594",
+      "title": "Noise/Smell",
+      "body": ""
+    },
+    {
+      "id": "1595",
+      "title": "Non-merger",
+      "body": ""
+    },
+    {
+      "id": "1596",
+      "title": "Not to Protest Amount",
+      "body": ""
+    },
+    {
+      "id": "1597",
+      "title": "Notaries",
+      "body": ""
+    },
+    {
+      "id": "1598",
+      "title": "Notary",
+      "body": ""
+    },
+    {
+      "id": "1599",
+      "title": "Notice and Demands",
+      "body": ""
+    },
+    {
+      "id": "1600",
+      "title": "Notices",
+      "body": ""
+    },
+    {
+      "id": "1601",
+      "title": "Number and Gender",
+      "body": ""
+    },
+    {
+      "id": "1602",
+      "title": "Option Agreement on Other Properties",
+      "body": ""
+    },
+    {
+      "id": "1603",
+      "title": "Outdoor Space",
+      "body": ""
+    },
+    {
+      "id": "1604",
+      "title": "Ownership Percentages",
+      "body": ""
+    },
+    {
+      "id": "1605",
+      "title": "Parking",
+      "body": ""
+    },
+    {
+      "id": "1606",
+      "title": "Parking Agreement",
+      "body": ""
+    },
+    {
+      "id": "1607",
+      "title": "Partnership Charter/Constitution",
+      "body": ""
+    },
+    {
+      "id": "1608",
+      "title": "Partnership Negotiations",
+      "body": ""
+    },
+    {
+      "id": "1609",
+      "title": "Pay Premium",
+      "body": ""
+    },
+    {
+      "id": "1610",
+      "title": "Penal Bond",
+      "body": ""
+    },
+    {
+      "id": "1611",
+      "title": "Permitted & Restricted Uses",
+      "body": ""
+    },
+    {
+      "id": "1612",
+      "title": "Personal Property",
+      "body": ""
+    },
+    {
+      "id": "1613",
+      "title": "Pest Extermination",
+      "body": ""
+    },
+    {
+      "id": "1614",
+      "title": "Pets",
+      "body": ""
+    },
+    {
+      "id": "1615",
+      "title": "Place of Payments",
+      "body": ""
+    },
+    {
+      "id": "1616",
+      "title": "Planning Commission Review",
+      "body": ""
+    },
+    {
+      "id": "1617",
+      "title": "Plans and Specifications",
+      "body": ""
+    },
+    {
+      "id": "1618",
+      "title": "Policy",
+      "body": ""
+    },
+    {
+      "id": "1619",
+      "title": "Poser of Manager to Execute Management Contracts",
+      "body": ""
+    },
+    {
+      "id": "1620",
+      "title": "Possession",
+      "body": ""
+    },
+    {
+      "id": "1621",
+      "title": "Powers of Manager",
+      "body": ""
+    },
+    {
+      "id": "1622",
+      "title": "Premises",
+      "body": ""
+    },
+    {
+      "id": "1623",
+      "title": "Priority Return of Capital",
+      "body": ""
+    },
+    {
+      "id": "1624",
+      "title": "Private Improvements",
+      "body": ""
+    },
+    {
+      "id": "1625",
+      "title": "Project Site",
+      "body": ""
+    },
+    {
+      "id": "1626",
+      "title": "Prompt Notice",
+      "body": ""
+    },
+    {
+      "id": "1627",
+      "title": "Property Legal Description",
+      "body": ""
+    },
+    {
+      "id": "1628",
+      "title": "Property Management (roles, responsibilities & fees)",
+      "body": ""
+    },
+    {
+      "id": "1629",
+      "title": "Protection Against Liens",
+      "body": ""
+    },
+    {
+      "id": "1630",
+      "title": "Protection of Title",
+      "body": ""
+    },
+    {
+      "id": "1631",
+      "title": "Public Art",
+      "body": ""
+    },
+    {
+      "id": "1632",
+      "title": "Purchase Agreement Provisions",
+      "body": ""
+    },
+    {
+      "id": "1633",
+      "title": "Purchase or Option Agreement Negotiations",
+      "body": ""
+    },
+    {
+      "id": "1634",
+      "title": "Purchase Price of Land (if owned by City)",
+      "body": ""
+    },
+    {
+      "id": "1635",
+      "title": "Rate",
+      "body": ""
+    },
+    {
+      "id": "1636",
+      "title": "Real Estate Commission and Finder’s Fee",
+      "body": ""
+    },
+    {
+      "id": "1637",
+      "title": "Records",
+      "body": ""
+    },
+    {
+      "id": "1638",
+      "title": "Redevelopment Agreement",
+      "body": ""
+    },
+    {
+      "id": "1639",
+      "title": "Redevelopment Plan",
+      "body": ""
+    },
+    {
+      "id": "1640",
+      "title": "References for Prospective Partners",
+      "body": ""
+    },
+    {
+      "id": "1641",
+      "title": "Registered Office & Agent",
+      "body": ""
+    },
+    {
+      "id": "1642",
+      "title": "Reimbursable and Expenses",
+      "body": ""
+    },
+    {
+      "id": "1643",
+      "title": "Relationship of Parties",
+      "body": ""
+    },
+    {
+      "id": "1644",
+      "title": "Relocation Negotiations",
+      "body": ""
+    },
+    {
+      "id": "1645",
+      "title": "Renewal Rent",
+      "body": ""
+    },
+    {
+      "id": "1646",
+      "title": "Renewal Term",
+      "body": ""
+    },
+    {
+      "id": "1647",
+      "title": "Rent Roll/Lease Abstracts",
+      "body": ""
+    },
+    {
+      "id": "1648",
+      "title": "Representations and Warranties",
+      "body": ""
+    },
+    {
+      "id": "1649",
+      "title": "Right of Assignee",
+      "body": ""
+    },
+    {
+      "id": "1650",
+      "title": "Right of First Refusal",
+      "body": ""
+    },
+    {
+      "id": "1651",
+      "title": "Rights to Digital Files",
+      "body": ""
+    },
+    {
+      "id": "1652",
+      "title": "Risk of Loss",
+      "body": ""
+    },
+    {
+      "id": "1653",
+      "title": "Rules & Regulations",
+      "body": ""
+    },
+    {
+      "id": "1654",
+      "title": "Sale Price",
+      "body": ""
+    },
+    {
+      "id": "1655",
+      "title": "Schedule",
+      "body": ""
+    },
+    {
+      "id": "1656",
+      "title": "Scope of Work",
+      "body": ""
+    },
+    {
+      "id": "1657",
+      "title": "Securities and Exchange Laws",
+      "body": ""
+    },
+    {
+      "id": "1658",
+      "title": "Security",
+      "body": ""
+    },
+    {
+      "id": "1659",
+      "title": "Security Deposit",
+      "body": ""
+    },
+    {
+      "id": "1660",
+      "title": "Security/Locks",
+      "body": ""
+    },
+    {
+      "id": "1661",
+      "title": "Seller’s Indemnification",
+      "body": ""
+    },
+    {
+      "id": "1662",
+      "title": "Seller’s Representations and Warranties",
+      "body": ""
+    },
+    {
+      "id": "1663",
+      "title": "Severability",
+      "body": ""
+    },
+    {
+      "id": "1664",
+      "title": "Sign Criteria",
+      "body": ""
+    },
+    {
+      "id": "1665",
+      "title": "Signage",
+      "body": ""
+    },
+    {
+      "id": "1666",
+      "title": "Signatories",
+      "body": ""
+    },
+    {
+      "id": "1667",
+      "title": "Signatures",
+      "body": ""
+    },
+    {
+      "id": "1668",
+      "title": "Signatures by Proper Authority",
+      "body": ""
+    },
+    {
+      "id": "1669",
+      "title": "Skywalks",
+      "body": ""
+    },
+    {
+      "id": "1670",
+      "title": "Special Allocations",
+      "body": ""
+    },
+    {
+      "id": "1671",
+      "title": "Special Assessments",
+      "body": ""
+    },
+    {
+      "id": "1672",
+      "title": "Statement of Authority",
+      "body": ""
+    },
+    {
+      "id": "1673",
+      "title": "Structural",
+      "body": ""
+    },
+    {
+      "id": "1674",
+      "title": "Subordination of Lease",
+      "body": ""
+    },
+    {
+      "id": "1675",
+      "title": "Successors and Assigns",
+      "body": ""
+    },
+    {
+      "id": "1676",
+      "title": "Surrender",
+      "body": ""
+    },
+    {
+      "id": "1677",
+      "title": "Survey",
+      "body": ""
+    },
+    {
+      "id": "1678",
+      "title": "Tax Allocations",
+      "body": ""
+    },
+    {
+      "id": "1679",
+      "title": "Tax Increment Financing (sources and uses)",
+      "body": ""
+    },
+    {
+      "id": "1680",
+      "title": "Tax Preparations and Returns",
+      "body": ""
+    },
+    {
+      "id": "1681",
+      "title": "Tax Responsibility",
+      "body": ""
+    },
+    {
+      "id": "1682",
+      "title": "Taxes",
+      "body": ""
+    },
+    {
+      "id": "1683",
+      "title": "Tenant Finish",
+      "body": ""
+    },
+    {
+      "id": "1684",
+      "title": "Tenant Incentives for Signing Lease",
+      "body": ""
+    },
+    {
+      "id": "1685",
+      "title": "Tenant Relocation Negotiations",
+      "body": ""
+    },
+    {
+      "id": "1686",
+      "title": "Tenant Rentable SF",
+      "body": ""
+    },
+    {
+      "id": "1687",
+      "title": "Tenant’s Share",
+      "body": ""
+    },
+    {
+      "id": "1688",
+      "title": "Tenant’s Work",
+      "body": ""
+    },
+    {
+      "id": "1689",
+      "title": "Term",
+      "body": ""
+    },
+    {
+      "id": "1690",
+      "title": "TIF Clauses – Not to protest amount",
+      "body": ""
+    },
+    {
+      "id": "1691",
+      "title": "TIF Indebtedness",
+      "body": ""
+    },
+    {
+      "id": "1692",
+      "title": "Time of Essence",
+      "body": ""
+    },
+    {
+      "id": "1693",
+      "title": "Timeline for Completion of Improvements",
+      "body": ""
+    },
+    {
+      "id": "1694",
+      "title": "Title",
+      "body": ""
+    },
+    {
+      "id": "1695",
+      "title": "Title Insurance",
+      "body": ""
+    },
+    {
+      "id": "1696",
+      "title": "Title Insurance Commitment Update",
+      "body": ""
+    },
+    {
+      "id": "1697",
+      "title": "Transferability",
+      "body": ""
+    },
+    {
+      "id": "1698",
+      "title": "Trash/Delivery",
+      "body": ""
+    },
+    {
+      "id": "1699",
+      "title": "Unrecorded Agreements",
+      "body": ""
+    },
+    {
+      "id": "1700",
+      "title": "Use Restrictions",
+      "body": ""
+    },
+    {
+      "id": "1701",
+      "title": "Utility Responsibility",
+      "body": ""
+    },
+    {
+      "id": "1702",
+      "title": "Vacation of Right of Way (Alleys, Streets)",
+      "body": ""
+    },
+    {
+      "id": "1703",
+      "title": "Waiver of Claims",
+      "body": ""
+    },
+    {
+      "id": "1704",
+      "title": "Zoning",
+      "body": ""
+    }
+  ]
+}
+

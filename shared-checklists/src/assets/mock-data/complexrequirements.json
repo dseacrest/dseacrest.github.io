@@ -1,0 +1,732 @@
+{
+  "subject": "COMPLEX REQUIREMENTS & SOLUTIONS CHECKLIST",
+  "credit": "COMPLEX REQUIREMENTS & SOLUTIONS CHECKLIST",
+  "todos": [
+    {
+      "id": "886",
+      "title": "How should I test and validate the system?",
+      "body": "What will be your strategy for deciding how to validate the system performs as expected? Aside from writing unit tests, are there specific integration tests that you will want to develop/modify to verify this requirement? What are some edge cases you will want to make sure you are testing?"
+    },
+    {
+      "id": "887",
+      "title": "Buy v. Build Decisions",
+      "body": "What third party off the shelf components should be used.  "
+    },
+    {
+      "id": "888",
+      "title": "Testing",
+      "body": "What tests are needed for the solution?"
+    },
+    {
+      "id": "889",
+      "title": "Reuse Decision",
+      "body": "What previously built technology can be reused."
+    },
+    {
+      "id": "890",
+      "title": "More Information/Research",
+      "body": "What information are we missing to help make the decision?"
+    },
+    {
+      "id": "891",
+      "title": "What parties are impacted by the work?",
+      "body": "What individuals, groups, users, roles are involved in the work. "
+    },
+    {
+      "id": "892",
+      "title": "How are people currently solving the problem?",
+      "body": "What hacks are people using to get around the problem today. "
+    },
+    {
+      "id": "893",
+      "title": "Proposed Solution",
+      "body": "What does your best solution look like weighing in all the costs and benefits?"
+    },
+    {
+      "id": "894",
+      "title": "What are the known design constraints?",
+      "body": "What are the limitations that have been imposed on the implementation of this feature that reduce/impact the design decision choices you can make? Constraints can come from a variety of sources  cost, time, hosting, user requirements, performance, etc. In general, design constraints are a valuable tool to reduce the scope of possible solutions to a problem so identifying these constraints early can help guide us to the best design decisions."
+    },
+    {
+      "id": "895",
+      "title": "Design Patterns/Architectural Patterns",
+      "body": "What are some of the consistent design and architectural patterns for the solution?"
+    },
+    {
+      "id": "896",
+      "title": "What are the tradeoffs I am deliberately making?",
+      "body": "We are always making tradeoffs. Most of the time it feels like these are implicit and not explicit. The goal of this section is to try to get the engineer to identify tradeoffs they may be making in their approach. Consistency, performance, maintainability, testability, etc?"
+    },
+    {
+      "id": "897",
+      "title": "What is my understanding of the requirements? What is the primary goal or objective?  ",
+      "body": "Use this section to articulate, in your words, what the intent is of this feature/requirement and how it is intended to work. Include what the desired impact/capability will be for the intended user or beneficiary of this feature.  Remember, the user should drive the system’s functionality.  "
+    },
+    {
+      "id": "898",
+      "title": "Test Proposed Solution",
+      "body": "Try your proposed solution with a few basic tests. What is the minimal definition you can give to see if this will work as expected.  Often, you identify the hardest part of the solution and make a simplified proof of concept.  **List sample size on tests (if applicable).  "
+    },
+    {
+      "id": "899",
+      "title": "Test Possible Solutions ",
+      "body": "Try your possible solutions with a few basic tests. What is the minimal definition you can give to see if this will work as expected.  Often, you identify the hardest part of the solution and make a simplified proof of concept."
+    },
+    {
+      "id": "900",
+      "title": "What are the specific steps to implement and what is their level of effort?",
+      "body": "This will become the sequential plan for implementing this feature/requirement and will include the “final” estimate of the level of effort to complete each task. In addition to specific feature development tasks, other things to consider here would be"
+    },
+    {
+      "id": "901",
+      "title": "What are the existing areas impacted?",
+      "body": "This section is intended to demonstrate identifying the modules/classes/services that are impacted by this feature along with the types of changes that will be made to these components. This section should also be used to identify service and data contract modifications that will be required."
+    },
+    {
+      "id": "902",
+      "title": "What areas/features/components are most likely not to change?",
+      "body": "These are typically components that are so rooted in the concept, problem, or domain that they will not change much over time.  This can involve things that have been working the exact same and working well for such a long time that they probably don’t need to be adjusted.  "
+    },
+    {
+      "id": "903",
+      "title": "How can I encapsulate current and future change?",
+      "body": "The purpose of this section is to get you to analyze the current feature/requirement in terms of the likelihood that it will change in the future. The idea is to help you think through what the best approach is for encapsulating future change."
+    },
+    {
+      "id": "904",
+      "title": "What are anticipated/possible failure scenarios and how should they be handled?",
+      "body": "The purpose of this section is to get you thinking about how the system might behave once you get off the “happy path” of execution."
+    },
+    {
+      "id": "905",
+      "title": "Fault Tolerance",
+      "body": "Techniques to detect errors, recover from them, and contain their bad effects (backup and try again, backup values, algorithm, replace with default value)"
+    },
+    {
+      "id": "906",
+      "title": "Major Classes",
+      "body": "Responsibilities of each class and how they interact with other classes.  How are classes organized into subsystems.  Aim for 80/20 rule.  Specify the 20% of classes that make up 80% of system behavior. "
+    },
+    {
+      "id": "907",
+      "title": "Internationalization/Localization",
+      "body": "Preparing a program to support multiple locales and languages or a local locale and language.  Inlcuding Prompts, status displays, help messages, error messages, character format and string format.  "
+    },
+    {
+      "id": "908",
+      "title": "Resource Management",
+      "body": "Plan for managing scares resources like database connections, threads, handles, etc.  "
+    },
+    {
+      "id": "909",
+      "title": "Performance",
+      "body": "Performance goals including resource use, what has priority, including speed v. memory v. cost.  Should explain why certain performance goals are achievable."
+    },
+    {
+      "id": "910",
+      "title": "What assumptions am I making about these requirements and the system?",
+      "body": "Often times when you are going through this process of analyzing and writing down how you are going to build something, you uncover something you had not considered that must be addressed even though it is not spelled out in the requirements. For example, if the requirement is “charge the credit card as part of a product fulfillment process” you might ask yourself, “What happens if the attempt to charge the card fails for some reason?” Another assumption might be that you will be able to test this credit card workflow without using a real credit card. This is where you can start listing your assumptions about how you should be handling some of these undocumented requirements so that other stakeholders can review and validate these assumptions."
+    },
+    {
+      "id": "911",
+      "title": "Data Design",
+      "body": "Major files and table design to be used.  How is data accessed.  "
+    },
+    {
+      "id": "912",
+      "title": "User Interface Design",
+      "body": "Major elements of web pages formats.  Should be modularized so that new interfaces can be substituted without affecting the business rules.  "
+    },
+    {
+      "id": "913",
+      "title": "What are the secondary goals/objectives?",
+      "body": "List any secondary objectives or goals that are separate from the primary objective."
+    },
+    {
+      "id": "914",
+      "title": "What are the unknowns? (i.e. what information is not currently available?)",
+      "body": "In addition to uncovering requirements that you can make assumptions about, you might also uncover something that is completely unknown that could have an impact on development once you get started. For example, maybe there is an API that you need to use but the definition of that API is not published yet. Or, maybe there is an algorithm that needs to be developed that it is not known whether said algorithm is even feasible."
+    },
+    {
+      "id": "915",
+      "title": "What are the priorities I am deliberately making?",
+      "body": "If there are many options to go after, what are we prioritizing as the best first use cases and why?  These items will be listed in order of their priority from left to right.  "
+    },
+    {
+      "id": "916",
+      "title": "Reconsider Problem",
+      "body": "If at any point it feels like there is no attainable solution or that the solutions will not get us to our company goals, reconsider the problem. If you can’t easily identify criterion or solutions, you may be solving the wrong problem or your problem may not have enough definition. Half the battle (or more) can be solving the right problem."
+    },
+    {
+      "id": "917",
+      "title": "Business Rules",
+      "body": "Identify specific business rules and impact on system design.  "
+    },
+    {
+      "id": "918",
+      "title": "Brainstorm Possible Solutions - Alternatives",
+      "body": "Identify some solutions.  Focus on quantity. No criticism. Encourage wild ideas.  Combine and improve ideas.  Sketch where all can see. "
+    },
+    {
+      "id": "919",
+      "title": "Categories",
+      "body": "Identify categories of solution.  Many solutions are qualitatively the same. Try to pick out what makes one solution different from another. Small details can be decided and changed later."
+    },
+    {
+      "id": "920",
+      "title": "Interoperability",
+      "body": "How the system will share data or resources with other software or hardware."
+    },
+    {
+      "id": "921",
+      "title": "Scalability",
+      "body": "How the system will address growth in number of users, servers, network nodes, database records, transactions, etc.  "
+    },
+    {
+      "id": "922",
+      "title": "Input/Output",
+      "body": "How input and output processing and errors are handled."
+    },
+    {
+      "id": "923",
+      "title": "Ambient Context",
+      "body": "How are your passing in common context that is needed throughout the application."
+    },
+    {
+      "id": "924",
+      "title": "Naming",
+      "body": "How are you naming systems, classes, contracts, files, methods, tests, etc. "
+    },
+    {
+      "id": "925",
+      "title": "Feedback",
+      "body": "Get feedback from relevant parties involved.  "
+    },
+    {
+      "id": "926",
+      "title": "Category Comparison",
+      "body": "Examine the qualitative difference of the categories. Outline some pros and cons. Identify what information would let you make a choice and devise the simplest test you can to get the info. Pick a category. Repeat this with sub categories until you have one high level solution.  If you run into conflicts go backup the category tree to the first level that isn’t subject to that failure and pick a new path."
+    },
+    {
+      "id": "927",
+      "title": "What are the acceptance criteria for the solution (including non-functional)?",
+      "body": "Enumerate the list of criteria by which the success or failure of your implementation should be judged. Be sure to include non-functional criteria such as performance, quality, reliability, resource utilization, etc."
+    },
+    {
+      "id": "928",
+      "title": "What is the Problem?",
+      "body": "Define the problem without any reference to possible solutions.  Should be in user language from the user’s point of view.  "
+    },
+    {
+      "id": "929",
+      "title": "What areas/features are most likely to change over time?",
+      "body": "As you are analyzing these requirements it will be important for you to assess what areas of the software are likely to change as a result of testing difficult areas of the code, through user feedback, new feature development down the road, etc. This information will inform how your design should be encapsulating these volatilities."
+    },
+    {
+      "id": "930",
+      "title": "Contingency Planning",
+      "body": "Are there any elements of the plan that would force a new path if they failed? Prove them if you can.  Identify code components as an outline or a sketch on paper. Research code libraries/ tooling."
+    },
+    {
+      "id": "931",
+      "title": "Security",
+      "body": "Approach to design-level and code-level security.  "
+    },
+    {
+      "id": "932",
+      "title": "Definitions",
+      "body": "    What terms need to be defined to get everyone on the same page."
+    },
+    {
+      "id": "933",
+      "title": "Am I potentially exposing sensitive data in exceptions logs, etc?",
+      "body": " "
+    },
+    {
+      "id": "934",
+      "title": "Are all inputs specified including their source, accuracy, range of values and frequency?  ",
+      "body": " "
+    },
+    {
+      "id": "935",
+      "title": "Are all outputs specified including their destination, accuracy, range of values, format, and frequency?  ",
+      "body": " "
+    },
+    {
+      "id": "936",
+      "title": "Are all the external communication interfaces specified, including handshaking, error checking, and communication protocols. ",
+      "body": " "
+    },
+    {
+      "id": "937",
+      "title": "Are all the external hardware and software interfaces specified?",
+      "body": " "
+    },
+    {
+      "id": "938",
+      "title": "Are all the tasks the user wants to perform specified. ",
+      "body": " "
+    },
+    {
+      "id": "939",
+      "title": "Are other timing considerations such as processing time, data transfer rate, and system throughput specified?",
+      "body": " "
+    },
+    {
+      "id": "940",
+      "title": "Are the minimum machine memory and free disk space specified?",
+      "body": " "
+    },
+    {
+      "id": "941",
+      "title": "Are the requirements clear enough to be handed over to a third party group to be understood.",
+      "body": " "
+    },
+    {
+      "id": "942",
+      "title": "Are the requirements complete in the sense that if the product satisfies every requirement, it will be acceptable?",
+      "body": " "
+    },
+    {
+      "id": "943",
+      "title": "Are there any special considerations related to security?",
+      "body": " "
+    },
+    {
+      "id": "944",
+      "title": "Are we adding any new manages/engines/accessors/utilities? ",
+      "body": " "
+    },
+    {
+      "id": "945",
+      "title": "Are we creating any new interfaces or data contracts?",
+      "body": " "
+    },
+    {
+      "id": "946",
+      "title": "Are we using new technologies that we are not familiar with?",
+      "body": " "
+    },
+    {
+      "id": "947",
+      "title": "Are you comfortable with the requirements?",
+      "body": " "
+    },
+    {
+      "id": "948",
+      "title": "Are you concerned about the stability/robustness of technologies or third part dependencies?",
+      "body": " "
+    },
+    {
+      "id": "949",
+      "title": "Are you missing any information required to fully understand the requirements (e.g. UI/UX designs/workflows, algorithm specifications, etc?)",
+      "body": " "
+    },
+    {
+      "id": "950",
+      "title": "At what level are errors handled?  Are they at point of detection or passed up call chain? ",
+      "body": " "
+    },
+    {
+      "id": "951",
+      "title": "Back End",
+      "body": " "
+    },
+    {
+      "id": "952",
+      "title": "Call Chain",
+      "body": " "
+    },
+    {
+      "id": "953",
+      "title": "Code review",
+      "body": " "
+    },
+    {
+      "id": "954",
+      "title": "Coding Language",
+      "body": " "
+    },
+    {
+      "id": "955",
+      "title": "Cohesion",
+      "body": " "
+    },
+    {
+      "id": "956",
+      "title": "Convention for dependency inversion (service locator, dependency injection)",
+      "body": " "
+    },
+    {
+      "id": "957",
+      "title": "Conventions for Common Routine Operations",
+      "body": " "
+    },
+    {
+      "id": "958",
+      "title": "Conventions for names, comments, and layouts. ",
+      "body": " "
+    },
+    {
+      "id": "959",
+      "title": "Database",
+      "body": " "
+    },
+    {
+      "id": "960",
+      "title": "De-Coupling",
+      "body": " "
+    },
+    {
+      "id": "961",
+      "title": "Design Trees",
+      "body": " "
+    },
+    {
+      "id": "962",
+      "title": "Development Tools",
+      "body": " "
+    },
+    {
+      "id": "963",
+      "title": "Do any of the assumptions above represent significant risk if they are not valid?",
+      "body": " "
+    },
+    {
+      "id": "964",
+      "title": "Do I have any potential race conditions?",
+      "body": " "
+    },
+    {
+      "id": "965",
+      "title": "Do I need to authenticate and/or authorize the user accessing the business logic?",
+      "body": " "
+    },
+    {
+      "id": "966",
+      "title": "Do I need to use some sort of persisted multi-state flag to determine progress?",
+      "body": " "
+    },
+    {
+      "id": "967",
+      "title": "Do requirements conflict?",
+      "body": " "
+    },
+    {
+      "id": "968",
+      "title": "Do the requirements avoid specifying the design?",
+      "body": " "
+    },
+    {
+      "id": "969",
+      "title": "Do you feel there is uncertainty in the outcome of this effort? ",
+      "body": " "
+    },
+    {
+      "id": "970",
+      "title": "Does anything violate SOLID",
+      "body": " "
+    },
+    {
+      "id": "971",
+      "title": "Error Processing",
+      "body": " "
+    },
+    {
+      "id": "972",
+      "title": "Frameworks",
+      "body": " "
+    },
+    {
+      "id": "973",
+      "title": "Front End",
+      "body": " "
+    },
+    {
+      "id": "974",
+      "title": "General Software Engineering Principles",
+      "body": " "
+    },
+    {
+      "id": "975",
+      "title": "High Level v. Low Level Language",
+      "body": " "
+    },
+    {
+      "id": "976",
+      "title": "How does the program propagate errors?  Discard the data, enter error processing state, wait and notify the user?",
+      "body": " "
+    },
+    {
+      "id": "977",
+      "title": "How will exceptions be handled?  When the code can throw exceptions, where they will be caught, how they will be logged, how they will be documented. ",
+      "body": " "
+    },
+    {
+      "id": "978",
+      "title": "How will the design/architecture need to change?",
+      "body": " "
+    },
+    {
+      "id": "979",
+      "title": "How will you control and integrate versions?",
+      "body": " "
+    },
+    {
+      "id": "980",
+      "title": "If a multi-step process fails at some mid-point, what should be the steps to recovery, completion, and/or return to a consistent state?",
+      "body": " "
+    },
+    {
+      "id": "981",
+      "title": "Information Hiding",
+      "body": " "
+    },
+    {
+      "id": "982",
+      "title": "Integration procedure – how will team members check code into the master source?",
+      "body": " "
+    },
+    {
+      "id": "983",
+      "title": "Is each item relevant to the problem?",
+      "body": " "
+    },
+    {
+      "id": "984",
+      "title": "Is each requirement testable?",
+      "body": " "
+    },
+    {
+      "id": "985",
+      "title": "Is error detection active (anticipate errors, checking input) or passive (respond to errors only when it can’t avoid)?  ",
+      "body": " "
+    },
+    {
+      "id": "986",
+      "title": "Is error processing corrective (recovers from errors) or merely detective (processes as if nothing happened or quit)?",
+      "body": " "
+    },
+    {
+      "id": "987",
+      "title": "Is the data used in each task and the data resulting from each task specified?",
+      "body": " "
+    },
+    {
+      "id": "988",
+      "title": "IS the expected response time, from the user’s point of view, specified?",
+      "body": " "
+    },
+    {
+      "id": "989",
+      "title": "Is the level of security specified?",
+      "body": " "
+    },
+    {
+      "id": "990",
+      "title": "Is the maintainability of the system specified, including its ability to adapt to changes in specific functionality, changes in the operating environments, and changes in its interfaces with other software?",
+      "body": " "
+    },
+    {
+      "id": "991",
+      "title": "Is the reliability specified, including consequences of software failure, vital information that needs to be protected from failure, and strategy for error detection and recovery?",
+      "body": " "
+    },
+    {
+      "id": "992",
+      "title": "Is there a level of requirements ambiguity that could result in significant re-work? ",
+      "body": " "
+    },
+    {
+      "id": "993",
+      "title": "Is there any risk related to the estimates that have been provided? ",
+      "body": " "
+    },
+    {
+      "id": "994",
+      "title": "Is there any special treatment of sensitive data that should be taken into account?",
+      "body": " "
+    },
+    {
+      "id": "995",
+      "title": "Is there anything else that you can think of that you would want to surface in this document?",
+      "body": " "
+    },
+    {
+      "id": "996",
+      "title": "Language popularity in target industry",
+      "body": " "
+    },
+    {
+      "id": "997",
+      "title": "Level of responsibility of each class for validating it’s input data?  Can be done at a class level or system level.",
+      "body": " "
+    },
+    {
+      "id": "998",
+      "title": "Major Construction Practices",
+      "body": " "
+    },
+    {
+      "id": "999",
+      "title": "Manual testing efforts",
+      "body": " "
+    },
+    {
+      "id": "1000",
+      "title": "Modeling",
+      "body": " "
+    },
+    {
+      "id": "1001",
+      "title": "New/modified data contracts",
+      "body": " "
+    },
+    {
+      "id": "1002",
+      "title": "New/modified service contracts",
+      "body": " "
+    },
+    {
+      "id": "1003",
+      "title": "New/modified unit and integration tests",
+      "body": " "
+    },
+    {
+      "id": "1004",
+      "title": "Nonstandard language features",
+      "body": " "
+    },
+    {
+      "id": "1005",
+      "title": "Part B – Solutions Breakdown (“How We Build It”)",
+      "body": " "
+    },
+    {
+      "id": "1006",
+      "title": "Quality Assurance",
+      "body": " "
+    },
+    {
+      "id": "1007",
+      "title": "Requirements Completeness",
+      "body": " "
+    },
+    {
+      "id": "1008",
+      "title": "Requirements Quality",
+      "body": " "
+    },
+    {
+      "id": "1009",
+      "title": "Should I put in some strategic logging to give details when certain failures occur?",
+      "body": " "
+    },
+    {
+      "id": "1010",
+      "title": "Specific Functional Requirements",
+      "body": " "
+    },
+    {
+      "id": "1011",
+      "title": "Specific Nonfunctional (Quality) Requirements",
+      "body": " "
+    },
+    {
+      "id": "1012",
+      "title": "Static Diagram",
+      "body": " "
+    },
+    {
+      "id": "1013",
+      "title": "Team’s experience and familiarity",
+      "body": " "
+    },
+    {
+      "id": "1014",
+      "title": "Teamwork Practices",
+      "body": " "
+    },
+    {
+      "id": "1015",
+      "title": "Tools",
+      "body": " "
+    },
+    {
+      "id": "1016",
+      "title": "Types of tests (unit, function, integration, user, end-to end, alpha, beta, operational, regulation, security, requirements)",
+      "body": " "
+    },
+    {
+      "id": "1017",
+      "title": "Use environments built-in exception handling or build your own. ",
+      "body": " "
+    },
+    {
+      "id": "1018",
+      "title": "What are the conventions for handling errors?  What is single consistent strategy?",
+      "body": " "
+    },
+    {
+      "id": "1019",
+      "title": "What areas are we lacking detail?",
+      "body": " "
+    },
+    {
+      "id": "1020",
+      "title": "What concerns do I have?",
+      "body": " "
+    },
+    {
+      "id": "1021",
+      "title": "What environments will be setup (local, dev, QA, prod)?",
+      "body": " "
+    },
+    {
+      "id": "1022",
+      "title": "What happens if an external dependency (service, API, etc) fails or does not respond as expected. ",
+      "body": " "
+    },
+    {
+      "id": "1023",
+      "title": "What if inputs to the logic are outside your expectations?",
+      "body": " "
+    },
+    {
+      "id": "1024",
+      "title": "What if the system comes under an unexpected load?",
+      "body": " "
+    },
+    {
+      "id": "1025",
+      "title": "What risks am I aware of?",
+      "body": " "
+    },
+    {
+      "id": "1026",
+      "title": "Where and how should exceptions be handled?",
+      "body": " "
+    },
+    {
+      "id": "1027",
+      "title": "Where information isn’t available before development begins, are the areas of incompleteness specified?",
+      "body": " "
+    },
+    {
+      "id": "1028",
+      "title": "Will programmers work in pairs?",
+      "body": " "
+    },
+    {
+      "id": "1029",
+      "title": "Will programmers write test cases for their code prior to or after writing code?",
+      "body": " "
+    },
+    {
+      "id": "1030",
+      "title": "Modeling decision criteria.",
+      "body": ""
+    }
+  ]
+}
+

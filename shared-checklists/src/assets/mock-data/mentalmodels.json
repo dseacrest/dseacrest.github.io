@@ -1,0 +1,107 @@
+{
+  "subject": "Mental Models Checklist",
+  "credit": "Mental Models Checklist",
+  "todos": [
+    {
+      "id": "4114",
+      "title": "Influence of Stress (Including Breaking Points)",
+      "body": "Stress causes both mental and physiological responses and tends to amplify the other biases. Almost all human mental biases become worse in the face of stress as the body goes into a fight-or-flight response, relying purely on instinct without the emergency brake of Daniel Kahneman’s “System 2” type of reasoning. Stress causes hasty decisions, immediacy, and a fallback to habit, thus giving rise to the elite soldiers’ motto  “In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training.”"
+    },
+    {
+      "id": "4115",
+      "title": "Relativity",
+      "body": "Relativity has been used in several contexts in the world of physics, but the important aspect to study is the idea that an observer cannot truly understand a system of which he himself is a part. For example, a man inside an airplane does not feel like he is experiencing movement, but an outside observer can see that movement is occurring. This form of relativity tends to affect social systems in a similar way."
+    },
+    {
+      "id": "4116",
+      "title": "Seeing the Front",
+      "body": "One of the most valuable military tactics is the habit of “personally seeing the front” before making decisions – not always relying on advisors, maps, and reports, all of which can be either faulty or biased. The Map/Territory model illustrates the problem with not seeing the front, as does the incentive model. Leaders of any organization can generally benefit from seeing the front, as not only does it provide firsthand information, but it also tends to improve the quality of secondhand information."
+    },
+    {
+      "id": "4117",
+      "title": "Niches",
+      "body": "Most organisms find a niche  a method of competing and behaving for survival. Usually, a species will select a niche for which it is best adapted. The danger arises when multiple species begin competing for the same niche, which can cause an extinction – there can be only so many species doing the same thing before limited resources give out"
+    },
+    {
+      "id": "4118",
+      "title": "Via Negativa – Omission/Removal/Avoidance of Harm",
+      "body": "In many systems, improvement is at best, or at times only, a result of removing bad elements rather than of adding good elements. This is a credo built into the modern medical profession  First, do no harm. Similarly, if one has a group of children behaving badly, removal of the instigator is often much more effective than any form of punishment meted out to the whole group."
+    },
+    {
+      "id": "4119",
+      "title": "Second-Order Thinking",
+      "body": "In all human systems and most complex systems, the second layer of effects often dwarfs the first layer, yet often goes unconsidered. Once one person does it, everyone will do it in order to see, thus negating the first tiptoer. Now, however, the whole parade audience suffers on their toes rather than standing firmly on their whole feet."
+    },
+    {
+      "id": "4120",
+      "title": "Arbitrage",
+      "body": "Given two markets selling an identical good, an arbitrage exists if the good can profitably be bought in one market and sold at a profit in the other. This model is simple on its face, but can present itself in disguised forms  The only gas station in a 50-mile radius is also an arbitrage as it can buy gasoline and sell it at the desired profit (temporarily) without interference. Nearly all arbitrage situations eventually disappear as they are discovered and exploited."
+    },
+    {
+      "id": "4121",
+      "title": "Deducing the Complex",
+      "body": "Complex information is best digested in the form of narratives and analogies. Many thought experiments make use of this fact to make them more accessible."
+    },
+    {
+      "id": "4122",
+      "title": "Inertia",
+      "body": "An object in motion with a certain vector wants to continue moving in that direction unless acted upon. This is a fundamental physical principle of motion; however, individuals, systems, and organizations display the same effect. It allows them to minimize the use of energy, but can cause them to be destroyed or eroded."
+    },
+    {
+      "id": "4123",
+      "title": "Black Swan",
+      "body": "Also popularized by Nassim Taleb, a Black Swan is a rare and highly consequential event that is invisible to a given observer ahead of time. It is a result of applied epistemology  If you have seen only white swans, you cannot categorically state that there are no black swans, but the inverse is not true  seeing one black swan is enough for you to state that there are black swans. Black Swan events are necessarily unpredictable to the observer (as Taleb likes to say, Thanksgiving is a Black Swan for the turkey, not the butcher) and thus must be dealt with by addressing the fragility-robustness-antifragility spectrum rather than through better methods of prediction."
+    },
+    {
+      "id": "4124",
+      "title": "Network Effects",
+      "body": "A network tends to become more valuable as nodes are added to the network  this is known as the network effect. An easy example is contrasting the development of the electricity system and the telephone system. If only one house has electricity, its inhabitants have gained immense value, but if only one house has a telephone, its inhabitants have gained nothing of use. Only with additional telephones does the phone network gain value. This network effect is widespread in the modern world and creates immense value for organizations and customers alike."
+    },
+    {
+      "id": "4125",
+      "title": "Tragedy of the Commons",
+      "body": "A concept introduced by the economist and ecologist Garrett Hardin, the Tragedy of the Commons states that in a system where a common resource is shared, with no individual responsible for the wellbeing of the resource, it will tend to be depleted over time. The Tragedy is reducible to incentives  Unless people collaborate, each individual derives more personal benefit than the cost that he or she incurs, and therefore depletes the resource for fear of missing out."
+    },
+    {
+      "id": "4126",
+      "title": "Confirmation Bias",
+      "body": "What a man wishes, they believe.  Use hypothesis testing, blind testing, and scripted validations to uproot bias."
+    },
+    {
+      "id": "4127",
+      "title": "Irreducibility",
+      "body": "We find that in most systems there are irreducible quantitative properties, such as complexity, minimums, time, and length. Below the irreducible level, the desired result simply does not occur. One cannot get several women pregnant to reduce the amount of time needed to have one child, and one cannot reduce a successfully built automobile to a single part. These results are, to a defined point, irreducible."
+    },
+    {
+      "id": "4128",
+      "title": "Inversion",
+      "body": "Try problem solving by thinking in reverse or deciding what you want to avoid rather than what you want to gain."
+    },
+    {
+      "id": "4129",
+      "title": "The Map Is Not the Territory",
+      "body": "The map of reality is not reality itself. This model tells us that there will always be an imperfect relationship between reality and the models we use to represent and understand it."
+    },
+    {
+      "id": "4130",
+      "title": "Randomness",
+      "body": "Much of the world is composed of random, non-sequential, non-ordered events. We are “fooled” by random effects when we attribute causality to things that are actually outside of our control. If we don’t course-correct for this fooled-by-randomness effect – our faulty sense of pattern-seeking – we will tend to see things as being more predictable than they are and act accordingly."
+    },
+    {
+      "id": "4131",
+      "title": "Bias from Incentives",
+      "body": "Highly responsive to incentives, humans have perhaps the most varied and hardest to understand set of incentives in the animal kingdom. This causes us to distort our thinking when it is in our own interest to do so. A wonderful example is a salesman truly believing that his product will improve the lives of its users. It’s not merely convenient that he sells the product; the fact of his selling the product causes a very real bias in his own thinking."
+    },
+    {
+      "id": "4132",
+      "title": "Circle of Competence",
+      "body": "Each individual has an area where they truly know their stuff.  When making decisions, define and attend to your special circle.  Outside that circle you may be ignorant of your own ignorance.  "
+    },
+    {
+      "id": "4133",
+      "title": "The three major psychological findings that fall under Representativeness, also defined by Kahneman and his partner Tversky, are",
+      "body": "a. Failure to Account for Base Rates, An unconscious failure to look at past odds in determining current or future behavior. b. Tendency to Stereotype, The tendency to broadly generalize and categorize rather than look for specific nuance. Like availability, this is generally a necessary trait for energy-saving in the brain.  c. Failure to See False Conjunctions, Most famously demonstrated by the Linda Test, the same two psychologists showed that students chose more vividly described individuals as more likely to fit into a predefined category than individuals with broader, more inclusive, but less vivid descriptions, even if the vivid example was a mere subset of the more inclusive set."
+    }
+  ]
+}
+

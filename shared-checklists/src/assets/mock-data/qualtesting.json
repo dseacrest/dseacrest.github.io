@@ -1,0 +1,67 @@
+{
+  "subject": "Qualitative Testing Checklist",
+  "credit": "Qualitative Testing Checklist",
+  "todos": [
+    {
+      "id": "5300",
+      "title": "Task Based Usability",
+      "body": "Testing a user on a specific task and tracking multiple metrics (such as time to completion, steps taken, mistakes made) on that task."
+    },
+    {
+      "id": "5301",
+      "title": "Best Use Case",
+      "body": "Qualitative testing is best when you have multiple variables about a system that are unknown.  Usually don’t need to test with more than 3-5 subjects to start to identify relevant patterns.  Results do not need to be statistically significant.  Process should be iterative.  Best process for when you are just starting to learn about a system."
+    },
+    {
+      "id": "5302",
+      "title": "Marketing Usability Testing",
+      "body": "Observe customers using your website and identify their pains and problems.  See Steve Krug Usability Testing."
+    },
+    {
+      "id": "5303",
+      "title": "Product Usability Testing",
+      "body": "Observe customers using your product and identify their pains and problems.  See Steve Krug Usability Testing."
+    },
+    {
+      "id": "5304",
+      "title": "Wizard of Oz",
+      "body": "Testing out a concept with a front-end design but no backend functionality.  It requires a human doing all the work on the backend to service the client.  Zappos tested out their product buy taking pictures of shoes at local shoe stores and selling them online.  When someone purchased they would have to drive to the shoe store, buy, and ship the order.  They lost money but validated a billion dollar concept."
+    },
+    {
+      "id": "5305",
+      "title": "Testing Sites",
+      "body": "Site that helps you do testing like UsabilityHub.com, UserTesting.com, OpenHallway, Loop11, TryMyUI, userinterviews.com."
+    },
+    {
+      "id": "5306",
+      "title": "Prototype Testing",
+      "body": "Show them something that looks like your product and ask for their reactions.  Never ask them if they think it is a good idea or would buy.  A lot of times they either don’t know if they would buy or they are going to say yes just to be nice.  The closer you can make it look to the real product the more accurately you can predict whether people will use that product.  "
+    },
+    {
+      "id": "5307",
+      "title": "Qualitative Testing",
+      "body": "Observing participants interact with a system and/or asking them open ended questions (Ex  Tell me what you didn’t like about…?) to better understand the system at a broad level.  "
+    },
+    {
+      "id": "5308",
+      "title": "Competitor Usability Testing",
+      "body": "Observe customers using your competitors products and identify their pains and problems.  You can do this before you even have a product.  What workarounds have they created to avoid the pain.  Run Google, Facebook, or Craigslist ads to find five people using your competitors products.  Watch and ask questions.  "
+    },
+    {
+      "id": "5309",
+      "title": "Old Fashioned Research",
+      "body": "Looking things up online. Using existing qualitative studies."
+    },
+    {
+      "id": "5310",
+      "title": "Unmoderated Testing",
+      "body": "Getting a video of a real-world human using your product.  Good for finding if your product is easy to use by someone who has never seen it.  Bad for finding if people will like, use, buy your product and finding out how to fix usability problems. Use sites like UserTesting.com, OpenHallway, Loop11, TryMyUI, userinterviews.com."
+    },
+    {
+      "id": "5311",
+      "title": "Five-Second Messaging Tests",
+      "body": "Ambush strangers.  Go to your local coffee shop, ask if someone will give you 5-10 minutes and you’ll buy their beverage.  Explain why it helps you.  Tell them you are not selling.  Show your landing page and ask the following questions.  What does the user think this product does?  Who does the user think the product is for?  Can the user figure out how to get the product?"
+    }
+  ]
+}
+

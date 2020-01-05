@@ -3,7 +3,7 @@
     <h1>Shared Checklists</h1>
     <h3>Checklists</h3>
     <ul>
-      <li v-for="(subject, index) in subjects" :key="index">
+      <li class="text-h6" v-for="(subject, index) in subjects" :key="index">
         <router-link :to="{ name: 'todo', params: {id: subject.recordId}}">
           {{subject.name}}
         </router-link>
@@ -18,19 +18,17 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from "vue-property-decorator";
-import IDocument from '@/models/document';
-import documents from '@/assets/mock-data/documents.json';
+import documents from '@/assets/documents.json';
+import IDocument from '../models/document';
 
 @Component
 export default class ChecklistsList extends Vue {
   public subjects: IDocument[] = documents;
-
 }
 </script>
 
 <style scoped lang="scss">
 @import '../styles/quasar.variables.scss';
-
 h3 {
   margin: 40px 0 0;
 }

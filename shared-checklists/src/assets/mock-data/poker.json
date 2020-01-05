@@ -1,0 +1,127 @@
+{
+  "subject": "POKER CHECKLIST",
+  "credit": "POKER CHECKLIST",
+  "todos": [
+    {
+      "id": "4868",
+      "title": "Maximizing Principal",
+      "body": "You want your odds of winning to be less than the houses odds of winning."
+    },
+    {
+      "id": "4869",
+      "title": "Exit Before The Fly",
+      "body": "You want your competitors to exit early if there is a chance they will gain an advantage from future cards dealt to them."
+    },
+    {
+      "id": "4870",
+      "title": "Forcing Mistakes",
+      "body": "You are constantly trying to make your opponent or opponents play in a way that would be incorrect if they knew what you had.  "
+    },
+    {
+      "id": "4871",
+      "title": "Odds",
+      "body": "X times not occurring over Y times occurring"
+    },
+    {
+      "id": "4872",
+      "title": "Raise to Drive Opponents Out",
+      "body": "When you raise to get people out, what you are really doing is cutting down their odds."
+    },
+    {
+      "id": "4873",
+      "title": "Object",
+      "body": "Whatever the environment, and whoever your opponents, you must play the game to win money.  "
+    },
+    {
+      "id": "4874",
+      "title": "Player Odds",
+      "body": "What player considers the odds.  Non-Occurrence over Occurrence.  Ex -  5 to 1 (dice)"
+    },
+    {
+      "id": "4875",
+      "title": "House Odds",
+      "body": "What house/pot considers the odds.  "
+    },
+    {
+      "id": "4876",
+      "title": "Randomize",
+      "body": "Use a system to randomize your play.  Only bluff at a rate that is the maximum you can do before they would consider you suspicious or a “bluffer”.   Your frequency should also be based on the odds your opponent is getting from the pot.  "
+    },
+    {
+      "id": "4877",
+      "title": "Game Theory",
+      "body": "Think about how your opponent would react based on what cards they think you have.  "
+    },
+    {
+      "id": "4878",
+      "title": "Deception",
+      "body": "The tougher (smarter) your opponent is, the fewer opponents are, and the larger the stakes, the more you must consider throwing them off by randomizing your behavior to make it tough for them to gain information on you."
+    },
+    {
+      "id": "4879",
+      "title": "Ante Structure / Fixed Costs Structure",
+      "body": "The lower the ante compared to future bets, the tighter you should play, the higher the ante, the looser you should play.  ??"
+    },
+    {
+      "id": "4880",
+      "title": "Incomplete Information",
+      "body": "The less information you have the harder it is to determine your probability of winning."
+    },
+    {
+      "id": "4881",
+      "title": "Net Cash Flow",
+      "body": "Success is not the number of times you win or lose, it is maximizing your winning hands and minimizing your losing hands."
+    },
+    {
+      "id": "4882",
+      "title": "Semi-Bluff",
+      "body": "Indicating your hand is stronger than it is when you have the chance to get a better hand on the fly.  Semi bluffs are more frequently used and smarter play than pure-bluff.  It is rarely wise to try to bluff out two or more people.  "
+    },
+    {
+      "id": "4883",
+      "title": "Pure-Bluff",
+      "body": "Indicating your hand is stronger than it is when there is no chance to improve it or beat your opponent.  If your bluff doesn’t work right away, abandon it.  "
+    },
+    {
+      "id": "4884",
+      "title": "Theorem of Poker",
+      "body": "Every time you play a hand differently from the way you would have played it if you had perfect information, they gain, and every time you play a had the same as if you have perfect information, they lose.  Every time an opponent plays their hands differently from the way they would have if they had perfect information, you gain; and every time they play their hand the same way they would have played if they had perfect information, you lose."
+    },
+    {
+      "id": "4885",
+      "title": "Loose v. Tight",
+      "body": "Determine whether your opponent is playing loosely or tightly.  When players are playing loose you should be playing tight and when they are playing tight you should be playing loose.  "
+    },
+    {
+      "id": "4886",
+      "title": "Payout ",
+      "body": "Cost to Play"
+    },
+    {
+      "id": "4887",
+      "title": "Mathematical Expectation",
+      "body": "Average gain or loss per bet.  Based on odds of winning, the bet, and the payout.  "
+    },
+    {
+      "id": "4888",
+      "title": "Hourly Rate",
+      "body": "Amount of money you are expected to make per hour determined by taking your mathematical expectation times the number of bets per hour.  "
+    },
+    {
+      "id": "4889",
+      "title": "Always Assess Pot Odds",
+      "body": "Always assess the money that can be made in your industry.  "
+    },
+    {
+      "id": "4890",
+      "title": "Free Card",
+      "body": "A card that does not cost a bet to receive."
+    },
+    {
+      "id": "4891",
+      "title": "Expectation Formula",
+      "body": "(Times Occurring * Payout) – (Times Not-Occurring * Bet) / Sum of Times Occurring Plus Not-Occurring"
+    }
+  ]
+}
+

@@ -1,0 +1,127 @@
+{
+  "subject": "Estimation Checklist",
+  "credit": "Estimation Checklist",
+  "todos": [
+    {
+      "id": "2280",
+      "title": "Cone of Uncertainty",
+      "body": "The earlier you are in a project the more you are likely to miss your estimate."
+    },
+    {
+      "id": "2281",
+      "title": "Week Sprints",
+      "body": "Week sprints are recommended because you are never a week away from knowing that there is a problem."
+    },
+    {
+      "id": "2282",
+      "title": "Resources & Environment",
+      "body": "Understand the environment and resources you have to complete the work."
+    },
+    {
+      "id": "2283",
+      "title": "Things that often blow up an estimate",
+      "body": "UI, missing requirements, extra time to standup scaffolding, implementing customer feedback from acceptance testing."
+    },
+    {
+      "id": "2284",
+      "title": "Take into consideration team size",
+      "body": "The more developers assigned to a project, the more communication and the less effective each developer will be."
+    },
+    {
+      "id": "2285",
+      "title": "How Critical Is Estimate",
+      "body": "The more critical and larger the project, the more time you should spend estimating."
+    },
+    {
+      "id": "2286",
+      "title": "Spike",
+      "body": "Taking time to identify requirements analysis.  "
+    },
+    {
+      "id": "2287",
+      "title": "Books",
+      "body": "Steve McConnell – Software Estimation Demystifying the Black Art."
+    },
+    {
+      "id": "2288",
+      "title": "If You Don’t Know",
+      "body": "Say “I’ll get back to you.”"
+    },
+    {
+      "id": "2289",
+      "title": "Law of Large Numbers",
+      "body": "One large estimate could be off by a large number in either way.  Many small estimates tend to average out.  "
+    },
+    {
+      "id": "2290",
+      "title": "Day isn’t a day",
+      "body": "Not all developers get 100% day due to other responsibilities, vacation, support, etc.  "
+    },
+    {
+      "id": "2291",
+      "title": "Blind Bidding",
+      "body": "Multiple people each take a guess and reveal their estimate at the same time.  "
+    },
+    {
+      "id": "2292",
+      "title": "Ramp Up",
+      "body": "Make sure to consider ramp up time."
+    },
+    {
+      "id": "2293",
+      "title": "Documentation",
+      "body": "Make sure to consider handoff and documentation.  "
+    },
+    {
+      "id": "2294",
+      "title": "Requirements",
+      "body": "Make sure all the requirements are clearly spelled out."
+    },
+    {
+      "id": "2295",
+      "title": "Don’t Overestimate",
+      "body": "If you pad, pad in just one place."
+    },
+    {
+      "id": "2296",
+      "title": "Testing",
+      "body": "Estimates should include testing time."
+    },
+    {
+      "id": "2297",
+      "title": "Story Buckets",
+      "body": "Estimate in terms of half day, day, half week, week.  If something is greater than a week, split it up into smaller components.  "
+    },
+    {
+      "id": "2298",
+      "title": "QA",
+      "body": "Did you factor in QA time."
+    },
+    {
+      "id": "2299",
+      "title": "Indirect Costs",
+      "body": "Cost of time for project managers, architects.  "
+    },
+    {
+      "id": "2300",
+      "title": "Direct Costs",
+      "body": "Cost of time for developers, testers."
+    },
+    {
+      "id": "2301",
+      "title": "Ways to estimate",
+      "body": "By story, count of components, relative to other similar projects, blind bidding."
+    },
+    {
+      "id": "2302",
+      "title": "Critical Thinking",
+      "body": "Ask questions surrounding Methodic Process Checklist.  What are we going to build, how, who, how fast."
+    },
+    {
+      "id": "2303",
+      "title": "Things to help reduce estimate uncertainty",
+      "body": "Approving product definition, clear and concise requirements, user interface design complete, detailed design complete."
+    }
+  ]
+}
+

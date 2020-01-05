@@ -1,0 +1,72 @@
+{
+  "subject": "EFFICIENCY CHECKLIST",
+  "credit": "EFFICIENCY CHECKLIST",
+  "todos": [
+    {
+      "id": "2164",
+      "title": "Dashbaords",
+      "body": "Visual tool that can be seen by everyone and is used to measure company metrics.  "
+    },
+    {
+      "id": "2165",
+      "title": "Type with your mouth",
+      "body": "Use speech to text typing.  It is faster than using your hands."
+    },
+    {
+      "id": "2166",
+      "title": "Split Screen",
+      "body": "Use a background image to split your screen into two or three parts.  Size each window to fit within a section."
+    },
+    {
+      "id": "2167",
+      "title": "Colemak Keyboard",
+      "body": "Type using Colemak keyboard.  It is faster than a Qwerty keyboard.  "
+    },
+    {
+      "id": "2168",
+      "title": "Speed Read",
+      "body": "See library for speed-reading books."
+    },
+    {
+      "id": "2169",
+      "title": "Learn primarily with your eyes",
+      "body": "Read books, not audio books.  Only listen to text to proofread what you write.  You can visualize information 10x faster than you can hear it.  You also retain more information viewing it (people remember 10% of what they hear, 30% of what they read, and 65% of what they hear and read)."
+    },
+    {
+      "id": "2170",
+      "title": "Smarter Not Harder",
+      "body": "Fifty percent of the time it takes you to do any task should be spent on infrastructure, learning, or automation (building speed resource, knowledge base, hacks, tools, tricks, processes, inventions, or software, to cut down the time it takes you to do that task again)."
+    },
+    {
+      "id": "2171",
+      "title": "Task Management Apps",
+      "body": "Clear, Todoist, And.do, 2Do, Carrot"
+    },
+    {
+      "id": "2172",
+      "title": "File Sharing",
+      "body": "Single location for files that can be accessed by all parties.  "
+    },
+    {
+      "id": "2173",
+      "title": "Contact Sharing",
+      "body": "Single location for contacts that can be accessed by all parties.  "
+    },
+    {
+      "id": "2174",
+      "title": "Task Management",
+      "body": "Keeping lists of the groups tasks.  "
+    },
+    {
+      "id": "2175",
+      "title": "Batching",
+      "body": "Creating blocks of time to focus on one type of task (example 30 min blocked out just for answering e-mails)."
+    },
+    {
+      "id": "2176",
+      "title": "Calendar Sharing",
+      "body": "Access to everyone’s calendar.  "
+    }
+  ]
+}
+

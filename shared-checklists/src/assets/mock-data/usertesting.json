@@ -1,0 +1,327 @@
+{
+  "subject": "User Testing & Research",
+  "credit": "User Testing & Research",
+  "todos": [
+    {
+      "id": "6554",
+      "title": "Task Based Usability",
+      "body": "Testing a user on a specific task and tracking multiple metrics (such as time to completion, steps taken, mistakes made) on that task."
+    },
+    {
+      "id": "6555",
+      "title": "Surveys",
+      "body": "Surveys are not good at getting in touch with your users because you will either have to ask closed ended questions that will bias the results or open ended questions that won’t get you to what you need to know.  To get a lot of information, use the telephone.  Surveys are not good at generating hypotheses but may be okay at validating hypotheses.  "
+    },
+    {
+      "id": "6556",
+      "title": "Big Three",
+      "body": "Market - Group of people you think might want to buy your product.  Problem - Reason those people are going to use your product.  Product - Way to solve your users problems."
+    },
+    {
+      "id": "6557",
+      "title": "Funnel Analytics",
+      "body": "Funnel analysis involves using a series of events that lead towards a defined goal."
+    },
+    {
+      "id": "6558",
+      "title": "Qualitative v. Quantitative",
+      "body": "Develop hypotheses with qualitative research, test hypotheses with quantitative research.  Use qualitative methods when you are testing multiple variables and want to generate hypotheses or improve the product.  Use quantitative methods when you are trying to validate a single variable and prove a hypothesis."
+    },
+    {
+      "id": "6559",
+      "title": "Measurable Goal",
+      "body": "You should always have a measurable goal before you start designing and all those goals should tie into your business goals."
+    },
+    {
+      "id": "6560",
+      "title": "Questions to ask users",
+      "body": "What were you expecting from the product when you signed up, what do you feel the product offered, how was the product different from what you expected, how much time did you spend with the product, what was your reaction, where did you learn about the product, did you speak to anyone else about the product, if so who and what did you talk about.  Do this on the phone."
+    },
+    {
+      "id": "6561",
+      "title": "Qualitative Research",
+      "body": "Watching humans and understanding their behavior.  Include contextual inquiry, usability studies, customer development interviews.  Does not need to be statistically significant but needs to have enough size to discover patterns."
+    },
+    {
+      "id": "6562",
+      "title": "Deciding What To Build Next (qualitative)",
+      "body": "Watch users and do usability testing, talk to people that have stopped using the product, watch new customers and ask what they expected."
+    },
+    {
+      "id": "6563",
+      "title": "Diagram Tools",
+      "body": "Visio, OmniGraffle."
+    },
+    {
+      "id": "6564",
+      "title": "User-Centered Design",
+      "body": "User provides the data to design your product."
+    },
+    {
+      "id": "6565",
+      "title": "Visionary Products",
+      "body": "Use caution, something groundbreaking can be wildly unusable because nobody has ever seen anything like it before.  Requires extra usability testing, training, support, tutorials, simplicity in design, features you can turn off, etc."
+    },
+    {
+      "id": "6566",
+      "title": "Mistakes in Analyzing Data",
+      "body": "Trying to get statistical significance when you don’t need it, tracking short term changes but ignoring the long term effects on other variables, forgetting the goals of the metrics, combining data from multiple tests.  "
+    },
+    {
+      "id": "6567",
+      "title": "Flailing",
+      "body": "Trying new things constantly and then abandoning them without further or proper study.  Flailing leads to wildly overcomplicated products with abandoned features used by a small percentage of users.  "
+    },
+    {
+      "id": "6568",
+      "title": "Avoid Bias",
+      "body": "The worst thing you can do is tell the test subject what you are working on and how great it will be for them.  You are not there to talk you are there to listen.  This requires humility and putting your ego on the back burner.  The more you have to explain, the more you bias the experiment."
+    },
+    {
+      "id": "6569",
+      "title": "Validate Ideas",
+      "body": "The vast majority of startup ideas are based on things that somebody thought was cool or interesting, rather than something that really solves a problem for people.  Validate as early as possible.  The earlier you validate, the less likely you have to pivot."
+    },
+    {
+      "id": "6570",
+      "title": "Ethnographic Studies",
+      "body": "The best way to understand the problem of your users is to go out and observe them in person."
+    },
+    {
+      "id": "6571",
+      "title": "Sales Tests",
+      "body": "Testing with sales.  Expensive and not recommended until you prove several hypotheses.  "
+    },
+    {
+      "id": "6572",
+      "title": "Click Tests",
+      "body": "Testing what people click on a website.  "
+    },
+    {
+      "id": "6573",
+      "title": "Wizard of Oz",
+      "body": "Testing out a concept with a front end design but no backend functionality.  It requires a human doing all the work on the backend to service the client.  Zappos tested out their product buy taking pictures of shoes at local shoe stores and selling them online.  When someone purchased they would have to drive to the shoe store, buy, and ship the order.  They lost money but validated a billion dollar concept."
+    },
+    {
+      "id": "6574",
+      "title": "Minimal Effort",
+      "body": "Testing does not have to always be statistically significant or 300 pages long.  Sometimes it is meeting with a couple people and sketching something on paper.  Your testing never needs to be seen outside of your office so fancy reports are useless.  Try to find the minimal possible effort to confidently prove or disprove your hypothesis."
+    },
+    {
+      "id": "6575",
+      "title": "Test First",
+      "body": "Test your product hypothesis before you build it."
+    },
+    {
+      "id": "6576",
+      "title": "Narrow Market",
+      "body": "Start with a narrow market (ex   urban moms who work FT and don’t have nannies).  Don’t worry if it isn’t very big because you can always expand.  "
+    },
+    {
+      "id": "6577",
+      "title": "Whiteboard Brainstorming",
+      "body": "Start by clearly explaining the user problem and the reason you are choosing to solve it.  Explain how you will measure success.  If other people give other criteria for success take them into consideration but remember to prioritize otherwise you will have a bloated result.  Have everybody write down their ideas and then go around and have people read and clarify.  Categorize ideas.  Do it in 15 – 30 minutes.  Pick something and then test it.  "
+    },
+    {
+      "id": "6578",
+      "title": "UsabilityHub",
+      "body": "Site that helps you do testing.  Post a mockup of your landing page and ask those three questions from 10 to 15 test subjects."
+    },
+    {
+      "id": "6579",
+      "title": "Usability Testing Feedback",
+      "body": "Shut the help up.  You are listening, not talking.  Don’t give a guided tour.  Let them explore on their own before you give them tasks.  Let them fail and flail.  Ask open ended questions.  Follow up if they give you generic answers (ex   you said that was cool, what was cool about it).  "
+    },
+    {
+      "id": "6580",
+      "title": "Prototype Testing",
+      "body": "Show them something that looks like your product and ask for their reactions.  Never ask them if they think it is a good idea or would buy.  A lot of times they either don’t know if they would buy or they are going to say yes just to be nice.  The closer you can make it look to the real product the more accurately you can predict whether people will use that product.  "
+    },
+    {
+      "id": "6581",
+      "title": "UX",
+      "body": "Should be testing and validating new features before sending them on to development.  "
+    },
+    {
+      "id": "6582",
+      "title": "Landing Page Tests",
+      "body": "Sell the product before you build it.  You can get a ballpark of how many people are willing to pay you to solve their problem.  "
+    },
+    {
+      "id": "6583",
+      "title": "Guerilla User Tests",
+      "body": "See Steve Krug Usability Testing.  See Usability Testing Checklist and Script."
+    },
+    {
+      "id": "6584",
+      "title": "NPS Surveys",
+      "body": "See NPS Checklist."
+    },
+    {
+      "id": "6585",
+      "title": "N% Rollout",
+      "body": "Roll out new changes or features on a limited portion of your users so you can see the response.  "
+    },
+    {
+      "id": "6586",
+      "title": "Metrics That Equal Happy Users",
+      "body": "Retention, Revenue, NPS, Conversion from Free to Paying, Engagement, Customer Service Contacts.  "
+    },
+    {
+      "id": "6587",
+      "title": "Don’t need large samples",
+      "body": "Remember, for qualitative research you want to find the minimum number of people to interview until you discover the same patterns."
+    },
+    {
+      "id": "6588",
+      "title": "Making Things Pretty Warning",
+      "body": "Premature prettification can cause lots of user experience disasters.  Make it clean and clear but not pixel perfect until you’ve tested it.  Users are less likely to give you critical feedback when things are pretty.  Good visuals will distract people from functionality.  You will subconsciously make compromises to suit the visual design.  "
+    },
+    {
+      "id": "6589",
+      "title": "Screen vs. Paper",
+      "body": "People interact differently with screen than paper so show things on a computer unless you need to lay many things out side by side.  "
+    },
+    {
+      "id": "6590",
+      "title": "Sites for designers",
+      "body": "patterntap.com, mobile-patterns.com, smashingmagazine.com"
+    },
+    {
+      "id": "6591",
+      "title": "Competitor Analysis Testing",
+      "body": "Observe customers using your competitors products and identify their pains and problems.  You can do this before you even have a product.  What workarounds have they created to avoid the pain.  Run Google, Facebook, or Craigslist ads to find five people using your competitors products.  Watch and ask questions.  "
+    },
+    {
+      "id": "6592",
+      "title": "Quantitative Research",
+      "body": "Measuring what real people are actually doing.  It doesn’t usually involve speaking with humans.  Its about the data in aggregate and should be statistically significant.  Includes funnel analytics, A/B testing, cohort analysis."
+    },
+    {
+      "id": "6593",
+      "title": "Return v. Cost",
+      "body": "Make an x-y axis graph and put in the ideas you came up with in relation to their return and cost.  "
+    },
+    {
+      "id": "6594",
+      "title": "Deciding What to Build Next (quantative)",
+      "body": "Look at the features that are getting the most use, add a fake button to a new feature and see how many people click on it, then say, interested in this feature, please contact us."
+    },
+    {
+      "id": "6595",
+      "title": "Product-Problem Match",
+      "body": "Just because a lot of people have a problem doesn’t mean that your product will solve their problem.  You must test this and ask “does this product really solve the identified problem.”"
+    },
+    {
+      "id": "6596",
+      "title": "Stealing",
+      "body": "It’s okay to steal design ideas but you first need to make sure they work for your customers."
+    },
+    {
+      "id": "6597",
+      "title": "Invalidation",
+      "body": "Invalidating an idea is the same as validating it.  Once you invalidate, search out why your hypothesis was wrong and communicate that information to your team.  Every failed thing you don’t’ do will save you lots of time and money.  "
+    },
+    {
+      "id": "6598",
+      "title": "Pain Driven Design",
+      "body": "Instead of designing to your users, you design towards your users pains and problems.  Many users don’t really know what they want or don’t know the best solution to solve your problems so this approach is possibly more effective."
+    },
+    {
+      "id": "6599",
+      "title": "Get Out of The Building",
+      "body": "If you have questions about your product, message, feature, the answer is not in your office or in your CEO, your answer is outside of the building and only your customers can help you find it.  "
+    },
+    {
+      "id": "6600",
+      "title": "Brain Imaging",
+      "body": "Hooking the client up to a brain imaging machine and testing."
+    },
+    {
+      "id": "6601",
+      "title": "A/B Testing",
+      "body": "Good for getting statistically significant data that you can hang your hat on, proving hypothesis, understand what customers are actually doing, make decisions on what to cut and what to improve, validate design decision and hypotheses, see which small changes have big impact on metrics.  Not good if you are constantly making many changes on your product, message, etc.  In other words not great for early testing unless you are isolating your changes and can test them individually."
+    },
+    {
+      "id": "6602",
+      "title": "Opt-In",
+      "body": "Give users the option of opting in to new features or design changes so you don’t make them upset.  "
+    },
+    {
+      "id": "6603",
+      "title": "Unmoderated Testing",
+      "body": "Getting a video of a real world human using your product.  Good for finding if your product is easy to use by someone who has never seen it.  Bad for finding if people will like, use, buy your product and finding out how to fix usability problems. Use sites like UserTesting.com, OpenHallway, Loop11, TryMyUI, userinterviews.com."
+    },
+    {
+      "id": "6604",
+      "title": "Number of Testers",
+      "body": "For qualitative analysis the magic number is 5.  "
+    },
+    {
+      "id": "6605",
+      "title": "Design Evolution",
+      "body": "Diagram, sketch, wireframes, interactive prototype, visual design, development.  Find a way to test between each step."
+    },
+    {
+      "id": "6606",
+      "title": "Landing Page Execution",
+      "body": "Create a landing page for a fictional product and but a big button that says “Buy” or “Pre-Order”.  Hire a graphic designer or get a design from places like 99Designs.  Drive traffic to your site with AdWords, Facebook Ads.  Check to see how many people click on your ads and what percent clicks on the Buy button.  Use Google Analytics."
+    },
+    {
+      "id": "6607",
+      "title": "Data-Driven Design",
+      "body": "Combining good design practices with good testing practices."
+    },
+    {
+      "id": "6608",
+      "title": "Design Template",
+      "body": "Color palette, font sizes, color standards for headers, subheaders, body, column sizes in grid layouts, simple and appealing icon set, standards for boxes, lines, corners, backgrounds, separators, alignment, flexible header and fooder design."
+    },
+    {
+      "id": "6609",
+      "title": "Cohort Analysis",
+      "body": "Cohort analysis is a subset of behavioral analytics that rather than looking at all users as one unit, it breaks them into related groups for analysis."
+    },
+    {
+      "id": "6610",
+      "title": "MVP",
+      "body": "Building the smallest possible thing you can in order to conclusively validate or invalidate your hypothesis."
+    },
+    {
+      "id": "6611",
+      "title": "Validation Trap",
+      "body": "Because many startups are building novel innovations, the inability to validate a hypothesis can be tricky and requires several different approaches.  "
+    },
+    {
+      "id": "6612",
+      "title": "Prototype Pools",
+      "body": "Balsamiq, Mockingbird, MockFlow, Pivotal Tracker."
+    },
+    {
+      "id": "6613",
+      "title": "Five-Second Messaging Tests",
+      "body": "Ambush strangers.  Go to your local coffee shop, ask if someone will give you 5-10 minutes and you’ll buy their beverage.  Explain why it helps you.  Tell them you are not selling.  Show your landing page and ask the following questions.  What does the user think this product does?  Who does the user think the product is for?  Can the user figure out how to get the product?"
+    },
+    {
+      "id": "6614",
+      "title": "Feature Stub (Fake Door)",
+      "body": "Add a button that says upgrade or buy to test whether users will pay additional for a certain feature or version of your software.  "
+    },
+    {
+      "id": "6615",
+      "title": "Testing",
+      "body": "A product is a set of hypotheses to be validated or invalidated.  The quicker you can do so the faster you will have a good product and the less money you will spend."
+    },
+    {
+      "id": "6616",
+      "title": "MVP",
+      "body": "A minimum viable product is minimal and viable.  The product should not be useless but should just have them minimal number of working features and then continues to add features based on customer and pain driven design processes.  A landing page can be a MVP."
+    },
+    {
+      "id": "6617",
+      "title": "Study Similar People",
+      "body": "   As mentioned earlier, find a specific market of people and test them to uncover patterns in their behavior.  It is better to study similar people than a bunch of random people because you will better be able to identify pattern overlap.  Ask them to show you how they currently perform some of the tasks your problem is trying to solve."
+    }
+  ]
+}
+

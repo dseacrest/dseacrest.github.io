@@ -1,0 +1,347 @@
+{
+  "subject": "LENDING CHECKLIST Part 2",
+  "credit": "LENDING CHECKLIST Part 2",
+  "todos": [
+    {
+      "id": "3754",
+      "title": "Flood zone certification",
+      "body": ""
+    },
+    {
+      "id": "3755",
+      "title": "Footings & Foundation (Block A)",
+      "body": ""
+    },
+    {
+      "id": "3756",
+      "title": "Future Advance",
+      "body": ""
+    },
+    {
+      "id": "3757",
+      "title": "General Contractors general liability",
+      "body": ""
+    },
+    {
+      "id": "3758",
+      "title": "Good Standing Certificates/Certificates of Existence as to Borrower",
+      "body": ""
+    },
+    {
+      "id": "3759",
+      "title": "Guaranty Agreement by Chief Industries",
+      "body": ""
+    },
+    {
+      "id": "3760",
+      "title": "Guaranty Agreement by WRK",
+      "body": ""
+    },
+    {
+      "id": "3761",
+      "title": "Insurance Certificates",
+      "body": ""
+    },
+    {
+      "id": "3762",
+      "title": "Insured Closing Protection Letter",
+      "body": ""
+    },
+    {
+      "id": "3763",
+      "title": "Is the loan “non-recourse” (i.e. lenders recovery is limited to collateral/security and borrower is not personally liable)",
+      "body": ""
+    },
+    {
+      "id": "3764",
+      "title": "Is there “force placed insurance”",
+      "body": ""
+    },
+    {
+      "id": "3765",
+      "title": "Is there a “due on sale” clause that requires immediate payoff of the loan if the real estate is sold (this would prevent wrap around financing)",
+      "body": ""
+    },
+    {
+      "id": "3766",
+      "title": "Is there a “lock-out” clause prohibiting prepayment",
+      "body": ""
+    },
+    {
+      "id": "3767",
+      "title": "Is there a “pre-payment” penalty",
+      "body": ""
+    },
+    {
+      "id": "3768",
+      "title": "Lancaster County, NE",
+      "body": ""
+    },
+    {
+      "id": "3769",
+      "title": "Legal Description",
+      "body": ""
+    },
+    {
+      "id": "3770",
+      "title": "Lenders closing expense",
+      "body": ""
+    },
+    {
+      "id": "3771",
+      "title": "Location/Address",
+      "body": ""
+    },
+    {
+      "id": "3772",
+      "title": "MAI Appraisal Report",
+      "body": ""
+    },
+    {
+      "id": "3773",
+      "title": "Nebraska Secretary of State",
+      "body": ""
+    },
+    {
+      "id": "3774",
+      "title": "Notice of Commencement",
+      "body": ""
+    },
+    {
+      "id": "3775",
+      "title": "Origination Fee (1/2%)",
+      "body": ""
+    },
+    {
+      "id": "3776",
+      "title": "Performance and Payment Bond for GC",
+      "body": ""
+    },
+    {
+      "id": "3777",
+      "title": "Permits",
+      "body": ""
+    },
+    {
+      "id": "3778",
+      "title": "Phase I Environmental Report",
+      "body": ""
+    },
+    {
+      "id": "3779",
+      "title": "Plans & Specifications",
+      "body": ""
+    },
+    {
+      "id": "3780",
+      "title": "Pledge Agreement of TIF Redevelopment Agreement",
+      "body": ""
+    },
+    {
+      "id": "3781",
+      "title": "Proforma Policy (ALTA) with endorsements",
+      "body": ""
+    },
+    {
+      "id": "3782",
+      "title": "Project Budget",
+      "body": ""
+    },
+    {
+      "id": "3783",
+      "title": "Promissory Note",
+      "body": ""
+    },
+    {
+      "id": "3784",
+      "title": "Security Agreement (Article 9 U.C.C.)",
+      "body": ""
+    },
+    {
+      "id": "3785",
+      "title": "Site Plan",
+      "body": ""
+    },
+    {
+      "id": "3786",
+      "title": "SNDAs from",
+      "body": ""
+    },
+    {
+      "id": "3787",
+      "title": "Soils Tests/Geotechnical Report",
+      "body": ""
+    },
+    {
+      "id": "3788",
+      "title": "Special Use (as applicable)",
+      "body": ""
+    },
+    {
+      "id": "3789",
+      "title": "Storm Water/Discharge",
+      "body": ""
+    },
+    {
+      "id": "3790",
+      "title": "SUPPORTING DOCUMENTS",
+      "body": ""
+    },
+    {
+      "id": "3791",
+      "title": "Survey",
+      "body": ""
+    },
+    {
+      "id": "3792",
+      "title": "Survey (ALTA/ACSM)",
+      "body": ""
+    },
+    {
+      "id": "3793",
+      "title": "Sworn Statement by Borrower",
+      "body": ""
+    },
+    {
+      "id": "3794",
+      "title": "Sworn Statement by Contractor",
+      "body": ""
+    },
+    {
+      "id": "3795",
+      "title": "Tax Parcel",
+      "body": ""
+    },
+    {
+      "id": "3796",
+      "title": "Tenant Estoppels from",
+      "body": ""
+    },
+    {
+      "id": "3797",
+      "title": "Tie-In/Aggregation (if necessary)",
+      "body": ""
+    },
+    {
+      "id": "3798",
+      "title": "Title Commitment",
+      "body": ""
+    },
+    {
+      "id": "3799",
+      "title": "TITLE DOCUMENTS",
+      "body": ""
+    },
+    {
+      "id": "3800",
+      "title": "Title Exceptions",
+      "body": ""
+    },
+    {
+      "id": "3801",
+      "title": "UCC Financing Statement for Borrower",
+      "body": ""
+    },
+    {
+      "id": "3802",
+      "title": "UCC/Judgment/Lien Search Results for Borrower",
+      "body": ""
+    },
+    {
+      "id": "3803",
+      "title": "UCC/Judgment/Lien Search Results for Chief Industries",
+      "body": ""
+    },
+    {
+      "id": "3804",
+      "title": "UCC/Judgment/Lien Search Results for WRK",
+      "body": ""
+    },
+    {
+      "id": "3805",
+      "title": "USBNA Term Sheet",
+      "body": ""
+    },
+    {
+      "id": "3806",
+      "title": "Usury",
+      "body": ""
+    },
+    {
+      "id": "3807",
+      "title": "Utility “Will Serve Letter”",
+      "body": ""
+    },
+    {
+      "id": "3808",
+      "title": "Utility Availability",
+      "body": ""
+    },
+    {
+      "id": "3809",
+      "title": "Variable Rate",
+      "body": ""
+    },
+    {
+      "id": "3810",
+      "title": "Verification of Required Cash Equity Contribution",
+      "body": ""
+    },
+    {
+      "id": "3811",
+      "title": "Vesting Deed to Borrower",
+      "body": ""
+    },
+    {
+      "id": "3812",
+      "title": "What is “default interest rate”",
+      "body": ""
+    },
+    {
+      "id": "3813",
+      "title": "Wiring Instructions",
+      "body": ""
+    },
+    {
+      "id": "3814",
+      "title": "Zoning 3.0",
+      "body": ""
+    },
+    {
+      "id": "3815",
+      "title": "Zoning Compliance Letter",
+      "body": ""
+    },
+    {
+      "id": "3816",
+      "title": "Cable (Jerry Fischer – Time Warner)",
+      "body": ""
+    },
+    {
+      "id": "3817",
+      "title": "Electricity (Dana Daniels - LES)",
+      "body": ""
+    },
+    {
+      "id": "3818",
+      "title": "Gas (Mike Barry – Black Hills)",
+      "body": ""
+    },
+    {
+      "id": "3819",
+      "title": "Phone (Jerry Fischer – Time Warner)",
+      "body": ""
+    },
+    {
+      "id": "3820",
+      "title": "Sewer (Steve Masters - City)",
+      "body": ""
+    },
+    {
+      "id": "3821",
+      "title": "Water (Steve Masters - City)",
+      "body": ""
+    }
+  ]
+}
+

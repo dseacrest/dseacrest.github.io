@@ -1,0 +1,377 @@
+{
+  "subject": "Pricing Checklist",
+  "credit": "Pricing Checklist",
+  "todos": [
+    {
+      "id": "5209",
+      "title": "Agreement",
+      "body": "Use the word agreement not contract."
+    },
+    {
+      "id": "5210",
+      "title": "Price",
+      "body": "Use the word price not fee."
+    },
+    {
+      "id": "5211",
+      "title": "Option One",
+      "body": "Present your most expensive option first."
+    },
+    {
+      "id": "5212",
+      "title": "Copyright",
+      "body": "Insure you retain ownership of your IP."
+    },
+    {
+      "id": "5213",
+      "title": "Qualifiers",
+      "body": "Do not use price qualifiers such as “ Our normal/standard/regular price…”"
+    },
+    {
+      "id": "5214",
+      "title": "Quiet",
+      "body": "Do not negotiate with yourself.  Be proud of your proposal and stay quiet."
+    },
+    {
+      "id": "5215",
+      "title": "Options",
+      "body": "Be creative in presenting options."
+    },
+    {
+      "id": "5216",
+      "title": "Equals",
+      "body": "Any bargaining must take palce among equals."
+    },
+    {
+      "id": "5217",
+      "title": "Timeline",
+      "body": "Always place timelines and time constraints on proposals."
+    },
+    {
+      "id": "5218",
+      "title": "Analysis paralysis (also know as the paradox of choice) is an example of a heuristic your pricing strategy needs to avoid triggering.  The most famous example of this is Columbia Universitys study into jam sales",
+      "body": "when customers were offered a range of 24 jam flavours, 3% went on to make a purchase. But when the choices were restricted to just 3 flavours, 30% went on to buy."
+    },
+    {
+      "id": "5219",
+      "title": "Don’t Just Roll the Dice – Pricing",
+      "body": "The Third Business Skill"
+    },
+    {
+      "id": "5220",
+      "title": "Charm Pricing",
+      "body": "The power of number 9 is real! A study in Quantitative Marketing and Economics found that “prices ending in 9 were so effective they were able to outsell even lower prices for the exact same product.”  Removing dollar signs and commas can improve sales (Ex  1499, not $1,499.00)."
+    },
+    {
+      "id": "5221",
+      "title": "Odd-even pricing works on a similar principle to charm pricing",
+      "body": "prices are reduced by a few dollars to bring them just under the nearest \"rounded\" price point. Whereas charm pricing exclusively uses prices ending in nine, odd pricing uses, you guessed it, odd numbers - think $7.47, $97 or $493."
+    },
+    {
+      "id": "5222",
+      "title": "Cross – Selling",
+      "body": "One on one relationship between salesperson and customer.  "
+    },
+    {
+      "id": "5223",
+      "title": "Pricing Strategies",
+      "body": "No-frills, value-for-money, product leadership, exclusivity."
+    },
+    {
+      "id": "5224",
+      "title": "Increasing Perceived Value",
+      "body": "Have better features, give product a personality, link the product to yourself or your consulting company, make people love your product (demos, prizes, free things, aesthetics), provide better service, provide re-assurance (guarantees), create a cult, remind people of the work you’ve put into product, appeal to sense of fairness, sell more than just the product."
+    },
+    {
+      "id": "5225",
+      "title": "Entrepreneur",
+      "body": "An inventor or a salesperson, or both."
+    },
+    {
+      "id": "5226",
+      "title": "Co-Selling",
+      "body": "Working with third parties to sell a product."
+    },
+    {
+      "id": "5227",
+      "title": "Price Change",
+      "body": "When price changes we look at the relative change and not the absolute value."
+    },
+    {
+      "id": "5228",
+      "title": "Include Signposts",
+      "body": "When people don’t know what they should pay for a product they start to examine what you charge for other products to see if they are getting a deal.  Ex a soda drinker that want to buy lemonade but doesn’t know whether it’s a good deal will look at the soda price and see if it is reasonable at the same location.  "
+    },
+    {
+      "id": "5229",
+      "title": "Revenue Management",
+      "body": "Using pricing strategically to avoid future costs.  "
+    },
+    {
+      "id": "5230",
+      "title": "Pricing Services",
+      "body": "Under 5% of Fortune 500s have pricing experts.  "
+    },
+    {
+      "id": "5231",
+      "title": "Customer Data",
+      "body": "True pricing strategy requires having lots of data about your customers.  "
+    },
+    {
+      "id": "5232",
+      "title": "Networking Effect",
+      "body": "The more users, the more benefits."
+    },
+    {
+      "id": "5233",
+      "title": "Split solutions",
+      "body": "Selling a product in two parts, with each part required to be functional."
+    },
+    {
+      "id": "5234",
+      "title": "Versioning",
+      "body": "Segmenting your customers by their willingness to pay.  You can segment by – availability, feature, demographics, geography, industry, platform, etc."
+    },
+    {
+      "id": "5235",
+      "title": "Chief Pricing Officer",
+      "body": "Responsible for all pricing strategies.  "
+    },
+    {
+      "id": "5236",
+      "title": "Fencing",
+      "body": "Protecting your price discrimination policies.  "
+    },
+    {
+      "id": "5237",
+      "title": "Pricing Considerations",
+      "body": "Profitability and timing goals, business model, customer perceived value, competition, price customization, costs, communication to customers, tacit collusion (working with competitors – legally), complexity reduction, cross-selling, co-selling, cohesion.  "
+    },
+    {
+      "id": "5238",
+      "title": "Only Losers in War",
+      "body": "Pricing wars usually don’t benefit unless they grow the market, or provide cost savings.  "
+    },
+    {
+      "id": "5239",
+      "title": "Brand",
+      "body": "Pricing sends a message about your brand."
+    },
+    {
+      "id": "5240",
+      "title": "Future Pricing/ Gouging",
+      "body": "Pricing below cost with expectation that increased volume will pay off in long run.  "
+    },
+    {
+      "id": "5241",
+      "title": "Win Price",
+      "body": "Price that will win him the contract."
+    },
+    {
+      "id": "5242",
+      "title": "Per",
+      "body": "Per usage, per user, per computer, per server, per processing."
+    },
+    {
+      "id": "5243",
+      "title": "Reference Points",
+      "body": "People will look at best alternative way to solve the problem and use that as a reference for comparing your product.  "
+    },
+    {
+      "id": "5244",
+      "title": "Future Uncertainty",
+      "body": "People who think prices will rise are more likely to lock in early."
+    },
+    {
+      "id": "5245",
+      "title": "Large Numbers",
+      "body": "People who see large numbers that aren’t prices but are near prices will pay more or have higher perceived value.  "
+    },
+    {
+      "id": "5246",
+      "title": "Continual Savings",
+      "body": "People prefer many smaller savings than one large saving."
+    },
+    {
+      "id": "5247",
+      "title": "Five and Nines",
+      "body": "People perceive $1.99 as much less than $2.00."
+    },
+    {
+      "id": "5248",
+      "title": "Subscription",
+      "body": "Paying lots of small amounts is easier than paying one large amount.  Recuring payments promote regular usage.  "
+    },
+    {
+      "id": "5249",
+      "title": "Cohesion",
+      "body": "Partnering or working with other companies to sell and or market your product.  "
+    },
+    {
+      "id": "5250",
+      "title": "Start High",
+      "body": "Negotiations may take longer but you get a better end result."
+    },
+    {
+      "id": "5251",
+      "title": "Adjust Prices",
+      "body": "Mark down poorly selling items and mark up good items."
+    },
+    {
+      "id": "5252",
+      "title": "Never Round always even",
+      "body": "Makes it difficult for people to compare prices."
+    },
+    {
+      "id": "5253",
+      "title": "Favorable References",
+      "body": "Make your product look more like products that cost more, and less like products that cost less."
+    },
+    {
+      "id": "5254",
+      "title": "KPIs",
+      "body": "Key performance indicators such as margin, revenue, sales volume, market share, market size.  "
+    },
+    {
+      "id": "5255",
+      "title": "Price Watch",
+      "body": "Keeping an eye on the effectiveness of you pricing.  Use external variables to keep an eye for external factors.  Remember past results do not guarantee future performance."
+    },
+    {
+      "id": "5256",
+      "title": "Boring",
+      "body": "Keep the model boring, the product should stick out, not the price.  "
+    },
+    {
+      "id": "5257",
+      "title": "Value v Cost",
+      "body": "It doesn’t matter what you’ve spent, it matters what people are willing to pay.  "
+    },
+    {
+      "id": "5258",
+      "title": "Free Trials",
+      "body": "Increases perceived value.  "
+    },
+    {
+      "id": "5259",
+      "title": "Listing Features",
+      "body": "If you fail to list features that another product may have then you risk losing the client to the other product."
+    },
+    {
+      "id": "5260",
+      "title": "Cost of Additional User",
+      "body": "If you don’t plan on charging users, think of the cost of each additional user.  "
+    },
+    {
+      "id": "5261",
+      "title": "Knowledge Level",
+      "body": "How sophisticated is your consumer.  What features are they even aware of that will matter during a purchase.  "
+    },
+    {
+      "id": "5262",
+      "title": "Price Cuts & Rises",
+      "body": "Go for more smaller price cuts and less but larger price increases.  "
+    },
+    {
+      "id": "5263",
+      "title": "Volume Discount",
+      "body": "Give a discount for volume purchases but don’t let the single unit buyers know."
+    },
+    {
+      "id": "5264",
+      "title": "Freemium",
+      "body": "Free version with paid upgrades."
+    },
+    {
+      "id": "5265",
+      "title": "Pricing Objectives",
+      "body": "Effective, efficient, speed, customer-friendly, reliable, accurate, secure, focus, strategic."
+    },
+    {
+      "id": "5266",
+      "title": "Sale Price",
+      "body": "Don’t put a sale price on all your products."
+    },
+    {
+      "id": "5267",
+      "title": "Price Research",
+      "body": "Difficult to do and not always accurate. People often say things that will contradict what they do.  It is hard to compare apples to apples.  "
+    },
+    {
+      "id": "5268",
+      "title": "Good Better Best",
+      "body": "Create a good, better and best version to combat uncertainty reduction, allow anchoring, and fight competition.  "
+    },
+    {
+      "id": "5269",
+      "title": "Overt Collusion",
+      "body": "Conscious and explicit price fixing deals between companies.  Illegal."
+    },
+    {
+      "id": "5270",
+      "title": "Tacit Collusion",
+      "body": "Companies individual look for price levels that will maximize everyone’s benefit.  "
+    },
+    {
+      "id": "5271",
+      "title": "Simple Basic Version",
+      "body": "Cheap and basic version of a product or solution.  "
+    },
+    {
+      "id": "5272",
+      "title": "Thresholds",
+      "body": "Certain prices require certain approvals.  Employees may be able to purchase a $25 product without question but cannot purchase a $1,000 product without president approval.  "
+    },
+    {
+      "id": "5273",
+      "title": "Encourage Pirating",
+      "body": "Can be good for companies because it encourages onboarding until the person’s conscience kicks in.  It is a form of price discrimination.  "
+    },
+    {
+      "id": "5274",
+      "title": "Bundling",
+      "body": "Bundling two products together for a discounted price.  "
+    },
+    {
+      "id": "5275",
+      "title": "Pricing Transparency",
+      "body": "Be transparent.  Everyone needs to work together on price.  Pricing team needs to be able to see entire company.  "
+    },
+    {
+      "id": "5276",
+      "title": "Me-Too Pricing",
+      "body": "Bad strategy of pricing just like your competitors."
+    },
+    {
+      "id": "5277",
+      "title": "Choices",
+      "body": "Adding more choices drives people to the middle of the range if the choices are easily comparable.  In this case, adding larger and more expensive options can increase revenue.  Adding more choices drives people to the edges if they cannot easily compare the choices.  "
+    },
+    {
+      "id": "5278",
+      "title": "Product bundle pricing is the practice of offering several products for a single price.  Typically, the bundle price would offer each component product for less than its individual price (assuming its even possible to buy the products individually), but because the bundle encourages the sale of products that might not otherwise be bought, can still represent an increase in overall profit.",
+      "body": ""
+    },
+    {
+      "id": "5279",
+      "title": "Anchoring is the “common human tendency to rely too heavily on the first piece of information offered (the ‘anchor’) when making decisions.”  For instance, a pair of $996 leather pants makes a similar pair of $198 black pants with leather detailing seem like a steal in comparison.",
+      "body": ""
+    },
+    {
+      "id": "5280",
+      "title": "Decoy pricing is the use of a seemingly redundant pricing option (something thats obviously less desirable than the other products on offer), in order to influence how customers choose between the remaining products.",
+      "body": ""
+    },
+    {
+      "id": "5281",
+      "title": "The center stage effect refers to the psychological preference people have for the middle item in a selection of three choices. The main theory behind the preference is that \"Consumers believe that options placed in the center of a simultaneously presented array are the most popular\".",
+      "body": ""
+    },
+    {
+      "id": "5282",
+      "title": "Trial pricing is the tactic of offering your SaaS product at a reduced price for a limited time, usually as part of an introductory offer. Whereas the industry-standard free trial is, as the name suggests, free, trial pricing still charges the customer a lower-than-normal fee.",
+      "body": ""
+    }
+  ]
+}
+

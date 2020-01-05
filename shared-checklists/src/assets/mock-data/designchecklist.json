@@ -1,0 +1,331 @@
+{
+  "subject": "102 Things Design Checklist",
+  "credit": "102 Things Design Checklist",
+  "todos": [
+    {
+      "id": "32",
+      "title": "Geons",
+      "body": "There are 24 basic shapes that we see that help us distinguish millions of objects.  "
+    },
+    {
+      "id": "33",
+      "title": "Fusiform Face Area",
+      "body": "Special area of brain that helps you identify faces.  People recognize faces on websites faster than anything."
+    },
+    {
+      "id": "34",
+      "title": "Canonical Perspective",
+      "body": "People recognize objects if they are seen from the top and slightly to the side."
+    },
+    {
+      "id": "35",
+      "title": "Top Third",
+      "body": "Put most important things on a website in the top third."
+    },
+    {
+      "id": "36",
+      "title": "Visual Cues",
+      "body": "If you need people to notice a change in a site, add visual cues.  "
+    },
+    {
+      "id": "37",
+      "title": "Colorblindness",
+      "body": "Avoid putting blue and red or red and green near each other on a page."
+    },
+    {
+      "id": "38",
+      "title": "Saccades",
+      "body": "Eye jumps used when reading."
+    },
+    {
+      "id": "39",
+      "title": "Flesch-Kincaid",
+      "body": "Readability formula."
+    },
+    {
+      "id": "40",
+      "title": "Computer Reading",
+      "body": "Image is constantly refreshing and not stable.  Use a large font and contrast background.  100 characters per line is ideal for reading but we prefer 45 to 72 characters per line."
+    },
+    {
+      "id": "41",
+      "title": "Stress and Memory",
+      "body": "Stress reduces the effectiveness of working memory."
+    },
+    {
+      "id": "42",
+      "title": "Recognize v. Recall",
+      "body": "It is much easier for people to recognize than recall information.  You can store concrete words in memory better than abstract words.  You can remember things you see better than words."
+    },
+    {
+      "id": "43",
+      "title": "Middle",
+      "body": "Information in the middle of a presentation will be the hardest to remember."
+    },
+    {
+      "id": "44",
+      "title": "Forgetting Curve",
+      "body": "50% of information is forgotten within a day if not stored in long-term memory."
+    },
+    {
+      "id": "45",
+      "title": "Progressive Disclosure",
+      "body": "providing only the information people need at the moment.  If you have to trade off clicking vs. thinking, use more clicks and less thinking."
+    },
+    {
+      "id": "46",
+      "title": "Minimize Switching",
+      "body": "Minimize people having to switch from keyboard to screen."
+    },
+    {
+      "id": "47",
+      "title": "Wandering",
+      "body": "Average mind wanders 30% during an activity.  People whose mind wanders more are usually more creative and better at problem solving."
+    },
+    {
+      "id": "48",
+      "title": "Cognitive Dissonance",
+      "body": "Uncomfortable feeling when you have two ideas conflicting each other."
+    },
+    {
+      "id": "49",
+      "title": "Change Beliefs",
+      "body": "The best way to get someone to change beliefs is having them commit to something very small.  "
+    },
+    {
+      "id": "50",
+      "title": "Mental Models",
+      "body": "Design the conceptual model purposefully.  Don’t let it bubble up from the technology.  Conceptual model must match mental model closely.  Describe your product before you show it to your clients and get their reaction after you show it.  Was it what they expected?"
+    },
+    {
+      "id": "51",
+      "title": "Stories",
+      "body": "Work well because they imply causation even when none exists.  They are the natural way people can filter and process information."
+    },
+    {
+      "id": "52",
+      "title": "Example",
+      "body": "People learn best by example.  Don’t just tell people, show them."
+    },
+    {
+      "id": "53",
+      "title": "One of These Things is Not Like the Other",
+      "body": "People are hardwired to create categories to put their information inside.  "
+    },
+    {
+      "id": "54",
+      "title": "Time",
+      "body": "If people feel pressed for time they won’t stop to help someone.  Make sure they are not rushed."
+    },
+    {
+      "id": "55",
+      "title": "Loading",
+      "body": "A website should not take more than 3 seconds to load.  If it does make sure there is a progress bar."
+    },
+    {
+      "id": "56",
+      "title": "Sleep",
+      "body": "When you’re stuck on something.  Sleep on it."
+    },
+    {
+      "id": "57",
+      "title": "Stick Out",
+      "body": "If it’s critical people pay attention to something make it stick out ten times more than anything else."
+    },
+    {
+      "id": "58",
+      "title": "Automatic Steps",
+      "body": "Too many automatic steps will lead to errors.  "
+    },
+    {
+      "id": "59",
+      "title": "Awareness & Attention",
+      "body": "After 7-10 minutes people’s attention drops to 50%.  Keep presentations under 7 minutes.  "
+    },
+    {
+      "id": "60",
+      "title": "Multitask",
+      "body": "People can’t multitask."
+    },
+    {
+      "id": "61",
+      "title": "What gets Attention",
+      "body": "Movement, human faces, food, sex, danger, stories, loud noises.  Can I eat it, have sex with it, or will it kill me."
+    },
+    {
+      "id": "62",
+      "title": "Motivation",
+      "body": "People are more motivated as they get closer to a goal."
+    },
+    {
+      "id": "63",
+      "title": "Dopamine",
+      "body": "Doesn’t increase pleasure but makes people want to search out more information.  Dopamine is triggered by something unexpected happening or a reward coming.  Most powerfully triggered when information comes in small amounts.  To prevent dopamine, turn of bells and ringers that alert you to new information."
+    },
+    {
+      "id": "64",
+      "title": "Opiod",
+      "body": "Liking or making you feel satisfied."
+    },
+    {
+      "id": "65",
+      "title": "Small Progress",
+      "body": "Small signs of progress can have a big effect on motivating people to carry on."
+    },
+    {
+      "id": "66",
+      "title": "Mastery",
+      "body": "Can never be fully reached."
+    },
+    {
+      "id": "67",
+      "title": "Lazy v. Efficient",
+      "body": "Efficient is sitting on the couch all day because you already completed your work, lazy is sitting on the couch all day when you haven’t completed any of your work."
+    },
+    {
+      "id": "68",
+      "title": "Scanning",
+      "body": "Design websites for scanning not reading.  Break up into sections."
+    },
+    {
+      "id": "69",
+      "title": "Defaults",
+      "body": "Reduce the amount of work to complete a task."
+    },
+    {
+      "id": "70",
+      "title": "Donations",
+      "body": "People are more willing to donate to natural disasters than human led disasters."
+    },
+    {
+      "id": "71",
+      "title": "Habit",
+      "body": "Takes an average of 66 days or a range of 18 to 254 days to form habits."
+    },
+    {
+      "id": "72",
+      "title": "Autonomy",
+      "body": "People like to do things their way at their time."
+    },
+    {
+      "id": "73",
+      "title": "Social Group Size Limit For Humans",
+      "body": "Humans on average know 148 people (strong stable relationships).  95% confidence interval is 100 to 230.  "
+    },
+    {
+      "id": "74",
+      "title": "Strength of Weak Ties",
+      "body": "Learn more from those you don’t know."
+    },
+    {
+      "id": "75",
+      "title": "Imitation & Empathy",
+      "body": "Mimicking other peoples body language makes them like you more.  Mirror people’s color preferences."
+    },
+    {
+      "id": "76",
+      "title": "Do Together",
+      "body": "People who do tasks together bond together."
+    },
+    {
+      "id": "77",
+      "title": "Online Rules",
+      "body": "People expect online interactions to follow social rules.  "
+    },
+    {
+      "id": "78",
+      "title": "Honesty",
+      "body": "People lie most on the phone, then e-mail and least in paper.  Liars write 28 percent more words than people telling the truth."
+    },
+    {
+      "id": "79",
+      "title": "Laughter",
+      "body": "Creates bonding.  Laughter is contagious."
+    },
+    {
+      "id": "80",
+      "title": "Emotions v. Moods v. Attitudes",
+      "body": "Emotions are expressed physical and result from an event.  Moods last longer, not always expressed physically or triggered by event.  Attitudes have a more cognitive, conscious brain component."
+    },
+    {
+      "id": "81",
+      "title": "Persuasion",
+      "body": "Look for ways to provide a message that invokes emotion and empathy."
+    },
+    {
+      "id": "82",
+      "title": "Scent Branding",
+      "body": "Using scents to inflict emotions.  "
+    },
+    {
+      "id": "83",
+      "title": "Surprises",
+      "body": "People are programmed to enjoy surprises."
+    },
+    {
+      "id": "84",
+      "title": "Busy Happy",
+      "body": "People are happier when they are busy.  "
+    },
+    {
+      "id": "85",
+      "title": "Design & Content",
+      "body": "Both important when making a website look trustworthy."
+    },
+    {
+      "id": "86",
+      "title": "Relationship Happiness",
+      "body": "Seventy percent of happiness can be attributed to relationships with people."
+    },
+    {
+      "id": "87",
+      "title": "Commuting",
+      "body": "People are least happy when commuting to work.  "
+    },
+    {
+      "id": "88",
+      "title": "Selective",
+      "body": "The more difficult something is to achieve the more people will like it."
+    },
+    {
+      "id": "89",
+      "title": "Excitement and Reliving",
+      "body": "People are more positive before and after an event than during.  Plan several short vacations rather than one long one."
+    },
+    {
+      "id": "90",
+      "title": "Familiarity",
+      "body": "People want what is familiar when they are sad or scared."
+    },
+    {
+      "id": "91",
+      "title": "Error Message",
+      "body": "The best error message is no error message.  "
+    },
+    {
+      "id": "92",
+      "title": "Sex and Sugar",
+      "body": "Can temporarily relieve stress."
+    },
+    {
+      "id": "93",
+      "title": "Decision Making",
+      "body": "What other people are doing, your persona, whether you can pay off social obligations with purchase, fear of loss, drives, motivations, fears.  People are more willing to buy if there is a personal connection.  "
+    },
+    {
+      "id": "94",
+      "title": "Choice Paradox",
+      "body": "Providing to many choices will cause the customer to stick around more but they will buy less.  "
+    },
+    {
+      "id": "95",
+      "title": "Group Bias",
+      "body": "Start discussions with relevant information, not people initial impressions.  Ask people what they saw or heard and then ask them how confidant they are in that information."
+    },
+    {
+      "id": "96",
+      "title": "Physical Product",
+      "body": "Having a picture doesn’t increase the likelihood of people buying the product but having the product in front of them did.  "
+    }
+  ]
+}

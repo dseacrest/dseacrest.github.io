@@ -1,0 +1,87 @@
+{
+  "subject": "Value Added to Customer Checklist",
+  "credit": "Value Added to Customer Checklist",
+  "todos": [
+    {
+      "id": "6636",
+      "title": "Expense",
+      "body": "Does it reduce customer’s expense?"
+    },
+    {
+      "id": "6637",
+      "title": "Revenue",
+      "body": "Does it increase revenue?"
+    },
+    {
+      "id": "6638",
+      "title": "Risk",
+      "body": "Does it reduce customers risk/exposure?"
+    },
+    {
+      "id": "6639",
+      "title": "Bureaucracy",
+      "body": "Does it reduce customer bureaucracy?"
+    },
+    {
+      "id": "6640",
+      "title": "Conflicts/Complaints",
+      "body": "Does it reduce conflicts or complaints?"
+    },
+    {
+      "id": "6641",
+      "title": "Technology",
+      "body": "Does it provide customer proprietary technology?"
+    },
+    {
+      "id": "6642",
+      "title": "Information",
+      "body": "Does it provide customer proprietary information?"
+    },
+    {
+      "id": "6643",
+      "title": "Morale",
+      "body": "Does it increase customer morale?"
+    },
+    {
+      "id": "6644",
+      "title": "Efficiency/Effectiveness",
+      "body": "Does it increase customer effectiveness?"
+    },
+    {
+      "id": "6645",
+      "title": "Turnover",
+      "body": "Does it improve customer’s turnover time?"
+    },
+    {
+      "id": "6646",
+      "title": "Cash Flow",
+      "body": "Does it improve customer’s cash flow?"
+    },
+    {
+      "id": "6647",
+      "title": "Process",
+      "body": "Does it improve customer process?"
+    },
+    {
+      "id": "6648",
+      "title": "Growth",
+      "body": "Does it help the customer grow?"
+    },
+    {
+      "id": "6649",
+      "title": "Loyalty",
+      "body": "Does it help increase customer loyalty."
+    },
+    {
+      "id": "6650",
+      "title": "Market Share",
+      "body": "Does it help customer build market share?"
+    },
+    {
+      "id": "6651",
+      "title": "Education",
+      "body": "Does it educate customer?"
+    }
+  ]
+}
+

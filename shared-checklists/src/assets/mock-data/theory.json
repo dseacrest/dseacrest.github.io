@@ -1,0 +1,112 @@
+{
+  "subject": "Theory Checklist",
+  "credit": "Theory Checklist",
+  "todos": [
+    {
+      "id": "5995",
+      "title": "Leonardo Da Vinci’s Vitruvian Man",
+      "body": "We will never devise any invention more beautiful, nor more simple, nor more to the purpose than Nature does."
+    },
+    {
+      "id": "5996",
+      "title": "John Naisbitt",
+      "body": "We are drowning in information but starving for knowledge."
+    },
+    {
+      "id": "5997",
+      "title": "Hebbian Learning",
+      "body": "Two neurons that fire at the same time wire together.  "
+    },
+    {
+      "id": "5998",
+      "title": "Second Law of Thermodynamics",
+      "body": "There is inevitable decay in closed system.  Keep systems open, tear down walls to growth."
+    },
+    {
+      "id": "5999",
+      "title": "Vannevar Bush",
+      "body": "The summation of human experience is being expanded at a prodigious rate, and the means we use for threading through the consequent maze to the momentarily important item is the same as was used in the days of square rigged ships."
+    },
+    {
+      "id": "6000",
+      "title": "Miller’s Law",
+      "body": "The observation, also by George Armitage Miller, that the number of objects an average person can hold in working memory is about seven. [3]"
+    },
+    {
+      "id": "6001",
+      "title": "Brin & Page",
+      "body": "The number of documents in the indices has been increasing by many orders of magnitude, but the user’s ability to look at documents has not.  "
+    },
+    {
+      "id": "6002",
+      "title": "Moravec’s Paradox",
+      "body": "The hard problems are easy and the easy problems are hard.  Referring to artificial intelligence where a computer can do complex algorithms difficult for humans but cannot do simple things like tell you how they feel.  "
+    },
+    {
+      "id": "6003",
+      "title": "Weiner – Geography of Bliss",
+      "body": "Seventy percent of happiness can be attributed to relationships with people."
+    },
+    {
+      "id": "6004",
+      "title": "Fractal Theory",
+      "body": "Repeating patterns that display at every scale.  "
+    },
+    {
+      "id": "6005",
+      "title": "Community Problem",
+      "body": "People need an identifiable spatial unit to belong to and are more likely to congregate in places with people of their clusters.  A person, group, space, place, product, or industry can only have a relationship with another object via a category other than itself (Ex. A person can ony have a relationship with another person either through a group, space, place, product, or industry)."
+    },
+    {
+      "id": "6006",
+      "title": "Strength Of Weak Ties",
+      "body": "People learn the most from contact and experiences outside of their circle."
+    },
+    {
+      "id": "6007",
+      "title": "Synchronization",
+      "body": "Over time objects will start to work together in intertwined systems."
+    },
+    {
+      "id": "6008",
+      "title": "Link-Cluster Conjecture",
+      "body": "One can infer the meaning of an object by looking at its neighbors."
+    },
+    {
+      "id": "6009",
+      "title": "Rational Expectations",
+      "body": "It is difficult to profit from widely anticipated or predictable, events, since rational actors would already have taken the action necessary to arbitrage any such opportunities."
+    },
+    {
+      "id": "6010",
+      "title": "Thinking Brains",
+      "body": "In order for computers to think, the silicon-based binary logic will have to morph to carbon-based chemistry/neurology. "
+    },
+    {
+      "id": "6011",
+      "title": "Fractional Importance",
+      "body": "If somebody has a relationship to you, you get a fraction of the importance or popularity that they have.  "
+    },
+    {
+      "id": "6012",
+      "title": "Social Group Size",
+      "body": "Humans on average know 148 people (strong stable relationships).  95% confidence interval is 100 to 230.  "
+    },
+    {
+      "id": "6013",
+      "title": "Hoteling’s Problem",
+      "body": "Businesses tend to cluster and end up competing with each other instead of spreading out.  Franchises have more ability to cluster but new local shops should separate themselves."
+    },
+    {
+      "id": "6014",
+      "title": "Pareto Principle, Zipf’s Law, 80/20, Power Law",
+      "body": "A minority of causes, inputs, or effort usually lead to a majority of the results, outputs, or rewards.  A very small set of words makes up the vast majority of actual usage.  See Brown Corpus (1964).  Long-Tail – 80% that adds little value."
+    },
+    {
+      "id": "6015",
+      "title": "Compounding Errors/Swiss Cheese Mistakes",
+      "body": "Error that are greater than the summation of the individual mistakes.  "
+    }
+  ]
+}
+

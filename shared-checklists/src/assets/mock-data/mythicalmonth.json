@@ -1,0 +1,232 @@
+{
+  "subject": "Mythical Man Month",
+  "credit": "Mythical Man Month",
+  "todos": [
+    {
+      "id": "4134",
+      "title": "Man-Month Correlation (Less is more)",
+      "body": "The more people you throw at a software project increases the schedule due to the greater complexity.  The only time throwing more men at a project works is it the two tasks can be partitioned perfectly with no required communication between them.  "
+    },
+    {
+      "id": "4135",
+      "title": "Scaffolding",
+      "body": "Programs for debugging but never intended to be in the final product.  "
+    },
+    {
+      "id": "4136",
+      "title": "Critical documents",
+      "body": "Objectives, specifications/architecture/white papers, schedule, budget, org chart, space allocations, wireframe/storyboard."
+    },
+    {
+      "id": "4137",
+      "title": "Telephone Log",
+      "body": "Every question asked by anyone answered by the architect.  "
+    },
+    {
+      "id": "4138",
+      "title": "Scheduling Software",
+      "body": "1/3 planning, 1/6 coding, ¼ component testing, ¼ system testing.  "
+    },
+    {
+      "id": "4139",
+      "title": "Realistic",
+      "body": "Why lay a load on their backs which neither our ancestors nor we ourselves were able to carry (Acts 15  10, TEV)."
+    },
+    {
+      "id": "4140",
+      "title": "Imagery",
+      "body": "What we do not understand we do not posses (Goethe)."
+    },
+    {
+      "id": "4141",
+      "title": "Form is Liberating",
+      "body": "The worst projects are those whore budget was too great for the purpose to be served.  "
+    },
+    {
+      "id": "4142",
+      "title": "Accidental Complexity",
+      "body": "The intermediary steps that you need to do to build a technology and solve a problem.  As new technology evolves, these go away.  "
+    },
+    {
+      "id": "4143",
+      "title": "Communication Complexity",
+      "body": "The amount of people in a project increases the communication complexity proportionately. Two works cause one link, three workers requires three, four workers require 6, five workers require ten.  "
+    },
+    {
+      "id": "4144",
+      "title": "Good Programmer",
+      "body": "Ten times better than a bad programmer.  No correlation between experience and effectiveness.  Only work with good programmers and don’t assume the bad ones will get better with time.  "
+    },
+    {
+      "id": "4145",
+      "title": "Target v. Vehicle Machine",
+      "body": "Target machine is machine for which software is being written.  Vehicle machine is machine that provides services used in building the system.  "
+    },
+    {
+      "id": "4146",
+      "title": "Computer Program",
+      "body": "Story written from a man to a machine."
+    },
+    {
+      "id": "4147",
+      "title": "Support Areas",
+      "body": "Sounding board, finances, working space, documentation, assistants, sharpening tools, content creation, tester, lawyer."
+    },
+    {
+      "id": "4148",
+      "title": "Simplicity and Straightforwardness",
+      "body": "Simplicity is not enough, programs must be very straightforward and come from one or a few minds."
+    },
+    {
+      "id": "4149",
+      "title": "Updates",
+      "body": "Ship early and make updates later.  "
+    },
+    {
+      "id": "4150",
+      "title": "Prose Description",
+      "body": "Purpose, environment, domain and range, functions realized, input-outputs, operating instructions, user option, running time, accuracy and checking.  "
+    },
+    {
+      "id": "4151",
+      "title": "Organization",
+      "body": "Purpose is to reduce the amount of communication and coordination necessary.  "
+    },
+    {
+      "id": "4152",
+      "title": "Knowledge Spillover",
+      "body": "Provide smart people the opportunity to interact with each other.  "
+    },
+    {
+      "id": "4153",
+      "title": "Mentorship",
+      "body": "Provide mentors for software programmers."
+    },
+    {
+      "id": "4154",
+      "title": "Language",
+      "body": "People do not memorize anything but spelling.  They learn syntax and semantics incrementally, in context by use.  People group word composition rules by syntactic classes, not by compatible subsets of objects.  "
+    },
+    {
+      "id": "4155",
+      "title": "Surgical Team",
+      "body": "One team member does the cutting and the others give him every support that will enhance his effectiveness and productivity.  "
+    },
+    {
+      "id": "4156",
+      "title": "Planning for System Change",
+      "body": "Modularization, sub routing, definitions, comments, documentation, milestones, sprints."
+    },
+    {
+      "id": "4157",
+      "title": "Murphy’s Law",
+      "body": "Many failures concern exactly those aspects that were never quite specified.  "
+    },
+    {
+      "id": "4158",
+      "title": "Progress Interferers",
+      "body": "Machine downtime, processing time, unrelated jobs, distractions, meetings, paperwork, financial troubles, personal issues, sickness, personal time.  "
+    },
+    {
+      "id": "4159",
+      "title": "Communication",
+      "body": "Informally with telephone and e-mail, regular project meetings, and workbook.  "
+    },
+    {
+      "id": "4160",
+      "title": "Self-Documenting",
+      "body": "Incorporating documentation into the source programming.  "
+    },
+    {
+      "id": "4161",
+      "title": "Program Space",
+      "body": "Helps dictate its cost.  "
+    },
+    {
+      "id": "4162",
+      "title": "Debugging",
+      "body": "Hard and slow part of system.  "
+    },
+    {
+      "id": "4163",
+      "title": "Patience",
+      "body": "Good cooking takes time.  If you are made to wait, it is to serve you better, and to please you.  Don’t rush projects at the beginning.  "
+    },
+    {
+      "id": "4164",
+      "title": "Simplicity",
+      "body": "God is not capricious nor arbitrary (Einstein).  Everything has a utility.  There must be a simple solution to every problem."
+    },
+    {
+      "id": "4165",
+      "title": "Productivity",
+      "body": "Focus on quality and productivity will follow.  Be careful setting deadlines or putting pressure on workers.  "
+    },
+    {
+      "id": "4166",
+      "title": "Day by Day Slippage",
+      "body": "Errors that occur daily and are hard to recognize but add up.  Prevent compounding errors and Swiss cheese problem by making sure that you have redundant processes.  "
+    },
+    {
+      "id": "4167",
+      "title": "Integrity",
+      "body": "Each person must sacrifice some of their own ideas for the integrity of the program.  "
+    },
+    {
+      "id": "4168",
+      "title": "Manual",
+      "body": "Describes everything that the user sees and nothing that the user does not see.  "
+    },
+    {
+      "id": "4169",
+      "title": "Private Feedback",
+      "body": "Deal quietly and privately in suggestions.  People are less likely to take your advice if it isn’t publicized that it cam from you.  Make hidden suggestions.  "
+    },
+    {
+      "id": "4170",
+      "title": "Power of Giving up Power",
+      "body": "Creativity comes from individuals, not structures.  "
+    },
+    {
+      "id": "4171",
+      "title": "Project Manager",
+      "body": "Chief job is communicating, not decision making, only 20% of information needed should be outside their head.  "
+    },
+    {
+      "id": "4172",
+      "title": "Program Maintenance",
+      "body": "Change that repairs design defects.  "
+    },
+    {
+      "id": "4173",
+      "title": "Meta-programming",
+      "body": "Building programs on a program like excel add-ons.  "
+    },
+    {
+      "id": "4174",
+      "title": "Thinker-Doers",
+      "body": "Are the rarest.  "
+    },
+    {
+      "id": "4175",
+      "title": "Design Phases",
+      "body": "Architecture, Implementation, Realization, Repeat.  "
+    },
+    {
+      "id": "4176",
+      "title": "Pilot Plant",
+      "body": "An intermediary step that takes a big leap but before full scale is reached to test how well a program scales.  "
+    },
+    {
+      "id": "4177",
+      "title": "Maintenance Cost",
+      "body": "Affected by the number of users.  More users more bugs.  Fixing a bug has a 20-50% chance of finding another bug.  Must retest whole system.  Repairs destroy structure.  "
+    },
+    {
+      "id": "4178",
+      "title": "Tools",
+      "body": "A good workman is known by his tools.  One toolmaker per team.  Computer facility, operating system, language, utilities, debugging aids, test case generation."
+    }
+  ]
+}
+

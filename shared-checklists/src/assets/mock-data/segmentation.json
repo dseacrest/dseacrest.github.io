@@ -1,0 +1,67 @@
+{
+  "subject": "Segmentation Checklist",
+  "credit": "Segmentation Checklist",
+  "todos": [
+    {
+      "id": "5642",
+      "title": "ME > XL",
+      "body": "www.decisionpro.biz/business-users/software/demo-download"
+    },
+    {
+      "id": "5643",
+      "title": "Segmentation Data",
+      "body": "Survey of subjects."
+    },
+    {
+      "id": "5644",
+      "title": "Dimension Reduction",
+      "body": "PCA, Curse of Dimensionality."
+    },
+    {
+      "id": "5645",
+      "title": "Bias Reduction",
+      "body": "Is your data biased."
+    },
+    {
+      "id": "5646",
+      "title": "Segmentation",
+      "body": "Clustering subjects.  No dependent variable."
+    },
+    {
+      "id": "5647",
+      "title": "Segmentation Video",
+      "body": "www.youtube.com/watch?v=58vC6nVHnDw"
+    },
+    {
+      "id": "5648",
+      "title": "Subjects",
+      "body": "What are you studying."
+    },
+    {
+      "id": "5649",
+      "title": "Outlies Reduction",
+      "body": "Standardize data and view outliers.  (=STANDARDIZE(DATA, STDEV, MEAN))"
+    },
+    {
+      "id": "5650",
+      "title": "Qualitative Data",
+      "body": "Must be turned into quantitative data as individual yes no variables.  Can’t turn them into numerical categories because the computer will think that four is four times greater than one, etc."
+    },
+    {
+      "id": "5651",
+      "title": "Stat Tools",
+      "body": "ME > XL, NumXL Pro, XLSTAT, Tableau."
+    },
+    {
+      "id": "5652",
+      "title": "Collect Data",
+      "body": "Identify the variables or dimensions you that describe your subjects."
+    },
+    {
+      "id": "5653",
+      "title": "Blogs",
+      "body": "Breaking BI"
+    }
+  ]
+}
+

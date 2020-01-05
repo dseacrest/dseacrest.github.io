@@ -1,0 +1,77 @@
+{
+  "subject": "Hypotheses Checklist",
+  "credit": "Hypotheses Checklist",
+  "todos": [
+    {
+      "id": "3310",
+      "title": "Testable Criteria",
+      "body": "To create a \"testable\" hypothesis make sure you have done all of these things"
+    },
+    {
+      "id": "3311",
+      "title": "Testable",
+      "body": "Make sure your hypothesis is \"testable.\" To prove or disprove your hypothesis, you need to be able to do an experiment and take measurements or make observations to see how two things (your variables) are related. You should also be able to repeat your experiment over and over again, if necessary.  (Ex   The measure for success that we can test is will users use the program longer.)"
+    },
+    {
+      "id": "3312",
+      "title": "Clear",
+      "body": "Make it clear. A good hypothesis is written in clear and simple language. Reading your hypothesis should tell a teacher or judge exactly what you thought was going to happen when you started your project. (Ex  People of any age learning to code will prefer that the background color of each webpage will be white).  "
+    },
+    {
+      "id": "3313",
+      "title": "Variables",
+      "body": "Keep the variables in mind. A good hypothesis defines the variables in easy-to-measure terms, like who the participants are, what changes during the testing, and what the effect of the changes will be."
+    },
+    {
+      "id": "3314",
+      "title": "Statement",
+      "body": "A hypothesis is an educated, testable prediction you think is correct for the question you have presented (Ex  Customers will like a white background).  "
+    },
+    {
+      "id": "3315",
+      "title": "Question",
+      "body": "The question comes first. Before you make a hypothesis, you have to clearly identify the question you are interested in studying.  (Ex   Do customer like a blue background or a white background?).  "
+    },
+    {
+      "id": "3316",
+      "title": "Predictions",
+      "body": "If I do ______, then ______.  Predictions should include both an independent variable (the factor you change in an experiment) and a dependent variable (the factor you observe or measure in an experiment). A single hypothesis can lead to multiple predictions, but generally, one or two predictions is enough. (Ex   If I change the background color to white (independent variable), then users will use the program for an average of 5 minutes longer (dependent variable)."
+    },
+    {
+      "id": "3317",
+      "title": "Conclusion",
+      "body": "At the end of your testing you should be able to say that the data either  1.) invalidates your hypothesis or 2.) does not clearly invalidate your hypothesis.  You should avoid saying that it proves your hypothesis.  The reason for this is that you are usually working with a sample of the population and are not testing the entire population.  For example, if your hypothesis is that all swans are white.  If you survey 10 swans and they are all white, you cannot prove that all swans are white.  However, if you survey 10 swans and 1 is black you can disprove that all swans are white.  Our goal is not to prove the ultimate truth but to try to avoid false truths.  "
+    },
+    {
+      "id": "3318",
+      "title": "Do your research. You may find many studies similar to yours have already been conducted. What you learn from available research and data can help you shape your project and hypothesis.",
+      "body": ""
+    },
+    {
+      "id": "3319",
+      "title": "Dont bite off more than you can chew Answering some scientific questions can involve more than one experiment each with its own hypothesis. Make sure your hypothesis is a specific statement relating to a single experiment.",
+      "body": ""
+    },
+    {
+      "id": "3320",
+      "title": "Identified the variables in the project.",
+      "body": ""
+    },
+    {
+      "id": "3321",
+      "title": "Included the independent and dependent variables in the hypothesis statement. (This helps ensure that your statement is specific enough.",
+      "body": ""
+    },
+    {
+      "id": "3322",
+      "title": "Make sure you experiment is well controlled and avoids bias.",
+      "body": ""
+    },
+    {
+      "id": "3323",
+      "title": "Thought about what experiments you will need to carry out to do the test.",
+      "body": ""
+    }
+  ]
+}
+

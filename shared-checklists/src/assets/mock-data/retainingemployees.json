@@ -1,0 +1,72 @@
+{
+  "subject": "Retaining Employees Checklist",
+  "credit": "Retaining Employees Checklist",
+  "todos": [
+    {
+      "id": "5513",
+      "title": "Personal Growth",
+      "body": "Is there someone at work who encourages my personal development?"
+    },
+    {
+      "id": "5514",
+      "title": "Progress",
+      "body": "In the last six months have I talked with someone about my progress?"
+    },
+    {
+      "id": "5515",
+      "title": "Praise",
+      "body": "Have they received praise or recognition in the last 7 days?"
+    },
+    {
+      "id": "5516",
+      "title": "Care",
+      "body": "Does my supervisor care about me as a person?"
+    },
+    {
+      "id": "5517",
+      "title": "Expectations",
+      "body": "Do they know what is expected of them?"
+    },
+    {
+      "id": "5518",
+      "title": "Using Strengths",
+      "body": "Do they have the opportunity to do what I do best every day?"
+    },
+    {
+      "id": "5519",
+      "title": "Supplies",
+      "body": "Do they have the materials and equipment to get their job done?"
+    },
+    {
+      "id": "5520",
+      "title": "Value",
+      "body": "Do the feel in their bones that they are adding value to the organization?"
+    },
+    {
+      "id": "5521",
+      "title": "Opinions",
+      "body": "Do my opinions seem to count?"
+    },
+    {
+      "id": "5522",
+      "title": "Friends",
+      "body": "Do I have close friends at work?"
+    },
+    {
+      "id": "5523",
+      "title": "Mission",
+      "body": "Do I agree with my companies mission and does it make me feel important?"
+    },
+    {
+      "id": "5524",
+      "title": "Learning",
+      "body": "At work have I had opportunities to learn and grow?"
+    },
+    {
+      "id": "5525",
+      "title": "Quality",
+      "body": "Are my co-workers committed to quality work?"
+    }
+  ]
+}
+

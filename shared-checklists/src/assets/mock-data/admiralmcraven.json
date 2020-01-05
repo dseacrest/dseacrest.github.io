@@ -1,0 +1,57 @@
+{
+  "subject": "Admiral McRaven Checklist",
+  "credit": "Admiral McRaven Checklist",
+  "todos": [
+    {
+      "id": "245",
+      "title": "Darkest",
+      "body": "You must be your very best at the very darkest moments."
+    },
+    {
+      "id": "246",
+      "title": "Hope",
+      "body": "One person can change the world by giving hope."
+    },
+    {
+      "id": "247",
+      "title": "Failure",
+      "body": "No matter how hard you try there will always be failure."
+    },
+    {
+      "id": "248",
+      "title": "Heart",
+      "body": "Measure a person by the size of their heart."
+    },
+    {
+      "id": "249",
+      "title": "Bed",
+      "body": "Make your bed right every morning."
+    },
+    {
+      "id": "250",
+      "title": "Head First",
+      "body": "Go head first into some things."
+    },
+    {
+      "id": "251",
+      "title": "Help",
+      "body": "Find help in others.  1 + 1 = 3."
+    },
+    {
+      "id": "252",
+      "title": "Bell",
+      "body": "Don’t ever ring the bell."
+    },
+    {
+      "id": "253",
+      "title": "Fear",
+      "body": "Don’t be afraid of the failures, they make you stronger."
+    },
+    {
+      "id": "254",
+      "title": "Sharks",
+      "body": "Don’t back down from the sharks."
+    }
+  ]
+}
+

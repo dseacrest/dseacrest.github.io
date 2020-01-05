@@ -1,0 +1,327 @@
+{
+  "subject": "FINANCIAL MANAGEMENT CHECKLIST",
+  "credit": "FINANCIAL MANAGEMENT CHECKLIST",
+  "todos": [
+    {
+      "id": "2346",
+      "title": "Angel Investors",
+      "body": "TBD"
+    },
+    {
+      "id": "2347",
+      "title": "IPO",
+      "body": "TBD"
+    },
+    {
+      "id": "2348",
+      "title": "Seed-Funding",
+      "body": "TBD"
+    },
+    {
+      "id": "2349",
+      "title": "Series A, B, C",
+      "body": "TBD"
+    },
+    {
+      "id": "2350",
+      "title": "Venture Capital",
+      "body": "TBD"
+    },
+    {
+      "id": "2351",
+      "title": "Delaware Franchise Tax Return",
+      "body": "Taxpayers incorporated in Delaware are required to annual file a Delaware Franchise Tax Return.  Please provide the following as of December 31, 2014  Number of common and preferred stock issued, Copy of Taxpayer’s balance sheet, List of Officers and Directors."
+    },
+    {
+      "id": "2352",
+      "title": "Form 1099s ",
+      "body": "Taxpayers are required to send service providers they pay more than $600 during the year a Form 1099 to document the payment for services.  If you are required to file Form 1099s, please provide the following  Copy of a completed Form W-9 signed by the service provider, or their name, address, social security number or employer identification number, and type of entity (Individual, partnership, S Corp, Corp, etc.). Amount that you paid this service provider during the 2014 tax year.  Always include amounts paid to attorneys, even if it is less than $600"
+    },
+    {
+      "id": "2353",
+      "title": "Sales & Use Tax",
+      "body": "Taxpayers are required to pay use tax on purchases used in their business were no sales tax was paid at the time of purchase.  Most often, these are online purchases of office supplies and equipment.  Please provide a list of supplies and equipment that was purchased and used by the company.  Please include the amount and date of purchase."
+    },
+    {
+      "id": "2354",
+      "title": "Personal Property Tax Return",
+      "body": "Taxpayers are required to pay personal property tax on depreciable equipment used in business.  Please provide a list of equipment purchased greater than $1,000 during the 2014 tax year."
+    },
+    {
+      "id": "2355",
+      "title": "Income Tax Returns",
+      "body": "Taxpayers are required to file annual income tax returns.  Please provide the following information as of December 31, 2014 unless otherwise noted  Reconciled Balance Sheet & Income Statement or backup of accounting files, Bank Statements for all accounts, Credit card & Loan statements for all accounts, List of new equipment purchased during tax year (greater than $1,000), Documents related to the issuance of convertible notes, equity or other capital transactions, including year-end capitalization table (if applicable), List of officer health insurance premiums paid by company, List of officer life insurance premiums paid by company, Documents related to employee compensation & benefits including  year-end payroll tax returns  4th quarter forms  941, 941N, State Unemployment, form W-3 & Form 940."
+    },
+    {
+      "id": "2356",
+      "title": "CHECKING ACCOUNTS",
+      "body": "Have you setup your checking accounts?"
+    },
+    {
+      "id": "2357",
+      "title": "ENITY NAME – INCORPORATION",
+      "body": "Have you incorporated? Certificate of Incorporation? Letter of Good Standing as Foreign Corporation? Board consent agreement? Founders stock purchase agreement? Assignment of inventions/intellectual property?"
+    },
+    {
+      "id": "2358",
+      "title": "REPORTING CYCLE",
+      "body": "Have you determined the frequency of your reporting cycle?"
+    },
+    {
+      "id": "2359",
+      "title": "REPORTING NEW HIRES",
+      "body": "Do your report new hires to state?"
+    },
+    {
+      "id": "2360",
+      "title": "DOWNLOADING TRANSACTIONS",
+      "body": "Do your bank transactions automatically download to your bookkeeping software?"
+    },
+    {
+      "id": "2361",
+      "title": "ACCOUNTING SYSTEM (ACCRUAL V. CASH)",
+      "body": "Do you know whether you operate on an accrual or cash basis (recommend accrual)?"
+    },
+    {
+      "id": "2362",
+      "title": "ACCOUNTING YEAR",
+      "body": "Do you know whether you operate on a fiscal or calendar year?"
+    },
+    {
+      "id": "2363",
+      "title": "TAX FILING FREQUENCY",
+      "body": "Do you know when and at what frequency you have to file taxes?"
+    },
+    {
+      "id": "2364",
+      "title": "FUNDING CYCLES",
+      "body": "Do you know what funding cycle you are in?"
+    },
+    {
+      "id": "2365",
+      "title": "BOOKKEEPING SOFTWARE",
+      "body": "Do you have technology to help with bookkeeping?"
+    },
+    {
+      "id": "2366",
+      "title": "SALES TERMS",
+      "body": "Do you have sales terms?"
+    },
+    {
+      "id": "2367",
+      "title": "FINANCIAL ADVISORS",
+      "body": "Do you have financial advisors?"
+    },
+    {
+      "id": "2368",
+      "title": "FEDERAL EIN AND STATE TAX ID",
+      "body": "Do you have federal and state employment ids?"
+    },
+    {
+      "id": "2369",
+      "title": "OPERATING AGREEMENT/BYLAWS",
+      "body": "Do you have an operating agreement or corporate by-laws?"
+    },
+    {
+      "id": "2370",
+      "title": "OFFICE ADDRESS FOR BUSINESS CONTACT PERSON",
+      "body": "Do you have an office address for business contact?"
+    },
+    {
+      "id": "2371",
+      "title": "AGENTS ADDRESS FOR LEGAL NOTICES",
+      "body": "Do you have an agent’s address for legal purposes?"
+    },
+    {
+      "id": "2372",
+      "title": "ACCOUNTANT",
+      "body": "Do you have an accountant?"
+    },
+    {
+      "id": "2373",
+      "title": "TRADENAME",
+      "body": "Do you have a trade name?"
+    },
+    {
+      "id": "2374",
+      "title": "SIGNATORY",
+      "body": "Do you have a system for who is authorized to sign checks?"
+    },
+    {
+      "id": "2375",
+      "title": "DEBIT/CREDIT CARDS",
+      "body": "Do you have a system for who has access to debit/credit cards?"
+    },
+    {
+      "id": "2376",
+      "title": "EMPLOYEE STOCK OPTIONS",
+      "body": "Do you have a system for stock options."
+    },
+    {
+      "id": "2377",
+      "title": "PRODUCT WARRANTIES AND REFUNDS",
+      "body": "Do you have a system for product warranties and refunds?"
+    },
+    {
+      "id": "2378",
+      "title": "PAYROLL SOFTWARE",
+      "body": "Do you have a system for payroll?"
+    },
+    {
+      "id": "2379",
+      "title": "RECORDS NEEDED FOR TAX FILING",
+      "body": "Do you have a system for keeping track of all documents needed to file your taxes?"
+    },
+    {
+      "id": "2380",
+      "title": "EMPLOYEE/LABOR REQUIREMENTS",
+      "body": "Do you have a system for handling government regulated labor and employment requirements?"
+    },
+    {
+      "id": "2381",
+      "title": "DISCOUNTS",
+      "body": "Do you have a system for employee/customer discounts?"
+    },
+    {
+      "id": "2382",
+      "title": "EMPLOYEE BENEFITS",
+      "body": "Do you have a system for employee benefits?"
+    },
+    {
+      "id": "2383",
+      "title": "DOCUMENT MANAGEMENT SOFTWARE",
+      "body": "Do you have a system for document management (receipts, invoices, contracts)?"
+    },
+    {
+      "id": "2384",
+      "title": "EXPENSES",
+      "body": "Do you have a system for determining expenses?"
+    },
+    {
+      "id": "2385",
+      "title": "CAPITALIZED COSTS",
+      "body": "Do you have a system for determining capitalized costs?"
+    },
+    {
+      "id": "2386",
+      "title": "W-4 FORMS",
+      "body": "Do you have a system for collecting W-4 forms?"
+    },
+    {
+      "id": "2387",
+      "title": "ACCOUNTS PAYABLE & RECEIVABLE SOFTWARE",
+      "body": "Do you have a system for accounts payable and receivable?"
+    },
+    {
+      "id": "2388",
+      "title": "INDEPENDENT CONTRACTORS",
+      "body": "Do you have a system (W-9, 1099) for hiring and paying independent contractors?"
+    },
+    {
+      "id": "2389",
+      "title": "DEPRECIATION SCHEDULE",
+      "body": "Do you have a schedule for depreciation?"
+    },
+    {
+      "id": "2390",
+      "title": "CHART OF ACCOUNTS",
+      "body": "Do you have a chart of accounts?"
+    },
+    {
+      "id": "2391",
+      "title": "MAILING ADDRESS FOR ACCOUNTS PAYABLE AND RECEIVABLE",
+      "body": "Do you have a business address for financial purposes?"
+    },
+    {
+      "id": "2392",
+      "title": "BUDGET/PROFORMA",
+      "body": "Do you have a budget/proforma that is thorough but able to adapt to changes (includes Profit & Loss, Cash Flow, and Balance Sheet)?"
+    },
+    {
+      "id": "2393",
+      "title": "BOOKKEEPER",
+      "body": "Do you have a bookkeeper?"
+    },
+    {
+      "id": "2394",
+      "title": "LEVEL OF ACCOUNTING DETAILS/GOALS FOR REPORTS",
+      "body": "Have you determined a fine line between the level of detail in bookkeeping that can be reasonably handled and will insure meaningful reports?"
+    },
+    {
+      "id": "2395",
+      "title": "BANKING",
+      "body": ""
+    },
+    {
+      "id": "2396",
+      "title": "BOOKKEEPING",
+      "body": ""
+    },
+    {
+      "id": "2397",
+      "title": "BUDGET/PROFORMA",
+      "body": ""
+    },
+    {
+      "id": "2398",
+      "title": "DELAWARE FRANCHISE TAX RETURN",
+      "body": ""
+    },
+    {
+      "id": "2399",
+      "title": "EMPLOYEES & PAYROLL",
+      "body": ""
+    },
+    {
+      "id": "2400",
+      "title": "ENTITY LEGAL REQUIREMENTS",
+      "body": ""
+    },
+    {
+      "id": "2401",
+      "title": "FUNDING CYCLES/TIMELINES",
+      "body": ""
+    },
+    {
+      "id": "2402",
+      "title": "Have you setup a system for recurring journal transactions and adjustments (depreciation, payroll, inventory, sales, bonuses, reversals, cash in drawers, withdrawals, deposits, etc.)?",
+      "body": ""
+    },
+    {
+      "id": "2403",
+      "title": "INCOME TAX RETURN",
+      "body": ""
+    },
+    {
+      "id": "2404",
+      "title": "INDEPENDENT CONTRACTORS",
+      "body": ""
+    },
+    {
+      "id": "2405",
+      "title": "PERSONAL PROPERTY TAX RETURN",
+      "body": ""
+    },
+    {
+      "id": "2406",
+      "title": "RECORDS NEEDED FOR TAX FILING",
+      "body": ""
+    },
+    {
+      "id": "2407",
+      "title": "RECURRING TRANSACTIONS",
+      "body": ""
+    },
+    {
+      "id": "2408",
+      "title": "SALES AND USE TAX",
+      "body": ""
+    },
+    {
+      "id": "2409",
+      "title": "TOP LEVEL MANAGEMENT",
+      "body": ""
+    }
+  ]
+}
+

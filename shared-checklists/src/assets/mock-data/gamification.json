@@ -1,0 +1,242 @@
+{
+  "subject": "Gamification Checklist",
+  "credit": "Gamification Checklist",
+  "todos": [
+    {
+      "id": "2656",
+      "title": "Hand Eye",
+      "body": "Video games improve hand eye coordination, visual attention span, and spatial visualization.  Surgeons who play video games make 33% fewer mistakes.  "
+    },
+    {
+      "id": "2657",
+      "title": "Storyboarding",
+      "body": "Using visuals to describe the game.  "
+    },
+    {
+      "id": "2658",
+      "title": "Uses of Games",
+      "body": "Using games to take attendance, learning, training, quality assurance, tracking work hours, safety training, using games to convince people to perform routine tasks (like solve recaptcha)."
+    },
+    {
+      "id": "2659",
+      "title": "Predictive Games",
+      "body": "Using games to predict how people will respond in certain situations."
+    },
+    {
+      "id": "2660",
+      "title": "Game Ideas",
+      "body": "To teach programming, checklists, speed-reading, touch typing, remembering people, learn about competition."
+    },
+    {
+      "id": "2661",
+      "title": "Motivation Structures",
+      "body": "Time, rewards (extrinsic), worthy cause (intrinsic), points, badges, bragging rights, ego."
+    },
+    {
+      "id": "2662",
+      "title": "Intrinsic & Extrinsic Spectrums",
+      "body": "These two forms of motivation have their own spectrums and should not be perceived as polar opposites (one or the other).  Use both to motivate.  Extrinsic motivation can over time cause intrinsic motivation."
+    },
+    {
+      "id": "2663",
+      "title": "Uncertain Reward",
+      "body": "The greater uncertainty to receiving a reward, the greater it stimulates the brain when received.  Include randomness in games.  "
+    },
+    {
+      "id": "2664",
+      "title": "Storytelling",
+      "body": "Storytelling provides relevance and meaning to the game.  Includes characters, plot, tension, and resolution."
+    },
+    {
+      "id": "2665",
+      "title": "Elements of Game",
+      "body": "Space, players, abstraction of reality, challenge, rules, interactivity, feedback, quantifiable outcome, emotional reaction.  Games must remove certain elements of reality to keep the user engaged.  Games don’t have to be digital."
+    },
+    {
+      "id": "2666",
+      "title": "Scaffolding",
+      "body": "Providing guidance to a novice and then slowly removing the training wheels."
+    },
+    {
+      "id": "2667",
+      "title": "Gaming Fairness",
+      "body": "Players will become upset by player fairness (competing against a tougher human or computer opponent) but not by random loss due to chance (exO rolling dice)."
+    },
+    {
+      "id": "2668",
+      "title": "Player Perspective",
+      "body": "Person is more likely to adjust his or her behavior if they visualize their characters from a third person’s perspective vs. first person.  Avatars are better if they look somewhat but not too much like player."
+    },
+    {
+      "id": "2669",
+      "title": "“Do Over Button”",
+      "body": "Permission to fail.  Encourages trying new approaches and thinking outside of the box.  "
+    },
+    {
+      "id": "2670",
+      "title": "Games for Factual Knowledge",
+      "body": "Organizing, Association (linking one object to another), Repetition, Stories, Sorting, Matching, Replay-ability, and Trivia."
+    },
+    {
+      "id": "2671",
+      "title": "Extrinsic Motivation",
+      "body": "Motivated by external rewards."
+    },
+    {
+      "id": "2672",
+      "title": "Games for Grouping, Quality Assurance",
+      "body": "Metamorphic devices, Analogies, Examples, Scenarios, Attribute Classification, Simulators."
+    },
+    {
+      "id": "2673",
+      "title": "Consolidation",
+      "body": "Knowledge settles more between sessions and in sleep."
+    },
+    {
+      "id": "2674",
+      "title": "Curve of interest",
+      "body": "Keeping players attention.  Entry point, instruction, “The Hook”, getting to business, climax, and finale."
+    },
+    {
+      "id": "2675",
+      "title": "Flow",
+      "body": "Is the optimal state between boredom and anxiety or frustration.  It is where the challenge matches the users skill.  "
+    },
+    {
+      "id": "2676",
+      "title": "Social Learning Theory",
+      "body": "Individuals learn from one another in the context of a social situation through observation.  Humans can be additionally influenced by avatars.  "
+    },
+    {
+      "id": "2677",
+      "title": "Self Determination Theory",
+      "body": "Human motivation is influenced by autonomy (person is in control), competence (need for mastery), and relatedness (connectedness to others and system)."
+    },
+    {
+      "id": "2678",
+      "title": "Hero’s Journey",
+      "body": "Hero leads regular life, called to action by an interruption, reluctant to spring to action, may refuse initial invitation, wise figure causes hero to have epiphany, enters adventure after another incident that propels them into action, villains are encountered, allies formed, hero learns how new world works, encounters setbacks, needs to learn new skill, encounters peak of crisis, perception hero will die, survives by overcoming fear and displays new wisdom, reaps reward, returns to real world, discover that villain is still alive.   "
+    },
+    {
+      "id": "2679",
+      "title": "Setting Game Goals",
+      "body": "Gives user the freedom and autonomy to pursue goals using different approaches (discover life hacks)."
+    },
+    {
+      "id": "2680",
+      "title": "Physical Games",
+      "body": "Games that promote physical activity and health."
+    },
+    {
+      "id": "2681",
+      "title": "Three C’s",
+      "body": "Games provide conflict, competition, or cooperation."
+    },
+    {
+      "id": "2682",
+      "title": "Role Playing",
+      "body": "Forces the user to engage in analysis based on the other person.  Good for strategizing."
+    },
+    {
+      "id": "2683",
+      "title": "Game Behavior",
+      "body": "Encouraging good behavior in a game can substantially turn into good behavior outside of the game.   Bad behavior in a game may or may not lead to bad behavior outside of game.  Parents should encourage games that reward good behavior."
+    },
+    {
+      "id": "2684",
+      "title": "Simulation Games",
+      "body": "Don’t have to be entertaining to serve educational purpose."
+    },
+    {
+      "id": "2685",
+      "title": "Progressive Disclosure",
+      "body": "Displaying information in small chunks so that you do not overwhelm the user."
+    },
+    {
+      "id": "2686",
+      "title": "Distributed Practice",
+      "body": "Creating space between times the game is played.  Gaming can be a form of deliberate practice.  User will learn and retain more if they are encouraged to spread out practice."
+    },
+    {
+      "id": "2687",
+      "title": "Corporate Game Applications",
+      "body": "Cisco Binary Game, IBM Innov8, MMOWGLI."
+    },
+    {
+      "id": "2688",
+      "title": "Malone Theory of Instruction",
+      "body": "Challenge, fantasy, and curiosity."
+    },
+    {
+      "id": "2689",
+      "title": "Aesthetics",
+      "body": "Beauty of game.  Doesn’t have to be photorealistic.  "
+    },
+    {
+      "id": "2690",
+      "title": "ARCS Model for Game Instruction",
+      "body": "Attention (gain attention), Relevance (show how material is relevant to learning goal), Confidence (give player confidence they can succeed), Satisfaction (player feels there is value to learning)."
+    },
+    {
+      "id": "2691",
+      "title": "Player Types",
+      "body": "Achiever, Explorer, Socializer, and Killer."
+    },
+    {
+      "id": "2692",
+      "title": "Grok",
+      "body": "A person understands something so thoroughly that they have become one with it."
+    },
+    {
+      "id": "2693",
+      "title": "Gaming Market",
+      "body": "67% of households play computer or video games.  "
+    },
+    {
+      "id": "2694",
+      "title": "Human Resource Games",
+      "body": "Using games to interview potential hire and determine Myer-Briggs score."
+    },
+    {
+      "id": "2695",
+      "title": "Problem Solving",
+      "body": "The skill of effectively solving problems faster than your competitor is one of the last sustainable competitive advantages in a flat world.  "
+    },
+    {
+      "id": "2696",
+      "title": "Digital Rewards",
+      "body": "The same chemical is released in humans brains when they receive real food and money as when they receive fake food and money through a game.  Same reaction comes whether they receive $1 or $100."
+    },
+    {
+      "id": "2697",
+      "title": "Intrinsic Motivation",
+      "body": "Self motivated or motivated by higher purpose or cause."
+    },
+    {
+      "id": "2698",
+      "title": "Mass Practice",
+      "body": "Practicing all at once (cramming).  Not encouraged for long-term learning.  "
+    },
+    {
+      "id": "2699",
+      "title": "Cognitive Apprenticeship",
+      "body": "Learning must take place in the environment where it will be applied."
+    },
+    {
+      "id": "2700",
+      "title": "Playing Levels",
+      "body": "Goal of a game is to keep it challenging but not too hard for multiple player levels.  Games should adapt and become more difficult as the player becomes better."
+    },
+    {
+      "id": "2701",
+      "title": "Uncanny Valley",
+      "body": "Avatars should look humanlike but should not look too human like to serve purpose."
+    },
+    {
+      "id": "2702",
+      "title": "Salesperson",
+      "body": "A novice focuses on making the sale.  A professional focuses on building a relationship with the client."
+    }
+  ]
+}
+
