@@ -1,4 +1,4 @@
-import db from '../../FirebaseConfig';
+import db from '@/main';
 
 export class FireStoreDataServices {
 
