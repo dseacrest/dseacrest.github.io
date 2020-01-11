@@ -1,44 +1,18 @@
 <template>
-  <div class="q-pa-md q-gutter-md">
-	  <h2>{{document.subject}}</h2>
-    <q-markup-table class="o-markupTable" >
-      <thead>
-        <tr v-if="user.loggedIn">
-          <th class="m-titleTitle text-left">Title</th>
-          <th class="m-bodyTitle text-left">Task</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="task in tasks" :key="task.id">
-			<td class="m-titleColumn text-left">
-					<q-input 
-					dense 
-					borderless 
-					class="m-titleColumn__input" 
-					:disable="user.data.uid !== adminUID" 
-					debounce="1000" type="text" 
-					autogrow id="txtTitle" 
-					:value="task.title" 
-					@input="saveTaskTitle(task, arguments[0])"/>
-			</td>
-			<td class="m-bodyColumn text-left">
-					<q-input 
-					dense 
-					borderless 
-					class="m-bodyColumn__input" 
-					:disable="user.data.uid !== adminUID" 
-					debounce="1000" 
-					type="text" 
-					autogrow 
-					id="txtBody" 
-					:value="task.body" 
-					@input="saveTaskBody(task, arguments[0])"/>
-			</td>
-        </tr>
-      </tbody>
-    </q-markup-table>
-	<h4 v-if="!user.loggedIn">Please register or login above to access checklists.</h4>
-  </div>
+	<div>
+		<h2>{{document.subject}}</h2>
+		<div class="q-pa-md row items-start q-gutter-md">
+			<q-card class="my-card" @click="toggleCardPosition()">
+				<div class="o-notecard__card -title text-h6 bg-grey-2" v-if="toggleCard">{{tasks[currentCard].title}}</div>
+				<div class="o-notecard__card -body text-h6" v-if="!toggleCard">{{tasks[currentCard].body}}</div>
+				<q-card-actions align="around">
+					<q-btn flat round color="red" icon="warning" @click="wrong(tasks[currentCard])"/>
+					<q-btn flat round color="yellow" icon="visibility" @click="partiallyCorrect(tasks[currentCard])"/>
+					<q-btn flat round color="green" icon="done" @click="correct(tasks[currentCard])"/>
+				</q-card-actions>
+			</q-card>
+		</div>
+	</div>
 </template>
 
 <script lang='ts'>
@@ -50,7 +24,9 @@ import { mapGetters } from "vuex";
 import firebase from 'firebase';
 
 @Component
-export default class ToDo extends Vue {
+export default class Notecards extends Vue {
+	public currentCard: number = 0;
+	public toggleCard: boolean = true;
 	public document: ITodoCollection = {
 		subject: '',
 		credit: '',
@@ -59,28 +35,6 @@ export default class ToDo extends Vue {
 	public adminUID = `yPeXhzXz9GSUoEJktjsZnDsIokG3`;
 	public tasks: ITodo[] = [];
 	public selected: string[] = [];
-	public readonly columns = [
-		{
-			name: 'title',
-			label: 'Title',
-			align: 'left',
-			field: (row: any) => row.title,
-			sortable: true,
-		},
-		{
-			name: 'body',
-			label: 'Body',
-			align: 'left',
-			field: (row: any) => row.body,
-			sortable: true,
-		}
-	]
-	public pagination = {
-		sortBy: 'title',
-        descending: false,
-        page: 1,
-        rowsPerPage: 250,
-	}
 
 	public get user() {
 		return this.$store.getters.user;
@@ -96,6 +50,28 @@ export default class ToDo extends Vue {
 		})
 	}
 	
+	public toggleCardPosition() {
+		if (this.toggleCard == true) {
+			this.toggleCard = false;
+		} else {
+			this.toggleCard = true;
+		}
+	}
+
+	public wrong(element: any) {
+		this.tasks.splice(this.tasks.indexOf(element), 1);
+		this.tasks.splice(this.tasks.indexOf(element) + (this.tasks.length/2), 0, element);
+	}
+
+	public partiallyCorrect(element: any) {
+		this.tasks.splice(this.tasks.indexOf(element), 1);
+		this.tasks.splice(this.tasks.indexOf(element) + (this.tasks.length/1.5), 0, element);		console.log(this.tasks);
+	}
+
+	public correct(element: any) {
+		this.tasks.push(this.tasks.splice(this.tasks.indexOf(element), 1)[0]);
+	}
+
 	public saveTaskTitle(task: ITodo, title: string ) {
 		let todoDataService = new TodoDataServicesCollection();
 		let newDocument: ITodoCollection = {
@@ -147,22 +123,14 @@ export default class ToDo extends Vue {
 		todoDataService.GetRecord(this.$route.params.id).then((listData:any) => {
 			this.document = listData;
 			this.tasks = listData.todos;
+			console.log(this.tasks);
 		});
 	}
-
-	// public removeTask(record: any) {
-	// 	let todoDataService = new TodoDataServicesCollection();
-	// 	let context = this;
-	// 	todoDataService.Delete(record.id).then(function () {
-	// 	context.loadData();
-	// 	});
-	// }
-
 }
 
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 
 .q-pa-md {
 	display: flex;
@@ -170,55 +138,21 @@ export default class ToDo extends Vue {
 	align-items: center;
 }
 
-.o-markupTable {
-	width: 70%;
+.my-card {
+	width: 100%;
+	max-width: 40%;
 }
 
-.m-titleTitle,
-.m-titleColumn {
-	width: 30%;
-	height: auto;
-
-	&__input {
-		font-size: 1.75vmax;
-	}
-}
-
-.m-bodyTitle,
-.m-bodyColumn {
-	width: 70%;
-	height: 100%;
-
-	&__input {
-		font-size: 1.25vmax;
-	}
+.o-notecard__card {
+	padding: 80px;
 }
 
 @media (max-width: 600px) {
-	.o-markupTable {
-		width: 90%;
-	}
+.my-card {
+	width: 100%;
+	max-width: 60%;
 
-	.m-titleTitle,
-	.m-titleColumn {
-		width: 30%;
-		height: auto;
-
-
-		&__input {
-			font-size: 1.75vmax;
-		}
-	}
-
-	.m-bodyTitle,
-	.m-bodyColumn {
-		width: 70%;
-		height: 100%;
-
-		&__input {
-			font-size: 1.5vmax;
-		}
-	}	
+}
 }
 
 </style>

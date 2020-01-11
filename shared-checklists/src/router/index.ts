@@ -5,7 +5,7 @@ import Login from '@/components/Login.vue';
 import Register from '@/components/Register.vue';
 import Todo from '@/views/ToDo.vue';
 import Upload from '@/views/Upload.vue';
-
+import Notecards from '@/views/Notecards.vue';
 Vue.use(Router);
 
 const router = new Router({
@@ -31,6 +31,11 @@ const router = new Router({
       path: "/todo/:id",
       name: "todo",
       component: Todo
+    },
+    {
+      path: "/notecards/:id",
+      name: "notecards",
+      component: Notecards
     },
     {
       path: "/upload",

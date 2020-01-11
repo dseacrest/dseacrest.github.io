@@ -46,7 +46,6 @@ h5 a {
 }
 
 #nav {
-  padding: 20px;
 
   a {
     font-weight: bold;

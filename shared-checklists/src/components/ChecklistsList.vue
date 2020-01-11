@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Checklists</h1>
+    <h2>Checklists</h2>
     <div class="o-checklist-list">
       <q-card bordered class="my-card" v-for="(topic, index) in topics" :key="index">
         <q-card-section>
@@ -11,8 +11,13 @@
       <q-separator inset />
 
         <q-card-section v-for="(subject, index) in matchingSubjects(topic)" :key="index">
+          {{subject.name}} |
+          <router-link :to="{ name: 'notecards', params: {id: subject.recordId}}">
+            <q-icon name="tab"/>
+          </router-link>
+          |
           <router-link :to="{ name: 'todo', params: {id: subject.recordId}}">
-            {{subject.name}}
+            <q-icon name="done"/>
           </router-link>
         </q-card-section>
       </q-card>
