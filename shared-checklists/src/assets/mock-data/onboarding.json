@@ -1,6 +1,7 @@
 {
   "subject": "Onboarding Checklist",
   "credit": "Onboarding Checklist",
+  "topic": "Service",
   "todos": [
     {
       "id": "4316",
@@ -25,7 +26,7 @@
     {
       "id": "4320",
       "title": "Get them to First Success",
-      "body": "A disproportionate amount of your customer churn will take place between (1) and (2). That’s where customers abandon your product because they get lost, don’t understand something, don’t get value from the product, or simply lose interest."
+      "body": "A disproportionate amount of your customer churn will take place between (1) and (2). That's where customers abandon your product because they get lost, don't understand something, don't get value from the product, or simply lose interest."
     },
     {
       "id": "4321",
@@ -60,7 +61,7 @@
     {
       "id": "4327",
       "title": "Small Steps",
-      "body": "Don’t overwhelm them in the first session.  "
+      "body": "Don't overwhelm them in the first session.  "
     },
     {
       "id": "4328",

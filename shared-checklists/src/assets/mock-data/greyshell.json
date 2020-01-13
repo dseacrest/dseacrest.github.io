@@ -1,6 +1,7 @@
 {
   "subject": "Grey Shell Definition",
   "credit": "Grey Shell Definition",
+  "topic": "Real Estate",
   "todos": [
     {
       "id": "2912",
@@ -20,12 +21,12 @@
     {
       "id": "2915",
       "title": "Floors",
-      "body": "To be 4� thick, unreinforced, unfinished concrete on 4� granular base with tooled or sawcut joints. A 5-ft x 5-ft block-out to be provided in each tenant space at sewer line connection point. Minimum allowable live loads for floor to be 125 pounds per square foot. Insulation at foundation walls and perimeter floor slabs to be provided in accordance with code. "
+      "body": "To be 4' thick, unreinforced, unfinished concrete on 4' granular base with tooled or sawcut joints. A 5-ft x 5-ft block-out to be provided in each tenant space at sewer line connection point. Minimum allowable live loads for floor to be 125 pounds per square foot. Insulation at foundation walls and perimeter floor slabs to be provided in accordance with code. "
     },
     {
       "id": "2916",
       "title": "Heating and Air-Conditioning Equipment",
-      "body": "System to consist of suspended, gas-fired or electric furnace with remote condensers having adequate heating capacity to generally maintain 70�F inside at 0�F outside temperature and air-conditioning to maintain 72�F at 95�F outside temperature or other system as determined by Landlord�s Engineer. System to include outside air intakes and ductwork or refrigerant piping from condensing units to fan coils or other air handling equipment within each tenant space. Separate HVAC is provided for each space and equipment is connected to tenant panels. "
+      "body": "System to consist of suspended, gas-fired or electric furnace with remote condensers having adequate heating capacity to generally maintain 70'F inside at 0'F outside temperature and air-conditioning to maintain 72'F at 95'F outside temperature or other system as determined by Landlord's Engineer. System to include outside air intakes and ductwork or refrigerant piping from condensing units to fan coils or other air handling equipment within each tenant space. Separate HVAC is provided for each space and equipment is connected to tenant panels. "
     },
     {
       "id": "2917",
@@ -50,7 +51,7 @@
     {
       "id": "2921",
       "title": "Exterior Enclosure",
-      "body": "Perimeter walls facing interior access drives to be masonry or concrete furred with 3e� metal studs and R13 batt insulation extending from floor to underside of structure above. Exterior walls facing streets to be a combination of architectural concrete, brick, stone, or other materials in the configuration determined by Landlord�s Architect. Canopies, awnings, and sign fascias supported by metal framing to be provided in accordance with Exhibit �A-2�. Insulation in areas not designated for tenant storefront construction to be minimum R19. "
+      "body": "Perimeter walls facing interior access drives to be masonry or concrete furred with 3e' metal studs and R13 batt insulation extending from floor to underside of structure above. Exterior walls facing streets to be a combination of architectural concrete, brick, stone, or other materials in the configuration determined by Landlord's Architect. Canopies, awnings, and sign fascias supported by metal framing to be provided in accordance with Exhibit 'A-2'. Insulation in areas not designated for tenant storefront construction to be minimum R19. "
     },
     {
       "id": "2922",
@@ -60,12 +61,12 @@
     {
       "id": "2923",
       "title": "Telephone",
-      "body": "Extend a 1�� telephone conduit from main building electrical room to each tenant space. "
+      "body": "Extend a 1'' telephone conduit from main building electrical room to each tenant space. "
     },
     {
       "id": "2924",
       "title": "Plumbing",
-      "body": "Extend 2� water lines in ceiling above with tee and shut-off valve for each tenant space. Also provide sanitary sewer waste line extending along the back wall and greasy waste line stub to each tenant space extending to grease interceptor and sampling manhole. "
+      "body": "Extend 2' water lines in ceiling above with tee and shut-off valve for each tenant space. Also provide sanitary sewer waste line extending along the back wall and greasy waste line stub to each tenant space extending to grease interceptor and sampling manhole. "
     },
     {
       "id": "2925",
@@ -75,7 +76,7 @@
     {
       "id": "2926",
       "title": "Tenant Storefront",
-      "body": "Areas between vertical supports and exterior architectural piers extending from floor to 14-ft above shall be designed and installed by Tenant�s Architect as part of tenant finish work. "
+      "body": "Areas between vertical supports and exterior architectural piers extending from floor to 14-ft above shall be designed and installed by Tenant's Architect as part of tenant finish work. "
     },
     {
       "id": "2927",
@@ -100,22 +101,22 @@
     {
       "id": "2931",
       "title": "BUILDINGS (Shell) ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2932",
       "title": "GENERAL ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2933",
       "title": "Provide all utility mains and building service laterals sized as required by building use for culinary water, fire protection, sanitary sewer, gas, electrical, and telephone around the site and to all buildings to be constructed. Installation to be in accordance with the governing municipal and utility company standards. Utility lines shall be sized to meet the requirements of the intended building uses. ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2934",
       "title": "UTILITIES ",
-      "body": ""
+      "body": "-"
     }
   ]
 }

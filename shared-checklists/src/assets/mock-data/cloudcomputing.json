@@ -1,6 +1,7 @@
 {
   "subject": "CLOUD COMPUTING CHECKLIST",
   "credit": "CLOUD COMPUTING CHECKLIST",
+  "topic": "Data",
   "todos": [
     {
       "id": "682",
@@ -14,17 +15,17 @@
     },
     {
       "id": "684",
-      "title": "ACID – Atomacity, Consistency, Isolation, Durability)",
+      "title": "ACID ' Atomacity, Consistency, Isolation, Durability)",
       "body": "Transactions are used to ensure that a transaction is complete and consistent."
     },
     {
       "id": "685",
-      "title": "HATEOAS – Hypermedia as the engine of application state",
+      "title": "HATEOAS ' Hypermedia as the engine of application state",
       "body": "The client interacts with applications only through hypermedia (hyperlinks)"
     },
     {
       "id": "686",
-      "title": "KPI – Key Performance Indicators",
+      "title": "KPI ' Key Performance Indicators",
       "body": "Tell if the system is meeting the business goals.  "
     },
     {
@@ -39,7 +40,7 @@
     },
     {
       "id": "689",
-      "title": "BASE – Basically Available, Soft State, Eventually Consistent",
+      "title": "BASE ' Basically Available, Soft State, Eventually Consistent",
       "body": "Resources can fail and the data will eventually become consistent"
     },
     {
@@ -145,7 +146,7 @@
     {
       "id": "710",
       "title": "Backup",
-      "body": "Active – Pass Cold, Active – Pass Warm, Active – Pass Hot"
+      "body": "Active ' Pass Cold, Active ' Pass Warm, Active ' Pass Hot"
     },
     {
       "id": "711",
@@ -155,202 +156,202 @@
     {
       "id": "712",
       "title": "Access Management",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "713",
       "title": "Analytics",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "714",
       "title": "API Management",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "715",
       "title": "Auditing",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "716",
       "title": "Business Architecture Diagram",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "717",
       "title": "Business Continuity",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "718",
       "title": "Caching",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "719",
       "title": "Change Management",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "720",
       "title": "Control",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "721",
       "title": "Cross-Region Redundancy",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "722",
       "title": "Cross-Zone Redundancy",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "723",
-      "title": "CSP – Cloud Service Provider",
-      "body": ""
+      "title": "CSP ' Cloud Service Provider",
+      "body": "-"
     },
     {
       "id": "724",
       "title": "Data Management",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "725",
       "title": "Disaster Recovery",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "726",
       "title": "E-mail",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "727",
       "title": "Encryption",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "728",
       "title": "Firewall",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "729",
-      "title": "Global Cloud Computing Report Card – Business Software Alliance",
-      "body": ""
+      "title": "Global Cloud Computing Report Card ' Business Software Alliance",
+      "body": "-"
     },
     {
       "id": "730",
       "title": "Governance",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "731",
       "title": "Greenfield Applications",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "732",
       "title": "Incident Management",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "733",
       "title": "Intrusion Detection",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "734",
       "title": "Lightweight Directory Access Protocol (LDAP)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "735",
       "title": "Monitoring",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "736",
       "title": "Patch Management",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "737",
       "title": "Patriot Act",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "738",
       "title": "Payments",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "739",
       "title": "Policy Enforcement",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "740",
       "title": "Program Flow Chart Diagram",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "741",
       "title": "Relational Databases",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "742",
       "title": "Representational State Transfer (RESTful)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "743",
-      "title": "SDLC – Software Development Life Cycle",
-      "body": ""
+      "title": "SDLC ' Software Development Life Cycle",
+      "body": "-"
     },
     {
       "id": "744",
       "title": "Search",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "745",
-      "title": "SecaaS – Security as a Service",
-      "body": ""
+      "title": "SecaaS ' Security as a Service",
+      "body": "-"
     },
     {
       "id": "746",
       "title": "Service Level Agreement (SLA)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "747",
       "title": "Service Oriented Architectures (SOAs)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "748",
       "title": "The Open Group Architecture Frameworks (TOGAF)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "749",
-      "title": "UI – User Interface",
-      "body": ""
+      "title": "UI ' User Interface",
+      "body": "-"
     },
     {
       "id": "750",
       "title": "UX",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "751",
       "title": "Zachman Framework",
-      "body": ""
+      "body": "-"
     }
   ]
 }

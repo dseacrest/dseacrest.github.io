@@ -1,6 +1,7 @@
 {
   "subject": "Development Checklist - Inception of Idea",
   "credit": "Development Checklist - Inception of Idea",
+  "topic": "Real Estate",
   "todos": [
     {
       "id": "1858",
@@ -10,82 +11,82 @@
     {
       "id": "1859",
       "title": "Appraised Value",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1860",
       "title": "Assessed Value",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1861",
       "title": "Availability of Parking",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1862",
       "title": "Basic Property Information",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1863",
       "title": "Building or Location Amenities",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1864",
       "title": "Buyer Incentives (direct and indirect)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1865",
       "title": "Listing Price",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1866",
       "title": "Price / SF",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1867",
       "title": "Project Address",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1868",
       "title": "Project Background",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1869",
       "title": "Project Name",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1870",
       "title": "Quick Feasibility Test",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1871",
-      "title": "Seller’s Reason for Sale (direct and indirect)",
-      "body": ""
+      "title": "Seller's Reason for Sale (direct and indirect)",
+      "body": "-"
     },
     {
       "id": "1872",
       "title": "Size (square feet, dimensions, and height)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1873",
       "title": "Surrounding Land Uses",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1874",
       "title": "Vision",
-      "body": ""
+      "body": "-"
     }
   ]
 }

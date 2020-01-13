@@ -1,6 +1,7 @@
 {
   "subject": "AUTOMATIC CUSTOMER CHECKLIST",
   "credit": "AUTOMATIC CUSTOMER CHECKLIST",
+  "topic": "Sales & Marketing",
   "todos": [
     {
       "id": "457",
@@ -39,12 +40,12 @@
     },
     {
       "id": "464",
-      "title": "PRICE HIGH – GO FOR QUALITY",
-      "body": "Pricing subscriptions higher makes consumers want to use the service more so that they get their money’s worth.  "
+      "title": "PRICE HIGH ' GO FOR QUALITY",
+      "body": "Pricing subscriptions higher makes consumers want to use the service more so that they get their money's worth.  "
     },
     {
       "id": "465",
-      "title": "PRICE LOW – GO FOR QUANTITY",
+      "title": "PRICE LOW ' GO FOR QUANTITY",
       "body": "Pricing lower encourages more members.  "
     },
     {
@@ -130,7 +131,7 @@
     {
       "id": "482",
       "title": "Simplifier Model",
-      "body": "The subscription takes one or more recurring tasks off of persons to do list.  Best for tasks that pile up and you just don’t have time to do but save money.  “Set it and forget it.”"
+      "body": "The subscription takes one or more recurring tasks off of persons to do list.  Best for tasks that pile up and you just don't have time to do but save money.  'Set it and forget it.'"
     },
     {
       "id": "483",
@@ -155,7 +156,7 @@
     {
       "id": "487",
       "title": "SUBSCRIPTION MODELS",
-      "body": ""
+      "body": "-"
     }
   ]
 }

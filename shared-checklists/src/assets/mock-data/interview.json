@@ -1,6 +1,7 @@
 {
   "subject": "INTERVIEW QUESTIONS CHECKLIST",
   "credit": "INTERVIEW QUESTIONS CHECKLIST",
+  "topic": "Recruiting",
   "todos": [
     {
       "id": "3450",
@@ -10,7 +11,7 @@
     {
       "id": "3451",
       "title": "Passion",
-      "body": "Why do you like…?"
+      "body": "Why do you like'?"
     },
     {
       "id": "3452",
@@ -20,12 +21,12 @@
     {
       "id": "3453",
       "title": "Risk",
-      "body": "What’s the biggest risk you’ve taken?"
+      "body": "What's the biggest risk you've taken?"
     },
     {
       "id": "3454",
       "title": "Experience",
-      "body": "What types of … systems have you worked with and what is your preferred style?"
+      "body": "What types of ' systems have you worked with and what is your preferred style?"
     },
     {
       "id": "3455",
@@ -120,7 +121,7 @@
     {
       "id": "3473",
       "title": "Technology Literacy",
-      "body": "What types of … have you used and how did you learn them?"
+      "body": "What types of ' have you used and how did you learn them?"
     },
     {
       "id": "3474",
@@ -129,12 +130,12 @@
     },
     {
       "id": "3475",
-      "title": "Devil’s Advocate",
-      "body": "What do you think about…?"
+      "title": "Devil's Advocate",
+      "body": "What do you think about'?"
     },
     {
       "id": "3476",
-      "title": "I’m Stuck",
+      "title": "I'm Stuck",
       "body": "What do you do when you get stuck on a problem?"
     },
     {
@@ -145,7 +146,7 @@
     {
       "id": "3478",
       "title": "Stroop Test",
-      "body": "Say the following colors – a. Black, b. Gray, c. Gray, d. Black (if you say black instead of Gray for “c” you are good at focusing)."
+      "body": "Say the following colors ' a. Black, b. Gray, c. Gray, d. Black (if you say black instead of Gray for 'c' you are good at focusing)."
     },
     {
       "id": "3479",
@@ -160,7 +161,7 @@
     {
       "id": "3481",
       "title": "Philosophy",
-      "body": "If you could create three core values around…, what would they be?"
+      "body": "If you could create three core values around', what would they be?"
     },
     {
       "id": "3482",
@@ -190,7 +191,7 @@
     {
       "id": "3487",
       "title": "Impossible Question",
-      "body": "Here is a piece of paper.  Tell me (insert impossible question)…?"
+      "body": "Here is a piece of paper.  Tell me (insert impossible question)'?"
     },
     {
       "id": "3488",
@@ -225,7 +226,7 @@
     {
       "id": "3494",
       "title": "What is your biggest struggle in life?",
-      "body": ""
+      "body": "-"
     }
   ]
 }

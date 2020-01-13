@@ -1,306 +1,307 @@
 {
   "subject": "Test Assertions Checklist",
   "credit": "Test Assertions Checklist",
+  "topic": "Coding",
   "todos": [
     {
       "id": "5888",
       "title": "Are appropriate exceptions thrown when invalid argument is supplied?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5889",
       "title": "are exit values what are expected?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5890",
       "title": "Avoid multiple asserts.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5891",
       "title": "Boolean values of 0/false, 1/true, and something else (e.g. 7/Hello)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5892",
       "title": "Boundary conditions",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5893",
       "title": "Case statements should test all conditions (including ELSE clause)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5894",
       "title": "Delimiter problems (missing or too many)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5895",
       "title": "Do methods and properties return expected values?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5896",
       "title": "Does a value fall within its expected range?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5897",
       "title": "Duplicate items",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5898",
       "title": "Empty structure",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5899",
       "title": "Ensure entering condition of loop is true",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5900",
       "title": "Ensure nested statements are tested thoroughly",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5901",
       "title": "File does not exist",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5902",
       "title": "File exists and contains correct data",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5903",
       "title": "File exists but data is wrong type/format",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5904",
       "title": "File exists but is corrupt",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5905",
       "title": "File exists but is empty",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5906",
       "title": "File stream is open or closed?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5907",
       "title": "First element added/removed",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5908",
       "title": "Full structure",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5909",
       "title": "Gaps in domain (i.e. prime numbers, even numbers, etc).",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5910",
       "title": "Good values of different types (i.e. positive, negative, zero)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5911",
-      "title": "If you know there is a problem, then write a test for it. Otherwise, don’t bother.",
-      "body": ""
+      "title": "If you know there is a problem, then write a test for it. Otherwise, don't bother.",
+      "body": "-"
     },
     {
       "id": "5912",
       "title": "In inheritance hierarchies, test for Liskov Substitution Principle.  ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5913",
       "title": "Input has white space or other delimiter",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5914",
       "title": "Input is too long for string",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5915",
       "title": "Is the loop exited at the correct iteration",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5916",
       "title": "Last element added/removed",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5917",
       "title": "Loop body executes zero, once, or multiple times",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5918",
       "title": "Maximum, minimum",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5919",
       "title": "Middle element added/removed",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5920",
       "title": "Mixed case (hello, Hello, HeLlo)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5921",
       "title": "Multiple items",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5922",
       "title": "Nil",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5923",
       "title": "Only provide as much information as possible to pass test.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5924",
       "title": "Ordered data structure",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5925",
       "title": "Outside of max and min",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5926",
       "title": "Pointer is not nil (i.e. points to object)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5927",
       "title": "Pointer to a list of multiple objects",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5928",
       "title": "Pointers",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5929",
       "title": "Single item",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5930",
-      "title": "Smoke Tests – Test call chain.",
-      "body": ""
+      "title": "Smoke Tests ' Test call chain.",
+      "body": "-"
     },
     {
       "id": "5931",
       "title": "Test anything that can possibly break.  ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5932",
       "title": "Test anything that is broken.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5933",
       "title": "Test core functions.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5934",
       "title": "Test functional requirements.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5935",
       "title": "Test getters and setters.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5936",
       "title": "That a container is empty when a routine begins executing?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5937",
       "title": "That a file stream is at the beginning when routine executes?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5938",
       "title": "That a file, class, routine, stream is set to the right access modifier?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5939",
       "title": "That a pointer is non-null?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5940",
       "title": "That a table has been initialized to contain real values?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5941",
       "title": "That an array or other container only contains the X allowed number of elements?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5942",
       "title": "That the time it takes to run a routine is within performance requirements?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5943",
       "title": "That the value of an input variable is not changed by a routine?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5944",
       "title": "Two pointers pointing to same object (e.g. pointers A and B point to object X)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5945",
       "title": "Unordered data structure",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5946",
       "title": "Use a code coverage tool to make sure your tests exercise all the logic paths in your code.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5947",
       "title": "Use arrange (your objects), act (on object), assert (something is as expected).  ",
-      "body": ""
+      "body": "-"
     }
   ]
 }

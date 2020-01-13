@@ -1,6 +1,7 @@
 {
   "subject": "Do More Faster",
   "credit": "Do More Faster",
+  "topic": "Efficiency",
   "todos": [
     {
       "id": "2024",
@@ -10,7 +11,7 @@
     {
       "id": "2025",
       "title": "Bait and Switch",
-      "body": "Customers usually don’t mind a bait and switch if you switch them to something that is more valuable."
+      "body": "Customers usually don't mind a bait and switch if you switch them to something that is more valuable."
     },
     {
       "id": "2026",
@@ -20,7 +21,7 @@
     {
       "id": "2027",
       "title": "Measuring User Behavior",
-      "body": "Acquisition – what channels are users coming from, Activation – are users happy with first experience, Retention – are users coming back, Referral – are users telling other users, Revenue- are users spending money."
+      "body": "Acquisition ' what channels are users coming from, Activation ' are users happy with first experience, Retention ' are users coming back, Referral ' are users telling other users, Revenue- are users spending money."
     },
     {
       "id": "2028",
@@ -34,7 +35,7 @@
     },
     {
       "id": "2030",
-      "title": "Show, don’t tell",
+      "title": "Show, don't tell",
       "body": "Visuals, graphics, videos."
     },
     {
@@ -75,7 +76,7 @@
     {
       "id": "2038",
       "title": "Two strikes",
-      "body": "Screw me once and I will confront you and forgive, screw me twice and we’re done."
+      "body": "Screw me once and I will confront you and forgive, screw me twice and we're done."
     },
     {
       "id": "2039",
@@ -100,7 +101,7 @@
     {
       "id": "2043",
       "title": "Everythingitis",
-      "body": "Most people use a service because it does one thing really well.  Don’t have too many features.  "
+      "body": "Most people use a service because it does one thing really well.  Don't have too many features.  "
     },
     {
       "id": "2044",
@@ -120,7 +121,7 @@
     {
       "id": "2047",
       "title": "Too Late",
-      "body": "If you aren’t releasing your crappy bug laden product, you are too late."
+      "body": "If you aren't releasing your crappy bug laden product, you are too late."
     },
     {
       "id": "2048",
@@ -145,27 +146,27 @@
     {
       "id": "2052",
       "title": "Stay Healthy",
-      "body": "Don’t work seven days a week, get away (quarterly vacations), be present, meditate, yoga."
+      "body": "Don't work seven days a week, get away (quarterly vacations), be present, meditate, yoga."
     },
     {
       "id": "2053",
       "title": "Prototype",
-      "body": "Don’t plan, prototype."
+      "body": "Don't plan, prototype."
     },
     {
       "id": "2054",
       "title": "Co-Founder",
-      "body": "Don’t go at it alone.  Don’t have more than one non-technical founder in a tech company."
+      "body": "Don't go at it alone.  Don't have more than one non-technical founder in a tech company."
     },
     {
       "id": "2055",
       "title": "Product/Sales",
-      "body": "Don’t build sales process too early.  Make sure you have a strong process."
+      "body": "Don't build sales process too early.  Make sure you have a strong process."
     },
     {
       "id": "2056",
       "title": "Ship early",
-      "body": "Don’t be ashamed of getting version 1.0 out on the market and iterating on it.  "
+      "body": "Don't be ashamed of getting version 1.0 out on the market and iterating on it.  "
     },
     {
       "id": "2057",
@@ -185,32 +186,32 @@
     {
       "id": "2060",
       "title": "Raising Money",
-      "body": "Bootstrapping, friends, family, church, investomers, partners, grants, angels.  Raising money helps you go faster.  Getting it right takes time and if you don’t have a ton of competitors in the same field don’t be afraid to take your time."
+      "body": "Bootstrapping, friends, family, church, investomers, partners, grants, angels.  Raising money helps you go faster.  Getting it right takes time and if you don't have a ton of competitors in the same field don't be afraid to take your time."
     },
     {
       "id": "2061",
       "title": "Stuck on Idea",
-      "body": "Be so stuck on your idea that you can’t quit."
+      "body": "Be so stuck on your idea that you can't quit."
     },
     {
       "id": "2062",
       "title": "83(b)",
-      "body": "Allows you to pay taxes on stock ahead of time regardless to vesting so that you don’t have to pay taxes at a much higher value."
+      "body": "Allows you to pay taxes on stock ahead of time regardless to vesting so that you don't have to pay taxes at a much higher value."
     },
     {
       "id": "2063",
-      "title": "Don’t Suck at E-mail",
+      "title": "Don't Suck at E-mail",
       "body": "1. Respond quickly, even if you are letting them know you will get back to them, 2. Zero inbox, 3. use company e-mail, 4. Keep it to three sentences, 5. Be persistent."
     },
     {
       "id": "2064",
       "title": "Great startup culture",
-      "body": "1. Ideas rule, not politics or person, 2. it’s a mission, not a job, 3. Don’t tolerate mediocrity, 4. By frugal and scrappy, 5. Equity and incentive driven, 6. Good communication in bad times, 7. Take care of your needs, 8. Customer-obsessed, 9. Fun."
+      "body": "1. Ideas rule, not politics or person, 2. it's a mission, not a job, 3. Don't tolerate mediocrity, 4. By frugal and scrappy, 5. Equity and incentive driven, 6. Good communication in bad times, 7. Take care of your needs, 8. Customer-obsessed, 9. Fun."
     },
     {
       "id": "2065",
       "title": "Monitor",
-      "body": ""
+      "body": "-"
     }
   ]
 }

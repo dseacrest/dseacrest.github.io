@@ -1,6 +1,7 @@
 {
   "subject": "FINANCIAL MANAGEMENT CHECKLIST",
   "credit": "FINANCIAL MANAGEMENT CHECKLIST",
+  "topic": "Finance",
   "todos": [
     {
       "id": "2346",
@@ -30,7 +31,7 @@
     {
       "id": "2351",
       "title": "Delaware Franchise Tax Return",
-      "body": "Taxpayers incorporated in Delaware are required to annual file a Delaware Franchise Tax Return.  Please provide the following as of December 31, 2014  Number of common and preferred stock issued, Copy of Taxpayer’s balance sheet, List of Officers and Directors."
+      "body": "Taxpayers incorporated in Delaware are required to annual file a Delaware Franchise Tax Return.  Please provide the following as of December 31, 2014  Number of common and preferred stock issued, Copy of Taxpayer's balance sheet, List of Officers and Directors."
     },
     {
       "id": "2352",
@@ -59,7 +60,7 @@
     },
     {
       "id": "2357",
-      "title": "ENITY NAME – INCORPORATION",
+      "title": "ENITY NAME ' INCORPORATION",
       "body": "Have you incorporated? Certificate of Incorporation? Letter of Good Standing as Foreign Corporation? Board consent agreement? Founders stock purchase agreement? Assignment of inventions/intellectual property?"
     },
     {
@@ -130,7 +131,7 @@
     {
       "id": "2371",
       "title": "AGENTS ADDRESS FOR LEGAL NOTICES",
-      "body": "Do you have an agent’s address for legal purposes?"
+      "body": "Do you have an agent's address for legal purposes?"
     },
     {
       "id": "2372",
@@ -250,77 +251,77 @@
     {
       "id": "2395",
       "title": "BANKING",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2396",
       "title": "BOOKKEEPING",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2397",
       "title": "BUDGET/PROFORMA",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2398",
       "title": "DELAWARE FRANCHISE TAX RETURN",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2399",
       "title": "EMPLOYEES & PAYROLL",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2400",
       "title": "ENTITY LEGAL REQUIREMENTS",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2401",
       "title": "FUNDING CYCLES/TIMELINES",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2402",
       "title": "Have you setup a system for recurring journal transactions and adjustments (depreciation, payroll, inventory, sales, bonuses, reversals, cash in drawers, withdrawals, deposits, etc.)?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2403",
       "title": "INCOME TAX RETURN",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2404",
       "title": "INDEPENDENT CONTRACTORS",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2405",
       "title": "PERSONAL PROPERTY TAX RETURN",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2406",
       "title": "RECORDS NEEDED FOR TAX FILING",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2407",
       "title": "RECURRING TRANSACTIONS",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2408",
       "title": "SALES AND USE TAX",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2409",
       "title": "TOP LEVEL MANAGEMENT",
-      "body": ""
+      "body": "-"
     }
   ]
 }

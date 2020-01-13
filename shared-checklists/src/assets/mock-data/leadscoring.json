@@ -1,6 +1,7 @@
 {
   "subject": "Lead Scoring Checklist",
   "credit": "Lead Scoring Checklist",
+  "topic": "Sales & Marketing",
   "todos": [
     {
       "id": "3643",
@@ -74,7 +75,7 @@
     },
     {
       "id": "3657",
-      "title": "Search for “ScoutSheet”",
+      "title": "Search for 'ScoutSheet'",
       "body": "15"
     },
     {
@@ -90,7 +91,7 @@
     {
       "id": "3660",
       "title": "Download ScoutSheet reviews + 12 points",
-      "body": ""
+      "body": "-"
     }
   ]
 }

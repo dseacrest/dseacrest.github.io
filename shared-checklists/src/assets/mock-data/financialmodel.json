@@ -1,6 +1,7 @@
 {
   "subject": "Financial Model Checklist",
   "credit": "Financial Model Checklist",
+  "topic": "Finance",
   "todos": [
     {
       "id": "2410",
@@ -30,7 +31,7 @@
     {
       "id": "2415",
       "title": "Opening slide",
-      "body": "You know what I hear a lot.  It’s all about relationships.  Investors, relationships, customers, relationships, talent, relationships, drink tickets, find Hayley."
+      "body": "You know what I hear a lot.  It's all about relationships.  Investors, relationships, customers, relationships, talent, relationships, drink tickets, find Hayley."
     },
     {
       "id": "2416",
@@ -50,7 +51,7 @@
     {
       "id": "2419",
       "title": "Generation Gap",
-      "body": "When pitching to older audiences, wear glasses, dress up, be confident, don’t be afraid about silence, anchor points by writing them down, intimidate with you expectations then put a fence around them with attitude."
+      "body": "When pitching to older audiences, wear glasses, dress up, be confident, don't be afraid about silence, anchor points by writing them down, intimidate with you expectations then put a fence around them with attitude."
     },
     {
       "id": "2420",
@@ -60,12 +61,12 @@
     {
       "id": "2421",
       "title": "Balance sheet",
-      "body": "What you owe, what you own, and what you’ve put in to date.  "
+      "body": "What you owe, what you own, and what you've put in to date.  "
     },
     {
       "id": "2422",
       "title": "Main points",
-      "body": "Use large font so that you can’t put “kind-of” impressive facts.  Four kind of impressive facts are less than one really impressive fact."
+      "body": "Use large font so that you can't put 'kind-of' impressive facts.  Four kind of impressive facts are less than one really impressive fact."
     },
     {
       "id": "2423",
@@ -95,7 +96,7 @@
     {
       "id": "2428",
       "title": "Font",
-      "body": "Take the oldest person in the room and divide their age by two, don’t use white font, for numbers use a plain and boring san-serif in black with white background."
+      "body": "Take the oldest person in the room and divide their age by two, don't use white font, for numbers use a plain and boring san-serif in black with white background."
     },
     {
       "id": "2429",
@@ -105,7 +106,7 @@
     {
       "id": "2430",
       "title": "Beware of Self-Funding",
-      "body": "Some companies that have sold for $100M have only put in $30K.  Don’t invest too much of your money.  Set a limit.  Tell other investors you already have significant skin in the game."
+      "body": "Some companies that have sold for $100M have only put in $30K.  Don't invest too much of your money.  Set a limit.  Tell other investors you already have significant skin in the game."
     },
     {
       "id": "2431",
@@ -155,7 +156,7 @@
     {
       "id": "2440",
       "title": "Bad words",
-      "body": "Never say hope, hopefully, I believe, I think…say I know, we have found, it has been proven."
+      "body": "Never say hope, hopefully, I believe, I think'say I know, we have found, it has been proven."
     },
     {
       "id": "2441",
@@ -175,7 +176,7 @@
     {
       "id": "2444",
       "title": "Alternative Investors",
-      "body": "Look into gov’t and military grants, university programs, university entrepreneurship schools/"
+      "body": "Look into gov't and military grants, university programs, university entrepreneurship schools/"
     },
     {
       "id": "2445",
@@ -205,7 +206,7 @@
     {
       "id": "2450",
       "title": "Skin in The Game",
-      "body": "Here’s the deal.  I’ve got $50K to add on top of $225 I’ve already put into the game.  I’m all in but before I throw the next $50K I need $200K to finish my round."
+      "body": "Here's the deal.  I've got $50K to add on top of $225 I've already put into the game.  I'm all in but before I throw the next $50K I need $200K to finish my round."
     },
     {
       "id": "2451",
@@ -220,17 +221,17 @@
     {
       "id": "2453",
       "title": "Valuation",
-      "body": "Don’t overemphasize.  There are many other ways to structure a deal."
+      "body": "Don't overemphasize.  There are many other ways to structure a deal."
     },
     {
       "id": "2454",
       "title": "Referrals",
-      "body": "Don’t leave a meeting without two other people you should talk to."
+      "body": "Don't leave a meeting without two other people you should talk to."
     },
     {
       "id": "2455",
       "title": "Assumptions",
-      "body": "Don’t forget to list."
+      "body": "Don't forget to list."
     },
     {
       "id": "2456",
@@ -285,7 +286,7 @@
     {
       "id": "2466",
       "title": "Interview Your Money",
-      "body": "Ask questions to Angels, don’t let them control the conversation or else they will feel superior to you.  Meet prospect investors every 3 months.  Cold calls don’t work for VCs or Angel networks,  get an introduction."
+      "body": "Ask questions to Angels, don't let them control the conversation or else they will feel superior to you.  Meet prospect investors every 3 months.  Cold calls don't work for VCs or Angel networks,  get an introduction."
     },
     {
       "id": "2467",
@@ -300,22 +301,22 @@
     {
       "id": "2469",
       "title": "Accelerate Options at Sale",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2470",
-      "title": "Niche that’s not being scratched.",
-      "body": ""
+      "title": "Niche that's not being scratched.",
+      "body": "-"
     },
     {
       "id": "2471",
-      "title": "Signup for LinkedIn recruiting so they can’t see you.",
-      "body": ""
+      "title": "Signup for LinkedIn recruiting so they can't see you.",
+      "body": "-"
     },
     {
       "id": "2472",
-      "title": "VCs – 30% compounded return, work with others money, less patient, usually only invest when there is product and traction, average VC invests in a deal for 9.4 years.",
-      "body": ""
+      "title": "VCs ' 30% compounded return, work with others money, less patient, usually only invest when there is product and traction, average VC invests in a deal for 9.4 years.",
+      "body": "-"
     }
   ]
 }

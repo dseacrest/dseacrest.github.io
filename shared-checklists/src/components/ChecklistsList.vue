@@ -1,23 +1,24 @@
 <template>
   <div>
-    <h2>Checklists</h2>
-    <div class="o-checklist-list">
+    <h2 class="o-checklist__header">Checklists</h2>
+    <q-icon name="tab" class="o-checklist__header__notecards"/><span>   Study Cards   </span>
+    <q-icon name="done" class="o-checklist__header__checklists"/><span>   Checklists   </span>
+    <div class="o-checklist__list">
       <q-card bordered class="my-card" v-for="(topic, index) in topics" :key="index">
         <q-card-section>
-          <div class="text-h6">{{topic}}</div>
-          <div class="text-subtitle2">Subtitle</div>
+          <div class="o-checklist__list__topic text-h6">{{topic}}</div>
         </q-card-section>
 
       <q-separator inset />
 
-        <q-card-section v-for="(subject, index) in matchingSubjects(topic)" :key="index">
-          {{subject.name}} |
-          <router-link :to="{ name: 'notecards', params: {id: subject.recordId}}">
-            <q-icon name="tab"/>
+        <q-card-section v-for="(document, index) in matchingTopics(topic)" :key="index">
+          {{document.subject}} |
+          <router-link :to="{ name: 'notecards', params: {id: document.id}}">
+            <q-icon name="tab" class="o-checklist__list__notecardsIcon"/>
           </router-link>
           |
-          <router-link :to="{ name: 'todo', params: {id: subject.recordId}}">
-            <q-icon name="done"/>
+          <router-link :to="{ name: 'todo', params: {id: document.id}}">
+            <q-icon name="done" class="o-checklist__list__todoIcon"/>
           </router-link>
         </q-card-section>
       </q-card>
@@ -31,35 +32,79 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from "vue-property-decorator";
-import documents from '@/assets/documents.json';
-import IDocument from '../models/document';
+import IDocument from '@/models/document';
+import ITodoCollection from '@/models/todoCollection';
+import firebase from 'firebase';
+import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 
 @Component
 export default class ChecklistsList extends Vue {
-  public subjects: IDocument[] = documents;
+  public documents: ITodoCollection[] = [];
 
-  public get topics(): string[] {
-    const topiclist: string[] = [];
-    documents.map((subject:IDocument) => {
-      topiclist.push(subject.topic);
-    })
-    return [...new Set(topiclist)];
+  public topics: string[] = [
+    "Real Estate",
+    "Personal Growth",
+    "Organizational Growth",
+    "Data",
+    "Sales & Marketing",
+    "UI/UX",
+    "Efficiency",
+    "Pitch",
+    "Service",
+    "Innovators",
+    "Human Resources",
+    "Coding",
+    "Fundraise",
+    "Grit",
+    "Finance",
+  ]
+
+  public matchingTopics(topic: string) {
+    return this.documents.filter(document => document.topic === topic);
   }
 
-  public matchingSubjects(topic: string) {
-    return this.subjects.filter(subject => subject.topic === topic);
+  beforeMount() {
+		firebase.auth().onAuthStateChanged(() => {
+			this.loadData();
+		})
   }
+  
+  public loadData() {
+		let todoDataService = new TodoDataServicesCollection();
+		todoDataService.GetAll().then((listData:any) => {
+			this.documents = listData;
+		});
+	}
 
 }
 </script>
 
 <style scoped lang="scss">
 @import '../styles/quasar.variables.scss';
-
-.o-checklist-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center; 
+.o-checklist {
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    &__topic {
+      color: $primary;
+    }
+    &__notecardsIcon {
+      color: $primary;
+    }
+    &__todoIcon {
+      color: $accent;
+    }
+  }
+  &__header {
+    color: $primary;
+    &__notecards {
+      color: $primary;
+    }
+    &__checklists {
+      color: $accent;
+    }
+  }
 }
 .my-card {
   max-width: 300px;

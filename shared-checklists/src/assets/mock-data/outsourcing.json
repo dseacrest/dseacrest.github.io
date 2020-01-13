@@ -1,6 +1,7 @@
 {
   "subject": "Outsourcing",
   "credit": "Outsourcing",
+  "topic": "Recruiting",
   "todos": [
     {
       "id": "4362",
@@ -25,7 +26,7 @@
     {
       "id": "4366",
       "title": "Security",
-      "body": "make sure they have background checks, credit cards should only be handled by supervisers, removal of paper from office prohibited, floppy drives and usb ports disabled, BS779 certification for international security standards, 128 – bit encryption, secure vpn network, vlan based access restriction between teams, electronic access cards for entry and exit, never use debit cards, create unique logins."
+      "body": "make sure they have background checks, credit cards should only be handled by supervisers, removal of paper from office prohibited, floppy drives and usb ports disabled, BS779 certification for international security standards, 128 ' bit encryption, secure vpn network, vlan based access restriction between teams, electronic access cards for entry and exit, never use debit cards, create unique logins."
     },
     {
       "id": "4367",
@@ -39,8 +40,8 @@
     },
     {
       "id": "4369",
-      "title": "Don’t Hire Best of Batch",
-      "body": "You might have to do the hiring process a couple times before you find a Rockstar.  Don’t just hire a person because they are the best option of your available options.  Restart the process.  "
+      "title": "Don't Hire Best of Batch",
+      "body": "You might have to do the hiring process a couple times before you find a Rockstar.  Don't just hire a person because they are the best option of your available options.  Restart the process.  "
     },
     {
       "id": "4370",
@@ -50,7 +51,7 @@
     {
       "id": "4371",
       "title": "First Round Interview",
-      "body": "Should be with engineering team.  Don’t do any whiteboard coding questions at this stage.  "
+      "body": "Should be with engineering team.  Don't do any whiteboard coding questions at this stage.  "
     },
     {
       "id": "4372",
@@ -80,7 +81,7 @@
     {
       "id": "4377",
       "title": "Security Issues",
-      "body": "No passwords in code.  Don’t give access to full database.  Give super-admin access that has an audit trail and logging.  Make them give a reason why they need to access certain data.  "
+      "body": "No passwords in code.  Don't give access to full database.  Give super-admin access that has an audit trail and logging.  Make them give a reason why they need to access certain data.  "
     },
     {
       "id": "4378",
@@ -90,7 +91,7 @@
     {
       "id": "4379",
       "title": "Skill",
-      "body": "If you can hire multiple developers, you don’t need them to be full stack.  They can specialize in an area that you need help with indefinitely.  "
+      "body": "If you can hire multiple developers, you don't need them to be full stack.  They can specialize in an area that you need help with indefinitely.  "
     },
     {
       "id": "4380",
@@ -120,12 +121,12 @@
     {
       "id": "4385",
       "title": "Commute",
-      "body": "Find countries (like Phillippines) where their downtowns are overcrowded, growing and they don’t have great transportation infrastructure.  When workers have to commute 3-4 hours a day they will be more incentivized to want to work remotely.  Don’t rent an office that is tough to get to an make them commute.  Find the districts in the outskirts of town and try to hire there."
+      "body": "Find countries (like Phillippines) where their downtowns are overcrowded, growing and they don't have great transportation infrastructure.  When workers have to commute 3-4 hours a day they will be more incentivized to want to work remotely.  Don't rent an office that is tough to get to an make them commute.  Find the districts in the outskirts of town and try to hire there."
     },
     {
       "id": "4386",
       "title": "Tips",
-      "body": "Don’t just accept the first person they assign, give precise directions, give short deadlines, define order of importance for tasks, don’t give too many tasks, ask for conformation when completed, give permission to ask for clarification.  "
+      "body": "Don't just accept the first person they assign, give precise directions, give short deadlines, define order of importance for tasks, don't give too many tasks, ask for conformation when completed, give permission to ask for clarification.  "
     },
     {
       "id": "4387",

@@ -1,6 +1,7 @@
 {
   "subject": "Growth Hacking:",
   "credit": "Growth Hacking:",
+  "topic": "Sales & Marketing",
   "todos": [
     {
       "id": "2935",
@@ -30,7 +31,7 @@
     {
       "id": "2940",
       "title": "Lifetime Value of Customer (LTV)",
-      "body": "the expected amount of money you’ll make on someone throughout their entire lifecycle on your product. Segments come in handy when calculating LTV because you might discover that certain segments of your users have a much higher LTV than other users."
+      "body": "the expected amount of money you'll make on someone throughout their entire lifecycle on your product. Segments come in handy when calculating LTV because you might discover that certain segments of your users have a much higher LTV than other users."
     },
     {
       "id": "2941",
@@ -50,7 +51,7 @@
     {
       "id": "2944",
       "title": "Segments",
-      "body": "Like cohorts, but instead of basing the group on signup date, you base the group on other segmenting’s factors. (Male, female, to see how they behave differently)"
+      "body": "Like cohorts, but instead of basing the group on signup date, you base the group on other segmenting's factors. (Male, female, to see how they behave differently)"
     },
     {
       "id": "2945",
@@ -70,7 +71,7 @@
     {
       "id": "2948",
       "title": "Cohorts",
-      "body": "A portion of your users based on when they signed up for your product. Use cohorts to keep data clear. If every month your KPIs are improving for new cohort’s month over month then things are going in the right direction.  "
+      "body": "A portion of your users based on when they signed up for your product. Use cohorts to keep data clear. If every month your KPIs are improving for new cohort's month over month then things are going in the right direction.  "
     },
     {
       "id": "2949",
@@ -85,507 +86,507 @@
     {
       "id": "2951",
       "title": "Email contacts (make it easy to invite friends)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2952",
       "title": "Fun products spread",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2953",
       "title": "Pain Relieving spread",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2954",
       "title": "Phone contacts",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2955",
       "title": "Simple spreads",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2956",
       "title": "Social contacts",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2957",
       "title": "Surprising products spread",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2958",
       "title": "Unique product spread",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2959",
       "title": "8 Tactics to retain users",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2960",
       "title": "A push tactic usually involves interrupting the content that is being consumed.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2961",
       "title": "Activation goals will vary based on your product.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2962",
       "title": "Activation is when someone takes an action that you decided was necessary for the success of your product. (email address, create an account, read something, share something, fill out something, interact with someone.)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2963",
       "title": "AirBNB is a notable example of growth hacking.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2964",
       "title": "Define actionable goals",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2965",
       "title": "Despite their reliance on analytics, growth hackers are also right brained, as they use creativity, curiosity, and qualitative research at times. (Curiosity killed the cat but a lack of curiosity with kill your product.)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2966",
       "title": "Distribution channels are being redrawn, and those that understand the movement of people online will have control over where they end up.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2967",
-      "title": "Don’t just copy the other recipes of other startups",
-      "body": ""
+      "title": "Don't just copy the other recipes of other startups",
+      "body": "-"
     },
     {
       "id": "2968",
-      "title": "Don’t just focus on traffics, it’s important but it’s not everything.",
-      "body": ""
+      "title": "Don't just focus on traffics, it's important but it's not everything.",
+      "body": "-"
     },
     {
       "id": "2969",
       "title": "Execute the experiment",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2970",
       "title": "Four push tactics we can use",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2971",
       "title": "Funnels help guide things which are hard to control like liquid or people.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2972",
       "title": "Getting traffic is a recipe, not a single ingredient",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2973",
       "title": "Getting visitors to your product is not enough. You need to activate them.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2974",
       "title": "Growth hackers are proficient at several disciplines, but must excel at some of them to do their work effectively. (T shape, V shape, U shape)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2975",
       "title": "Growth hackers rely heavily on analytics.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2976",
       "title": "Growth hackers, using their knowledge of product and distribution, find ingenious, technology-based, avenues for growth that sometimes push the bound of what is expected or advised.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2977",
       "title": "Growth hacking is primarily found in startups but it will eventually be found in larger organizations.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2978",
       "title": "Growth hacking shows us a trend that will infiltrate more than the marketing department. Growth matter and multiple roles within companies will someday reflect that.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2979",
       "title": "Here are 6 different activation tactics",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2980",
       "title": "Here are 6 product tactics we can use",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2981",
       "title": "Implement analytics to track your goals.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2982",
-      "title": "It’s hard to know what good conversion rates are for your product, but following things help",
-      "body": ""
+      "title": "It's hard to know what good conversion rates are for your product, but following things help",
+      "body": "-"
     },
     {
       "id": "2983",
       "title": "Leverage your existing strengths",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2984",
       "title": "Marketers are important, but early in a startup you need someone with a narrower focus on growth.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2985",
       "title": "Most growth hackers are not unethical",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2986",
-      "title": "Most products don’t go viral (However the ability to use our product to get new visitors is one of the most exciting aspects of growth hacking.)",
-      "body": ""
+      "title": "Most products don't go viral (However the ability to use our product to get new visitors is one of the most exciting aspects of growth hacking.)",
+      "body": "-"
     },
     {
       "id": "2987",
       "title": "Normally cost money",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2988",
       "title": "Optimize the experiment",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2989",
       "title": "Product tactics have an amplifying effect on other tactics.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2990",
       "title": "Repeat",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2991",
       "title": "Retention is the most important of our funnel.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2992",
-      "title": "Since money is involved with push tactics you must understand the lifetime value of your customers, so that you don’t spend more money on a customer then you’ll make from them. (Found in Customer profile document)",
-      "body": ""
+      "title": "Since money is involved with push tactics you must understand the lifetime value of your customers, so that you don't spend more money on a customer then you'll make from them. (Found in Customer profile document)",
+      "body": "-"
     },
     {
       "id": "2993",
       "title": "The growth hackers funnel has 3 phases",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2994",
       "title": "The nature of internet products has produced a new way to think about growth. Product features can now be directly responsible for growth.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2995",
       "title": "The recipe is ALWAYS changing",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2996",
       "title": "There are 3 ways to get traffic to your site",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2997",
       "title": "These are 12 pull tactics that we can use.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2998",
-      "title": "This funnel is a simplified version of Dave McClure’s framework.",
-      "body": ""
+      "title": "This funnel is a simplified version of Dave McClure's framework.",
+      "body": "-"
     },
     {
       "id": "2999",
       "title": "Traditional marketers can become growth hackers if they narrow their focus and depend their skill set.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3000",
-      "title": "You don’t have to be a programmer to be a growth hacker",
-      "body": ""
+      "title": "You don't have to be a programmer to be a growth hacker",
+      "body": "-"
     },
     {
       "id": "3001",
-      "title": "You need to grow some to find product-market fit, but you shouldn’t focus on growth exclusively until you find product-market fit.",
-      "body": ""
+      "title": "You need to grow some to find product-market fit, but you shouldn't focus on growth exclusively until you find product-market fit.",
+      "body": "-"
     },
     {
       "id": "3002",
       "title": "You should only have one activation goal for any given section of your product.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3003",
       "title": "You should place your energy into places where you have weak conversion ratios.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3004",
       "title": "Growth hackers are obsessive about growth. This allows them to persist until they uncover the tactics that will work, and it allows the m to build upon minor successes as they slowly move their product forward.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3005",
-      "title": "o   Activate Members- helping people take predefined actions in your product.",
-      "body": ""
+      "title": "o'' Activate Members- helping people take predefined actions in your product.",
+      "body": "-"
     },
     {
       "id": "3006",
-      "title": "o   Affiliates",
-      "body": ""
+      "title": "o'' Affiliates",
+      "body": "-"
     },
     {
       "id": "3007",
-      "title": "o   Alerts and Notifications (Only Relevant Updates)",
-      "body": ""
+      "title": "o'' Alerts and Notifications (Only Relevant Updates)",
+      "body": "-"
     },
     {
       "id": "3008",
-      "title": "o   Always be improving relative to yourself.",
-      "body": ""
+      "title": "o'' Always be improving relative to yourself.",
+      "body": "-"
     },
     {
       "id": "3009",
-      "title": "o   API Integrations",
-      "body": ""
+      "title": "o'' API Integrations",
+      "body": "-"
     },
     {
       "id": "3010",
-      "title": "o   Backlinks (Hotmail example included a link at the bottom of each email that was sent saying “Get your free email at Hotmail”, and a viral loop was born)",
-      "body": ""
+      "title": "o'' Backlinks (Hotmail example included a link at the bottom of each email that was sent saying 'Get your free email at Hotmail', and a viral loop was born)",
+      "body": "-"
     },
     {
       "id": "3011",
-      "title": "o   Blogging or Guest Blogging (Bring others to blog for us/we blog for them)",
-      "body": ""
+      "title": "o'' Blogging or Guest Blogging (Bring others to blog for us/we blog for them)",
+      "body": "-"
     },
     {
       "id": "3012",
-      "title": "o   Calls to Action",
-      "body": ""
+      "title": "o'' Calls to Action",
+      "body": "-"
     },
     {
       "id": "3013",
-      "title": "o   Community Building (Customer Support, Documentation, have them interact with each other with social features)",
-      "body": ""
+      "title": "o'' Community Building (Customer Support, Documentation, have them interact with each other with social features)",
+      "body": "-"
     },
     {
       "id": "3014",
-      "title": "o   Conference Presentations",
-      "body": ""
+      "title": "o'' Conference Presentations",
+      "body": "-"
     },
     {
       "id": "3015",
-      "title": "o   Contests",
-      "body": ""
+      "title": "o'' Contests",
+      "body": "-"
     },
     {
       "id": "3016",
-      "title": "o   Conversion rates affect each other within the funnel, so view the funnel as a whole.",
-      "body": ""
+      "title": "o'' Conversion rates affect each other within the funnel, so view the funnel as a whole.",
+      "body": "-"
     },
     {
       "id": "3017",
-      "title": "o   Copywriting (Headline should mention our unique value prop, short is good for less expensive, long is good for expensive)",
-      "body": ""
+      "title": "o'' Copywriting (Headline should mention our unique value prop, short is good for less expensive, long is good for expensive)",
+      "body": "-"
     },
     {
       "id": "3018",
-      "title": "o   Deal Sites",
-      "body": ""
+      "title": "o'' Deal Sites",
+      "body": "-"
     },
     {
       "id": "3019",
-      "title": "o   Direct Sales",
-      "body": ""
+      "title": "o'' Direct Sales",
+      "body": "-"
     },
     {
       "id": "3020",
-      "title": "o   Don’t Fear Email",
-      "body": ""
+      "title": "o'' Don't Fear Email",
+      "body": "-"
     },
     {
       "id": "3021",
-      "title": "o   Ebooks, Guides, and Whitepapers",
-      "body": ""
+      "title": "o'' Ebooks, Guides, and Whitepapers",
+      "body": "-"
     },
     {
       "id": "3022",
-      "title": "o   Exit Interviews (Ask why the cancelled, contact them personally)",
-      "body": ""
+      "title": "o'' Exit Interviews (Ask why the cancelled, contact them personally)",
+      "body": "-"
     },
     {
       "id": "3023",
-      "title": "o   Find allies that will let you see their numbers",
-      "body": ""
+      "title": "o'' Find allies that will let you see their numbers",
+      "body": "-"
     },
     {
       "id": "3024",
-      "title": "o   Find companies online who have published their conversion rates.",
-      "body": ""
+      "title": "o'' Find companies online who have published their conversion rates.",
+      "body": "-"
     },
     {
       "id": "3025",
-      "title": "o   Gamification (Progress bars to their first full use of ScoutSheet, awards to be tweeted or shared on facebook, leaderboards within their company)",
-      "body": ""
+      "title": "o'' Gamification (Progress bars to their first full use of ScoutSheet, awards to be tweeted or shared on facebook, leaderboards within their company)",
+      "body": "-"
     },
     {
       "id": "3026",
-      "title": "o   Get Visitors-finding ways for people to land on your product.",
-      "body": ""
+      "title": "o'' Get Visitors-finding ways for people to land on your product.",
+      "body": "-"
     },
     {
       "id": "3027",
-      "title": "o   Incentives (Get extra add ons for sharing on facebook, or liking our page, follow us on twitter, getting 3 referrals for a free month)",
-      "body": ""
+      "title": "o'' Incentives (Get extra add ons for sharing on facebook, or liking our page, follow us on twitter, getting 3 referrals for a free month)",
+      "body": "-"
     },
     {
       "id": "3028",
-      "title": "o   Increase Value (Add Features, and Subtract Features)",
-      "body": ""
+      "title": "o'' Increase Value (Add Features, and Subtract Features)",
+      "body": "-"
     },
     {
       "id": "3029",
-      "title": "o   Infographics (Info graphic on time saving calculator)",
-      "body": ""
+      "title": "o'' Infographics (Info graphic on time saving calculator)",
+      "body": "-"
     },
     {
       "id": "3030",
-      "title": "o   Landing Pages (Get them to what they are looking for right away, if they come from social media get them to the page that we have our social media stuff on, if they come to sign up, get them to the sign-up page)",
-      "body": ""
+      "title": "o'' Landing Pages (Get them to what they are looking for right away, if they come from social media get them to the page that we have our social media stuff on, if they come to sign up, get them to the sign-up page)",
+      "body": "-"
     },
     {
       "id": "3031",
-      "title": "o   Leverage Other People Audiences",
-      "body": ""
+      "title": "o'' Leverage Other People Audiences",
+      "body": "-"
     },
     {
       "id": "3032",
-      "title": "o   Make Them Happy (All comes down to happiness)",
-      "body": ""
+      "title": "o'' Make Them Happy (All comes down to happiness)",
+      "body": "-"
     },
     {
       "id": "3033",
-      "title": "o   Marketplaces",
-      "body": ""
+      "title": "o'' Marketplaces",
+      "body": "-"
     },
     {
       "id": "3034",
-      "title": "o   Network Invitations (use existing networks to our advantage)",
-      "body": ""
+      "title": "o'' Network Invitations (use existing networks to our advantage)",
+      "body": "-"
     },
     {
       "id": "3035",
-      "title": "o   Onboarding (Helpful tips that pop up on website, intercom)",
-      "body": ""
+      "title": "o'' Onboarding (Helpful tips that pop up on website, intercom)",
+      "body": "-"
     },
     {
       "id": "3036",
-      "title": "o   Organic (Word of mouth)",
-      "body": ""
+      "title": "o'' Organic (Word of mouth)",
+      "body": "-"
     },
     {
       "id": "3037",
-      "title": "o   Podcasting or Guest Podcasting.",
-      "body": ""
+      "title": "o'' Podcasting or Guest Podcasting.",
+      "body": "-"
     },
     {
       "id": "3038",
-      "title": "o   Pricing Strategies",
-      "body": ""
+      "title": "o'' Pricing Strategies",
+      "body": "-"
     },
     {
       "id": "3039",
-      "title": "o   Product- You use your product itself to bring them to you.",
-      "body": ""
+      "title": "o'' Product- You use your product itself to bring them to you.",
+      "body": "-"
     },
     {
       "id": "3040",
-      "title": "o   Promo Swap (Swap tweets, swap Facebook posts, sponsored email swap, giveaway swap)",
-      "body": ""
+      "title": "o'' Promo Swap (Swap tweets, swap Facebook posts, sponsored email swap, giveaway swap)",
+      "body": "-"
     },
     {
       "id": "3041",
-      "title": "o   Pull-You entice them to come to you.",
-      "body": ""
+      "title": "o'' Pull-You entice them to come to you.",
+      "body": "-"
     },
     {
       "id": "3042",
-      "title": "o   Purchase Ads (Social Media, websites)",
-      "body": ""
+      "title": "o'' Purchase Ads (Social Media, websites)",
+      "body": "-"
     },
     {
       "id": "3043",
-      "title": "o   Push- You coerce them to come to you",
-      "body": ""
+      "title": "o'' Push- You coerce them to come to you",
+      "body": "-"
     },
     {
       "id": "3044",
-      "title": "o   Retain Users- helping people become habitual users of your product.",
-      "body": ""
+      "title": "o'' Retain Users- helping people become habitual users of your product.",
+      "body": "-"
     },
     {
       "id": "3045",
-      "title": "o   SEO",
-      "body": ""
+      "title": "o'' SEO",
+      "body": "-"
     },
     {
       "id": "3046",
-      "title": "o   Social Media",
-      "body": ""
+      "title": "o'' Social Media",
+      "body": "-"
     },
     {
       "id": "3047",
-      "title": "o   Social Sharing",
-      "body": ""
+      "title": "o'' Social Sharing",
+      "body": "-"
     },
     {
       "id": "3048",
-      "title": "o   Speed to Aha (Show we are going to save them X, provide them Y, and make Z much more valuable as quick as possible)",
-      "body": ""
+      "title": "o'' Speed to Aha (Show we are going to save them X, provide them Y, and make Z much more valuable as quick as possible)",
+      "body": "-"
     },
     {
       "id": "3049",
-      "title": "o   Staged Traffic",
-      "body": ""
+      "title": "o'' Staged Traffic",
+      "body": "-"
     },
     {
       "id": "3050",
-      "title": "o   The Red Carpet (Roll out red carpet for most engaged users, send shirts, email shout outs, retweet them often, access to early content)",
-      "body": ""
+      "title": "o'' The Red Carpet (Roll out red carpet for most engaged users, send shirts, email shout outs, retweet them often, access to early content)",
+      "body": "-"
     },
     {
       "id": "3051",
-      "title": "o   Webinars (Webinar that convert into Demo)",
-      "body": ""
+      "title": "o'' Webinars (Webinar that convert into Demo)",
+      "body": "-"
     }
   ]
 }

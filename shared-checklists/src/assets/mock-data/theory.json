@@ -1,10 +1,11 @@
 {
   "subject": "Theory Checklist",
   "credit": "Theory Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "5995",
-      "title": "Leonardo Da Vinci’s Vitruvian Man",
+      "title": "Leonardo Da Vinci's Vitruvian Man",
       "body": "We will never devise any invention more beautiful, nor more simple, nor more to the purpose than Nature does."
     },
     {
@@ -29,22 +30,22 @@
     },
     {
       "id": "6000",
-      "title": "Miller’s Law",
+      "title": "Miller's Law",
       "body": "The observation, also by George Armitage Miller, that the number of objects an average person can hold in working memory is about seven. [3]"
     },
     {
       "id": "6001",
       "title": "Brin & Page",
-      "body": "The number of documents in the indices has been increasing by many orders of magnitude, but the user’s ability to look at documents has not.  "
+      "body": "The number of documents in the indices has been increasing by many orders of magnitude, but the user's ability to look at documents has not.  "
     },
     {
       "id": "6002",
-      "title": "Moravec’s Paradox",
+      "title": "Moravec's Paradox",
       "body": "The hard problems are easy and the easy problems are hard.  Referring to artificial intelligence where a computer can do complex algorithms difficult for humans but cannot do simple things like tell you how they feel.  "
     },
     {
       "id": "6003",
-      "title": "Weiner – Geography of Bliss",
+      "title": "Weiner ' Geography of Bliss",
       "body": "Seventy percent of happiness can be attributed to relationships with people."
     },
     {
@@ -94,13 +95,13 @@
     },
     {
       "id": "6013",
-      "title": "Hoteling’s Problem",
+      "title": "Hoteling's Problem",
       "body": "Businesses tend to cluster and end up competing with each other instead of spreading out.  Franchises have more ability to cluster but new local shops should separate themselves."
     },
     {
       "id": "6014",
-      "title": "Pareto Principle, Zipf’s Law, 80/20, Power Law",
-      "body": "A minority of causes, inputs, or effort usually lead to a majority of the results, outputs, or rewards.  A very small set of words makes up the vast majority of actual usage.  See Brown Corpus (1964).  Long-Tail – 80% that adds little value."
+      "title": "Pareto Principle, Zipf's Law, 80/20, Power Law",
+      "body": "A minority of causes, inputs, or effort usually lead to a majority of the results, outputs, or rewards.  A very small set of words makes up the vast majority of actual usage.  See Brown Corpus (1964).  Long-Tail ' 80% that adds little value."
     },
     {
       "id": "6015",

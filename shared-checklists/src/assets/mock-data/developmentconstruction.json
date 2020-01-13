@@ -1,6 +1,7 @@
 {
   "subject": "Development Checklist - Construction",
   "credit": "Development Checklist - Construction",
+  "topic": "Real Estate",
   "todos": [
     {
       "id": "1410",
@@ -10,42 +11,42 @@
     {
       "id": "1411",
       "title": "Billing & Reporting",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1412",
       "title": "Bonds",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1413",
       "title": "Certificates of Insurance",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1414",
       "title": "Construction Supervision",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1415",
       "title": "Permitting",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1416",
       "title": "Punch Lists",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1417",
       "title": "TIF Processing",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1418",
       "title": "Weekly Construction Meeting",
-      "body": ""
+      "body": "-"
     }
   ]
 }

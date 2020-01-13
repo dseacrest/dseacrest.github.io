@@ -1,6 +1,7 @@
 {
   "subject": "Estimation Checklist",
   "credit": "Estimation Checklist",
+  "topic": "Coding",
   "todos": [
     {
       "id": "2280",
@@ -40,12 +41,12 @@
     {
       "id": "2287",
       "title": "Books",
-      "body": "Steve McConnell – Software Estimation Demystifying the Black Art."
+      "body": "Steve McConnell ' Software Estimation Demystifying the Black Art."
     },
     {
       "id": "2288",
-      "title": "If You Don’t Know",
-      "body": "Say “I’ll get back to you.”"
+      "title": "If You Don't Know",
+      "body": "Say 'I'll get back to you.'"
     },
     {
       "id": "2289",
@@ -54,7 +55,7 @@
     },
     {
       "id": "2290",
-      "title": "Day isn’t a day",
+      "title": "Day isn't a day",
       "body": "Not all developers get 100% day due to other responsibilities, vacation, support, etc.  "
     },
     {
@@ -79,7 +80,7 @@
     },
     {
       "id": "2295",
-      "title": "Don’t Overestimate",
+      "title": "Don't Overestimate",
       "body": "If you pad, pad in just one place."
     },
     {

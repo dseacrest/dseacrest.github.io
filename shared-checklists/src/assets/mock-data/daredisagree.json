@@ -1,6 +1,7 @@
 {
   "subject": "Dare to Disagree Checklist",
   "credit": "Dare to Disagree Checklist",
+  "topic": "Personal Growth",
   "todos": [
     {
       "id": "1134",
@@ -10,7 +11,7 @@
     {
       "id": "1135",
       "title": "Yes and",
-      "body": "When you disagree, never say “no”, “I disagree”, “but”, instead say “yes and…”"
+      "body": "When you disagree, never say 'no', 'I disagree', 'but', instead say 'yes and''"
     },
     {
       "id": "1136",
@@ -19,13 +20,13 @@
     },
     {
       "id": "1137",
-      "title": "Don’t fear conflict",
+      "title": "Don't fear conflict",
       "body": "People need to feel safe and comfortable disagreeing with each other.  "
     },
     {
       "id": "1138",
       "title": "Trust",
-      "body": "No argument can ever be solved if you don’t trust the arguer.  Establish trust first, then work on reason and conclusion."
+      "body": "No argument can ever be solved if you don't trust the arguer.  Establish trust first, then work on reason and conclusion."
     },
     {
       "id": "1139",
@@ -59,7 +60,7 @@
     },
     {
       "id": "1145",
-      "title": "Point – counterpoint",
+      "title": "Point ' counterpoint",
       "body": "Arguments should enlighten, by adding information on information or reason on reason, not by getting stuck on one concept."
     }
   ]

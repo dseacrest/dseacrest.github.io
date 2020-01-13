@@ -1,11 +1,12 @@
 {
   "subject": "Customer Selection Checklist:",
   "credit": "Customer Selection Checklist:",
+  "topic": "Sales & Marketing",
   "todos": [
     {
       "id": "1112",
-      "title": "Customer’s Purchasing Power",
-      "body": "What is customer’s annual revenue/net worth?"
+      "title": "Customer's Purchasing Power",
+      "body": "What is customer's annual revenue/net worth?"
     },
     {
       "id": "1113",

@@ -1,6 +1,7 @@
 {
   "subject": "Web Usability Checklist",
   "credit": "Web Usability Checklist",
+  "topic": "UI/UX",
   "todos": [
     {
       "id": "6788",
@@ -20,7 +21,7 @@
     {
       "id": "6791",
       "title": "Conventions",
-      "body": "Widely used or standardized design patterns (like an red octagon for stop). Conventions include where things will be located on a page, how things work, how things look, etc.  If you are not using a web convention it either has to be so clear and self-explanatory, or add so much value that it’s worth a small learning curve."
+      "body": "Widely used or standardized design patterns (like an red octagon for stop). Conventions include where things will be located on a page, how things work, how things look, etc.  If you are not using a web convention it either has to be so clear and self-explanatory, or add so much value that it's worth a small learning curve."
     },
     {
       "id": "6792",
@@ -30,7 +31,7 @@
     {
       "id": "6793",
       "title": "First Reasonable Option",
-      "body": "We usually don’t chose the best option, we chore the first reasonable option that we find on the site.  We do this because we are in a hurry, there is no penalty for guessing wrong, guessing is more fun.  We don’t take time to figure out how things work, we tinker and muddle through them."
+      "body": "We usually don't chose the best option, we chore the first reasonable option that we find on the site.  We do this because we are in a hurry, there is no penalty for guessing wrong, guessing is more fun.  We don't take time to figure out how things work, we tinker and muddle through them."
     },
     {
       "id": "6794",
@@ -50,7 +51,7 @@
     {
       "id": "6797",
       "title": "Trouble with Websites",
-      "body": "There is no sense of scale (you don’t know how many pages there are), there is no sense of direction or location (other than the home page).  Back button is most used button and the home page is super important.  "
+      "body": "There is no sense of scale (you don't know how many pages there are), there is no sense of direction or location (other than the home page).  Back button is most used button and the home page is super important.  "
     },
     {
       "id": "6798",
@@ -60,7 +61,7 @@
     {
       "id": "6799",
       "title": "Breadcrumbs",
-      "body": "Provide the trail of crumbs to how the user gets back to where they are.  Ex  Home Page -> TVs -> TV Stands -> Wall-Mounted Stands -> 40-49”"
+      "body": "Provide the trail of crumbs to how the user gets back to where they are.  Ex  Home Page -> TVs -> TV Stands -> Wall-Mounted Stands -> 40-49'"
     },
     {
       "id": "6800",
@@ -75,12 +76,12 @@
     {
       "id": "6802",
       "title": "Scan",
-      "body": "People don’t read web pages they scan them.  They are on a mission.  They don’t need to read everything.  "
+      "body": "People don't read web pages they scan them.  They are on a mission.  They don't need to read everything.  "
     },
     {
       "id": "6803",
       "title": "Usability Testing",
-      "body": "Once you’ve worked on a site for more than a week you no longer have a fresh perspective and need to test the site to remind you that not everyone thinks the way you do.  "
+      "body": "Once you've worked on a site for more than a week you no longer have a fresh perspective and need to test the site to remind you that not everyone thinks the way you do.  "
     },
     {
       "id": "6804",
@@ -100,7 +101,7 @@
     {
       "id": "6807",
       "title": "Religious Debates",
-      "body": "Most conversations about usability turn into people expressing strongly held beleifs about things that can’t be proven.  Not all web users are alike, in fact they are all unique and users should not be stereotyped.  Leaving decisions to testing is the best way to overcome these debates.  "
+      "body": "Most conversations about usability turn into people expressing strongly held beleifs about things that can't be proven.  Not all web users are alike, in fact they are all unique and users should not be stereotyped.  Leaving decisions to testing is the best way to overcome these debates.  "
     },
     {
       "id": "6808",
@@ -115,12 +116,12 @@
     {
       "id": "6810",
       "title": "Increasing Goodwill Reservoir",
-      "body": "Knowing the buyer’s decision making process and making the keep steps in chronological order, obvious, and easy to find.  Be up front with all the critical information they need to know.  Saving them steps whenever you can (ex  autofill).  Clearly organizing the information.  Predict what questions users will have and have them already answered.  Creature comforts like printer-friendly pages.  Easy to recover from errors (like saving form data).  Apologizing when things go wrong.  "
+      "body": "Knowing the buyer's decision making process and making the keep steps in chronological order, obvious, and easy to find.  Be up front with all the critical information they need to know.  Saving them steps whenever you can (ex  autofill).  Clearly organizing the information.  Predict what questions users will have and have them already answered.  Creature comforts like printer-friendly pages.  Easy to recover from errors (like saving form data).  Apologizing when things go wrong.  "
     },
     {
       "id": "6811",
       "title": "Utilities",
-      "body": "Important elements that aren’t part of the content hierarchy.  "
+      "body": "Important elements that aren't part of the content hierarchy.  "
     },
     {
       "id": "6812",
@@ -135,7 +136,7 @@
     {
       "id": "6814",
       "title": "Lowering The Goodwill Reservoir",
-      "body": "Hiding information (like pricing), punishing me for not doing things your way, asking me for information you don’t really need, saying things that you don’t follow up with action, putting fluff and stock photos in the way of information I need to get to, looking amateurish.  "
+      "body": "Hiding information (like pricing), punishing me for not doing things your way, asking me for information you don't really need, saying things that you don't follow up with action, putting fluff and stock photos in the way of information I need to get to, looking amateurish.  "
     },
     {
       "id": "6815",
@@ -160,12 +161,12 @@
     {
       "id": "6819",
       "title": "Number One Usability Rule",
-      "body": "Don’t Make Them Think.  Things should be obvious and not require thought or interpretation."
+      "body": "Don't Make Them Think.  Things should be obvious and not require thought or interpretation."
     },
     {
       "id": "6820",
       "title": "Keep Down The Noise",
-      "body": "Don’t be afraid to use whitespace.  The more whitespace in a page, the more professional people will assume the product is.  Don’t crowd out pages unless you are a news site and need to get a lot of information to the user.  "
+      "body": "Don't be afraid to use whitespace.  The more whitespace in a page, the more professional people will assume the product is.  Don't crowd out pages unless you are a news site and need to get a lot of information to the user.  "
     },
     {
       "id": "6821",
@@ -195,7 +196,7 @@
     {
       "id": "6826",
       "title": "Web Accessibility",
-      "body": "Add “alt” text to every image.  Use headings correctly.  Make forms work with screen readers.  Put a “skip to main content” link at the beginning of each page.  Make content accessible by keyboard.  Create contrast between foreground and background.  Test for color blindness.  "
+      "body": "Add 'alt' text to every image.  Use headings correctly.  Make forms work with screen readers.  Put a 'skip to main content' link at the beginning of each page.  Make content accessible by keyboard.  Create contrast between foreground and background.  Test for color blindness.  "
     },
     {
       "id": "6827",

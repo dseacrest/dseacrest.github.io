@@ -1,41 +1,42 @@
 {
   "subject": "Asking For Donation Checklist",
   "credit": "Asking For Donation Checklist",
+  "topic": "Fundraise",
   "todos": [
     {
       "id": "369",
       "title": "How can we do a better job of telling our story?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "370",
       "title": "How do you fee we can most effectively serve our community?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "371",
       "title": "How do you feel about this project?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "372",
       "title": "If you led our organization what would you do?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "373",
       "title": "When did it first occur to you that philanthropy was important in your life?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "374",
       "title": "Why did you make your first gift to us?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "375",
       "title": "Your connected to our organization, how have we helped you?",
-      "body": ""
+      "body": "-"
     }
   ]
 }

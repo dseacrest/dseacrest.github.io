@@ -1,6 +1,7 @@
 {
   "subject": "Developing Analytical Talent Checklist",
   "credit": "Developing Analytical Talent Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "1341",
@@ -239,113 +240,113 @@
     },
     {
       "id": "1388",
-      "title": "Tarjan’s Strongly Connected Components Algorithm",
+      "title": "Tarjanï¿½s Strongly Connected Components Algorithm",
       "body": "  "
     },
     {
       "id": "1389",
       "title": "Actuarial Sciences",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1390",
       "title": "Analyzing Domain Patterns",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1391",
       "title": "Arcsine Law",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1392",
       "title": "BIRT",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1393",
       "title": "Black-Scholes",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1394",
       "title": "Boosted Trees",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1395",
       "title": "Correlograms",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1396",
       "title": "Cron Job",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1397",
       "title": "Cross-Correlation",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1398",
       "title": "Fuzzy Merging",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1399",
       "title": "Gaussian Distribution",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1400",
       "title": "HashTable",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1401",
       "title": "Lorenz Curve",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1402",
-      "title": "Naïve Bayes",
-      "body": ""
+      "title": "Naï¿½ve Bayes",
+      "body": "-"
     },
     {
       "id": "1403",
       "title": "PCA",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1404",
       "title": "Schema",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1405",
       "title": "Sensitivity Analysis",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1406",
       "title": "Signal Processing",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1407",
       "title": "Six Sigma",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1408",
       "title": "Spectral Analysis",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1409",
       "title": "Toad/Brio",
-      "body": ""
+      "body": "-"
     }
   ]
 }

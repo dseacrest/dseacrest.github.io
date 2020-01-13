@@ -1,6 +1,7 @@
 {
   "subject": "Hypotheses Checklist",
   "credit": "Hypotheses Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "3310",
@@ -45,32 +46,32 @@
     {
       "id": "3318",
       "title": "Do your research. You may find many studies similar to yours have already been conducted. What you learn from available research and data can help you shape your project and hypothesis.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3319",
       "title": "Dont bite off more than you can chew Answering some scientific questions can involve more than one experiment each with its own hypothesis. Make sure your hypothesis is a specific statement relating to a single experiment.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3320",
       "title": "Identified the variables in the project.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3321",
       "title": "Included the independent and dependent variables in the hypothesis statement. (This helps ensure that your statement is specific enough.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3322",
       "title": "Make sure you experiment is well controlled and avoids bias.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "3323",
       "title": "Thought about what experiments you will need to carry out to do the test.",
-      "body": ""
+      "body": "-"
     }
   ]
 }

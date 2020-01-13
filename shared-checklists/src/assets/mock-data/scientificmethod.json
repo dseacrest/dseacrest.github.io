@@ -1,6 +1,7 @@
 {
   "subject": "Scientific Method Checklist",
   "credit": "Scientific Method Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "5624",
@@ -35,62 +36,62 @@
     {
       "id": "5630",
       "title": "An experiment should include a dependent variable (which does not change) and an independent variable (which does change).",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5631",
       "title": "An experiment should include an experimental group and a control group. The control group is what the experimental group is compared against.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5632",
       "title": "Research must involve deductive reasoning and inductive reasoning. Deductive reasoning is the process of using true premises to reach a logical true conclusion while inductive reasoning takes the opposite approach.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5633",
       "title": "The hypothesis must be testable and falsifiable, according to North Carolina State University. Falsifiable means that there must be a possible negative answer to the hypothesis.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5634",
-      "title": "1.       Make an observation or observations.",
-      "body": ""
+      "title": "1.'''''' Make an observation or observations.",
+      "body": "-"
     },
     {
       "id": "5635",
-      "title": "2.       Ask questions about the observations and gather information.",
-      "body": ""
+      "title": "2.'''''' Ask questions about the observations and gather information.",
+      "body": "-"
     },
     {
       "id": "5636",
-      "title": "3.       Form a hypothesis — a tentative description of what’s been observed, and make predictions based on that hypothesis.",
-      "body": ""
+      "title": "3.'''''' Form a hypothesis ' a tentative description of what's been observed, and make predictions based on that hypothesis.",
+      "body": "-"
     },
     {
       "id": "5637",
-      "title": "4.       Test the hypothesis and predictions in an experiment that can be reproduced.",
-      "body": ""
+      "title": "4.'''''' Test the hypothesis and predictions in an experiment that can be reproduced.",
+      "body": "-"
     },
     {
       "id": "5638",
-      "title": "5.       Analyze the data and draw conclusions; accept or reject the hypothesis or modify the hypothesis if necessary.",
-      "body": ""
+      "title": "5.'''''' Analyze the data and draw conclusions; accept or reject the hypothesis or modify the hypothesis if necessary.",
+      "body": "-"
     },
     {
       "id": "5639",
-      "title": "6.       Reproduce the experiment until there are no discrepancies between observations and theory. “Replication of methods and results is my favorite step in the scientific method,\" \"The reproducibility of published experiments is the foundation of science. No reproducibility – no science.\"",
-      "body": ""
+      "title": "6.'''''' Reproduce the experiment until there are no discrepancies between observations and theory. 'Replication of methods and results is my favorite step in the scientific method,\" \"The reproducibility of published experiments is the foundation of science. No reproducibility ' no science.\"-",
+      "body": "-"
     },
     {
       "id": "5640",
       "title": "Key Underpinnings",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5641",
       "title": "Steps",
-      "body": ""
+      "body": "-"
     }
   ]
 }

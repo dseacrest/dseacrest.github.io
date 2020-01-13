@@ -1,16 +1,17 @@
 {
   "subject": "Fooled by Randomness Checklist",
   "credit": "Fooled by Randomness Checklist",
+  "topic": "Personal Growth",
   "todos": [
     {
       "id": "2512",
       "title": "Skewness",
-      "body": "The Median is Not The Message.  Most markets don’t have asymmetry.  A person dying from cancer could have a predicted lifespan of 3 months and live 40 years.  Those wo die do so very early in the game and those who live last very long.  "
+      "body": "The Median is Not The Message.  Most markets don't have asymmetry.  A person dying from cancer could have a predicted lifespan of 3 months and live 40 years.  Those wo die do so very early in the game and those who live last very long.  "
     },
     {
       "id": "2513",
       "title": "Schadenfreude",
-      "body": "The joy humans experience upon their rival’s misfortune."
+      "body": "The joy humans experience upon their rival's misfortune."
     },
     {
       "id": "2514",
@@ -45,7 +46,7 @@
     {
       "id": "2520",
       "title": "Stochastic Process",
-      "body": "Dynamics of events unfolding with the course of time or the unfolding of successive random events.  Ex   Say you have a $1,000 to gamble at a casino starting at 7 pm.  By 8 pm you have $800, by 9 pm $1,400, by 10 pm $40, by 11 pm $1,100.  Are you a winner?  By how much?  If you had $1,400 and ended at $1,100 didn’t you lose money?  What’s the story and moments you are likely to share with others? Success and rate of returns depends a lot on what time you count your wealth.  "
+      "body": "Dynamics of events unfolding with the course of time or the unfolding of successive random events.  Ex   Say you have a $1,000 to gamble at a casino starting at 7 pm.  By 8 pm you have $800, by 9 pm $1,400, by 10 pm $40, by 11 pm $1,100.  Are you a winner?  By how much?  If you had $1,400 and ended at $1,100 didn't you lose money?  What's the story and moments you are likely to share with others? Success and rate of returns depends a lot on what time you count your wealth.  "
     },
     {
       "id": "2521",
@@ -90,7 +91,7 @@
     {
       "id": "2529",
       "title": "Losing Money v Blowing Up",
-      "body": "Losing money is something good traders and business people are accustomed to doing.  Blowing up is when you lose more than you planned, your personal confidence is wiped out, and you can’t recover."
+      "body": "Losing money is something good traders and business people are accustomed to doing.  Blowing up is when you lose more than you planned, your personal confidence is wiped out, and you can't recover."
     },
     {
       "id": "2530",
@@ -145,12 +146,12 @@
     {
       "id": "2540",
       "title": "Tendency to Change Story",
-      "body": "Bad traders have a tendency to “invest for the long haul” when they are losing money.  "
+      "body": "Bad traders have a tendency to 'invest for the long haul' when they are losing money.  "
     },
     {
       "id": "2541",
       "title": "Plan",
-      "body": "Bad traders don’t have a game plan in the event of losses."
+      "body": "Bad traders don't have a game plan in the event of losses."
     },
     {
       "id": "2542",
@@ -160,7 +161,7 @@
     {
       "id": "2543",
       "title": "Path Dependent Outcomes, Network Effect, Network Externalities",
-      "body": "Actors become known by some parts of the public simply because they are known by other parts of the public.  We still use an inefficient typing keyboard Qwerty because people were trained on it long time ago and they don’t want to invest in switching and computer manufactures don’t want to have to produce multiple layouts.  "
+      "body": "Actors become known by some parts of the public simply because they are known by other parts of the public.  We still use an inefficient typing keyboard Qwerty because people were trained on it long time ago and they don't want to invest in switching and computer manufactures don't want to have to produce multiple layouts.  "
     },
     {
       "id": "2544",
@@ -170,7 +171,7 @@
     {
       "id": "2545",
       "title": "Non-linear nudge",
-      "body": "A donkey is equal distance from water.  If he was equally thirsty and hungry he would die because he could not decide which to get first.    However if someone gave him a nudge one way he would then satisfy both hunger and thirst.  Many times we are randomly nudged in one way or another (using a coin, or other’s random past experiences)."
+      "body": "A donkey is equal distance from water.  If he was equally thirsty and hungry he would die because he could not decide which to get first.    However if someone gave him a nudge one way he would then satisfy both hunger and thirst.  Many times we are randomly nudged in one way or another (using a coin, or other's random past experiences)."
     },
     {
       "id": "2546",
@@ -179,78 +180,78 @@
     },
     {
       "id": "2547",
-      "title": "“The wise man listens to the meaning; the fool only gets the noise.”",
-      "body": ""
+      "title": "'The wise man listens to the meaning; the fool only gets the noise.'",
+      "body": "-"
     },
     {
       "id": "2548",
-      "title": "A test of a disease presents 5% false positives.  The disease strikes 1/1,000 of population.  A patients test is positive.  What is the probability they have been stricken with the disease?  Most people would say 95% given the tests accuracy.  If you combine the probability of 1/1,000 of population getting the disease the conditional probability of having the disease drops to 2%.  At birth your unconditional life expectancy is 73 years.  Once you have reached 80 you don’t have a negative life expectancy.  Your life expectancy is conditional so it increase as you outlive others.",
-      "body": ""
+      "title": "A test of a disease presents 5% false positives.  The disease strikes 1/1,000 of population.  A patients test is positive.  What is the probability they have been stricken with the disease?  Most people would say 95% given the tests accuracy.  If you combine the probability of 1/1,000 of population getting the disease the conditional probability of having the disease drops to 2%.  At birth your unconditional life expectancy is 73 years.  Once you have reached 80 you don't have a negative life expectancy.  Your life expectancy is conditional so it increase as you outlive others.",
+      "body": "-"
     },
     {
       "id": "2549",
       "title": "Absence of Critical thinking or denial to what happened.  ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2550",
       "title": "Are the wealthiest likely to be found among the less suspected to be wealthy.  Do those who act and look wealthy subject their net worth to such a drain that is irreversible.  Is becoming rich a moral achievement?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2551",
       "title": "Can past performance predict future performance?  ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2552",
       "title": "Can we judge the success of someone by their raw performance and their personal wealth?",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2553",
       "title": "Do some trades require more luck than other?  How does deliberate practice (consistent repetition of a single skill) affect randomness and luck?  ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2554",
-      "title": "I’m expected to lose 10 cents or $.10 in this game.  There is such a big gap in the outcomes that the results of each series of events could be drastically different but over time I would end up losing.  Most events are like this.  There is not perfect symmetry like winning or losing a dollar in a coin toss (Bell Curve).  ",
-      "body": ""
+      "title": "I'm expected to lose 10 cents or $.10 in this game.  There is such a big gap in the outcomes that the results of each series of events could be drastically different but over time I would end up losing.  Most events are like this.  There is not perfect symmetry like winning or losing a dollar in a coin toss (Bell Curve).  ",
+      "body": "-"
     },
     {
       "id": "2555",
       "title": "Independence.  Say you are playing the same game but you replace the balls after you draw them.  Your next draw does not depend on past outcomes and your probability remains the same.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2556",
       "title": "It is not just how likely an event is to happen that matters, it is how much is made when it happens that should be in consideration.  It is best to benefit from rare events or skewed bets that do not tend to repeat themselves frequently but when they do, have a large payoff.  In the market, shorts usually have a higher payoff than options.  ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2557",
       "title": "Sampling Without Replacement.  If you are drawing red balls from a hat with red and black balls and there are 50/50 in the hat.  Your luck in getting a red ball will be increased as you remove black balls from the hat without replacing either balls.  Thus the probability of winning increases after past losses.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2558",
       "title": "Table of Confusion",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2559",
-      "title": "The more frequently you monitor performance and success, the more you are going to either see failure or noise (randomness).  People who look too often, burn out, with their emotions drained by the series of pangs their experience.  They don’t cancel out either.  A negative pang has a 2.5 greater effect on emotions than a positive effect.  ",
-      "body": ""
+      "title": "The more frequently you monitor performance and success, the more you are going to either see failure or noise (randomness).  People who look too often, burn out, with their emotions drained by the series of pangs their experience.  They don't cancel out either.  A negative pang has a 2.5 greater effect on emotions than a positive effect.  ",
+      "body": "-"
     },
     {
       "id": "2560",
       "title": "Volatility can actually help some bad investment decisions.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2561",
       "title": "When journalists study patterns in successful people, do they consider all the other people with the same background that tried the same thing and failed?",
-      "body": ""
+      "body": "-"
     }
   ]
 }

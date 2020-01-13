@@ -37,10 +37,13 @@ export class TodoDataServicesCollection{
 }
 
 export function DocToTodoRecordMap(doc: any): ITodoCollection {
+    var id = doc.id;
     var rowData = doc.data();
     var record: ITodoCollection = {
+        id: id,
         subject: rowData.subject,
         credit: rowData.credit,
+        topic: rowData.topic,
         todos: rowData.todos,
     };
 

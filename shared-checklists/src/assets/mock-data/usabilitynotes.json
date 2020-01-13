@@ -1,21 +1,22 @@
 {
   "subject": "Usability Notes",
   "credit": "Usability Notes",
+  "topic": "UI/UX",
   "todos": [
     {
       "id": "6470",
       "title": "http://sensible.com/downloads-rsme.html",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "6471",
       "title": "http://customerdevlabs.com/",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "6472",
       "title": "Dig Deep to Identify Root Causes Of Their Problems",
-      "body": "When you validate, people will share their surface level problems and often not realize that they have a deeper problem that they haven’t even recognized.  Try to uncover those deeper issues by continually asking “why is that a problem or why is that important”."
+      "body": "When you validate, people will share their surface level problems and often not realize that they have a deeper problem that they haven't even recognized.  Try to uncover those deeper issues by continually asking 'why is that a problem or why is that important'."
     },
     {
       "id": "6473",
@@ -40,12 +41,12 @@
     {
       "id": "6477",
       "title": "Give Your Respondents Permission to Be Candid",
-      "body": "People often agree, make things up, or remain silent because they don’t want to sound stupid or hurt your feelings.  Remind them that you are not testing their knowledge and that they aren’t going to hurt your feelings.  Remind them that the more candid they are, the more it will help your business."
+      "body": "People often agree, make things up, or remain silent because they don't want to sound stupid or hurt your feelings.  Remind them that you are not testing their knowledge and that they aren't going to hurt your feelings.  Remind them that the more candid they are, the more it will help your business."
     },
     {
       "id": "6478",
-      "title": "People Don’t Know What They Want or Will Do",
-      "body": "People are only good at answering two basic types of questions   1.) what they don’t like and 2.) what they’ve done in the past.  Structure all your questions around these two basic concepts.  People are not very good at predicting what they will do in the future or understanding what they even want as a consumer."
+      "title": "People Don't Know What They Want or Will Do",
+      "body": "People are only good at answering two basic types of questions   1.) what they don't like and 2.) what they've done in the past.  Structure all your questions around these two basic concepts.  People are not very good at predicting what they will do in the future or understanding what they even want as a consumer."
     },
     {
       "id": "6479",
@@ -65,12 +66,12 @@
     {
       "id": "6482",
       "title": "Usability Testing Other Solutions",
-      "body": "You should usability test other people’s solutions and competitors to get ideas on user experience.  If you don’t have mockups you can usability test competitors to start thinking ahead about your own user design."
+      "body": "You should usability test other people's solutions and competitors to get ideas on user experience.  If you don't have mockups you can usability test competitors to start thinking ahead about your own user design."
     },
     {
       "id": "6483",
       "title": "First Reasonable Option",
-      "body": "We usually don’t chose the best option, we chore the first reasonable option that we find on the site.  We do this because we are in a hurry, there is no penalty for guessing wrong, guessing is more fun.  We don’t take time to figure out how things work, we tinker and muddle through them."
+      "body": "We usually don't chose the best option, we chore the first reasonable option that we find on the site.  We do this because we are in a hurry, there is no penalty for guessing wrong, guessing is more fun.  We don't take time to figure out how things work, we tinker and muddle through them."
     },
     {
       "id": "6484",
@@ -110,17 +111,17 @@
     {
       "id": "6491",
       "title": "Narrow Market",
-      "body": "Start with a narrow market (ex   urban moms who work FT and don’t have nannies).  Don’t worry if it isn’t very big because you can always expand.  "
+      "body": "Start with a narrow market (ex   urban moms who work FT and don't have nannies).  Don't worry if it isn't very big because you can always expand.  "
     },
     {
       "id": "6492",
       "title": "Books",
-      "body": "Rocket Surgery Made Easy, Don’t Make Me Think, Design of Everyday Things, UX for Lean Startups, Letting Go of the Words."
+      "body": "Rocket Surgery Made Easy, Don't Make Me Think, Design of Everyday Things, UX for Lean Startups, Letting Go of the Words."
     },
     {
       "id": "6493",
       "title": "Making Things Pretty Warning",
-      "body": "Premature prettification can cause lots of user experience disasters.  Make it clean and clear but not pixel perfect until you’ve tested it.  Users are less likely to give you critical feedback when things are pretty.  Good visuals will distract people from functionality.  You will subconsciously make compromises to suit the visual design.  "
+      "body": "Premature prettification can cause lots of user experience disasters.  Make it clean and clear but not pixel perfect until you've tested it.  Users are less likely to give you critical feedback when things are pretty.  Good visuals will distract people from functionality.  You will subconsciously make compromises to suit the visual design.  "
     },
     {
       "id": "6494",
@@ -130,7 +131,7 @@
     {
       "id": "6495",
       "title": "Qualifying criteria for usability testers",
-      "body": "Make sure you qualify the testers.  Early on they don’t have to be part of your target market, although it is best to test your target customer.  Example of criteria, English speaking, has used a web browser, has used a spreadsheet, has used LinkedIn, FB.  "
+      "body": "Make sure you qualify the testers.  Early on they don't have to be part of your target market, although it is best to test your target customer.  Example of criteria, English speaking, has used a web browser, has used a spreadsheet, has used LinkedIn, FB.  "
     },
     {
       "id": "6496",
@@ -149,8 +150,8 @@
     },
     {
       "id": "6499",
-      "title": "Tweak Don’t Redesign",
-      "body": "Following agile principles, don’t create large reports from usability testing and keep the changes you make from testing as small tweaks and not large redesigns."
+      "title": "Tweak Don't Redesign",
+      "body": "Following agile principles, don't create large reports from usability testing and keep the changes you make from testing as small tweaks and not large redesigns."
     },
     {
       "id": "6500",
@@ -160,12 +161,12 @@
     {
       "id": "6501",
       "title": "Scheduling Usability Tests",
-      "body": "Don’t schedule more than three to five people.  No labs or mirrors.  Better to test in person but you can test remotely.  Schedule once a month consistently.  Don’t schedule around release dates because those can constantly shift and be moved back."
+      "body": "Don't schedule more than three to five people.  No labs or mirrors.  Better to test in person but you can test remotely.  Schedule once a month consistently.  Don't schedule around release dates because those can constantly shift and be moved back."
     },
     {
       "id": "6502",
       "title": "Number One Usability Rule",
-      "body": "Don’t Make Them Think.  Things should be obvious and not require thought or interpretation."
+      "body": "Don't Make Them Think.  Things should be obvious and not require thought or interpretation."
     },
     {
       "id": "6503",
@@ -190,32 +191,32 @@
     {
       "id": "6507",
       "title": "Check Out These Documents",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "6508",
       "title": "Google Customer Discovery - How to do a user interview",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "6509",
-      "title": "Steve Blank – Acting on Customer Discovery",
-      "body": ""
+      "title": "Steve Blank ' Acting on Customer Discovery",
+      "body": "-"
     },
     {
       "id": "6510",
       "title": "Steve Blank - Conducting a Customer Interview",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "6511",
       "title": "Steve Krug - Do-It-Yourself Usability Testing with Steve Krug",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "6512",
       "title": "Watch These YouTube Videos",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "6513",
@@ -235,7 +236,7 @@
     {
       "id": "6516",
       "title": "Usability Testing Other Solutions",
-      "body": "You should usability test other people’s solutions and competitors to get ideas on user experience.  If you don’t have mockups you can usability test competitors to start thinking ahead about your own user design."
+      "body": "You should usability test other people's solutions and competitors to get ideas on user experience.  If you don't have mockups you can usability test competitors to start thinking ahead about your own user design."
     },
     {
       "id": "6517",
@@ -250,7 +251,7 @@
     {
       "id": "6519",
       "title": "Books",
-      "body": "Rocket Surgery Made Easy, Don’t Make Me Think, Design of Everyday Things, UX for Lean Startups, Letting Go of the Words."
+      "body": "Rocket Surgery Made Easy, Don't Make Me Think, Design of Everyday Things, UX for Lean Startups, Letting Go of the Words."
     },
     {
       "id": "6520",
@@ -260,7 +261,7 @@
     {
       "id": "6521",
       "title": "Qualifying criteria for usability testers",
-      "body": "Make sure you qualify the testers.  Early on they don’t have to be part of your target market, although it is best to test your target customer.  Example of criteria, English speaking, has used a web browser, has used a spreadsheet, has used LinkedIn, FB.  "
+      "body": "Make sure you qualify the testers.  Early on they don't have to be part of your target market, although it is best to test your target customer.  Example of criteria, English speaking, has used a web browser, has used a spreadsheet, has used LinkedIn, FB.  "
     },
     {
       "id": "6522",
@@ -269,13 +270,13 @@
     },
     {
       "id": "6523",
-      "title": "Tweak Don’t Redesign",
-      "body": "Following agile principles, don’t create large reports from usability testing and keep the changes you make from testing as small tweaks and not large redesigns."
+      "title": "Tweak Don't Redesign",
+      "body": "Following agile principles, don't create large reports from usability testing and keep the changes you make from testing as small tweaks and not large redesigns."
     },
     {
       "id": "6524",
       "title": "Scheduling Usability Tests",
-      "body": "Don’t schedule more than three to five people.  No labs or mirrors.  Better to test in person but you can test remotely.  Schedule once a month consistently.  Don’t schedule around release dates because those can constantly shift and be moved back."
+      "body": "Don't schedule more than three to five people.  No labs or mirrors.  Better to test in person but you can test remotely.  Schedule once a month consistently.  Don't schedule around release dates because those can constantly shift and be moved back."
     },
     {
       "id": "6525",

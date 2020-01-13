@@ -1,51 +1,52 @@
 {
   "subject": "Accounting/Financial Software Checklist",
   "credit": "Accounting/Financial Software Checklist",
+  "topic": "Finance",
   "todos": [
     {
       "id": "236",
       "title": "Bill.com",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "237",
       "title": "Carta",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "238",
       "title": "Clover",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "239",
       "title": "Expensify",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "240",
       "title": "Gusto",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "241",
       "title": "Sos Inventory",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "242",
       "title": "Spotlight Reporting",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "243",
       "title": "Stripe",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "244",
-      "title": "Xero – Accounting",
-      "body": ""
+      "title": "Xero ' Accounting",
+      "body": "-"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "subject": "Mythical Man Month",
   "credit": "Mythical Man Month",
+  "topic": "Coding",
   "todos": [
     {
       "id": "4134",
@@ -25,7 +26,7 @@
     {
       "id": "4138",
       "title": "Scheduling Software",
-      "body": "1/3 planning, 1/6 coding, ¼ component testing, ¼ system testing.  "
+      "body": "1/3 planning, 1/6 coding, ' component testing, ' system testing.  "
     },
     {
       "id": "4139",
@@ -55,7 +56,7 @@
     {
       "id": "4144",
       "title": "Good Programmer",
-      "body": "Ten times better than a bad programmer.  No correlation between experience and effectiveness.  Only work with good programmers and don’t assume the bad ones will get better with time.  "
+      "body": "Ten times better than a bad programmer.  No correlation between experience and effectiveness.  Only work with good programmers and don't assume the bad ones will get better with time.  "
     },
     {
       "id": "4145",
@@ -119,7 +120,7 @@
     },
     {
       "id": "4157",
-      "title": "Murphy’s Law",
+      "title": "Murphy's Law",
       "body": "Many failures concern exactly those aspects that were never quite specified.  "
     },
     {
@@ -150,7 +151,7 @@
     {
       "id": "4163",
       "title": "Patience",
-      "body": "Good cooking takes time.  If you are made to wait, it is to serve you better, and to please you.  Don’t rush projects at the beginning.  "
+      "body": "Good cooking takes time.  If you are made to wait, it is to serve you better, and to please you.  Don't rush projects at the beginning.  "
     },
     {
       "id": "4164",
@@ -180,7 +181,7 @@
     {
       "id": "4169",
       "title": "Private Feedback",
-      "body": "Deal quietly and privately in suggestions.  People are less likely to take your advice if it isn’t publicized that it cam from you.  Make hidden suggestions.  "
+      "body": "Deal quietly and privately in suggestions.  People are less likely to take your advice if it isn't publicized that it cam from you.  Make hidden suggestions.  "
     },
     {
       "id": "4170",

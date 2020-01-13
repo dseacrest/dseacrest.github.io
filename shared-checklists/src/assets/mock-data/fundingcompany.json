@@ -1,11 +1,12 @@
 {
   "subject": "Funding Your Company",
   "credit": "Funding Your Company",
+  "topic": "Fundraise",
   "todos": [
     {
       "id": "2562",
       "title": "https://www.elegalstudio.com/presentations/",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2563",
@@ -30,7 +31,7 @@
     {
       "id": "2567",
       "title": "Angel Investment Tax Credits",
-      "body": "A fully refundable tax credit for investors who invest in your company.  If an investor puts $100,000 into your company, they can receive up to 40% (<$40,000) of their investment in a fully refundable tax credit.  A fully refundable tax credit means that even if they don’t owe taxes that year, the State will cut them a check for $40,000.  "
+      "body": "A fully refundable tax credit for investors who invest in your company.  If an investor puts $100,000 into your company, they can receive up to 40% (<$40,000) of their investment in a fully refundable tax credit.  A fully refundable tax credit means that even if they don't owe taxes that year, the State will cut them a check for $40,000.  "
     },
     {
       "id": "2568",
@@ -85,7 +86,7 @@
     {
       "id": "2578",
       "title": "Without a Convertible Note",
-      "body": "Say an investor wants to give you $100,000.  Say at the time your company is worth $500,000.  If you were to give him equity at this time you would have to give him 20%.  Say you don’t know how to value your company at that time and want to retain as much ownership as possible.  "
+      "body": "Say an investor wants to give you $100,000.  Say at the time your company is worth $500,000.  If you were to give him equity at this time you would have to give him 20%.  Say you don't know how to value your company at that time and want to retain as much ownership as possible.  "
     },
     {
       "id": "2579",
@@ -134,7 +135,7 @@
     },
     {
       "id": "2588",
-      "title": "Grants & Gov’t Programs",
+      "title": "Grants & Gov't Programs",
       "body": "Getting money from federal, state, local, or private grants.  "
     },
     {
@@ -150,57 +151,57 @@
     {
       "id": "2591",
       "title": "Mortgage",
-      "body": "A loan where you pay off the principal and interest over the term of the loan.  At the end of the loan you don’t have a lump sum payment.  If you borrow $100,000 at 5% interest for 30 years, you would pay 5% interest monthly (~$416/month) plus a portion of the principal payment (~$121/month) for a total of (~537/month).  The additional principal payment is made so that at the end of the 30 years, the loan would be completely paid off.  This loan is used in most real estate deals."
+      "body": "A loan where you pay off the principal and interest over the term of the loan.  At the end of the loan you don't have a lump sum payment.  If you borrow $100,000 at 5% interest for 30 years, you would pay 5% interest monthly (~$416/month) plus a portion of the principal payment (~$121/month) for a total of (~537/month).  The additional principal payment is made so that at the end of the 30 years, the loan would be completely paid off.  This loan is used in most real estate deals."
     },
     {
       "id": "2592",
       "title": "Purpose",
-      "body": "A convertible note is a hybrid debt-equity instrument used when you don’t have a valuation for your company."
+      "body": "A convertible note is a hybrid debt-equity instrument used when you don't have a valuation for your company."
     },
     {
       "id": "2593",
-      "title": "1.      TYPES OF CAPITAL",
-      "body": ""
+      "title": "1.''''' TYPES OF CAPITAL",
+      "body": "-"
     },
     {
       "id": "2594",
-      "title": "2.      DEBT",
-      "body": ""
+      "title": "2.''''' DEBT",
+      "body": "-"
     },
     {
       "id": "2595",
-      "title": "3.      EQUITY (TYPES OS FUNDRAISING ROUNDS)",
-      "body": ""
+      "title": "3.''''' EQUITY (TYPES OS FUNDRAISING ROUNDS)",
+      "body": "-"
     },
     {
       "id": "2596",
-      "title": "4.      EQUITY (TYPES INVESTORS)",
-      "body": ""
+      "title": "4.''''' EQUITY (TYPES INVESTORS)",
+      "body": "-"
     },
     {
       "id": "2597",
-      "title": "5.      GRANTS",
-      "body": ""
+      "title": "5.''''' GRANTS",
+      "body": "-"
     },
     {
       "id": "2598",
-      "title": "6.      CONTESTS",
-      "body": ""
+      "title": "6.''''' CONTESTS",
+      "body": "-"
     },
     {
       "id": "2599",
-      "title": "7.      CONVERTIBLE NOTES",
-      "body": ""
+      "title": "7.''''' CONVERTIBLE NOTES",
+      "body": "-"
     },
     {
       "id": "2600",
-      "title": "8.      MORE RESOURCES",
-      "body": ""
+      "title": "8.''''' MORE RESOURCES",
+      "body": "-"
     },
     {
       "id": "2601",
       "title": "There are lots of pitch contests and reverse pitch contests where startups can win money for their business.  Sometimes the money has strings attached (such as in the form of an investment) and sometimes it is free and clear.  A reverse pitch contest is where an organization pitches their problem and startups present them a solution.  This is a great way of getting a corporate sponsor.  ",
-      "body": ""
+      "body": "-"
     }
   ]
 }

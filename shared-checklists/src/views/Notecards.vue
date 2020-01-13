@@ -1,17 +1,60 @@
 <template>
 	<div>
-		<h2>{{document.subject}}</h2>
-		<div class="q-pa-md row items-start q-gutter-md">
-			<q-card class="my-card" @click="toggleCardPosition()">
-				<div class="o-notecard__card -title text-h6 bg-grey-2" v-if="toggleCard">{{tasks[currentCard].title}}</div>
-				<div class="o-notecard__card -body text-h6" v-if="!toggleCard">{{tasks[currentCard].body}}</div>
-				<q-card-actions align="around">
-					<q-btn flat round color="red" icon="warning" @click="wrong(tasks[currentCard])"/>
-					<q-btn flat round color="yellow" icon="visibility" @click="partiallyCorrect(tasks[currentCard])"/>
-					<q-btn flat round color="green" icon="done" @click="correct(tasks[currentCard])"/>
+		<h2 v-if="user.loggedIn">{{document.subject}}</h2>
+		<div class="q-pa-md row items-start q-gutter-md" v-if="user.loggedIn">
+			<q-card class="o-notecard my-card">
+				<div class="o-notecard__card" @click="toggleCardPosition()">
+					<div class="bg-grey-2 text-grey" v-if="toggleCard">Click to Flip Card</div>
+					<div class="text-grey-2" v-if="!toggleCard">Click to Flip Card</div>
+					<div 
+						class="o-notecard__card __title text-h6 bg-grey-2" 
+						v-if="toggleCard"
+					>
+						{{title}}
+					</div>
+					<div 
+						class="o-notecard__card -body text-subtitle1" 
+						v-if="!toggleCard"
+					>
+						{{body}}
+					</div>
+				</div>
+				<q-card-actions class="o-notecard__actions" align="around">
+					<q-btn 
+						class="o-notecard__actions__action -wrong" 
+						flat
+						round 
+						color="red" 
+						icon="close" 
+						@click="wrong(tasks[currentCard])"
+					>
+						<q-tooltip>Missed - Sends back in queue several cards.</q-tooltip>
+					</q-btn>
+					<q-btn 
+						class="o-notecard__actions__action -partiallyCorrect" 
+						flat 
+						round 
+						color="accent" 
+						icon="close" 
+						@click="partiallyCorrect(tasks[currentCard])"
+					>
+						<q-tooltip>Barely Missed - Sends back halfway in queue.</q-tooltip>
+					</q-btn>
+					<q-btn 
+						class="o-notecard__actions__action -correct" 
+						flat 
+						round 
+						color="green" 
+						icon="done" 
+						@click="correct(tasks[currentCard])"
+					>
+						<q-tooltip>Correct - Sends to back of queue.</q-tooltip>
+					</q-btn>
 				</q-card-actions>
 			</q-card>
 		</div>
+
+		<h4 v-if="!user.loggedIn">Please register or login above to access study cards.</h4>
 	</div>
 </template>
 
@@ -28,8 +71,10 @@ export default class Notecards extends Vue {
 	public currentCard: number = 0;
 	public toggleCard: boolean = true;
 	public document: ITodoCollection = {
+		id: '',
 		subject: '',
 		credit: '',
+		topic: '',
 		todos: [],
 	};
 	public adminUID = `yPeXhzXz9GSUoEJktjsZnDsIokG3`;
@@ -38,6 +83,22 @@ export default class Notecards extends Vue {
 
 	public get user() {
 		return this.$store.getters.user;
+	}
+
+	public get title() {
+		if (this.tasks[this.currentCard].title) {
+			return this.tasks[this.currentCard].title;
+		} else {
+			return ''
+		}
+	}
+
+	public get body() {
+		if (this.tasks[this.currentCard].body) {
+			return this.tasks[this.currentCard].body;
+		} else {
+			return 'Error.'
+		}
 	}
 
 	public getSelectedString() {
@@ -50,7 +111,7 @@ export default class Notecards extends Vue {
 		})
 	}
 	
-	public toggleCardPosition() {
+	public toggleCardPosition(event: Event) {
 		if (this.toggleCard == true) {
 			this.toggleCard = false;
 		} else {
@@ -61,61 +122,18 @@ export default class Notecards extends Vue {
 	public wrong(element: any) {
 		this.tasks.splice(this.tasks.indexOf(element), 1);
 		this.tasks.splice(this.tasks.indexOf(element) + (this.tasks.length/2), 0, element);
+		this.toggleCard = true;
 	}
 
 	public partiallyCorrect(element: any) {
 		this.tasks.splice(this.tasks.indexOf(element), 1);
-		this.tasks.splice(this.tasks.indexOf(element) + (this.tasks.length/1.5), 0, element);		console.log(this.tasks);
+		this.tasks.splice(this.tasks.indexOf(element) + (this.tasks.length/1.5), 0, element);
+		this.toggleCard = true;
 	}
 
 	public correct(element: any) {
 		this.tasks.push(this.tasks.splice(this.tasks.indexOf(element), 1)[0]);
-	}
-
-	public saveTaskTitle(task: ITodo, title: string ) {
-		let todoDataService = new TodoDataServicesCollection();
-		let newDocument: ITodoCollection = {
-			subject: this.document.subject,
-			credit: this.document.credit,
-			todos: this.document.todos.map((todo: ITodo) => {
-				if (todo.id === task.id) {
-					return {
-						id: task.id,
-						title: title,
-						body: task.body,
-					}
-				} else {
-					return todo;
-				}
-			})
-		}
-		let context = this;
-		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-		context.loadData();
-		})
-	}
-
-	public saveTaskBody(task: ITodo, body: string ) {
-		let todoDataService = new TodoDataServicesCollection();
-		let newDocument: ITodoCollection = {
-			subject: this.document.subject,
-			credit: this.document.credit,
-			todos: this.document.todos.map((todo: ITodo) => {
-				if (todo.id === task.id) {
-					return {
-						id: task.id,
-						title: task.title,
-						body: body,
-					}
-				} else {
-					return todo;
-				}
-			})
-		}
-		let context = this;
-		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-		context.loadData();
-		})
+		this.toggleCard = true;
 	}
 
 	public loadData() {
@@ -123,7 +141,6 @@ export default class Notecards extends Vue {
 		todoDataService.GetRecord(this.$route.params.id).then((listData:any) => {
 			this.document = listData;
 			this.tasks = listData.todos;
-			console.log(this.tasks);
 		});
 	}
 }
@@ -138,19 +155,43 @@ export default class Notecards extends Vue {
 	align-items: center;
 }
 
-.my-card {
-	width: 100%;
-	max-width: 40%;
+.q-textarea .q-field__native {
+	text-align: center;
 }
 
-.o-notecard__card {
-	padding: 80px;
+.o-notecard {
+	width: 100%;
+	max-width: 700px;
+	
+	&__card {
+		height: 350px;
+		display: flex;
+		flex-direction:  column;
+		justify-content: center;
+		padding: 5px;
+
+		&__flipCard {
+			display: inline;
+		}
+
+		&__titleInput {
+			font-size: 1.75vmax;
+		}
+
+		&__bodyInput {
+			font-size: 1.75vmax;
+		}
+	}
+
 }
 
 @media (max-width: 600px) {
-.my-card {
-	width: 100%;
-	max-width: 60%;
+.o-notecard {
+	max-width: 95%;
+
+	&__card {
+		height: 250px;
+	}
 
 }
 }

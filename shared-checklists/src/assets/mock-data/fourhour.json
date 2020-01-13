@@ -1,11 +1,12 @@
 {
   "subject": "4 Hour Workweek",
   "credit": "4 Hour Workweek",
+  "topic": "Efficiency",
   "todos": [
     {
       "id": "126",
       "title": "Ultimate Position",
-      "body": "You don’t want to be the boss or the employee, you want to be the owner."
+      "body": "You don't want to be the boss or the employee, you want to be the owner."
     },
     {
       "id": "127",
@@ -30,7 +31,7 @@
     {
       "id": "131",
       "title": "Lose-Win Guarantee",
-      "body": "Make it a win for the customer if the product or experience fails.  Don’t give them a discount but 100% of their money back.  "
+      "body": "Make it a win for the customer if the product or experience fails.  Don't give them a discount but 100% of their money back.  "
     },
     {
       "id": "132",
@@ -55,7 +56,7 @@
     {
       "id": "136",
       "title": "Emphasize Strengths",
-      "body": "Don’t fix weaknesses."
+      "body": "Don't fix weaknesses."
     },
     {
       "id": "137",
@@ -90,7 +91,7 @@
     {
       "id": "143",
       "title": "Puppy Dog Close",
-      "body": "Why don’t you try it out and if you don’t like it you can bring it back."
+      "body": "Why don't you try it out and if you don't like it you can bring it back."
     },
     {
       "id": "144",
@@ -114,7 +115,7 @@
     },
     {
       "id": "148",
-      "title": "Parkinson’s Law",
+      "title": "Parkinson's Law",
       "body": "The more time made available for a task, the more time will be wasted."
     },
     {
@@ -135,12 +136,12 @@
     {
       "id": "152",
       "title": "Bottleneck",
-      "body": "Problems tend to resolve themselves if you don’t offer yourself as the bottleneck that will try to solve all of them."
+      "body": "Problems tend to resolve themselves if you don't offer yourself as the bottleneck that will try to solve all of them."
     },
     {
       "id": "153",
       "title": "Low information diet",
-      "body": "Only consume data in small amounts from the right sources.  Go to people that have experienced your problems first for information.  Look at people’s actions and not their words.  Everyone says things they don’t mean or are wrong.   Only read how-to and autobiographical books.  No speculators or wannabees.  "
+      "body": "Only consume data in small amounts from the right sources.  Go to people that have experienced your problems first for information.  Look at people's actions and not their words.  Everyone says things they don't mean or are wrong.   Only read how-to and autobiographical books.  No speculators or wannabees.  "
     },
     {
       "id": "154",
@@ -155,17 +156,17 @@
     {
       "id": "156",
       "title": "Institutional Imitation",
-      "body": "Most companies and people are doing things very inefficiently.  Don’t imitate their ineptitude."
+      "body": "Most companies and people are doing things very inefficiently.  Don't imitate their ineptitude."
     },
     {
       "id": "157",
-      "title": "80/20 – Parkinson’s Law",
+      "title": "80/20 ' Parkinson's Law",
       "body": "Limit tasks to the important to shorten work time.  Shorten work time to limit tasks to the important."
     },
     {
       "id": "158",
       "title": "Liberate",
-      "body": "Liberate yourself from the pressure of going to an office.  Stop reading the newspaper and don’t spend time on social media.  Keep your phone and e-mail away from you.  Turn off audible alerts.  Note in your e-main when you will respond."
+      "body": "Liberate yourself from the pressure of going to an office.  Stop reading the newspaper and don't spend time on social media.  Keep your phone and e-mail away from you.  Turn off audible alerts.  Note in your e-main when you will respond."
     },
     {
       "id": "159",
@@ -180,12 +181,12 @@
     {
       "id": "161",
       "title": "Popularity",
-      "body": "I can’t give you a surefire formula for success, but I can give you a formula for failure  try to please everybody all the time (Herbert Swope)."
+      "body": "I can't give you a surefire formula for success, but I can give you a formula for failure  try to please everybody all the time (Herbert Swope)."
     },
     {
       "id": "162",
       "title": "Difficult",
-      "body": "Have a reputation of being difficult when it comes to your values.  (ex   I’m going to be very difficult on this issue because our team strongly believes in…).  Learn how to say no."
+      "body": "Have a reputation of being difficult when it comes to your values.  (ex   I'm going to be very difficult on this issue because our team strongly believes in').  Learn how to say no."
     },
     {
       "id": "163",
@@ -195,7 +196,7 @@
     {
       "id": "164",
       "title": "Surveys & Focus Groups",
-      "body": "Even if they are well designed, most of the time people don’t know what they want and aren’t smart enough to give you good feedback.  Don’t fall into imitation game."
+      "body": "Even if they are well designed, most of the time people don't know what they want and aren't smart enough to give you good feedback.  Don't fall into imitation game."
     },
     {
       "id": "165",
@@ -210,22 +211,22 @@
     {
       "id": "167",
       "title": "How to Look Like a Fortune 500",
-      "body": "Don’t refer to yourself as the CEO, put multiple emails, contacts, and addresses on your site, setup an interactive voice response receptionist, don’t provide home address."
+      "body": "Don't refer to yourself as the CEO, put multiple emails, contacts, and addresses on your site, setup an interactive voice response receptionist, don't provide home address."
     },
     {
       "id": "168",
       "title": "Interrupt",
-      "body": "Don’t let people meander.  (ex   sorry to interrupt but I have to… what do we need to do?)."
+      "body": "Don't let people meander.  (ex   sorry to interrupt but I have to' what do we need to do?)."
     },
     {
       "id": "169",
       "title": "Non-Finishing",
-      "body": "Don’t be afraid to not finish something if halfway through you discover it is a waste of time."
+      "body": "Don't be afraid to not finish something if halfway through you discover it is a waste of time."
     },
     {
       "id": "170",
       "title": "Ask for Forgiveness",
-      "body": "Don’t ask for permission when bending the rules."
+      "body": "Don't ask for permission when bending the rules."
     },
     {
       "id": "171",
@@ -250,7 +251,7 @@
     {
       "id": "175",
       "title": "Automation",
-      "body": "Applied to an efficient operation will magnify the efficiency.  Applied to an inefficient operation will magnify the inefficiency (Bill Gates).  Don’t rely on technology to solve underlying structural problems.  Don’t work with companies that have underlying structural problems.  They will drag you down."
+      "body": "Applied to an efficient operation will magnify the efficiency.  Applied to an inefficient operation will magnify the inefficiency (Bill Gates).  Don't rely on technology to solve underlying structural problems.  Don't work with companies that have underlying structural problems.  They will drag you down."
     },
     {
       "id": "176",

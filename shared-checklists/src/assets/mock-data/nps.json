@@ -1,6 +1,7 @@
 {
   "subject": "Net Promoter Score Checklist",
   "credit": "Net Promoter Score Checklist",
+  "topic": "Service",
   "todos": [
     {
       "id": "4223",
@@ -44,8 +45,8 @@
     },
     {
       "id": "4231",
-      "title": "Intuit’s Mission",
-      "body": "To make the customer feel so good about the product that they’ll go tell five other people to buy it.  "
+      "title": "Intuit's Mission",
+      "body": "To make the customer feel so good about the product that they'll go tell five other people to buy it.  "
     },
     {
       "id": "4232",
@@ -65,12 +66,12 @@
     {
       "id": "4235",
       "title": "Passive",
-      "body": "Respond with a 7 or 8, satisfied customers, not necessarily loyal and they probably don’t talk about you.  "
+      "body": "Respond with a 7 or 8, satisfied customers, not necessarily loyal and they probably don't talk about you.  "
     },
     {
       "id": "4236",
       "title": "Detractors",
-      "body": "Respond with a 0 to 6, their lives have been diminished by dealings with you, they probably don’t say nice things about you.  "
+      "body": "Respond with a 0 to 6, their lives have been diminished by dealings with you, they probably don't say nice things about you.  "
     },
     {
       "id": "4237",
@@ -80,7 +81,7 @@
     {
       "id": "4238",
       "title": "Cut It Out",
-      "body": "Reduce all activities that don’t create a passive or promoter score in NPS."
+      "body": "Reduce all activities that don't create a passive or promoter score in NPS."
     },
     {
       "id": "4239",
@@ -115,7 +116,7 @@
     {
       "id": "4245",
       "title": "NPS",
-      "body": "Net promoter score is a way to establish accountability for the customer experience through a simple one question proven feedback; “On a scale from xero to ten, how likely are you to recommend our services/product to a friend…what is the primary reason for giving us this score?”"
+      "body": "Net promoter score is a way to establish accountability for the customer experience through a simple one question proven feedback; 'On a scale from xero to ten, how likely are you to recommend our services/product to a friend'what is the primary reason for giving us this score?'"
     },
     {
       "id": "4246",
@@ -165,7 +166,7 @@
     {
       "id": "4255",
       "title": "Misleading Financials",
-      "body": "Financial results can’t distinguish a dollar of good profit from a dollar of bad profit.  You must look at repeat customers or NPS score."
+      "body": "Financial results can't distinguish a dollar of good profit from a dollar of bad profit.  You must look at repeat customers or NPS score."
     },
     {
       "id": "4256",
@@ -179,7 +180,7 @@
     },
     {
       "id": "4258",
-      "title": "Apple’s NPS Software",
+      "title": "Apple's NPS Software",
       "body": "Emails survey to customers, store managers receive all responses on their iPhone after customer hits send, headquarters gets data to put into CRM, managers can pull up customer history, logging, on their phone, managers can click on phone to call the customer for a closed loop feedback, managers can submit tasks to system.  "
     },
     {

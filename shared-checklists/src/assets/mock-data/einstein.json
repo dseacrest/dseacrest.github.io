@@ -1,6 +1,7 @@
 {
   "subject": "Einstein Thinking",
   "credit": "Einstein Thinking",
+  "topic": "Innovators",
   "todos": [
     {
       "id": "2239",
@@ -25,7 +26,7 @@
     {
       "id": "2243",
       "title": "Cheating Tactics",
-      "body": "Take an extra turn, use other guy’s assets, don’t follow rule, define victory flexibly, and make it so you both win."
+      "body": "Take an extra turn, use other guy's assets, don't follow rule, define victory flexibly, and make it so you both win."
     },
     {
       "id": "2244",
@@ -40,7 +41,7 @@
     {
       "id": "2246",
       "title": "Dwarves",
-      "body": "Sneezy (get it all out, vent problem), Happy (put yourself in a good confident mood), Sleepy (sleep on it), Dopey (be ignorant of something), Doc (get advice), Grumpy (find devil’s advocate), Bashful (isolation)."
+      "body": "Sneezy (get it all out, vent problem), Happy (put yourself in a good confident mood), Sleepy (sleep on it), Dopey (be ignorant of something), Doc (get advice), Grumpy (find devil's advocate), Bashful (isolation)."
     },
     {
       "id": "2247",
@@ -119,7 +120,7 @@
     },
     {
       "id": "2262",
-      "title": "Bigger or Smaller – Sooner or Later",
+      "title": "Bigger or Smaller ' Sooner or Later",
       "body": "Redefine the problem by making it bigger or smaller or the deadline sooner or later."
     },
     {
@@ -155,17 +156,17 @@
     {
       "id": "2269",
       "title": "Change Location",
-      "body": "Go somewhere you’ve never been."
+      "body": "Go somewhere you've never been."
     },
     {
       "id": "2270",
       "title": "Isolation",
-      "body": "Einstein did his best thinking in isolation.  Don’t bounce too many ideas off other people.  Be wary of experts, they got their title from knowing how to play within the rules.  "
+      "body": "Einstein did his best thinking in isolation.  Don't bounce too many ideas off other people.  Be wary of experts, they got their title from knowing how to play within the rules.  "
     },
     {
       "id": "2271",
       "title": "Wasted Brainpower",
-      "body": "Don’t waste the brainpower of the people in your organization."
+      "body": "Don't waste the brainpower of the people in your organization."
     },
     {
       "id": "2272",
@@ -175,7 +176,7 @@
     {
       "id": "2273",
       "title": "No Bad Ideas",
-      "body": "Christopher Columbus had the idea of sailing to Asia by heading West.  The idea was bad for it’s intended purpose but ended up being one of the greatest discoveries of all-time."
+      "body": "Christopher Columbus had the idea of sailing to Asia by heading West.  The idea was bad for it's intended purpose but ended up being one of the greatest discoveries of all-time."
     },
     {
       "id": "2274",
@@ -205,7 +206,7 @@
     {
       "id": "2279",
       "title": "Genius",
-      "body": "Ability to hold one’s vision steady until it becomes a reality (B. Franklin)."
+      "body": "Ability to hold one's vision steady until it becomes a reality (B. Franklin)."
     }
   ]
 }

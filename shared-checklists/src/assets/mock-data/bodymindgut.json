@@ -1,6 +1,7 @@
 {
   "subject": "Body, Mind, Heart, Gut, Spirit Checklist.",
   "credit": "Body, Mind, Heart, Gut, Spirit Checklist.",
+  "topic": "Personal Growth",
   "todos": [
     {
       "id": "533",
@@ -135,27 +136,27 @@
     {
       "id": "559",
       "title": "Emotional",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "560",
       "title": "Intuitional",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "561",
       "title": "Mental",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "562",
       "title": "Physical",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "563",
       "title": "Spiritual",
-      "body": ""
+      "body": "-"
     }
   ]
 }

@@ -19,10 +19,10 @@ Vue.config.productionTip = false;
 
 const config = {
   apiKey: process.env.VUE_APP_FIREBASE_KEY,
-  authDomain: "checklists-shared.firebaseapp.com",
-  databaseURL: "https://checklists-shared.firebaseio.com",
-  projectId: "checklists-shared",
-  storageBucket: "checklists-shared.appspot.com",
+  authDomain: process.env.VUE_APP_FIREBASE_AUTHDOMAIN,
+  databaseURL: process.env.VUE_APP_FIREBASE_DATABASEURL,
+  projectId: "shared-checklist-d4738",
+  storageBucket: process.env.VUE_APP_FIREBASE_STORAGEBUCKET,
   messagingSenderId: process.env.VUE_APP_FIREBASE_SENDERID,
   appId: process.env.VUE_APP_FIREBASE_APPID,
   measurementId: process.env.VUE_APP_FIREBASE_MEASUREMENTID
@@ -31,9 +31,6 @@ const config = {
 const firebaseApp = firebase.initializeApp(config);
 
 firebase.auth().onAuthStateChanged(user => {
-  if (user) {
-    console.log(user.uid);
-  }
   store.dispatch("fetchUser", user);
 });
 

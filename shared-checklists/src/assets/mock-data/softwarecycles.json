@@ -1,6 +1,7 @@
 {
   "subject": "Software Release Life Cycle Checklist",
   "credit": "Software Release Life Cycle Checklist",
+  "topic": "Coding",
   "todos": [
     {
       "id": "5802",
@@ -15,7 +16,7 @@
     {
       "id": "5804",
       "title": "Release to Manufacturing (RTM) ",
-      "body": "The term \"release to manufacturing\", also known as \"going gold\", is a term used when a software product is ready to be delivered. This build may be digitally signed, allowing the end user to verify the integrity and authenticity of the software purchase. A copy of the RTM build known as the \"gold master\" or GM is sent for mass duplication if applicable. RTM precedes general availability (GA), when the product is released to the public.  It is typically used in certain retail mass-production software contexts—as opposed to a specialized software production or project in a commercial or government production and distribution."
+      "body": "The term \"release to manufacturing\", also known as \"going gold\", is a term used when a software product is ready to be delivered. This build may be digitally signed, allowing the end user to verify the integrity and authenticity of the software purchase. A copy of the RTM build known as the \"gold master\" or GM is sent for mass duplication if applicable. RTM precedes general availability (GA), when the product is released to the public.  It is typically used in certain retail mass-production software contexts'as opposed to a specialized software production or project in a commercial or government production and distribution."
     },
     {
       "id": "5805",
@@ -110,7 +111,7 @@
     {
       "id": "5823",
       "title": "Prototype",
-      "body": "A first, typical or preliminary model of something, especially a machine, from which other forms are developed or copied.  Developing a prototype is method to help further validate a concept or to begin discovery on the technical challenges that you may face in building a working version.  A prototype is often built using “temporary” technologies or processes that are not intended to scale efficiently.  Some people refer to later stage beta testing as “prototype” testing.  "
+      "body": "A first, typical or preliminary model of something, especially a machine, from which other forms are developed or copied.  Developing a prototype is method to help further validate a concept or to begin discovery on the technical challenges that you may face in building a working version.  A prototype is often built using 'temporary' technologies or processes that are not intended to scale efficiently.  Some people refer to later stage beta testing as 'prototype' testing.  "
     },
     {
       "id": "5824",
@@ -120,12 +121,12 @@
     {
       "id": "5825",
       "title": "Integration testing (sometimes called integration and testing, abbreviated I&T) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing.",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "5826",
       "title": "Usability testing is a way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher, to see where they encounter problems and experience confusion.",
-      "body": ""
+      "body": "-"
     }
   ]
 }

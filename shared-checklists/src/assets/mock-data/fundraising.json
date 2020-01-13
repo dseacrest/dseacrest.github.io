@@ -1,11 +1,12 @@
 {
   "subject": "FUNDRAISING CHECKLIST",
   "credit": "FUNDRAISING CHECKLIST",
+  "topic": "Fundraise",
   "todos": [
     {
       "id": "2602",
       "title": "AVOID LIQUIDATION PREFERENCE",
-      "body": "The word �preference� flows from �preferred� and means that the shares of the preferred stock will have a priority over (i.e., will be treated better than) the common stock in the event of a liquidation."
+      "body": "The word 'preference' flows from 'preferred' and means that the shares of the preferred stock will have a priority over (i.e., will be treated better than) the common stock in the event of a liquidation."
     },
     {
       "id": "2603",
@@ -15,12 +16,12 @@
     {
       "id": "2604",
       "title": "MEET WITH INVESTORS EARLY",
-      "body": "Tell them you�re not raising money yet but you will be in the next 6 months or so.  Tell them you want them to have an early view.  Investors want to make sure they�re in love with you before they invest.  "
+      "body": "Tell them you're not raising money yet but you will be in the next 6 months or so.  Tell them you want them to have an early view.  Investors want to make sure they're in love with you before they invest.  "
     },
     {
       "id": "2605",
       "title": "VESTING SCHEDULE",
-      "body": "Sweat equity or other ownership vests over time.  The most common founder schedule vests an equal percentage of stock (25%) every year for four years on a monthly basis.  Sometimes, however, it may be appropriate to impose a one-year �cliff� (i.e., the founders would not get their first 25% unless they have remained with the company for 12 months) � particularly where the founders don�t know each other or don�t have a history of working together."
+      "body": "Sweat equity or other ownership vests over time.  The most common founder schedule vests an equal percentage of stock (25%) every year for four years on a monthly basis.  Sometimes, however, it may be appropriate to impose a one-year 'cliff' (i.e., the founders would not get their first 25% unless they have remained with the company for 12 months) ' particularly where the founders don't know each other or don't have a history of working together."
     },
     {
       "id": "2606",
@@ -30,22 +31,22 @@
     {
       "id": "2607",
       "title": "COMPLY WITH SECURITIES LAWS",
-      "body": "Rule #1  only sell �securities� to �accredited investors� � why? (i) Rule 506 preempts State law, which means all you have to do is file a Form D and pay a filing fee; and (ii) no written disclosure requirement/PPM.  Rule #2  do not pay �finder�s fees�/commissions unless the finder is a registered �broker-dealer�.  Rule #3  do not make materially false or misleading statements in connection with the offer or sale of securities; Rule #4"
+      "body": "Rule #1  only sell 'securities' to 'accredited investors' ' why? (i) Rule 506 preempts State law, which means all you have to do is file a Form D and pay a filing fee; and (ii) no written disclosure requirement/PPM.  Rule #2  do not pay 'finder's fees'/commissions unless the finder is a registered 'broker-dealer'.  Rule #3  do not make materially false or misleading statements in connection with the offer or sale of securities; Rule #4"
     },
     {
       "id": "2608",
       "title": "TAX LAWS",
-      "body": "One of the most common violations of tax laws by startups that could lead to the criminal liability of a founder is the willful failure to �pay over� payroll taxes withheld from employees. Similarly, if a startup collects sales taxes from its customers and then fails to remit it to the applicable state taxing authority, founders could be charged with theft of state funds.  Obviously, the failure to pay applicable federal and/or state income taxes could lead to criminal liability."
+      "body": "One of the most common violations of tax laws by startups that could lead to the criminal liability of a founder is the willful failure to 'pay over' payroll taxes withheld from employees. Similarly, if a startup collects sales taxes from its customers and then fails to remit it to the applicable state taxing authority, founders could be charged with theft of state funds.  Obviously, the failure to pay applicable federal and/or state income taxes could lead to criminal liability."
     },
     {
       "id": "2609",
       "title": "FUNDRAISE IN PARRALEL, NOT SEQUENTIALLY",
-      "body": "Meet investors at the same time.  Don�t not wait for one investor to turn you down before meeting with the next investor.  Negotiate concurrently, not consecutively.  Use psychologies of influence.  "
+      "body": "Meet investors at the same time.  Don't not wait for one investor to turn you down before meeting with the next investor.  Negotiate concurrently, not consecutively.  Use psychologies of influence.  "
     },
     {
       "id": "2610",
       "title": "SETUP DELAWARE CORPORATION",
-      "body": "LLC�s are geared for private equity funds, hedge funds and real estate guys, not startups, for a number of reasons  (i) extremely complicated tax partnership rules; (ii) creates capitalization/capital raising problems � e.g., essentially does not allow for stock options plans and convertible notes, etc.; (iii) VC�s typically don�t invest in pass-through entities; (iv) more costly and complicated on an ongoing basis.  Delaware is the place to incorporate regardless of where you are located for a number of significant reasons  (i) VC�s and other sophisticated investors will require you to be incorporated in Delaware; (ii) Delaware has an extremely efficient and sophisticated court system geared to business and corporate law; (iii) Board protections; (iv) administrative ease; and (v) demonstrates a certain level of credibility with investors and potential acquirers (vi) Section 1202 stock exchange (capital gains exclusion)"
+      "body": "LLC's are geared for private equity funds, hedge funds and real estate guys, not startups, for a number of reasons  (i) extremely complicated tax partnership rules; (ii) creates capitalization/capital raising problems ' e.g., essentially does not allow for stock options plans and convertible notes, etc.; (iii) VC's typically don't invest in pass-through entities; (iv) more costly and complicated on an ongoing basis.  Delaware is the place to incorporate regardless of where you are located for a number of significant reasons  (i) VC's and other sophisticated investors will require you to be incorporated in Delaware; (ii) Delaware has an extremely efficient and sophisticated court system geared to business and corporate law; (iii) Board protections; (iv) administrative ease; and (v) demonstrates a certain level of credibility with investors and potential acquirers (vi) Section 1202 stock exchange (capital gains exclusion)"
     },
     {
       "id": "2611",
@@ -55,12 +56,12 @@
     {
       "id": "2612",
       "title": "PITCH DECK",
-      "body": "Keep your pitch deck to 10 slides or less. Don�t use too many slides, be as visual as possible.  Tell the story of your startup.  Identify the problem and give a product demo.  "
+      "body": "Keep your pitch deck to 10 slides or less. Don't use too many slides, be as visual as possible.  Tell the story of your startup.  Identify the problem and give a product demo.  "
     },
     {
       "id": "2613",
       "title": "PITCH",
-      "body": "Keep it short and concise.  First off, show enthusiasm and make your pitch personal!  Tell about the problem you�re solving.  Show your solution.  Show early results if you have them.  Why are you the man/woman/team that�s going to take this to the moon?  How can I help you? Asking for specific feedback is also good. It�s difficult to help when your question is simply  �what do you think?�"
+      "body": "Keep it short and concise.  First off, show enthusiasm and make your pitch personal!  Tell about the problem you're solving.  Show your solution.  Show early results if you have them.  Why are you the man/woman/team that's going to take this to the moon?  How can I help you? Asking for specific feedback is also good. It's difficult to help when your question is simply  'what do you think?'"
     },
     {
       "id": "2614",
@@ -80,7 +81,7 @@
     {
       "id": "2619",
       "title": "BATNA",
-      "body": "Always be prepared with your best alternative to negotiated agreement (what you will do if the other party doesn�t play ball).  This will promote your bargaining power by showing scarcity (the deal may not be available for much longer), and social proof (others want to be involved).  "
+      "body": "Always be prepared with your best alternative to negotiated agreement (what you will do if the other party doesn't play ball).  This will promote your bargaining power by showing scarcity (the deal may not be available for much longer), and social proof (others want to be involved).  "
     },
     {
       "id": "2620",
@@ -90,7 +91,7 @@
     {
       "id": "2621",
       "title": "Selling Internal Framed People",
-      "body": "You have to tell them that there is no way you can convince them, that they themselves are going to have to experience it or they themselves are the only ones that are going to know who would lose if you didn�t invest/participate/use it.  "
+      "body": "You have to tell them that there is no way you can convince them, that they themselves are going to have to experience it or they themselves are the only ones that are going to know who would lose if you didn't invest/participate/use it.  "
     },
     {
       "id": "2622",
@@ -130,7 +131,7 @@
     {
       "id": "2629",
       "title": "Mirroring",
-      "body": "Form of building rapport.  When people are like each other they tend to like each other.  Mirror people�s physiology, posture, breathing pattern, eye contact, body language, facial expressions, hand gestures.  If people are visual say things like I see your point, auditory, I hear what you are saying, that rings a bell, kinesthetic, I feel what your are saying."
+      "body": "Form of building rapport.  When people are like each other they tend to like each other.  Mirror people's physiology, posture, breathing pattern, eye contact, body language, facial expressions, hand gestures.  If people are visual say things like I see your point, auditory, I hear what you are saying, that rings a bell, kinesthetic, I feel what your are saying."
     },
     {
       "id": "2630",
@@ -145,7 +146,7 @@
     {
       "id": "2632",
       "title": "Power of Precision",
-      "body": "Communicate your ideas with great precision.  Don�t overwhelm people with everything but help them focus on just what they need to know."
+      "body": "Communicate your ideas with great precision.  Don't overwhelm people with everything but help them focus on just what they need to know."
     },
     {
       "id": "2633",

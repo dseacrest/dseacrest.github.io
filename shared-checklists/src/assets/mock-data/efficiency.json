@@ -1,6 +1,7 @@
 {
   "subject": "EFFICIENCY CHECKLIST",
   "credit": "EFFICIENCY CHECKLIST",
+  "topic": "Efficiency",
   "todos": [
     {
       "id": "2164",
@@ -65,7 +66,7 @@
     {
       "id": "2176",
       "title": "Calendar Sharing",
-      "body": "Access to everyone’s calendar.  "
+      "body": "Access to everyone's calendar.  "
     }
   ]
 }

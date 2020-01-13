@@ -1,70 +1,71 @@
 {
   "subject": "ECONOMIC CHECKLIST",
   "credit": "ECONOMIC CHECKLIST",
+  "topic": "Finance",
   "todos": [
     {
       "id": "2101",
-      "title": "11.  Industry Analysis",
+      "title": "11.' Industry Analysis",
       "body": "Who is in the industry, what is the standard industrial classification (SIC) code by the Census Bureau, are their industry studies, annual reports, trade associations, who are the buyers, sellers, trade magazines, business press, company directories, government sources.  "
     },
     {
       "id": "2102",
-      "title": "4.      Customer Interview",
+      "title": "4.''''' Customer Interview",
       "body": "When arranging an interview to gain industry related information, make sure you have something to offer the interviewee in return for his or her time."
     },
     {
       "id": "2103",
-      "title": "3.      Weak Bargaining Power Of Suppliers",
-      "body": "Suppliers have weak bargaining power when there are many suppliers that will compete for your business, obliged to contend with substitute products, industry is an important customer of the supplier group, suppliers product is not important input in buyer’s business, suppliers products are not differentiated, there are not switching costs, supplier group does not pose a threat to forward integration.)"
+      "title": "3.''''' Weak Bargaining Power Of Suppliers",
+      "body": "Suppliers have weak bargaining power when there are many suppliers that will compete for your business, obliged to contend with substitute products, industry is an important customer of the supplier group, suppliers product is not important input in buyer's business, suppliers products are not differentiated, there are not switching costs, supplier group does not pose a threat to forward integration.)"
     },
     {
       "id": "2104",
-      "title": "7.      Maturing Industries",
+      "title": "7.''''' Maturing Industries",
       "body": "Slowing growth, more competition, emphasis on cost and service, problems in adding capacity and labor, industry profits fall."
     },
     {
       "id": "2105",
-      "title": "17.  Backward Integration",
+      "title": "17.' Backward Integration",
       "body": "Placing the manufacturing channels (resources to make the product or service) within the company.  "
     },
     {
       "id": "2106",
-      "title": "18.  Forward Integration",
+      "title": "18.' Forward Integration",
       "body": "Placing the distribution/sales channels (resources to sell the product or service) within the company.  Allows greater ability to differentiate the product, better access to sales channels, better access to customer/market information, and higher price realization. "
     },
     {
       "id": "2107",
-      "title": "19.  Tapered Integration",
+      "title": "19.' Tapered Integration",
       "body": "Placing some of the distribution or sales channels within the company and some outside of the company.  Allows for the threat of integrating more without the downsides of full vertical integration.  "
     },
     {
       "id": "2108",
-      "title": "6.      Emerging Industries",
+      "title": "6.''''' Emerging Industries",
       "body": "Newly formed or re-formed industry created by technological innovations, shifts in costs, emergence of new consumer needs, or other economic changes.  "
     },
     {
       "id": "2109",
-      "title": "13.  Product Differentiation",
+      "title": "13.' Product Differentiation",
       "body": "Need strong marketing, product engineering, creative flair, research, good reputation, tradition in the industry, track record, strong cooperation from channel, qualitative incentives, amenities to attract highly skilled labor"
     },
     {
       "id": "2110",
-      "title": "14.  New Focus ",
+      "title": "14.' New Focus ",
       "body": "Need combination of the above policies directed at the target market.  "
     },
     {
       "id": "2111",
-      "title": "12.  Cost Leadership ",
+      "title": "12.' Cost Leadership ",
       "body": "Need access to capital, process engineering skills, supervision of labor, ease of manufacturing, low cost distribution, tight control, control reports, structure, quantative incentives, economies of scale"
     },
     {
       "id": "2112",
-      "title": "1.      Diffusion of Proprietary Technology",
-      "body": "Most technology has a very short shelf life if you cannot patent it.  The more complex the technology, the more specialized and technical personnel, the greater the economies of scale, continual investment into R&D, and patent protection or gov’t regulation can prevent the diffusion of proprietary technology/knowledge."
+      "title": "1.''''' Diffusion of Proprietary Technology",
+      "body": "Most technology has a very short shelf life if you cannot patent it.  The more complex the technology, the more specialized and technical personnel, the greater the economies of scale, continual investment into R&D, and patent protection or gov't regulation can prevent the diffusion of proprietary technology/knowledge."
     },
     {
       "id": "2113",
-      "title": "20.  Quasi-Integration",
+      "title": "20.' Quasi-Integration",
       "body": "Minority equity investment, loans or loan guarantees, pre-purchase credits, options, exclusive dealing agreements, specialized logistical facilities, cooperative R&D."
     },
     {
@@ -75,7 +76,7 @@
     {
       "id": "2115",
       "title": "Likelihood of Retaliation",
-      "body": "Is there a low likelihood of retaliation by dominant players?  Can you make moves for which retaliation would hurt the competitor’s broader positions or commitments?"
+      "body": "Is there a low likelihood of retaliation by dominant players?  Can you make moves for which retaliation would hurt the competitor's broader positions or commitments?"
     },
     {
       "id": "2116",
@@ -84,17 +85,17 @@
     },
     {
       "id": "2117",
-      "title": "9.      Declining Industry",
+      "title": "9.''''' Declining Industry",
       "body": "Industries that have experienced a decline in unit sales.  Causes of decline are usually technological substitution, shrinkage in customer group, shift in customer needs."
     },
     {
       "id": "2118",
-      "title": "16.  Risks Of Vertical Integration",
+      "title": "16.' Risks Of Vertical Integration",
       "body": "Increased fixed costs and operating leverage, greater swings in earnings, reduced flexibility to change partners, higher exit barriers, greater capital investment requirement.  "
     },
     {
       "id": "2119",
-      "title": "10.  Value Added Position for Weak Industries",
+      "title": "10.' Value Added Position for Weak Industries",
       "body": "If your industry is not emerging, you can pursue aggressive competitive actions, purchase or acquire other business to gain market share, purchase exiting assets or customers, reduce competitors exit barriers, make commitments, share positive information, raise stakes for others, create or defend a particular niche, or harvest the resources.  "
     },
     {
@@ -109,8 +110,8 @@
     },
     {
       "id": "2122",
-      "title": "5.      Economic Value Added",
-      "body": "EVA is defined as net operating profit after tax (NOPAT), less a capital charge that reflects a firm’s cost of capital.  EVA amortizing certain expenses that add long-term value to the company such as research and development and marketing. "
+      "title": "5.''''' Economic Value Added",
+      "body": "EVA is defined as net operating profit after tax (NOPAT), less a capital charge that reflects a firm's cost of capital.  EVA amortizing certain expenses that add long-term value to the company such as research and development and marketing. "
     },
     {
       "id": "2123",
@@ -135,7 +136,7 @@
     {
       "id": "2127",
       "title": "Acquisition Strategy",
-      "body": "Do you have superior information?  Are the number of other bidders/buyers low?  Is the condition of the economy bad?  Is the selling company sick?  Does seller have objectives/motives for sale beside maximizing the price?  Does buyer have a distinctive ability to improve operations of the seller?  Are you buying into an industry with uses for internal development?  Will acquisition help buyer’s position in its existing business?"
+      "body": "Do you have superior information?  Are the number of other bidders/buyers low?  Is the condition of the economy bad?  Is the selling company sick?  Does seller have objectives/motives for sale beside maximizing the price?  Does buyer have a distinctive ability to improve operations of the seller?  Are you buying into an industry with uses for internal development?  Will acquisition help buyer's position in its existing business?"
     },
     {
       "id": "2128",
@@ -229,8 +230,8 @@
     },
     {
       "id": "2146",
-      "title": "Don’t Want to or Disruption",
-      "body": "Do (or can) you create a product that others wouldn’t want to develop (disruption)?  * Disruption is bad if it causes to much attention and competitors flood the market.  "
+      "title": "Don't Want to or Disruption",
+      "body": "Do (or can) you create a product that others wouldn't want to develop (disruption)?  * Disruption is bad if it causes to much attention and competitors flood the market.  "
     },
     {
       "id": "2147",
@@ -259,12 +260,12 @@
     },
     {
       "id": "2152",
-      "title": "2.      Weak Bargaining Power Of Buyers",
-      "body": "Buyers have weak bargaining power when there are a large number of buyers, buyers will compete, product is an insignificant portion of buyers expenses, product is unique and differentiated, switching costs are low, buyer earns high margins, buyer does not pose a credible threat of backward integration, product is important to buyer’s quality assurance, buyer has poor information."
+      "title": "2.''''' Weak Bargaining Power Of Buyers",
+      "body": "Buyers have weak bargaining power when there are a large number of buyers, buyers will compete, product is an insignificant portion of buyers expenses, product is unique and differentiated, switching costs are low, buyer earns high margins, buyer does not pose a credible threat of backward integration, product is important to buyer's quality assurance, buyer has poor information."
     },
     {
       "id": "2153",
-      "title": "15.  Benefits Of Vertical Integration",
+      "title": "15.' Benefits Of Vertical Integration",
       "body": "Assures supply and demand are controlled in-house and not subject to market forces, improves bargaining power, enhances the ability to differentiate the product, elevates entry and mobility barriers.  "
     },
     {
@@ -284,38 +285,38 @@
     },
     {
       "id": "2157",
-      "title": "8.      Fragmented Industries",
-      "body": "An industry in which it is tough for a firm to gain a significant market share to strongly influence the industry outcome.  Fragmented industries are created by low barriers to entry, absence of economies of scale or experience curve, high transportation costs, high inventory costs or erratic sales fluctuations, no advantages of size in dealing with buyers or suppliers, low standardization (allowing economies of scale), low exit barriers, gov’t prohibition of concentration, and newness."
+      "title": "8.''''' Fragmented Industries",
+      "body": "An industry in which it is tough for a firm to gain a significant market share to strongly influence the industry outcome.  Fragmented industries are created by low barriers to entry, absence of economies of scale or experience curve, high transportation costs, high inventory costs or erratic sales fluctuations, no advantages of size in dealing with buyers or suppliers, low standardization (allowing economies of scale), low exit barriers, gov't prohibition of concentration, and newness."
     },
     {
       "id": "2158",
       "title": "ACQUISITION STRATEGY (IF APPLICABLE)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2159",
       "title": "Footnotes",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2160",
       "title": "FORTIFYING BARRIERS TO ENTRY ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2161",
       "title": "OVERCOMING BARRIERS TO ENTRY ",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2162",
       "title": "PERSONAL",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "2163",
       "title": "PRODUCT",
-      "body": ""
+      "body": "-"
     }
   ]
 }

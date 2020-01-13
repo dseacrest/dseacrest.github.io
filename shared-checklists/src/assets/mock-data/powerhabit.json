@@ -1,11 +1,12 @@
 {
   "subject": "Power of Habit",
   "credit": "Power of Habit",
+  "topic": "Personal Growth",
   "todos": [
     {
       "id": "4928",
       "title": "Accomplishment",
-      "body": "The foaming and tingling effect of toothpaste doesn’t clean your teeth better but makes people feel their teeth is clean.  Sometimes you have to add something to product or service to make them fell a sense of accomplishment."
+      "body": "The foaming and tingling effect of toothpaste doesn't clean your teeth better but makes people feel their teeth is clean.  Sometimes you have to add something to product or service to make them fell a sense of accomplishment."
     },
     {
       "id": "4929",
@@ -30,7 +31,7 @@
     {
       "id": "4933",
       "title": "Craving",
-      "body": "What makes rewards and cues work.  People start to crave the rewards and they brains will light up when they receive a cue but well before complete the routine and receive the reward.  Cue and reward aren’t enough, its only when your brain starts craving the reward that a habit will form."
+      "body": "What makes rewards and cues work.  People start to crave the rewards and they brains will light up when they receive a cue but well before complete the routine and receive the reward.  Cue and reward aren't enough, its only when your brain starts craving the reward that a habit will form."
     },
     {
       "id": "4934",
@@ -45,7 +46,7 @@
     {
       "id": "4936",
       "title": "Walmart Icecream",
-      "body": "Walmart served ice cream in their stores not because it had anything to do with their merchandise but because people’s craving for ice cream and the immediate satisfaction they received from the sugar made them come back."
+      "body": "Walmart served ice cream in their stores not because it had anything to do with their merchandise but because people's craving for ice cream and the immediate satisfaction they received from the sugar made them come back."
     },
     {
       "id": "4937",
@@ -55,7 +56,7 @@
     {
       "id": "4938",
       "title": "Get Physical",
-      "body": "Use alternate physical actions to help replace bad habits.  Don’t just try to fight bad habits with your mind (ex pushups).  "
+      "body": "Use alternate physical actions to help replace bad habits.  Don't just try to fight bad habits with your mind (ex pushups).  "
     },
     {
       "id": "4939",
@@ -110,7 +111,7 @@
     {
       "id": "4949",
       "title": "Familiarity",
-      "body": "Products that are familiar are more likely to become habits for people.  If you can’t make it familiar, sandwich it between familiar things or dress it up in familiar things."
+      "body": "Products that are familiar are more likely to become habits for people.  If you can't make it familiar, sandwich it between familiar things or dress it up in familiar things."
     },
     {
       "id": "4950",
@@ -139,7 +140,7 @@
     },
     {
       "id": "4955",
-      "title": "Can’t Change a Habit",
+      "title": "Can't Change a Habit",
       "body": "Must keep the old cue and deliver the old reward but setup a new routine."
     },
     {
@@ -180,7 +181,7 @@
     {
       "id": "4963",
       "title": "Changing Others Habits",
-      "body": "Help provide them a reward for a good activity by thanking them for doing it, stoking their pride or ego.  You can’t force people to change but you can help them focus on better habits."
+      "body": "Help provide them a reward for a good activity by thanking them for doing it, stoking their pride or ego.  You can't force people to change but you can help them focus on better habits."
     },
     {
       "id": "4964",
@@ -220,7 +221,7 @@
     {
       "id": "4971",
       "title": "Solving Problem",
-      "body": "Curing someone’s problem is not enough if they don’t feel rewarded after it is cured."
+      "body": "Curing someone's problem is not enough if they don't feel rewarded after it is cured."
     },
     {
       "id": "4972",
@@ -245,7 +246,7 @@
     {
       "id": "4976",
       "title": "Febreeze",
-      "body": "At first they sold there product as a way to clear bad smells, the problem was that people can’t smell their own bad smells so they changed they added fragrance to the product and marketed it as a way to put the finishing touch on a clean room.  "
+      "body": "At first they sold there product as a way to clear bad smells, the problem was that people can't smell their own bad smells so they changed they added fragrance to the product and marketed it as a way to put the finishing touch on a clean room.  "
     },
     {
       "id": "4977",
@@ -274,8 +275,8 @@
     },
     {
       "id": "4982",
-      "title": "But only if…",
-      "body": "A lot of powerfully advertising campaigns say “You will have _______ , but only if you do this every day.”  It creates habits.  "
+      "title": "But only if'",
+      "body": "A lot of powerfully advertising campaigns say 'You will have _______ , but only if you do this every day.'  It creates habits.  "
     }
   ]
 }

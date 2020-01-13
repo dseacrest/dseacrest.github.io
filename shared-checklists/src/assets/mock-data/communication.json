@@ -1,11 +1,12 @@
 {
   "subject": "Communication Checklist",
   "credit": "Communication Checklist",
+  "topic": "Sales & Marketing",
   "todos": [
     {
       "id": "828",
       "title": "Nouns / Who specifically or what specifically",
-      "body": "When someone says “they don’t understand us”  make sure you ask “who specifically doesn’t understand you”.  Why?"
+      "body": "When someone says 'they don't understand us'  make sure you ask 'who specifically doesn't understand you'.  Why?"
     },
     {
       "id": "829",
@@ -20,7 +21,7 @@
     {
       "id": "831",
       "title": "Too Much / Too Many / Too Expensive / Compared to What",
-      "body": "When someone says that something is “too..” something then ask them compared to what.  What are the other alternatives.  "
+      "body": "When someone says that something is 'too..' something then ask them compared to what.  What are the other alternatives.  "
     },
     {
       "id": "832",
@@ -35,7 +36,7 @@
     {
       "id": "834",
       "title": "But",
-      "body": "Avoid using this word, it imposes contradiction.   Instead say, that’s true and here’s something else that’s true.  I appreciate and, I respect and, I agree and…Try to get two people to take opposing sides without using the word but.  "
+      "body": "Avoid using this word, it imposes contradiction.   Instead say, that's true and here's something else that's true.  I appreciate and, I respect and, I agree and'Try to get two people to take opposing sides without using the word but.  "
     },
     {
       "id": "835",
@@ -49,13 +50,13 @@
     },
     {
       "id": "837",
-      "title": "Should/Shouldn’t/Must/Can’t / What would happen if you were to do that",
+      "title": "Should/Shouldn't/Must/Can't / What would happen if you were to do that",
       "body": "Avoid limiting signals by asking what if you were to do that.  "
     },
     {
       "id": "838",
       "title": "Outcome Framing",
-      "body": "Avoid asking people what’s bothering them or what’s wrong.  You will get a long description of the problem.  Instead ask them, what do you want, or how do you want things to change.  You will redirect things from a problem to a solution.  "
+      "body": "Avoid asking people what's bothering them or what's wrong.  You will get a long description of the problem.  Instead ask them, what do you want, or how do you want things to change.  You will redirect things from a problem to a solution.  "
     }
   ]
 }

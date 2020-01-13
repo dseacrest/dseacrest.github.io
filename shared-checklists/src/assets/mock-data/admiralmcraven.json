@@ -1,6 +1,7 @@
 {
   "subject": "Admiral McRaven Checklist",
   "credit": "Admiral McRaven Checklist",
+  "topic": "Innovators",
   "todos": [
     {
       "id": "245",
@@ -40,17 +41,17 @@
     {
       "id": "252",
       "title": "Bell",
-      "body": "Don’t ever ring the bell."
+      "body": "Don't ever ring the bell."
     },
     {
       "id": "253",
       "title": "Fear",
-      "body": "Don’t be afraid of the failures, they make you stronger."
+      "body": "Don't be afraid of the failures, they make you stronger."
     },
     {
       "id": "254",
       "title": "Sharks",
-      "body": "Don’t back down from the sharks."
+      "body": "Don't back down from the sharks."
     }
   ]
 }

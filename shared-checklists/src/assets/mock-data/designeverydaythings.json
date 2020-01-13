@@ -1,6 +1,7 @@
 {
   "subject": "Design of Everyday Things Checklist",
   "credit": "Design of Everyday Things Checklist",
+  "topic": "UI/UX",
   "todos": [
     {
       "id": "1263",
@@ -45,7 +46,7 @@
     {
       "id": "1271",
       "title": "Good Enough",
-      "body": "Don’t strive for perfection in every single aspect of the design and be willing to settle for good enough.  "
+      "body": "Don't strive for perfection in every single aspect of the design and be willing to settle for good enough.  "
     },
     {
       "id": "1272",
@@ -55,7 +56,7 @@
     {
       "id": "1273",
       "title": "Testing Environment",
-      "body": "You don’t test a real shotgun playing buck hunter.  Test your product in a fully developed environment that best matches the user’s situation."
+      "body": "You don't test a real shotgun playing buck hunter.  Test your product in a fully developed environment that best matches the user's situation."
     },
     {
       "id": "1274",
@@ -70,7 +71,7 @@
     {
       "id": "1276",
       "title": "Drill Down",
-      "body": "When people go to a bookstore to buy a drill, that is not their real goal.  Perhaps they want to install shelves so why not discover their true goal and design shelves that don’t require a drill.  "
+      "body": "When people go to a bookstore to buy a drill, that is not their real goal.  Perhaps they want to install shelves so why not discover their true goal and design shelves that don't require a drill.  "
     },
     {
       "id": "1277",
@@ -90,7 +91,7 @@
     {
       "id": "1280",
       "title": "Different",
-      "body": "The attempt to match competition is what makes all products the same.  Focus on your users (“customer obsessed”), and throw off the competition.  "
+      "body": "The attempt to match competition is what makes all products the same.  Focus on your users ('customer obsessed'), and throw off the competition.  "
     },
     {
       "id": "1281",
@@ -119,7 +120,7 @@
     },
     {
       "id": "1286",
-      "title": "Affordance (“is for”)",
+      "title": "Affordance ('is for')",
       "body": "Relationship between a physical object and a person.  A chair affords (is for) sitting.  If the chair weighs 300 lbs it does not afford lifting or moving.  Affordance is a relationship, not a property.  "
     },
     {
@@ -290,7 +291,7 @@
     {
       "id": "1320",
       "title": "Swiss Cheese",
-      "body": "Design redundancies to prevent the law of compounding errors.  Requires you to identify all the possible mistakes that could be made and then install redundancies to make sure that they don’t all line up and compound.  "
+      "body": "Design redundancies to prevent the law of compounding errors.  Requires you to identify all the possible mistakes that could be made and then install redundancies to make sure that they don't all line up and compound.  "
     },
     {
       "id": "1321",
@@ -300,7 +301,7 @@
     {
       "id": "1322",
       "title": "Mental Models",
-      "body": "Conceptual models in people’s minds."
+      "body": "Conceptual models in people's minds."
     },
     {
       "id": "1323",

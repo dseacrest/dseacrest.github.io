@@ -1,6 +1,7 @@
 {
   "subject": "EXPONENTIAL GROWTH CHECKLIST",
   "credit": "EXPONENTIAL GROWTH CHECKLIST",
+  "topic": "Organizational Growth",
   "todos": [
     {
       "id": "2304",
@@ -55,7 +56,7 @@
     {
       "id": "2314",
       "title": "Doubling Pattern",
-      "body": "Does your product improve because of Moore’s Doubling pattern (better, cheaper, and greater access to technology?"
+      "body": "Does your product improve because of Moore's Doubling pattern (better, cheaper, and greater access to technology?"
     },
     {
       "id": "2315",
@@ -100,7 +101,7 @@
     {
       "id": "2323",
       "title": "Social Technologies",
-      "body": "Do you invest in ways to support horizontal interactions between employees (reduce distance to obtain decisions and information, information flows and you Don’t have to look it up, task management, files sharing, telepresence, virtual worlds, emotional sensing)?"
+      "body": "Do you invest in ways to support horizontal interactions between employees (reduce distance to obtain decisions and information, information flows and you Don't have to look it up, task management, files sharing, telepresence, virtual worlds, emotional sensing)?"
     },
     {
       "id": "2324",
@@ -115,7 +116,7 @@
     {
       "id": "2326",
       "title": "Dashboards",
-      "body": "Do you implement real-time and transparent dashboards with all essential company and employee metrics, accessible to everyone (OKR – Lists objectives, and key results to getting there)?"
+      "body": "Do you implement real-time and transparent dashboards with all essential company and employee metrics, accessible to everyone (OKR ' Lists objectives, and key results to getting there)?"
     },
     {
       "id": "2327",
@@ -145,7 +146,7 @@
     {
       "id": "2332",
       "title": "Net Promoter Score",
-      "body": "Do you have a strong net promoter score (how likely is it that you would recommend our company/product/service to a friend – score of 50% or more is good)?"
+      "body": "Do you have a strong net promoter score (how likely is it that you would recommend our company/product/service to a friend ' score of 50% or more is good)?"
     },
     {
       "id": "2333",
@@ -160,7 +161,7 @@
     {
       "id": "2335",
       "title": "Experimentation",
-      "body": "Do you evolve and experiment with new and possibly risky ideas (Ex  give employees, customers, vendors a pre-paid credit card of $1,000 seed money and flexible guidelines to come up with a new idea/product, experimentation lab, managers must write two-page paper why an idea won’t work)?"
+      "body": "Do you evolve and experiment with new and possibly risky ideas (Ex  give employees, customers, vendors a pre-paid credit card of $1,000 seed money and flexible guidelines to come up with a new idea/product, experimentation lab, managers must write two-page paper why an idea won't work)?"
     },
     {
       "id": "2336",
@@ -184,8 +185,8 @@
     },
     {
       "id": "2340",
-      "title": "* “Waste” is an expense that does not directly add value to your customer.",
-      "body": ""
+      "title": "* 'Waste' is an expense that does not directly add value to your customer.",
+      "body": "-"
     }
   ]
 }

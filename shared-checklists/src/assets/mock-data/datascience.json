@@ -1,6 +1,7 @@
 {
   "subject": "Data Science Checklist, Analyzing the Analyzers",
   "credit": "Data Science Checklist, Analyzing the Analyzers",
+  "topic": "Data",
   "todos": [
     {
       "id": "1146",
@@ -150,7 +151,7 @@
     {
       "id": "1175",
       "title": "Data science qualifications",
-      "body": "Defining feature of data scientists is the breadth of their skills — their ability to single-handedly do at least prototype-level versions of all the steps needed to derive new insights or build data products.  Most successful data scientists are those with substantial, deep expertise in at least one aspect of data science, be it statistics, big data, or business communication."
+      "body": "Defining feature of data scientists is the breadth of their skills ' their ability to single-handedly do at least prototype-level versions of all the steps needed to derive new insights or build data products.  Most successful data scientists are those with substantial, deep expertise in at least one aspect of data science, be it statistics, big data, or business communication."
     }
   ]
 }

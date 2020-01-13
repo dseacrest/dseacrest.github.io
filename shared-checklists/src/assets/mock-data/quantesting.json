@@ -1,11 +1,12 @@
 {
   "subject": "Quantative Testing Checklist",
   "credit": "Quantative Testing Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "5312",
       "title": "Surveys",
-      "body": "Surveys are not good at getting in touch with your users because you will either have to ask closed ended questions that will bias the results or open-ended questions that won’t get you to what you need to know.  To get a lot of information, use the telephone.  Surveys are not good at generating hypotheses but may be okay at validating hypotheses.  "
+      "body": "Surveys are not good at getting in touch with your users because you will either have to ask closed ended questions that will bias the results or open-ended questions that won't get you to what you need to know.  To get a lot of information, use the telephone.  Surveys are not good at generating hypotheses but may be okay at validating hypotheses.  "
     },
     {
       "id": "5313",
@@ -30,12 +31,12 @@
     {
       "id": "5317",
       "title": "Quantative Testing",
-      "body": "Surveying a user’s specific performance or opinion on specific and narrow level.  "
+      "body": "Surveying a user's specific performance or opinion on specific and narrow level.  "
     },
     {
       "id": "5318",
       "title": "NPS Survey",
-      "body": "Net promoter score is a way to establish accountability for the customer experience through a simple one question proven feedback; “On a scale from xero to ten, how likely are you to recommend our services/product to a friend…what is the primary reason for giving us this score?”"
+      "body": "Net promoter score is a way to establish accountability for the customer experience through a simple one question proven feedback; 'On a scale from xero to ten, how likely are you to recommend our services/product to a friend'what is the primary reason for giving us this score?'"
     },
     {
       "id": "5319",

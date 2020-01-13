@@ -1,76 +1,77 @@
 {
   "subject": "CONSTRUCTION BUDGET CHECKLIST",
   "credit": "CONSTRUCTION BUDGET CHECKLIST",
+  "topic": "Real Estate",
   "todos": [
     {
       "id": "1031",
       "title": "Are expense categories exhaustive and do they match the building plans",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1032",
       "title": "Are there substantial contingencies",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1033",
       "title": "Did you approach financing early to avoid cash flow issues",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1034",
       "title": "Did you ask each subcontractor exactly what would be included in there scope of work",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1035",
-      "title": "Did you ask subcontractor if there were additional items that needed to be done after their work to achieve a “finished product”",
-      "body": ""
+      "title": "Did you ask subcontractor if there were additional items that needed to be done after their work to achieve a 'finished product'",
+      "body": "-"
     },
     {
       "id": "1036",
       "title": "Did you get multiple bids",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1037",
       "title": "Did you include a schedule",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1038",
       "title": "Did you meet subcontractors at site to explain and point out exactly what you want (do not communicate scope of work over phone)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1039",
       "title": "Did you proactively call subcontractors to determine which items have lead times and need to be pre-ordered (i.e. appliances, fixtures, doors, countertops)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1040",
       "title": "Is budget too aggressive",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1041",
       "title": "Is there an allowance for sales, occupational, property  taxes included",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1042",
       "title": "Was a standard acceptance form used to avoid errors in misunderstanding and fine print",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1043",
       "title": "Was research done on cost of similar construction jobs",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "1044",
       "title": "Were you aggressive in finding subcontractors that are freelance or do not have huge overhead costs",
-      "body": ""
+      "body": "-"
     }
   ]
 }

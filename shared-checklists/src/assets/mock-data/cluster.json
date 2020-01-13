@@ -1,6 +1,7 @@
 {
   "subject": "Cluster Analysis",
   "credit": "Cluster Analysis",
+  "topic": "Data",
   "todos": [
     {
       "id": "752",
@@ -50,11 +51,11 @@
     {
       "id": "761",
       "title": "Average Linkage Clustering",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "762",
-      "title": "Ward’s method",
+      "title": "Ward's method",
       "body": "In this method all possible pairs of clusters are combined and the sum of the squared distances within each cluster is calculated. This is then summed over all clusters. The combination that gives the lowest sum of squares is chosen. This method tends to produce clusters of approximately equal size, which is not always desirable. It is also quite sensitive to outliers. Despite this, it is one of the most popular methods, along with the average linkage method."
     },
     {
@@ -75,7 +76,7 @@
     {
       "id": "766",
       "title": "Hierarchical Clustering",
-      "body": "Agglomerative methods, in which subjects start in their own separate cluster. The two ’closest’ (most similar) clusters are then combined and this is done repeatedly until all subjects are in one cluster. At the end, the optimum number of clusters is then chosen out of all cluster solutions.  Divisive methods, in which all subjects start in the same cluster and the above strategy is applied in reverse until every subject is in a separate cluster. Agglomerative methods are used more often than divisive methods, so this handout will concentrate on the former rather than the latter."
+      "body": "Agglomerative methods, in which subjects start in their own separate cluster. The two 'closest' (most similar) clusters are then combined and this is done repeatedly until all subjects are in one cluster. At the end, the optimum number of clusters is then chosen out of all cluster solutions.  Divisive methods, in which all subjects start in the same cluster and the above strategy is applied in reverse until every subject is in a separate cluster. Agglomerative methods are used more often than divisive methods, so this handout will concentrate on the former rather than the latter."
     },
     {
       "id": "767",

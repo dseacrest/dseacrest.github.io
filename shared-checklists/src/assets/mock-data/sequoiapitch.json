@@ -1,6 +1,7 @@
 {
   "subject": "Sequoia Pitch Deck Checklist",
   "credit": "Sequoia Pitch Deck Checklist",
+  "topic": "Pitch",
   "todos": [
     {
       "id": "5740",
@@ -20,7 +21,7 @@
     {
       "id": "5743",
       "title": "Solution",
-      "body": "Company’s value proposition (how you make life better for customer), where product physically sits, provide use cases."
+      "body": "Company's value proposition (how you make life better for customer), where product physically sits, provide use cases."
     },
     {
       "id": "5744",

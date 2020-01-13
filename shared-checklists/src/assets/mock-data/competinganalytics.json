@@ -1,6 +1,7 @@
 {
   "subject": "COMPETING ON ANALYTICS",
   "credit": "COMPETING ON ANALYTICS",
+  "topic": "Data",
   "todos": [
     {
       "id": "839",
@@ -65,12 +66,12 @@
     {
       "id": "851",
       "title": "Analytical Competitors",
-      "body": "Anheuser-Busch, Mars, P&G, CEMEX, John Deer, Spring, O2, Bouygues Telecom, Barclays Bank, Capital One, Royal Bank of Canada, Progress Casualty, WellPoint, AstraZeneca, Solvay, Vertex, FedEx, Schneider National, UPS, Harrah’s Entertainment, Marriott, Amazon, JCPenny, Wal-Mart, Google, Netflix, Yahoo!"
+      "body": "Anheuser-Busch, Mars, P&G, CEMEX, John Deer, Spring, O2, Bouygues Telecom, Barclays Bank, Capital One, Royal Bank of Canada, Progress Casualty, WellPoint, AstraZeneca, Solvay, Vertex, FedEx, Schneider National, UPS, Harrah's Entertainment, Marriott, Amazon, JCPenny, Wal-Mart, Google, Netflix, Yahoo!"
     },
     {
       "id": "852",
       "title": "Decision Support Systems",
-      "body": "Analytical systems that provide insight to re-occurring business decisions.  Key personnel should always have the power to override the decision if they have sound reason that wouldn’t have been factored into the analytical work."
+      "body": "Analytical systems that provide insight to re-occurring business decisions.  Key personnel should always have the power to override the decision if they have sound reason that wouldn't have been factored into the analytical work."
     },
     {
       "id": "853",
@@ -94,7 +95,7 @@
     },
     {
       "id": "857",
-      "title": "Experimental Design – A/B Testing",
+      "title": "Experimental Design ' A/B Testing",
       "body": "Using two groups to test two different variations of an object to see which is preferred.  "
     },
     {
@@ -150,7 +151,7 @@
     {
       "id": "868",
       "title": "Public Enemies",
-      "body": "Perfect competition and perfect information are a business’s greatest enemies.  Look for industries, firms, and products that are tough to replicate and gather information."
+      "body": "Perfect competition and perfect information are a business's greatest enemies.  Look for industries, firms, and products that are tough to replicate and gather information."
     },
     {
       "id": "869",
@@ -215,7 +216,7 @@
     {
       "id": "881",
       "title": "Data is Not Always Numbers",
-      "body": "Data analysis doesn’t just apply to numbers and spreadsheets.  Data is any type of quantative or qualitive information to benefit your business."
+      "body": "Data analysis doesn't just apply to numbers and spreadsheets.  Data is any type of quantative or qualitive information to benefit your business."
     },
     {
       "id": "882",
@@ -235,7 +236,7 @@
     {
       "id": "885",
       "title": "Pitfalls of Analytical Competition",
-      "body": "1.Focusing too much on one dimension of analytics (ex  only using technology), 2. Attempting to do everything at once, 3. Investing in analytics that don’t drive business goals, 4. Investing too little in analytics, 5. Choosing the wrong problem, 6. Automated decision applications without careful supervision and human oversight."
+      "body": "1.Focusing too much on one dimension of analytics (ex  only using technology), 2. Attempting to do everything at once, 3. Investing in analytics that don't drive business goals, 4. Investing too little in analytics, 5. Choosing the wrong problem, 6. Automated decision applications without careful supervision and human oversight."
     }
   ]
 }

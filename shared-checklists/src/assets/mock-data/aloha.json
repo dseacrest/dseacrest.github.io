@@ -1,11 +1,12 @@
 {
   "subject": "Aloha Checklist",
   "credit": "Aloha Checklist",
+  "topic": "Personal Growth",
   "todos": [
     {
       "id": "365",
       "title": "Sales Pitch",
-      "body": "You mentioned you are looking for… we have this (feature) that will help you (benefit) .  For example, you can use it to (example of use).  So and so used it to (success story).  It will make you (individual value/career proposition).  "
+      "body": "You mentioned you are looking for' we have this (feature) that will help you (benefit) .  For example, you can use it to (example of use).  So and so used it to (success story).  It will make you (individual value/career proposition).  "
     },
     {
       "id": "366",

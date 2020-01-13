@@ -1,6 +1,7 @@
 {
   "subject": "GET BACKED CHECKLIST",
   "credit": "GET BACKED CHECKLIST",
+  "topic": "Fundraise",
   "todos": [
     {
       "id": "2730",
@@ -35,12 +36,12 @@
     {
       "id": "2736",
       "title": "Pixar Pitch",
-      "body": "Once upon a time there was a …  Every day… One day…  Because of that …  Because of that …  Until finally."
+      "body": "Once upon a time there was a '  Every day' One day'  Because of that '  Because of that '  Until finally."
     },
     {
       "id": "2737",
       "title": "Customer Story",
-      "body": "Meet Joe, Joe has a problem that really bothers him, he tried all sorts of things but still can’t solve his problem, one day Joe finds our product, Joe is happy and tells his friends, don’t you want to be like Joe."
+      "body": "Meet Joe, Joe has a problem that really bothers him, he tried all sorts of things but still can't solve his problem, one day Joe finds our product, Joe is happy and tells his friends, don't you want to be like Joe."
     },
     {
       "id": "2738",
@@ -50,7 +51,7 @@
     {
       "id": "2739",
       "title": "Hard Charger",
-      "body": "I’ve got a big task for you.  Will you invest $1 Million. (Hard Pause)"
+      "body": "I've got a big task for you.  Will you invest $1 Million. (Hard Pause)"
     },
     {
       "id": "2740",
@@ -80,12 +81,12 @@
     {
       "id": "2745",
       "title": "Momentum",
-      "body": "We’ve already succeeded in finding much of the funding we need.  There are still a few spots left.  I’d love for you to be the one to close us out.  Can I count on you for $1 Million? (Hard Pause)"
+      "body": "We've already succeeded in finding much of the funding we need.  There are still a few spots left.  I'd love for you to be the one to close us out.  Can I count on you for $1 Million? (Hard Pause)"
     },
     {
       "id": "2746",
       "title": "Testing Waters",
-      "body": "We’re going to be looking for investors.  When the time comes would this be something you’re interested in."
+      "body": "We're going to be looking for investors.  When the time comes would this be something you're interested in."
     },
     {
       "id": "2747",
@@ -114,7 +115,7 @@
     },
     {
       "id": "2752",
-      "title": "Hero’s Journey (“The” Story)",
+      "title": "Hero's Journey ('The' Story)",
       "body": "Ordinary world and limited awareness of problem, increased awareness and call to adventure, refusal of the call and reluctance to change, meeting with mentor and overcoming reluctance, crossing the threshold and committing to change, meeting allies and enemies to test the first change, approach the inmost cave and preparing for big change, ordeal and attempting a big change, reward and setbacks, rededication to the change, resurrection and final attempt at a big change, final mastery of problem and return with the elixr."
     },
     {
@@ -140,12 +141,12 @@
     {
       "id": "2757",
       "title": "Partnership",
-      "body": "It’s clear you have a passion and expertise in this industry.  You are exactly the type of partner we will need.  Will you consider joining me."
+      "body": "It's clear you have a passion and expertise in this industry.  You are exactly the type of partner we will need.  Will you consider joining me."
     },
     {
       "id": "2758",
       "title": "Drunk Hemingway Pitch",
-      "body": "It is a good … because it is a …. … .  There’s nothing … and … about …., unless you … . And then, it’s not only … but …. .  It is a good home improvement store because it is a smart home improvement store.  There’s nothing fun and exciting about housework unless you are building a home you love.  And then, it’s not only fun but beautiful."
+      "body": "It is a good ' because it is a '. ' .  There's nothing ' and ' about '., unless you ' . And then, it's not only ' but '. .  It is a good home improvement store because it is a smart home improvement store.  There's nothing fun and exciting about housework unless you are building a home you love.  And then, it's not only fun but beautiful."
     },
     {
       "id": "2759",
@@ -170,7 +171,7 @@
     {
       "id": "2763",
       "title": "People Like You",
-      "body": "Hey, I really like you guys.  I think we’ve got a great opportunity.  Why don’t we do something amazing together."
+      "body": "Hey, I really like you guys.  I think we've got a great opportunity.  Why don't we do something amazing together."
     },
     {
       "id": "2764",
@@ -205,12 +206,12 @@
     {
       "id": "2770",
       "title": "Intro",
-      "body": "Don’t talk to investors without an intro to them."
+      "body": "Don't talk to investors without an intro to them."
     },
     {
       "id": "2771",
       "title": "Focus Pitch",
-      "body": "Don’t pitch everyone, focus on the investors who you want and who will invest."
+      "body": "Don't pitch everyone, focus on the investors who you want and who will invest."
     },
     {
       "id": "2772",
@@ -240,7 +241,7 @@
     {
       "id": "2777",
       "title": "Build trust",
-      "body": "Ask for feedback.  Provide value to them through intros.  Connect over your shared appreciation of someone that introduced you.  Find commonalities (mutual friends, hobbies, causes, languages, locations, education).  Show that you are paying attention to what is happening in their life.  Remember things that they like or are doing and have small gift show up on their doorstep (book, small gift, wine, tickets, donations).  Don’t ask them for things, just keep them updated on what your company needs help with.  "
+      "body": "Ask for feedback.  Provide value to them through intros.  Connect over your shared appreciation of someone that introduced you.  Find commonalities (mutual friends, hobbies, causes, languages, locations, education).  Show that you are paying attention to what is happening in their life.  Remember things that they like or are doing and have small gift show up on their doorstep (book, small gift, wine, tickets, donations).  Don't ask them for things, just keep them updated on what your company needs help with.  "
     }
   ]
 }

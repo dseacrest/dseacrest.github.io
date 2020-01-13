@@ -1,6 +1,7 @@
 {
   "subject": "Learning Coding Checklist",
   "credit": "Learning Coding Checklist",
+  "topic": "Coding",
   "todos": [
     {
       "id": "3661",
@@ -29,7 +30,7 @@
     },
     {
       "id": "3666",
-      "title": "Don’t Give Up",
+      "title": "Don't Give Up",
       "body": "Beat the learning curves."
     },
     {
@@ -55,16 +56,16 @@
     {
       "id": "3671",
       "title": "Post Questions Online",
-      "body": "Take advantage of Stack Overflow or Reddit’s Programming.  Remember, there are sections just for beginners."
+      "body": "Take advantage of Stack Overflow or Reddit's Programming.  Remember, there are sections just for beginners."
     },
     {
       "id": "3672",
       "title": "Debug",
-      "body": "Step through code to see how it works.  Open up the objects as the code is loading to understand what’s inside of them.  "
+      "body": "Step through code to see how it works.  Open up the objects as the code is loading to understand what's inside of them.  "
     },
     {
       "id": "3673",
-      "title": "Don’t Stop Studying",
+      "title": "Don't Stop Studying",
       "body": "Spend time each day studyi"
     },
     {
@@ -90,7 +91,7 @@
     {
       "id": "3678",
       "title": "Build Something",
-      "body": "Jump in and build.  Quantity over quality when you’re first starting."
+      "body": "Jump in and build.  Quantity over quality when you're first starting."
     },
     {
       "id": "3679",
@@ -125,12 +126,12 @@
     {
       "id": "3685",
       "title": "Take a Breather",
-      "body": "Don’t forget to step away from your computer and let your brain retain information you learned and think of more efficient solutions to a problem."
+      "body": "Don't forget to step away from your computer and let your brain retain information you learned and think of more efficient solutions to a problem."
     },
     {
       "id": "3686",
       "title": "Coding Video Channels",
-      "body": "CS Dojo, TheNetNinja, Kudvenkat, CS50, LinkedIn Learning’s video library."
+      "body": "CS Dojo, TheNetNinja, Kudvenkat, CS50, LinkedIn Learning's video library."
     },
     {
       "id": "3687",
@@ -145,12 +146,12 @@
     {
       "id": "3689",
       "title": "Reverse Engineer",
-      "body": "Clone someone else’s code and try to add onto it or make changes.  "
+      "body": "Clone someone else's code and try to add onto it or make changes.  "
     },
     {
       "id": "3690",
       "title": "Free Online Courses",
-      "body": "Check out Harvard’s CS50X Intro to Computer Science course.  You can audit courses free via edX and watch lectures on YouTube.  "
+      "body": "Check out Harvard's CS50X Intro to Computer Science course.  You can audit courses free via edX and watch lectures on YouTube.  "
     },
     {
       "id": "3691",
@@ -175,7 +176,7 @@
     {
       "id": "3695",
       "title": "ng.  Use notecards or phone apps to study on the toilet, in the bath, while in waiting rooms.",
-      "body": ""
+      "body": "-"
     }
   ]
 }

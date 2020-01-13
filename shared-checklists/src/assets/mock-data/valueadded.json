@@ -1,11 +1,12 @@
 {
   "subject": "Value Added to Customer Checklist",
   "credit": "Value Added to Customer Checklist",
+  "topic": "Service",
   "todos": [
     {
       "id": "6636",
       "title": "Expense",
-      "body": "Does it reduce customer’s expense?"
+      "body": "Does it reduce customer's expense?"
     },
     {
       "id": "6637",
@@ -50,12 +51,12 @@
     {
       "id": "6645",
       "title": "Turnover",
-      "body": "Does it improve customer’s turnover time?"
+      "body": "Does it improve customer's turnover time?"
     },
     {
       "id": "6646",
       "title": "Cash Flow",
-      "body": "Does it improve customer’s cash flow?"
+      "body": "Does it improve customer's cash flow?"
     },
     {
       "id": "6647",

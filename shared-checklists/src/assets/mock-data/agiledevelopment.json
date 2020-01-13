@@ -1,6 +1,7 @@
 {
   "subject": "Agile Development Checklist",
   "credit": "Agile Development Checklist",
+  "topic": "Coding",
   "todos": [
     {
       "id": "255",
@@ -70,7 +71,7 @@
     {
       "id": "268",
       "title": "Osmotic Communication",
-      "body": "Benefits from working together and overhearing each other’s conversations.  "
+      "body": "Benefits from working together and overhearing each other's conversations.  "
     },
     {
       "id": "269",
@@ -94,7 +95,7 @@
     },
     {
       "id": "273",
-      "title": "Parkinson’s Law",
+      "title": "Parkinson's Law",
       "body": "Work expands to fill the time available."
     },
     {
@@ -125,7 +126,7 @@
     {
       "id": "279",
       "title": "Time Dependency",
-      "body": "When a class’ methods must be called in a specific order.  "
+      "body": "When a class' methods must be called in a specific order.  "
     },
     {
       "id": "280",
@@ -150,7 +151,7 @@
     {
       "id": "284",
       "title": "Courage",
-      "body": "To make the right decisions, even when they are difficult, and to tell stakeholder’s the truth when they need to hear it."
+      "body": "To make the right decisions, even when they are difficult, and to tell stakeholder's the truth when they need to hear it."
     },
     {
       "id": "285",
@@ -240,7 +241,7 @@
     {
       "id": "302",
       "title": "Stories",
-      "body": "Self-contained elements of the projects, correspond to individual features. Criteria for story  1. Can be completed in a week, usually half a day to 2.5 days, usually complete 2-5 per week per full-time person 2. Represents the customer value written in the customers’ terminology (customer-centric), not technical issues, 3. Describes the end result, not the implementation details, 4. Has clear completion criteria.  "
+      "body": "Self-contained elements of the projects, correspond to individual features. Criteria for story  1. Can be completed in a week, usually half a day to 2.5 days, usually complete 2-5 per week per full-time person 2. Represents the customer value written in the customers' terminology (customer-centric), not technical issues, 3. Describes the end result, not the implementation details, 4. Has clear completion criteria.  "
     },
     {
       "id": "303",
@@ -305,7 +306,7 @@
     {
       "id": "315",
       "title": "Merge",
-      "body": "Process of combining multiple branches or changes and resolving any conflicts.  The second person to check in a file has to merge the first person’s changes."
+      "body": "Process of combining multiple branches or changes and resolving any conflicts.  The second person to check in a file has to merge the first person's changes."
     },
     {
       "id": "316",
@@ -360,7 +361,7 @@
     {
       "id": "326",
       "title": "Technical Debt",
-      "body": "Less than perfect design that “works” but requires time to cleanup, refactor, debug, improve, etc.  Don’t forget to allocate time to pay down technical debt."
+      "body": "Less than perfect design that 'works' but requires time to cleanup, refactor, debug, improve, etc.  Don't forget to allocate time to pay down technical debt."
     },
     {
       "id": "327",
@@ -385,7 +386,7 @@
     {
       "id": "331",
       "title": "Practices for Clean Code",
-      "body": "Incremental requirements (get started before customers work out all details), customer tests (to help communicate tricky domain rules), test-driven development, refactoring, simple design, incremental design architecture, spike solutions, performance optimization (using data to drive optimization), exploratory testing (identifying gas in the team’s thought process).  "
+      "body": "Incremental requirements (get started before customers work out all details), customer tests (to help communicate tricky domain rules), test-driven development, refactoring, simple design, incremental design architecture, spike solutions, performance optimization (using data to drive optimization), exploratory testing (identifying gas in the team's thought process).  "
     },
     {
       "id": "332",
@@ -470,7 +471,7 @@
     {
       "id": "348",
       "title": "Last Responsible Moment",
-      "body": "Delay decisions until the “moment at which failing to make a decision will cause harm or eliminates an important alternative.”  Delaying gives you time to increase the amount of information you have and increases the likelihood you make a correct decision.  "
+      "body": "Delay decisions until the 'moment at which failing to make a decision will cause harm or eliminates an important alternative.'  Delaying gives you time to increase the amount of information you have and increases the likelihood you make a correct decision.  "
     },
     {
       "id": "349",
@@ -500,7 +501,7 @@
     {
       "id": "354",
       "title": "Spike Solutions",
-      "body": "Code that is research based that you don’t plan to add to your source code.  Keep a separate spike directory in source code."
+      "body": "Code that is research based that you don't plan to add to your source code.  Keep a separate spike directory in source code."
     },
     {
       "id": "355",
@@ -550,7 +551,7 @@
     {
       "id": "364",
       "title": ".NET Build Tools;  NAnt, MSBuild.",
-      "body": ""
+      "body": "-"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "subject": "Universal Principals of Design Checklist",
   "credit": "Universal Principals of Design Checklist",
+  "topic": "UI/UX",
   "todos": [
     {
       "id": "6321",
@@ -34,7 +35,7 @@
     },
     {
       "id": "6327",
-      "title": "Freeze–Flight-Fight-Forfeit",
+      "title": "Freeze'Flight-Fight-Forfeit",
       "body": "Four responses to acute stress in humans.  "
     },
     {
@@ -84,7 +85,7 @@
     },
     {
       "id": "6337",
-      "title": "Hick’s Law",
+      "title": "Hick's Law",
       "body": "The time it takes to make a decision increases as the number of alternatives increases."
     },
     {
@@ -135,12 +136,12 @@
     {
       "id": "6347",
       "title": "Baby Face Bias",
-      "body": "People with baby faces are seen as more naïve, helpless, and honest.  Use mature faces when expressing authority and expertise.  "
+      "body": "People with baby faces are seen as more na've, helpless, and honest.  Use mature faces when expressing authority and expertise.  "
     },
     {
       "id": "6348",
       "title": "Sunk Cost",
-      "body": "People who invest time into something will continue to use the product even if it doesn’t make sense anymore.  Ex Aol free memberships got people to use the product and then they continued because they had already invested in it.  "
+      "body": "People who invest time into something will continue to use the product even if it doesn't make sense anymore.  Ex Aol free memberships got people to use the product and then they continued because they had already invested in it.  "
     },
     {
       "id": "6349",
@@ -200,12 +201,12 @@
     {
       "id": "6360",
       "title": "Control",
-      "body": "Level of control of a system should be adaptable to user’s expertise."
+      "body": "Level of control of a system should be adaptable to user's expertise."
     },
     {
       "id": "6361",
       "title": "Three dimensional projection",
-      "body": "Inferred by overlapping, size difference, elevation, linear perspective, texture gradient, shading, atmospheric perspective.  Use top down lighting versus uplighting.  Don’t make fake humans look too real."
+      "body": "Inferred by overlapping, size difference, elevation, linear perspective, texture gradient, shading, atmospheric perspective.  Use top down lighting versus uplighting.  Don't make fake humans look too real."
     },
     {
       "id": "6362",
@@ -370,7 +371,7 @@
     {
       "id": "6394",
       "title": "Colors.  Try to keep the number of colors to five or less.  Use warmer colors for foreground and cooler colors for background.  ",
-      "body": ""
+      "body": "-"
     }
   ]
 }

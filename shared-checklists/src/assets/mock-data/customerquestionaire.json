@@ -1,6 +1,7 @@
 {
   "subject": "Customer Questionnaire Checklist",
   "credit": "Customer Questionnaire Checklist",
+  "topic": "Sales & Marketing",
   "todos": [
     {
       "id": "1051",
@@ -65,7 +66,7 @@
     {
       "id": "1063",
       "title": "Success",
-      "body": "What are you company’s success factors/key predictive indicators?"
+      "body": "What are you company's success factors/key predictive indicators?"
     },
     {
       "id": "1064",
@@ -105,7 +106,7 @@
     {
       "id": "1071",
       "title": "Boomerang",
-      "body": "Have you returned after pricing elsewhere (usually means pricing is too low and customer is only focused on price – not a great customer)"
+      "body": "Have you returned after pricing elsewhere (usually means pricing is too low and customer is only focused on price ' not a great customer)"
     },
     {
       "id": "1072",
@@ -114,7 +115,7 @@
     },
     {
       "id": "1073",
-      "title": "Who’s Money",
+      "title": "Who's Money",
       "body": "Are you paying with your money or billing this out?"
     }
   ]

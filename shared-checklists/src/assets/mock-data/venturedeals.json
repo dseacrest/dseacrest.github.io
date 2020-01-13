@@ -1,6 +1,7 @@
 {
   "subject": "Venture Deals Checklist",
   "credit": "Venture Deals Checklist",
+  "topic": "Fundraise",
   "todos": [
     {
       "id": "6677",
@@ -10,11 +11,11 @@
     {
       "id": "6678",
       "title": "Stages",
-      "body": "Seed funding, Series A…B…C…, Qualified IPO."
+      "body": "Seed funding, Series A'B'C', Qualified IPO."
     },
     {
       "id": "6679",
-      "title": "Approval by investor’s partnership",
+      "title": "Approval by investor's partnership",
       "body": "Secret code that the deal has not been fully approved."
     },
     {
@@ -60,7 +61,7 @@
     {
       "id": "6688",
       "title": "VC Money Sources",
-      "body": "Gov’t and corporate pension funds, large corporations, banks, institutional investors, educational endowments, high-net-worth individuals, funds of funds, charitable organizations, insurance companies, trusts.  VCs keep little cash on hand and have to ask for capital calls for each investment.  Management fee is usually 1.5 to 2.5%."
+      "body": "Gov't and corporate pension funds, large corporations, banks, institutional investors, educational endowments, high-net-worth individuals, funds of funds, charitable organizations, insurance companies, trusts.  VCs keep little cash on hand and have to ask for capital calls for each investment.  Management fee is usually 1.5 to 2.5%."
     },
     {
       "id": "6689",
@@ -80,7 +81,7 @@
     {
       "id": "6692",
       "title": "VC Etiquette",
-      "body": "Don’t spam, no means no, don’t ask for a referral if you get a no, don’t be solo founder,"
+      "body": "Don't spam, no means no, don't ask for a referral if you get a no, don't be solo founder,"
     },
     {
       "id": "6693",
@@ -115,7 +116,7 @@
     {
       "id": "6699",
       "title": "Three Keys to Negotiating Financing",
-      "body": "Achieve a good and fair result, don’t kill your relationship or reputation, and understand the deal you are striking.  Pick a few things that really matter to you and let the rest be flexible.  Ask them what their three most important things are.  Get to know whom you are dealing with.  Figure out your superpower and their kryptonite."
+      "body": "Achieve a good and fair result, don't kill your relationship or reputation, and understand the deal you are striking.  Pick a few things that really matter to you and let the rest be flexible.  Ask them what their three most important things are.  Get to know whom you are dealing with.  Figure out your superpower and their kryptonite."
     },
     {
       "id": "6700",
@@ -259,7 +260,7 @@
     },
     {
       "id": "6728",
-      "title": "Prisoner’s Dilemma",
+      "title": "Prisoner's Dilemma",
       "body": "If two prisoners cooperate, the outcome is best for both of them."
     },
     {
@@ -295,7 +296,7 @@
     {
       "id": "6735",
       "title": "NDAs",
-      "body": "Don’t ask a VC for a non-disclosure agreement.  Guard your secrets but don’t be afraid to share ideas with VCs.  They want to protect them like you do.  "
+      "body": "Don't ask a VC for a non-disclosure agreement.  Guard your secrets but don't be afraid to share ideas with VCs.  They want to protect them like you do.  "
     },
     {
       "id": "6736",
@@ -310,7 +311,7 @@
     {
       "id": "6738",
       "title": "Negotiating Styles",
-      "body": "Bully (stay cool), Nice Guy (pressure to close), Detail Guy (don’t lose focus on big picture), Wimp (don’t be greedy, negotiate for both sides), Curmudgeon (patient, upbeat, tolerant, realize that you’ll never please)."
+      "body": "Bully (stay cool), Nice Guy (pressure to close), Detail Guy (don't lose focus on big picture), Wimp (don't be greedy, negotiate for both sides), Curmudgeon (patient, upbeat, tolerant, realize that you'll never please)."
     },
     {
       "id": "6739",
@@ -325,7 +326,7 @@
     {
       "id": "6741",
       "title": "Proprietary Information and Inventions Agreement",
-      "body": ""
+      "body": "-"
     }
   ]
 }

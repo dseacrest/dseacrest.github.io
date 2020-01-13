@@ -1,6 +1,7 @@
 {
   "subject": "Marketing Analytics Checklist",
   "credit": "Marketing Analytics Checklist",
+  "topic": "Sales & Marketing",
   "todos": [
     {
       "id": "4001",
@@ -95,7 +96,7 @@
     {
       "id": "4019",
       "title": "Recall Question",
-      "body": "Asking users whether they’ve heard about you or your product and where they heard about you."
+      "body": "Asking users whether they've heard about you or your product and where they heard about you."
     },
     {
       "id": "4020",
@@ -115,7 +116,7 @@
     {
       "id": "4023",
       "title": "Relating to IT Department",
-      "body": "Treat it like going to your doctor.  Don’t pretend you know the solution.  Just mention the symptoms and what you are looking to achieve and let them figure out the right solution."
+      "body": "Treat it like going to your doctor.  Don't pretend you know the solution.  Just mention the symptoms and what you are looking to achieve and let them figure out the right solution."
     },
     {
       "id": "4024",
@@ -225,7 +226,7 @@
     {
       "id": "4045",
       "title": "SEM Testing",
-      "body": "Best way is to do a rapid test, learn, and iterate approach.  Don’t delete old data.  Ad dollar should be spent proportionately across the assist click keywords."
+      "body": "Best way is to do a rapid test, learn, and iterate approach.  Don't delete old data.  Ad dollar should be spent proportionately across the assist click keywords."
     },
     {
       "id": "4046",
@@ -245,17 +246,17 @@
     {
       "id": "4049",
       "title": "Fifteen Essential Metrics for Marketing",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "4050",
       "title": "Marketing Activities Broken Down (5 buckets)",
-      "body": ""
+      "body": "-"
     },
     {
       "id": "4051",
       "title": "Three Types of Scorecard Metrics",
-      "body": ""
+      "body": "-"
     }
   ]
 }

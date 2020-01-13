@@ -1,6 +1,7 @@
 {
   "subject": "User Testing & Research",
   "credit": "User Testing & Research",
+  "topic": "UI/UX",
   "todos": [
     {
       "id": "6554",
@@ -10,7 +11,7 @@
     {
       "id": "6555",
       "title": "Surveys",
-      "body": "Surveys are not good at getting in touch with your users because you will either have to ask closed ended questions that will bias the results or open ended questions that won’t get you to what you need to know.  To get a lot of information, use the telephone.  Surveys are not good at generating hypotheses but may be okay at validating hypotheses.  "
+      "body": "Surveys are not good at getting in touch with your users because you will either have to ask closed ended questions that will bias the results or open ended questions that won't get you to what you need to know.  To get a lot of information, use the telephone.  Surveys are not good at generating hypotheses but may be okay at validating hypotheses.  "
     },
     {
       "id": "6556",
@@ -65,7 +66,7 @@
     {
       "id": "6566",
       "title": "Mistakes in Analyzing Data",
-      "body": "Trying to get statistical significance when you don’t need it, tracking short term changes but ignoring the long term effects on other variables, forgetting the goals of the metrics, combining data from multiple tests.  "
+      "body": "Trying to get statistical significance when you don't need it, tracking short term changes but ignoring the long term effects on other variables, forgetting the goals of the metrics, combining data from multiple tests.  "
     },
     {
       "id": "6567",
@@ -115,12 +116,12 @@
     {
       "id": "6576",
       "title": "Narrow Market",
-      "body": "Start with a narrow market (ex   urban moms who work FT and don’t have nannies).  Don’t worry if it isn’t very big because you can always expand.  "
+      "body": "Start with a narrow market (ex   urban moms who work FT and don't have nannies).  Don't worry if it isn't very big because you can always expand.  "
     },
     {
       "id": "6577",
       "title": "Whiteboard Brainstorming",
-      "body": "Start by clearly explaining the user problem and the reason you are choosing to solve it.  Explain how you will measure success.  If other people give other criteria for success take them into consideration but remember to prioritize otherwise you will have a bloated result.  Have everybody write down their ideas and then go around and have people read and clarify.  Categorize ideas.  Do it in 15 – 30 minutes.  Pick something and then test it.  "
+      "body": "Start by clearly explaining the user problem and the reason you are choosing to solve it.  Explain how you will measure success.  If other people give other criteria for success take them into consideration but remember to prioritize otherwise you will have a bloated result.  Have everybody write down their ideas and then go around and have people read and clarify.  Categorize ideas.  Do it in 15 ' 30 minutes.  Pick something and then test it.  "
     },
     {
       "id": "6578",
@@ -130,12 +131,12 @@
     {
       "id": "6579",
       "title": "Usability Testing Feedback",
-      "body": "Shut the help up.  You are listening, not talking.  Don’t give a guided tour.  Let them explore on their own before you give them tasks.  Let them fail and flail.  Ask open ended questions.  Follow up if they give you generic answers (ex   you said that was cool, what was cool about it).  "
+      "body": "Shut the help up.  You are listening, not talking.  Don't give a guided tour.  Let them explore on their own before you give them tasks.  Let them fail and flail.  Ask open ended questions.  Follow up if they give you generic answers (ex   you said that was cool, what was cool about it).  "
     },
     {
       "id": "6580",
       "title": "Prototype Testing",
-      "body": "Show them something that looks like your product and ask for their reactions.  Never ask them if they think it is a good idea or would buy.  A lot of times they either don’t know if they would buy or they are going to say yes just to be nice.  The closer you can make it look to the real product the more accurately you can predict whether people will use that product.  "
+      "body": "Show them something that looks like your product and ask for their reactions.  Never ask them if they think it is a good idea or would buy.  A lot of times they either don't know if they would buy or they are going to say yes just to be nice.  The closer you can make it look to the real product the more accurately you can predict whether people will use that product.  "
     },
     {
       "id": "6581",
@@ -169,13 +170,13 @@
     },
     {
       "id": "6587",
-      "title": "Don’t need large samples",
+      "title": "Don't need large samples",
       "body": "Remember, for qualitative research you want to find the minimum number of people to interview until you discover the same patterns."
     },
     {
       "id": "6588",
       "title": "Making Things Pretty Warning",
-      "body": "Premature prettification can cause lots of user experience disasters.  Make it clean and clear but not pixel perfect until you’ve tested it.  Users are less likely to give you critical feedback when things are pretty.  Good visuals will distract people from functionality.  You will subconsciously make compromises to suit the visual design.  "
+      "body": "Premature prettification can cause lots of user experience disasters.  Make it clean and clear but not pixel perfect until you've tested it.  Users are less likely to give you critical feedback when things are pretty.  Good visuals will distract people from functionality.  You will subconsciously make compromises to suit the visual design.  "
     },
     {
       "id": "6589",
@@ -195,7 +196,7 @@
     {
       "id": "6592",
       "title": "Quantitative Research",
-      "body": "Measuring what real people are actually doing.  It doesn’t usually involve speaking with humans.  Its about the data in aggregate and should be statistically significant.  Includes funnel analytics, A/B testing, cohort analysis."
+      "body": "Measuring what real people are actually doing.  It doesn't usually involve speaking with humans.  Its about the data in aggregate and should be statistically significant.  Includes funnel analytics, A/B testing, cohort analysis."
     },
     {
       "id": "6593",
@@ -210,22 +211,22 @@
     {
       "id": "6595",
       "title": "Product-Problem Match",
-      "body": "Just because a lot of people have a problem doesn’t mean that your product will solve their problem.  You must test this and ask “does this product really solve the identified problem.”"
+      "body": "Just because a lot of people have a problem doesn't mean that your product will solve their problem.  You must test this and ask 'does this product really solve the identified problem.'"
     },
     {
       "id": "6596",
       "title": "Stealing",
-      "body": "It’s okay to steal design ideas but you first need to make sure they work for your customers."
+      "body": "It's okay to steal design ideas but you first need to make sure they work for your customers."
     },
     {
       "id": "6597",
       "title": "Invalidation",
-      "body": "Invalidating an idea is the same as validating it.  Once you invalidate, search out why your hypothesis was wrong and communicate that information to your team.  Every failed thing you don’t’ do will save you lots of time and money.  "
+      "body": "Invalidating an idea is the same as validating it.  Once you invalidate, search out why your hypothesis was wrong and communicate that information to your team.  Every failed thing you don't' do will save you lots of time and money.  "
     },
     {
       "id": "6598",
       "title": "Pain Driven Design",
-      "body": "Instead of designing to your users, you design towards your users pains and problems.  Many users don’t really know what they want or don’t know the best solution to solve your problems so this approach is possibly more effective."
+      "body": "Instead of designing to your users, you design towards your users pains and problems.  Many users don't really know what they want or don't know the best solution to solve your problems so this approach is possibly more effective."
     },
     {
       "id": "6599",
@@ -245,7 +246,7 @@
     {
       "id": "6602",
       "title": "Opt-In",
-      "body": "Give users the option of opting in to new features or design changes so you don’t make them upset.  "
+      "body": "Give users the option of opting in to new features or design changes so you don't make them upset.  "
     },
     {
       "id": "6603",
@@ -265,7 +266,7 @@
     {
       "id": "6606",
       "title": "Landing Page Execution",
-      "body": "Create a landing page for a fictional product and but a big button that says “Buy” or “Pre-Order”.  Hire a graphic designer or get a design from places like 99Designs.  Drive traffic to your site with AdWords, Facebook Ads.  Check to see how many people click on your ads and what percent clicks on the Buy button.  Use Google Analytics."
+      "body": "Create a landing page for a fictional product and but a big button that says 'Buy' or 'Pre-Order'.  Hire a graphic designer or get a design from places like 99Designs.  Drive traffic to your site with AdWords, Facebook Ads.  Check to see how many people click on your ads and what percent clicks on the Buy button.  Use Google Analytics."
     },
     {
       "id": "6607",
@@ -300,7 +301,7 @@
     {
       "id": "6613",
       "title": "Five-Second Messaging Tests",
-      "body": "Ambush strangers.  Go to your local coffee shop, ask if someone will give you 5-10 minutes and you’ll buy their beverage.  Explain why it helps you.  Tell them you are not selling.  Show your landing page and ask the following questions.  What does the user think this product does?  Who does the user think the product is for?  Can the user figure out how to get the product?"
+      "body": "Ambush strangers.  Go to your local coffee shop, ask if someone will give you 5-10 minutes and you'll buy their beverage.  Explain why it helps you.  Tell them you are not selling.  Show your landing page and ask the following questions.  What does the user think this product does?  Who does the user think the product is for?  Can the user figure out how to get the product?"
     },
     {
       "id": "6614",

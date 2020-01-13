@@ -1,6 +1,7 @@
 {
   "subject": "Qualitative Testing Checklist",
   "credit": "Qualitative Testing Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "5300",
@@ -10,7 +11,7 @@
     {
       "id": "5301",
       "title": "Best Use Case",
-      "body": "Qualitative testing is best when you have multiple variables about a system that are unknown.  Usually don’t need to test with more than 3-5 subjects to start to identify relevant patterns.  Results do not need to be statistically significant.  Process should be iterative.  Best process for when you are just starting to learn about a system."
+      "body": "Qualitative testing is best when you have multiple variables about a system that are unknown.  Usually don't need to test with more than 3-5 subjects to start to identify relevant patterns.  Results do not need to be statistically significant.  Process should be iterative.  Best process for when you are just starting to learn about a system."
     },
     {
       "id": "5302",
@@ -35,12 +36,12 @@
     {
       "id": "5306",
       "title": "Prototype Testing",
-      "body": "Show them something that looks like your product and ask for their reactions.  Never ask them if they think it is a good idea or would buy.  A lot of times they either don’t know if they would buy or they are going to say yes just to be nice.  The closer you can make it look to the real product the more accurately you can predict whether people will use that product.  "
+      "body": "Show them something that looks like your product and ask for their reactions.  Never ask them if they think it is a good idea or would buy.  A lot of times they either don't know if they would buy or they are going to say yes just to be nice.  The closer you can make it look to the real product the more accurately you can predict whether people will use that product.  "
     },
     {
       "id": "5307",
       "title": "Qualitative Testing",
-      "body": "Observing participants interact with a system and/or asking them open ended questions (Ex  Tell me what you didn’t like about…?) to better understand the system at a broad level.  "
+      "body": "Observing participants interact with a system and/or asking them open ended questions (Ex  Tell me what you didn't like about'?) to better understand the system at a broad level.  "
     },
     {
       "id": "5308",
@@ -60,7 +61,7 @@
     {
       "id": "5311",
       "title": "Five-Second Messaging Tests",
-      "body": "Ambush strangers.  Go to your local coffee shop, ask if someone will give you 5-10 minutes and you’ll buy their beverage.  Explain why it helps you.  Tell them you are not selling.  Show your landing page and ask the following questions.  What does the user think this product does?  Who does the user think the product is for?  Can the user figure out how to get the product?"
+      "body": "Ambush strangers.  Go to your local coffee shop, ask if someone will give you 5-10 minutes and you'll buy their beverage.  Explain why it helps you.  Tell them you are not selling.  Show your landing page and ask the following questions.  What does the user think this product does?  Who does the user think the product is for?  Can the user figure out how to get the product?"
     }
   ]
 }

@@ -1,21 +1,22 @@
 {
   "subject": "Constructive Feedback Checklist",
   "credit": "Constructive Feedback Checklist",
+  "topic": "Personal Growth",
   "todos": [
     {
       "id": "1045",
       "title": "Feedback Through Rhetorical Questions",
-      "body": "“Do you think it’s a good idea to…?” or “We need to have this done by… Do you think….?”"
+      "body": "'Do you think it's a good idea to'?' or 'We need to have this done by' Do you think'.?'"
     },
     {
       "id": "1046",
       "title": "Behavior",
-      "body": "Give feedback on behavior or things that people can change, not someone’s personality or looks.  "
+      "body": "Give feedback on behavior or things that people can change, not someone's personality or looks.  "
     },
     {
       "id": "1047",
       "title": "Timing",
-      "body": "Get to know what is going on in their life so that you can give feedback when they don’t have other issues and can let it soak in."
+      "body": "Get to know what is going on in their life so that you can give feedback when they don't have other issues and can let it soak in."
     },
     {
       "id": "1048",
@@ -25,10 +26,35 @@
     {
       "id": "1049",
       "title": "Tough Love",
-      "body": "Begin with “I say this with love…”"
+      "body": "Begin with 'I say this with love''"
     },
     {
       "id": "1050",
+      "title": "Place",
+      "body": "Appraise in public, give feedback in private.  "
+    },
+    {
+      "id": "2341",
+      "title": "Behavior",
+      "body": "Give feedback on behavior not someone's personality or looks.  "
+    },
+    {
+      "id": "2342",
+      "title": "Timing",
+      "body": "Get to know what is going on in their life so that you can give feedback when they don't have other issues and can let it soak in."
+    },
+    {
+      "id": "2343",
+      "title": "Personality",
+      "body": "Feelers will take feedback much worse than thinkers.  Two-thirds of women are feelers."
+    },
+    {
+      "id": "2344",
+      "title": "Tough Love",
+      "body": "Begin with 'I say this with love''"
+    },
+    {
+      "id": "2345",
       "title": "Place",
       "body": "Appraise in public, give feedback in private.  "
     }

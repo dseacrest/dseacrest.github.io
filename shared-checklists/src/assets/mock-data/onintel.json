@@ -1,11 +1,12 @@
 {
   "subject": "On Intelligence Checklist",
   "credit": "On Intelligence Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "4291",
       "title": "Pattern Recognition",
-      "body": "To retrieve a pattern in your memory you must provide the pattern you want to retrieve.  Fortunately you don’t have to have the entire pattern to retrieve it, only a portion.  Patterns are stored in a hierarchy."
+      "body": "To retrieve a pattern in your memory you must provide the pattern you want to retrieve.  Fortunately you don't have to have the entire pattern to retrieve it, only a portion.  Patterns are stored in a hierarchy."
     },
     {
       "id": "4292",
@@ -20,7 +21,7 @@
     {
       "id": "4294",
       "title": "Sequencing",
-      "body": "Collapsing patterns into named objects.  You don’t need to know every detail but you do need to know if a change occurs in the sequence."
+      "body": "Collapsing patterns into named objects.  You don't need to know every detail but you do need to know if a change occurs in the sequence."
     },
     {
       "id": "4295",
@@ -35,7 +36,7 @@
     {
       "id": "4297",
       "title": "Patience",
-      "body": "When you don’t know how to proceed, often the best strategy is to make no changes until your options become clear.”"
+      "body": "When you don't know how to proceed, often the best strategy is to make no changes until your options become clear.'"
     },
     {
       "id": "4298",
@@ -60,7 +61,7 @@
     {
       "id": "4302",
       "title": "Paul Erdos",
-      "body": "The simplest mathematical proogs already exist in some thereal book and a mathematician’s job was to find them.  "
+      "body": "The simplest mathematical proogs already exist in some thereal book and a mathematician's job was to find them.  "
     },
     {
       "id": "4303",
@@ -85,7 +86,7 @@
     {
       "id": "4307",
       "title": "Stored Intelligence",
-      "body": "The brain doesn’t just compute problems, it retrieves the answers from memory it stored a long time ago."
+      "body": "The brain doesn't just compute problems, it retrieves the answers from memory it stored a long time ago."
     },
     {
       "id": "4308",
@@ -110,7 +111,7 @@
     {
       "id": "4312",
       "title": "Artificial Intelligence",
-      "body": "Machines won’t be to able to do what humans do because they don’t have sexual urges, hunger, pulse, muscles, emotions.  Humans are much more than intelligent machines."
+      "body": "Machines won't be to able to do what humans do because they don't have sexual urges, hunger, pulse, muscles, emotions.  Humans are much more than intelligent machines."
     },
     {
       "id": "4313",

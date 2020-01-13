@@ -1,6 +1,7 @@
 {
   "subject": "COMPLEX REQUIREMENTS & SOLUTIONS CHECKLIST",
   "credit": "COMPLEX REQUIREMENTS & SOLUTIONS CHECKLIST",
+  "topic": "Coding",
   "todos": [
     {
       "id": "886",
@@ -60,7 +61,7 @@
     {
       "id": "897",
       "title": "What is my understanding of the requirements? What is the primary goal or objective?  ",
-      "body": "Use this section to articulate, in your words, what the intent is of this feature/requirement and how it is intended to work. Include what the desired impact/capability will be for the intended user or beneficiary of this feature.  Remember, the user should drive the system’s functionality.  "
+      "body": "Use this section to articulate, in your words, what the intent is of this feature/requirement and how it is intended to work. Include what the desired impact/capability will be for the intended user or beneficiary of this feature.  Remember, the user should drive the system's functionality.  "
     },
     {
       "id": "898",
@@ -75,7 +76,7 @@
     {
       "id": "900",
       "title": "What are the specific steps to implement and what is their level of effort?",
-      "body": "This will become the sequential plan for implementing this feature/requirement and will include the “final” estimate of the level of effort to complete each task. In addition to specific feature development tasks, other things to consider here would be"
+      "body": "This will become the sequential plan for implementing this feature/requirement and will include the 'final' estimate of the level of effort to complete each task. In addition to specific feature development tasks, other things to consider here would be"
     },
     {
       "id": "901",
@@ -85,7 +86,7 @@
     {
       "id": "902",
       "title": "What areas/features/components are most likely not to change?",
-      "body": "These are typically components that are so rooted in the concept, problem, or domain that they will not change much over time.  This can involve things that have been working the exact same and working well for such a long time that they probably don’t need to be adjusted.  "
+      "body": "These are typically components that are so rooted in the concept, problem, or domain that they will not change much over time.  This can involve things that have been working the exact same and working well for such a long time that they probably don't need to be adjusted.  "
     },
     {
       "id": "903",
@@ -95,7 +96,7 @@
     {
       "id": "904",
       "title": "What are anticipated/possible failure scenarios and how should they be handled?",
-      "body": "The purpose of this section is to get you thinking about how the system might behave once you get off the “happy path” of execution."
+      "body": "The purpose of this section is to get you thinking about how the system might behave once you get off the 'happy path' of execution."
     },
     {
       "id": "905",
@@ -125,7 +126,7 @@
     {
       "id": "910",
       "title": "What assumptions am I making about these requirements and the system?",
-      "body": "Often times when you are going through this process of analyzing and writing down how you are going to build something, you uncover something you had not considered that must be addressed even though it is not spelled out in the requirements. For example, if the requirement is “charge the credit card as part of a product fulfillment process” you might ask yourself, “What happens if the attempt to charge the card fails for some reason?” Another assumption might be that you will be able to test this credit card workflow without using a real credit card. This is where you can start listing your assumptions about how you should be handling some of these undocumented requirements so that other stakeholders can review and validate these assumptions."
+      "body": "Often times when you are going through this process of analyzing and writing down how you are going to build something, you uncover something you had not considered that must be addressed even though it is not spelled out in the requirements. For example, if the requirement is 'charge the credit card as part of a product fulfillment process' you might ask yourself, 'What happens if the attempt to charge the card fails for some reason?' Another assumption might be that you will be able to test this credit card workflow without using a real credit card. This is where you can start listing your assumptions about how you should be handling some of these undocumented requirements so that other stakeholders can review and validate these assumptions."
     },
     {
       "id": "911",
@@ -155,7 +156,7 @@
     {
       "id": "916",
       "title": "Reconsider Problem",
-      "body": "If at any point it feels like there is no attainable solution or that the solutions will not get us to our company goals, reconsider the problem. If you can’t easily identify criterion or solutions, you may be solving the wrong problem or your problem may not have enough definition. Half the battle (or more) can be solving the right problem."
+      "body": "If at any point it feels like there is no attainable solution or that the solutions will not get us to our company goals, reconsider the problem. If you can't easily identify criterion or solutions, you may be solving the wrong problem or your problem may not have enough definition. Half the battle (or more) can be solving the right problem."
     },
     {
       "id": "917",
@@ -205,7 +206,7 @@
     {
       "id": "926",
       "title": "Category Comparison",
-      "body": "Examine the qualitative difference of the categories. Outline some pros and cons. Identify what information would let you make a choice and devise the simplest test you can to get the info. Pick a category. Repeat this with sub categories until you have one high level solution.  If you run into conflicts go backup the category tree to the first level that isn’t subject to that failure and pick a new path."
+      "body": "Examine the qualitative difference of the categories. Outline some pros and cons. Identify what information would let you make a choice and devise the simplest test you can to get the info. Pick a category. Repeat this with sub categories until you have one high level solution.  If you run into conflicts go backup the category tree to the first level that isn't subject to that failure and pick a new path."
     },
     {
       "id": "927",
@@ -215,7 +216,7 @@
     {
       "id": "928",
       "title": "What is the Problem?",
-      "body": "Define the problem without any reference to possible solutions.  Should be in user language from the user’s point of view.  "
+      "body": "Define the problem without any reference to possible solutions.  Should be in user language from the user's point of view.  "
     },
     {
       "id": "929",
@@ -484,7 +485,7 @@
     },
     {
       "id": "982",
-      "title": "Integration procedure – how will team members check code into the master source?",
+      "title": "Integration procedure ' how will team members check code into the master source?",
       "body": " "
     },
     {
@@ -499,7 +500,7 @@
     },
     {
       "id": "985",
-      "title": "Is error detection active (anticipate errors, checking input) or passive (respond to errors only when it can’t avoid)?  ",
+      "title": "Is error detection active (anticipate errors, checking input) or passive (respond to errors only when it can't avoid)?  ",
       "body": " "
     },
     {
@@ -514,7 +515,7 @@
     },
     {
       "id": "988",
-      "title": "IS the expected response time, from the user’s point of view, specified?",
+      "title": "IS the expected response time, from the user's point of view, specified?",
       "body": " "
     },
     {
@@ -559,7 +560,7 @@
     },
     {
       "id": "997",
-      "title": "Level of responsibility of each class for validating it’s input data?  Can be done at a class level or system level.",
+      "title": "Level of responsibility of each class for validating it's input data?  Can be done at a class level or system level.",
       "body": " "
     },
     {
@@ -599,7 +600,7 @@
     },
     {
       "id": "1005",
-      "title": "Part B – Solutions Breakdown (“How We Build It”)",
+      "title": "Part B ' Solutions Breakdown ('How We Build It')",
       "body": " "
     },
     {
@@ -639,7 +640,7 @@
     },
     {
       "id": "1013",
-      "title": "Team’s experience and familiarity",
+      "title": "Team's experience and familiarity",
       "body": " "
     },
     {
@@ -709,7 +710,7 @@
     },
     {
       "id": "1027",
-      "title": "Where information isn’t available before development begins, are the areas of incompleteness specified?",
+      "title": "Where information isn't available before development begins, are the areas of incompleteness specified?",
       "body": " "
     },
     {
@@ -725,7 +726,7 @@
     {
       "id": "1030",
       "title": "Modeling decision criteria.",
-      "body": ""
+      "body": "-"
     }
   ]
 }

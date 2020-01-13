@@ -1,6 +1,7 @@
 {
   "subject": "Segmentation Checklist",
   "credit": "Segmentation Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "5642",
@@ -45,7 +46,7 @@
     {
       "id": "5650",
       "title": "Qualitative Data",
-      "body": "Must be turned into quantitative data as individual yes no variables.  Can’t turn them into numerical categories because the computer will think that four is four times greater than one, etc."
+      "body": "Must be turned into quantitative data as individual yes no variables.  Can't turn them into numerical categories because the computer will think that four is four times greater than one, etc."
     },
     {
       "id": "5651",

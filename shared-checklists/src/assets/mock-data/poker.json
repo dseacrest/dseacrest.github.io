@@ -1,6 +1,7 @@
 {
   "subject": "POKER CHECKLIST",
   "credit": "POKER CHECKLIST",
+  "topic": "Personal Growth",
   "todos": [
     {
       "id": "4868",
@@ -45,7 +46,7 @@
     {
       "id": "4876",
       "title": "Randomize",
-      "body": "Use a system to randomize your play.  Only bluff at a rate that is the maximum you can do before they would consider you suspicious or a “bluffer”.   Your frequency should also be based on the odds your opponent is getting from the pot.  "
+      "body": "Use a system to randomize your play.  Only bluff at a rate that is the maximum you can do before they would consider you suspicious or a 'bluffer'.   Your frequency should also be based on the odds your opponent is getting from the pot.  "
     },
     {
       "id": "4877",
@@ -80,7 +81,7 @@
     {
       "id": "4883",
       "title": "Pure-Bluff",
-      "body": "Indicating your hand is stronger than it is when there is no chance to improve it or beat your opponent.  If your bluff doesn’t work right away, abandon it.  "
+      "body": "Indicating your hand is stronger than it is when there is no chance to improve it or beat your opponent.  If your bluff doesn't work right away, abandon it.  "
     },
     {
       "id": "4884",
@@ -120,7 +121,7 @@
     {
       "id": "4891",
       "title": "Expectation Formula",
-      "body": "(Times Occurring * Payout) – (Times Not-Occurring * Bet) / Sum of Times Occurring Plus Not-Occurring"
+      "body": "(Times Occurring * Payout) ' (Times Not-Occurring * Bet) / Sum of Times Occurring Plus Not-Occurring"
     }
   ]
 }

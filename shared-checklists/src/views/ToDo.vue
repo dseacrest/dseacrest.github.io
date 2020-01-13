@@ -1,42 +1,40 @@
 <template>
   <div class="q-pa-md q-gutter-md">
-	  <h2>{{document.subject}}</h2>
-    <q-markup-table class="o-markupTable" >
-      <thead>
-        <tr v-if="user.loggedIn">
-          <th class="m-titleTitle text-left">Title</th>
-          <th class="m-bodyTitle text-left">Task</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="task in tasks" :key="task.id">
-			<td class="m-titleColumn text-left">
-					<q-input 
-					dense 
-					borderless 
-					class="m-titleColumn__input" 
-					:disable="user.data.uid !== adminUID" 
-					debounce="1000" type="text" 
-					autogrow id="txtTitle" 
-					:value="task.title" 
-					@input="saveTaskTitle(task, arguments[0])"/>
-			</td>
-			<td class="m-bodyColumn text-left">
-					<q-input 
-					dense 
-					borderless 
-					class="m-bodyColumn__input" 
-					:disable="user.data.uid !== adminUID" 
-					debounce="1000" 
-					type="text" 
-					autogrow 
-					id="txtBody" 
-					:value="task.body" 
-					@input="saveTaskBody(task, arguments[0])"/>
-			</td>
-        </tr>
-      </tbody>
-    </q-markup-table>
+	<h2 v-if="user.loggedIn">{{document.subject}}</h2>
+	<q-markup-table class="o-markupTable" v-if="user.loggedIn">
+		<thead>
+			<tr>
+			<th class="m-titleTitle text-left">Title</th>
+			<th class="m-bodyTitle text-left">Task</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr v-for="task in tasks" :key="task.id">
+				<td class="m-titleColumn text-left">
+						<q-input 
+						dense 
+						borderless 
+						class="m-titleColumn__input" 
+						debounce="500" type="text" 
+						autogrow id="txtTitle" 
+						:value="task.title" 
+						@input="saveTaskTitle(task, arguments[0])"/>
+				</td>
+				<td class="m-bodyColumn text-left">
+						<q-input 
+						dense 
+						borderless 
+						class="m-bodyColumn__input" 
+						debounce="500" 
+						type="text" 
+						autogrow 
+						id="txtBody" 
+						:value="task.body" 
+						@input="saveTaskBody(task, arguments[0])"/>
+				</td>
+			</tr>
+		</tbody>
+	</q-markup-table>
 	<h4 v-if="!user.loggedIn">Please register or login above to access checklists.</h4>
   </div>
 </template>
@@ -52,11 +50,12 @@ import firebase from 'firebase';
 @Component
 export default class ToDo extends Vue {
 	public document: ITodoCollection = {
+		id: '',
 		subject: '',
 		credit: '',
+		topic: '',
 		todos: [],
 	};
-	public adminUID = `yPeXhzXz9GSUoEJktjsZnDsIokG3`;
 	public tasks: ITodo[] = [];
 	public selected: string[] = [];
 	public readonly columns = [
@@ -97,49 +96,57 @@ export default class ToDo extends Vue {
 	}
 	
 	public saveTaskTitle(task: ITodo, title: string ) {
-		let todoDataService = new TodoDataServicesCollection();
-		let newDocument: ITodoCollection = {
-			subject: this.document.subject,
-			credit: this.document.credit,
-			todos: this.document.todos.map((todo: ITodo) => {
-				if (todo.id === task.id) {
-					return {
-						id: task.id,
-						title: title,
-						body: task.body,
-					}
-				} else {
-					return todo;
+
+				let todoDataService = new TodoDataServicesCollection();
+				let newDocument: ITodoCollection = {
+					id: this.document.id,
+					subject: this.document.subject,
+					credit: this.document.credit,
+					topic: this.document.topic,
+					todos: this.document.todos.map((todo: ITodo) => {
+						if (todo.id === task.id) {
+							return {
+								id: task.id,
+								title: title,
+								body: task.body,
+							}
+						} else {
+							return todo;
+						}
+					})
 				}
-			})
-		}
-		let context = this;
-		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-		context.loadData();
-		})
+				let context = this;
+				todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+				context.loadData();
+				})
+
 	}
 
 	public saveTaskBody(task: ITodo, body: string ) {
-		let todoDataService = new TodoDataServicesCollection();
-		let newDocument: ITodoCollection = {
-			subject: this.document.subject,
-			credit: this.document.credit,
-			todos: this.document.todos.map((todo: ITodo) => {
-				if (todo.id === task.id) {
-					return {
-						id: task.id,
-						title: task.title,
-						body: body,
+
+			let todoDataService = new TodoDataServicesCollection();
+			let newDocument: ITodoCollection = {
+				id: this.document.id,
+				subject: this.document.subject,
+				credit: this.document.credit,
+				topic: this.document.topic,
+				todos: this.document.todos.map((todo: ITodo) => {
+					if (todo.id === task.id) {
+						return {
+							id: task.id,
+							title: task.title,
+							body: body,
+						}
+					} else {
+						return todo;
 					}
-				} else {
-					return todo;
-				}
+				})
+			}
+			let context = this;
+			todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+			context.loadData();
 			})
-		}
-		let context = this;
-		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-		context.loadData();
-		})
+
 	}
 
 	public loadData() {

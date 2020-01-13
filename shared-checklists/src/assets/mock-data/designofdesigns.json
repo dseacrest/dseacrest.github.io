@@ -1,6 +1,7 @@
 {
   "subject": "Design of Designs",
   "credit": "Design of Designs",
+  "topic": "UI/UX",
   "todos": [
     {
       "id": "1207",
@@ -20,7 +21,7 @@
     {
       "id": "1210",
       "title": "Change",
-      "body": "We who are crazy enough to think we can change the world are the one’s actually doing it."
+      "body": "We who are crazy enough to think we can change the world are the one's actually doing it."
     },
     {
       "id": "1211",
@@ -200,7 +201,7 @@
     {
       "id": "1246",
       "title": "Design Tree of Decisions",
-      "body": "Do until good enough or time runs out, do again to improve utility function, backtrack up tree, explore a path not searched before, take best design.  We usually don’t know the design tree, we discover it as we go.  Nodes on a decision tree are tentative designs."
+      "body": "Do until good enough or time runs out, do again to improve utility function, backtrack up tree, explore a path not searched before, take best design.  We usually don't know the design tree, we discover it as we go.  Nodes on a decision tree are tentative designs."
     },
     {
       "id": "1247",
@@ -225,7 +226,7 @@
     {
       "id": "1251",
       "title": "Alternatives",
-      "body": "Design isn’t simply selecting from alternatives, but also realizing their existence."
+      "body": "Design isn't simply selecting from alternatives, but also realizing their existence."
     },
     {
       "id": "1252",
@@ -265,7 +266,7 @@
     {
       "id": "1259",
       "title": "Fixing Things",
-      "body": "Be careful fixing what you don’t understand.  Two wrong things are worse than one wrong thing."
+      "body": "Be careful fixing what you don't understand.  Two wrong things are worse than one wrong thing."
     },
     {
       "id": "1260",

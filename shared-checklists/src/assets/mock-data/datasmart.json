@@ -1,6 +1,7 @@
 {
   "subject": "Data Smart Checklist",
   "credit": "Data Smart Checklist",
+  "topic": "Data",
   "todos": [
     {
       "id": "1185",
@@ -70,7 +71,7 @@
     {
       "id": "1198",
       "title": "Absolute Reference",
-      "body": "Add “!” or click ctrl/cmd plus T."
+      "body": "Add '!' or click ctrl/cmd plus T."
     }
   ]
 }

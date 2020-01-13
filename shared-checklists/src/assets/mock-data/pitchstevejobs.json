@@ -1,6 +1,7 @@
 {
-  "subject": "Pitch – Steve Jobs Checklist",
-  "credit": "Pitch – Steve Jobs Checklist",
+  "subject": "Pitch ' Steve Jobs Checklist",
+  "credit": "Pitch ' Steve Jobs Checklist",
+  "topic": "Pitch",
   "todos": [
     {
       "id": "4605",
@@ -25,7 +26,7 @@
     {
       "id": "4609",
       "title": "Inspiring Communicators",
-      "body": "Create something meaningful out of esoteric or everyday products.  Your widget doesn’t inspire me.  Show me how your widget improves my life, and you’ve won me over."
+      "body": "Create something meaningful out of esoteric or everyday products.  Your widget doesn't inspire me.  Show me how your widget improves my life, and you've won me over."
     },
     {
       "id": "4610",
@@ -35,7 +36,7 @@
     {
       "id": "4611",
       "title": "Analogies",
-      "body": "Comparison between two different things to highlight area of similarity.  Ex   It’s like the microprocessor for your brain.  "
+      "body": "Comparison between two different things to highlight area of similarity.  Ex   It's like the microprocessor for your brain.  "
     },
     {
       "id": "4612",
@@ -45,7 +46,7 @@
     {
       "id": "4613",
       "title": "Why should I care",
-      "body": "You need to answer why customers should care about this.  If you don’t you will fail.  Audience doesn’t care about your product, they care about themselves and how it meets their needs.  Sell dreams, not products."
+      "body": "You need to answer why customers should care about this.  If you don't you will fail.  Audience doesn't care about your product, they care about themselves and how it meets their needs.  Sell dreams, not products."
     },
     {
       "id": "4614",
@@ -60,7 +61,7 @@
     {
       "id": "4616",
       "title": "Punch",
-      "body": "When you’re ready, don’t be afraid to land the first punch at competitors."
+      "body": "When you're ready, don't be afraid to land the first punch at competitors."
     },
     {
       "id": "4617",
@@ -75,12 +76,12 @@
     {
       "id": "4619",
       "title": "Charisma",
-      "body": "Using people’s first name, looking at them in the eyes with a laser like stare.  Rhythm of speech."
+      "body": "Using people's first name, looking at them in the eyes with a laser like stare.  Rhythm of speech."
     },
     {
       "id": "4620",
       "title": "Metaphors",
-      "body": "Using a familiar term that people are familiar with but then highlighting the difference.  Its like the ….  For…."
+      "body": "Using a familiar term that people are familiar with but then highlighting the difference.  Its like the '.  For'."
     },
     {
       "id": "4621",
@@ -110,7 +111,7 @@
     {
       "id": "4626",
       "title": "Bucket Method",
-      "body": "Take any question you’ve ever been asked and put it into a bucket so you have common responses for categories of questions.  "
+      "body": "Take any question you've ever been asked and put it into a bucket so you have common responses for categories of questions.  "
     },
     {
       "id": "4627",
@@ -135,7 +136,7 @@
     {
       "id": "4631",
       "title": "Anaphora",
-      "body": "Repetition of the same words in consecutive sentences.  Ex  I have a dream…"
+      "body": "Repetition of the same words in consecutive sentences.  Ex  I have a dream'"
     },
     {
       "id": "4632",
@@ -150,22 +151,22 @@
     {
       "id": "4634",
       "title": "Put Numbers in Context",
-      "body": "People don’t understand what 5GB or 3G is.  They do understand the concepts of 1,000 songs in your pocket, twice as fast, watch the difference.  Address things in context.  Show the difference side by side.  "
+      "body": "People don't understand what 5GB or 3G is.  They do understand the concepts of 1,000 songs in your pocket, twice as fast, watch the difference.  Address things in context.  Show the difference side by side.  "
     },
     {
       "id": "4635",
       "title": "Simplification",
-      "body": "Most important part of Apple’s design process.  Keep slides simple.  If you can’t explain something simply, you don’t know it well enough.  "
+      "body": "Most important part of Apple's design process.  Keep slides simple.  If you can't explain something simply, you don't know it well enough.  "
     },
     {
       "id": "4636",
       "title": "Eye Contact",
-      "body": "Memorize everything so you can stare into audience’s eyes.  "
+      "body": "Memorize everything so you can stare into audience's eyes.  "
     },
     {
       "id": "4637",
       "title": "Common terms",
-      "body": "It’s like, more of what they love, twice as, half the, just one click, most, greenest, reinvents, fastest, what we’ve found in our research, why do you need this, who cares, quantum leap, one more thing, look back, extraordinary, thank you, it feels great, how thrilled I am,"
+      "body": "It's like, more of what they love, twice as, half the, just one click, most, greenest, reinvents, fastest, what we've found in our research, why do you need this, who cares, quantum leap, one more thing, look back, extraordinary, thank you, it feels great, how thrilled I am,"
     },
     {
       "id": "4638",
@@ -190,7 +191,7 @@
     {
       "id": "4642",
       "title": "Twitter Like Headlines",
-      "body": "Headlines you create that work so well that media will use them word for word.  Ex   World’s thinnest notebook. Must be specific, memorable and can fit in a twitter post.  They need to use third grader English.  Ex   A thousand songs that can fit in your pocket.   Consistently repeat your headline."
+      "body": "Headlines you create that work so well that media will use them word for word.  Ex   World's thinnest notebook. Must be specific, memorable and can fit in a twitter post.  They need to use third grader English.  Ex   A thousand songs that can fit in your pocket.   Consistently repeat your headline."
     },
     {
       "id": "4643",
@@ -210,17 +211,17 @@
     {
       "id": "4646",
       "title": "Surprise",
-      "body": "Don’t let them expect a surprise every time."
+      "body": "Don't let them expect a surprise every time."
     },
     {
       "id": "4647",
       "title": "Open Posture",
-      "body": "Don’t cross your arms or stand behind a lectern.  Start on stage but don’t be afraid to roam around the audience.  "
+      "body": "Don't cross your arms or stand behind a lectern.  Start on stage but don't be afraid to roam around the audience.  "
     },
     {
       "id": "4648",
       "title": "Have Fun",
-      "body": "Don’t be afraid to entertain and mess with the audience.  Frame things that went wrong as if they were supposed to happen."
+      "body": "Don't be afraid to entertain and mess with the audience.  Frame things that went wrong as if they were supposed to happen."
     },
     {
       "id": "4649",

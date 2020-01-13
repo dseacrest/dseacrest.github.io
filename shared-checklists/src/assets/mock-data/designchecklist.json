@@ -1,6 +1,7 @@
 {
   "subject": "102 Things Design Checklist",
   "credit": "102 Things Design Checklist",
+  "topic": "UI/UX",
   "todos": [
     {
       "id": "32",
@@ -95,7 +96,7 @@
     {
       "id": "50",
       "title": "Mental Models",
-      "body": "Design the conceptual model purposefully.  Don’t let it bubble up from the technology.  Conceptual model must match mental model closely.  Describe your product before you show it to your clients and get their reaction after you show it.  Was it what they expected?"
+      "body": "Design the conceptual model purposefully.  Don't let it bubble up from the technology.  Conceptual model must match mental model closely.  Describe your product before you show it to your clients and get their reaction after you show it.  Was it what they expected?"
     },
     {
       "id": "51",
@@ -105,7 +106,7 @@
     {
       "id": "52",
       "title": "Example",
-      "body": "People learn best by example.  Don’t just tell people, show them."
+      "body": "People learn best by example.  Don't just tell people, show them."
     },
     {
       "id": "53",
@@ -115,7 +116,7 @@
     {
       "id": "54",
       "title": "Time",
-      "body": "If people feel pressed for time they won’t stop to help someone.  Make sure they are not rushed."
+      "body": "If people feel pressed for time they won't stop to help someone.  Make sure they are not rushed."
     },
     {
       "id": "55",
@@ -125,12 +126,12 @@
     {
       "id": "56",
       "title": "Sleep",
-      "body": "When you’re stuck on something.  Sleep on it."
+      "body": "When you're stuck on something.  Sleep on it."
     },
     {
       "id": "57",
       "title": "Stick Out",
-      "body": "If it’s critical people pay attention to something make it stick out ten times more than anything else."
+      "body": "If it's critical people pay attention to something make it stick out ten times more than anything else."
     },
     {
       "id": "58",
@@ -140,12 +141,12 @@
     {
       "id": "59",
       "title": "Awareness & Attention",
-      "body": "After 7-10 minutes people’s attention drops to 50%.  Keep presentations under 7 minutes.  "
+      "body": "After 7-10 minutes people's attention drops to 50%.  Keep presentations under 7 minutes.  "
     },
     {
       "id": "60",
       "title": "Multitask",
-      "body": "People can’t multitask."
+      "body": "People can't multitask."
     },
     {
       "id": "61",
@@ -160,7 +161,7 @@
     {
       "id": "63",
       "title": "Dopamine",
-      "body": "Doesn’t increase pleasure but makes people want to search out more information.  Dopamine is triggered by something unexpected happening or a reward coming.  Most powerfully triggered when information comes in small amounts.  To prevent dopamine, turn of bells and ringers that alert you to new information."
+      "body": "Doesn't increase pleasure but makes people want to search out more information.  Dopamine is triggered by something unexpected happening or a reward coming.  Most powerfully triggered when information comes in small amounts.  To prevent dopamine, turn of bells and ringers that alert you to new information."
     },
     {
       "id": "64",
@@ -180,7 +181,7 @@
     {
       "id": "67",
       "title": "Lazy v. Efficient",
-      "body": "Efficient is sitting on the couch all day because you already completed your work, lazy is sitting on the couch all day when you haven’t completed any of your work."
+      "body": "Efficient is sitting on the couch all day because you already completed your work, lazy is sitting on the couch all day when you haven't completed any of your work."
     },
     {
       "id": "68",
@@ -215,12 +216,12 @@
     {
       "id": "74",
       "title": "Strength of Weak Ties",
-      "body": "Learn more from those you don’t know."
+      "body": "Learn more from those you don't know."
     },
     {
       "id": "75",
       "title": "Imitation & Empathy",
-      "body": "Mimicking other peoples body language makes them like you more.  Mirror people’s color preferences."
+      "body": "Mimicking other peoples body language makes them like you more.  Mirror people's color preferences."
     },
     {
       "id": "76",
@@ -325,7 +326,7 @@
     {
       "id": "96",
       "title": "Physical Product",
-      "body": "Having a picture doesn’t increase the likelihood of people buying the product but having the product in front of them did.  "
+      "body": "Having a picture doesn't increase the likelihood of people buying the product but having the product in front of them did.  "
     }
   ]
 }
