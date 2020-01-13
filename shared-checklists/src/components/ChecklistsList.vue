@@ -42,11 +42,6 @@ export default class ChecklistsList extends Vue {
   public documents: ITodoCollection[] = [];
 
   public topics: string[] = [
-    "Real Estate",
-    "Personal Growth",
-    "Organizational Growth",
-    "Data",
-    "Sales & Marketing",
     "UI/UX",
     "Efficiency",
     "Pitch",
@@ -57,6 +52,11 @@ export default class ChecklistsList extends Vue {
     "Fundraise",
     "Grit",
     "Finance",
+    "Sales & Marketing",
+    "Personal Growth",
+    "Organizational Growth",
+    "Data",
+    "Real Estate",
   ]
 
   public matchingTopics(topic: string) {
