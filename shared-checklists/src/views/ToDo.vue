@@ -15,13 +15,7 @@
 					<tbody>
 						<tr v-for="task in tasks" :key="task.id">
 							<td class="m-checkboxColumn text-center">
-								<div class="q-gutter-sm">
-									<q-item tag="label" v-ripple>
-										<q-item-section avatar>
-											<q-checkbox v-model="taskComplete" :val="task.title"/>
-										</q-item-section>
-									</q-item>
-								</div>
+								<q-checkbox dense v-model="taskComplete" :val="task.title"/>
 							</td>
 							<td class="m-titleColumn text-left">
 									<q-input 
@@ -276,7 +270,7 @@ export default class ToDo extends Vue {
 	.o-todo {
 		&__table {
 			&__markup {
-				width: 70%;
+				width: 95%;
 			}
 		}
 	}
