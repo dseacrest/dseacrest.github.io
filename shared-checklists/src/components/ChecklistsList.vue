@@ -1,33 +1,31 @@
 <template>
-  <div>
-    <h2 class="o-checklist__header">Checklists</h2>
-    <q-icon name="tab" class="o-checklist__header__notecards"/><span>   Study Cards   </span>
-    <q-icon name="done" class="o-checklist__header__checklists"/><span>   Checklists   </span>
-    <div class="o-checklist__list">
-      <q-card bordered class="my-card" v-for="(topic, index) in topics" :key="index">
-        <q-card-section>
-          <div class="o-checklist__list__topic text-h6">{{topic}}</div>
-        </q-card-section>
-
-      <q-separator inset />
-
-        <q-card-section v-for="(document, index) in matchingTopics(topic)" :key="index">
-          {{document.subject}} |
-          <router-link :to="{ name: 'notecards', params: {id: document.id}}">
-            <q-icon name="tab" class="o-checklist__list__notecardsIcon"/>
-          </router-link>
-          |
-          <router-link :to="{ name: 'todo', params: {id: document.id}}">
-            <q-icon name="done" class="o-checklist__list__todoIcon"/>
-          </router-link>
-        </q-card-section>
-      </q-card>
+    <div class="o-checklist">
+        <div class="o-checklist__header">
+            <q-icon name="tab" class="o-checklist__header__notecards"/><span>   Study Cards   </span>
+            <q-icon name="done" class="o-checklist__header__checklists"/><span>   Checklists   </span>
+        </div>
+        <div class="o-checklist__list">
+            <q-card bordered class="my-card" v-for="(topic, index) in topics" :key="index">
+                <q-card-section>
+                    <div class="o-checklist__list__topic text-h6">{{topic}}</div>
+                </q-card-section>
+            <q-separator inset />
+                <q-card-section v-for="(document, index) in matchingTopics(topic)" :key="index">
+                    {{document.subject}} |
+                    <router-link :to="{ name: 'notecards', params: {id: document.id}}">
+                        <q-icon name="tab" class="o-checklist__list__notecardsIcon"/>
+                    </router-link> |
+                    <router-link :to="{ name: 'todo', params: {id: document.id}}">
+                        <q-icon name="done" class="o-checklist__list__todoIcon"/>
+                    </router-link>
+                </q-card-section>
+            </q-card>
+        </div>
+        <h3>Credits</h3>
+        <ul>
+        <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+        </ul>
     </div>
-    <h3>Credits</h3>
-    <ul>
-      <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-    </ul>
-  </div>
 </template>
 
 <script lang="ts">
@@ -36,22 +34,23 @@ import IDocument from '@/models/document';
 import ITodoCollection from '@/models/todoCollection';
 import firebase from 'firebase';
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
+import router from '@/router/index';
 
 @Component
 export default class ChecklistsList extends Vue {
   public documents: ITodoCollection[] = [];
 
   public topics: string[] = [
+    "Service",
+    "Finance",
+    "Fundraise",
     "UI/UX",
     "Efficiency",
     "Pitch",
-    "Service",
-    "Innovators",
     "Human Resources",
     "Coding",
-    "Fundraise",
     "Grit",
-    "Finance",
+    "Innovators",
     "Sales & Marketing",
     "Personal Growth",
     "Organizational Growth",
@@ -82,33 +81,47 @@ export default class ChecklistsList extends Vue {
 <style scoped lang="scss">
 @import '../styles/quasar.variables.scss';
 .o-checklist {
-  &__list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; 
-    &__topic {
-      color: $primary;
+    &__header {
+        margin-top: 20px; 
+        color: $primary;
+        
+        &__notecards {
+        color: $primary;
+        }
+        
+        &__checklists {
+        color: $accent;
+        }
     }
-    &__notecardsIcon {
-      color: $primary;
+  
+    &__list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+
+
+        &__icon {
+            width: 32px;
+            height: 32px;
+        }
+        
+        &__topic {
+        color: $primary;
+        }
+        
+        &__notecardsIcon {
+        color: $primary;
+        }
+        
+        &__todoIcon {
+        color: $accent;
+        }
     }
-    &__todoIcon {
-      color: $accent;
-    }
-  }
-  &__header {
-    color: $primary;
-    &__notecards {
-      color: $primary;
-    }
-    &__checklists {
-      color: $accent;
-    }
-  }
+  
 }
 .my-card {
-  max-width: 300px;
-  min-width: 300px;
+  max-width: 500px;
+  min-width: 500px;
   margin: 20px;
 }
 

@@ -4,18 +4,7 @@ export default interface IDocument {
     topic: string;
 }
 
-// export enum Topic {
-//     Finance = 'Finance',
-//     Fundraise = 'Fundraise',
-//     Pitch = 'Pitch',
-//     Efficiency = 'Efficiency',
-//     Wellbeing = 'Wellbeing',
-//     Smarketing = 'Smarketing',
-//     RealEstate = 'RealEstate',
-//     Coding = 'Coding',
-//     OrganizationalGrowth = 'OrganizationalGrowth',
-//     Data = 'Data',
-//     UIUX = 'UIUX',
-//     Innovators = 'Innovators',
-
-// }
+export interface ITopic {
+    name: string;
+    image: NodeRequire;
+}

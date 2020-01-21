@@ -10,7 +10,7 @@
 						class="o-notecard__card __title text-h6 bg-grey-2" 
 						v-if="toggleCard"
 					>
-						{{title}}
+						When You're {{document.subject}}...({{title}})
 					</div>
 					<div 
 						class="o-notecard__card -body text-subtitle1" 

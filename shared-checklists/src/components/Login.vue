@@ -1,5 +1,6 @@
 <template>
 <div class="o-login">
+  <h2>Login</h2>
   <form action="#" @submit.prevent="submit" class="o-login__form">
     
     <div class="o-login__formItem -email">

@@ -1,5 +1,6 @@
 <template>
   <div class="o-register">
+    <h2>Register</h2>
     <form action="#" @submit.prevent="submit">
       
       <div class="o-register__formItem -name">

@@ -1,15 +1,15 @@
 <template>
-    <div id="nav">
-        <h5 v-if="user.loggedIn">
-            <router-link to="/">Home</router-link> |
-            <router-link to="/upload" v-if="user.data.uid === `yPeXhzXz9GSUoEJktjsZnDsIokG3`">Upload</router-link><span v-if="user.data.uid === `yPeXhzXz9GSUoEJktjsZnDsIokG3`"> | </span>
+    <div class="o-navbar">
+        <div class="o-navbar__logo" >
+            <router-link to="/">Checklists</router-link>
+        </div>
+        <div class="o-navbar__loggedIn" v-if="user.loggedIn">
             <a class="nav-link" @click.prevent="signOut">Sign out</a>
-        </h5>
-        <h5 v-else>
-            <router-link to="/">Home</router-link> |
+        </div>
+        <div class="o-navbar__loggedOut"  v-else>
             <router-link to="/login">Login</router-link> |
             <router-link to="/register">Register</router-link>
-        </h5>
+        </div>
     </div>
 </template>
 
@@ -41,19 +41,32 @@ export default class NavBar extends Vue {
 <style lang="scss">
 @import '@/styles/quasar.variables.scss';
 
-h5 a {
-    text-decoration: none;
-}
-
-#nav {
-
-  a {
-    font-weight: bold;
-    color: $secondary;
-
-    &.router-link-exact-active {
-      color: $accent;
+.o-navbar {
+    display: flex;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 0 30px;
+    background-image: url("../assets/header.png");
+    &__logo {
+        font-size: 2em;
+        font-weight: bold;
+        color: white;
     }
-  }
+    &__loggedIn {
+        font-size: 1.5em;
+    }
+    &__loggedOut {
+        font-size: 1.5em;
+    }
+    background-color: $primary;
+    a {
+        text-decoration: none;
+        color: white;
+
+        &.router-link-exact-active {
+        color: secondary;
+        }
+    }
 }
 </style>

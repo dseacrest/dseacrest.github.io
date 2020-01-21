@@ -1,0 +1,11 @@
+--Business Backlog--
+Chamber Innovation Grant
+Name
+Branding
+If Grant, Hire someone to cleanup data, add coding notecards, add spanish notecards
+
+--Dev Backlog--
+Credits
+Checkbox on Checklists that Scores Completeness (doesn't save at first, use red, yellow, green, slider on mobile?)
+Create Own Version - Open Checklist Looks for Version with User Id, Else Creates New Doc w/template data and User Id.
+Users Edit via - Wiki, - Comments, - Voting, - Create Own Version

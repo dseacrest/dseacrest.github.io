@@ -1,42 +1,67 @@
 <template>
-  <div class="q-pa-md q-gutter-md">
-	<h2 v-if="user.loggedIn">{{document.subject}}</h2>
-	<q-markup-table class="o-markupTable" v-if="user.loggedIn">
-		<thead>
-			<tr>
-			<th class="m-titleTitle text-left">Title</th>
-			<th class="m-bodyTitle text-left">Task</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr v-for="task in tasks" :key="task.id">
-				<td class="m-titleColumn text-left">
-						<q-input 
-						dense 
-						borderless 
-						class="m-titleColumn__input" 
-						debounce="500" type="text" 
-						autogrow id="txtTitle" 
-						:value="task.title" 
-						@input="saveTaskTitle(task, arguments[0])"/>
-				</td>
-				<td class="m-bodyColumn text-left">
-						<q-input 
-						dense 
-						borderless 
-						class="m-bodyColumn__input" 
-						debounce="500" 
-						type="text" 
-						autogrow 
-						id="txtBody" 
-						:value="task.body" 
-						@input="saveTaskBody(task, arguments[0])"/>
-				</td>
-			</tr>
-		</tbody>
-	</q-markup-table>
-	<h4 v-if="!user.loggedIn">Please register or login above to access checklists.</h4>
-  </div>
+	<div>
+		<div class="o-todo -loggedId" v-if="user.loggedIn">
+			<h2 class="o-todo__subject">{{document.subject}}</h2>
+			<h5 class="o-todo__subjectQuestion">When You're {{document.subject}}...</h5>
+			<div class="o-todo__table q-pa-md q-gutter-md">
+				<q-markup-table class="o-todo__table__markup">
+					<thead>
+						<tr>
+						<th class="m-checkboxTitle text-left">Status</th>
+						<th class="m-titleTitle text-left">Title</th>
+						<th class="m-bodyTitle text-left">Task</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr v-for="task in tasks" :key="task.id">
+							<td class="m-checkboxColumn text-center">
+								<div class="q-gutter-sm">
+									<q-item tag="label" v-ripple>
+										<q-item-section avatar>
+											<q-checkbox v-model="taskComplete" :val="task.title"/>
+										</q-item-section>
+									</q-item>
+								</div>
+							</td>
+							<td class="m-titleColumn text-left">
+									<q-input 
+									dense 
+									borderless 
+									class="m-titleColumn__input" 
+									debounce="500" type="text" 
+									autogrow id="txtTitle" 
+									:value="task.title" 
+									@input="saveTaskTitle(task, arguments[0])"/>
+							</td>
+							<td class="m-bodyColumn text-left">
+									<q-input 
+									dense 
+									borderless 
+									class="m-bodyColumn__input" 
+									debounce="500" 
+									type="text" 
+									autogrow 
+									id="txtBody" 
+									:value="task.body" 
+									@input="saveTaskBody(task, arguments[0])"/>
+							</td>
+						</tr>
+					</tbody>
+				</q-markup-table>
+				<div class="o-todo__addRecord">
+					<q-btn @click="addRecord()">Add Record</q-btn>
+				</div>
+			</div>
+			<div>
+				Total number of tasks: <strong>{{ document.todos.length }}</strong>
+				Total number of tasks complete: <strong>{{ taskComplete.length }}</strong>
+				% of tasks complete: <strong>{{new Intl.NumberFormat().format((taskComplete.length / document.todos.length) * 100) }}%</strong>
+			</div>
+		</div>
+		<div class="o-todo -loggedOut" v-if="!user.loggedIn">
+			<h4>Please register or login above to access checklists.</h4>
+		</div>
+	</div>
 </template>
 
 <script lang='ts'>
@@ -49,6 +74,7 @@ import firebase from 'firebase';
 
 @Component
 export default class ToDo extends Vue {
+	public taskComplete: string[] = [];
 	public document: ITodoCollection = {
 		id: '',
 		subject: '',
@@ -96,57 +122,84 @@ export default class ToDo extends Vue {
 	}
 	
 	public saveTaskTitle(task: ITodo, title: string ) {
-
-				let todoDataService = new TodoDataServicesCollection();
-				let newDocument: ITodoCollection = {
-					id: this.document.id,
-					subject: this.document.subject,
-					credit: this.document.credit,
-					topic: this.document.topic,
-					todos: this.document.todos.map((todo: ITodo) => {
-						if (todo.id === task.id) {
-							return {
-								id: task.id,
-								title: title,
-								body: task.body,
-							}
-						} else {
-							return todo;
-						}
-					})
+		let todoDataService = new TodoDataServicesCollection();
+		let newDocument: ITodoCollection = {
+			id: this.document.id,
+			subject: this.document.subject,
+			credit: this.document.credit,
+			topic: this.document.topic,
+			todos: this.document.todos.map((todo: ITodo) => {
+				if (todo.id === task.id) {
+					return {
+						id: task.id,
+						title: title,
+						body: task.body,
+					}
+				} else {
+					return todo;
 				}
-				let context = this;
-				todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-				context.loadData();
-				})
+			})
+		}
+		let context = this;
+		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+		context.loadData();
+		})
 
 	}
 
 	public saveTaskBody(task: ITodo, body: string ) {
-
-			let todoDataService = new TodoDataServicesCollection();
-			let newDocument: ITodoCollection = {
-				id: this.document.id,
-				subject: this.document.subject,
-				credit: this.document.credit,
-				topic: this.document.topic,
-				todos: this.document.todos.map((todo: ITodo) => {
-					if (todo.id === task.id) {
-						return {
-							id: task.id,
-							title: task.title,
-							body: body,
-						}
-					} else {
-						return todo;
+		let todoDataService = new TodoDataServicesCollection();
+		let newDocument: ITodoCollection = {
+			id: this.document.id,
+			subject: this.document.subject,
+			credit: this.document.credit,
+			topic: this.document.topic,
+			todos: this.document.todos.map((todo: ITodo) => {
+				if (todo.id === task.id) {
+					return {
+						id: task.id,
+						title: task.title,
+						body: body,
 					}
-				})
-			}
-			let context = this;
-			todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-			context.loadData();
+				} else {
+					return todo;
+				}
 			})
+		}
+		let context = this;
+		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+		context.loadData();
+		})
 
+	}
+
+	public addRecord() {
+		let todoDataService = new TodoDataServicesCollection();
+		let newDocument: ITodoCollection = {
+			id: this.document.id,
+			subject: this.document.subject,
+			credit: this.document.credit,
+			topic: this.document.topic,
+			todos: [...this.document.todos, {id: this.todoIdGenerator(), title:'', body:''}]
+		}
+		let context = this;
+		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+		context.loadData();
+		})
+	}
+
+	public todoIdGenerator(): string {
+		let exists: boolean = false;
+		let newId: string = '';
+		do {
+			newId = (Math.floor(Math.random() * 1000000) + 1000000).toString();
+			this.document.todos.map((todo: ITodo) => {
+				if (todo.id === newId) {
+					exists = true;
+				}
+			});
+		} while (exists);
+		return newId;
 	}
 
 	public loadData() {
@@ -177,8 +230,26 @@ export default class ToDo extends Vue {
 	align-items: center;
 }
 
-.o-markupTable {
-	width: 70%;
+.o-todo {
+	&__table {
+		&__markup {
+			width: 70%;
+			&__foot {
+				width: 100%;
+				display: flex;
+			}
+		}
+	}
+}
+
+.m-checkboxTitle,
+.m-checkboxColumn {
+	width: 5%;
+	height: auto;
+
+	&__input {
+		font-size: 1.75vmax;
+	}
 }
 
 .m-titleTitle,
@@ -193,7 +264,7 @@ export default class ToDo extends Vue {
 
 .m-bodyTitle,
 .m-bodyColumn {
-	width: 70%;
+	width: 65%;
 	height: 100%;
 
 	&__input {
@@ -202,10 +273,23 @@ export default class ToDo extends Vue {
 }
 
 @media (max-width: 600px) {
-	.o-markupTable {
-		width: 90%;
+	.o-todo {
+		&__table {
+			&__markup {
+				width: 70%;
+			}
+		}
 	}
 
+	.m-checkboxTitle,
+	.m-checkboxColumn {
+		width: 5%;
+		height: auto;
+
+		&__input {
+			font-size: 1.5vmax;
+		}
+	}
 	.m-titleTitle,
 	.m-titleColumn {
 		width: 30%;
@@ -213,13 +297,13 @@ export default class ToDo extends Vue {
 
 
 		&__input {
-			font-size: 1.75vmax;
+			font-size: 1.5vmax;
 		}
 	}
 
 	.m-bodyTitle,
 	.m-bodyColumn {
-		width: 70%;
+		width: 65%;
 		height: 100%;
 
 		&__input {

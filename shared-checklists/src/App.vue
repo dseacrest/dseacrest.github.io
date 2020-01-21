@@ -1,17 +1,20 @@
 <template>
   <div id="app">
     <navbar></navbar>
+    <actionnavbar></actionnavbar>
     <main class="py-4">
-      <router-view></router-view>
+        <router-view></router-view>
     </main>
   </div>
 </template>
 
 <script>
-import navbar from "./components/Navbar";
+import navbar from "./components/Navbar.vue";
+import actionnavbar from "./components/ActionNavbar.vue";
 export default {
   components: {
-    navbar
+    navbar,
+    actionnavbar,
   }
 };
 </script>
