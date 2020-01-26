@@ -1,5 +1,5 @@
 import {FireStoreDataServices} from '@/helpers/FireStoreDataServices';
-import ITodoCollection from '@/models/todoCollection';
+import ITodoCollection, { ITodo } from '@/models/todoCollection';
 
 export class TodoDataServicesCollection{
 
@@ -15,6 +15,10 @@ export class TodoDataServicesCollection{
 
     Delete(recordId: string){
         return this.dataServices.deleteRecord(recordId, "tasks");
+    }
+
+    DeleteTodoField(recordId: string, task: ITodo){
+        return this.dataServices.deleteTodoField(recordId, "tasks", task);
     }
 
     Update(todo: ITodoCollection, recordId: string) {

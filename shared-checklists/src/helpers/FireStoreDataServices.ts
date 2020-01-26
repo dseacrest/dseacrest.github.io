@@ -1,4 +1,6 @@
 import db from '@/main';
+import firebase from 'firebase';
+import { ITodo } from '@/models/todoCollection';
 
 export class FireStoreDataServices {
 
@@ -45,6 +47,19 @@ export class FireStoreDataServices {
     deleteRecord(recordID: string, tableName: string) {
         return new Promise(function (resolve, reject) {
             db.collection(tableName).doc(recordID).delete().then(function (doc) {
+                resolve();
+            }).catch(function (error) {
+                reject(error);
+            });
+        });
+    }
+
+    deleteTodoField(recordID: string, tableName: string, task: ITodo) {
+        return new Promise(function (resolve, reject) {
+            console.log(tableName);
+            console.log(recordID);
+            console.log(task);
+            db.collection(tableName).doc(recordID).update({'todos': firebase.firestore.FieldValue.arrayRemove({id: task.id, body: task.body, title: task.title})}).then(function (doc) {
                 resolve();
             }).catch(function (error) {
                 reject(error);

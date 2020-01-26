@@ -82,7 +82,7 @@ export default class ActionNavbar extends Vue {
             subject: this.documentName,
             credit: this.documentCredit,
             topic: this.documentTopic,
-            todos: [{id: '', title:'', body:''}],
+            todos: [{id: this.todoIdGenerator(), title:'', body:''}],
         }
         todoDataService.Add(newDocument).then((id:any) => {
             this.$router.replace({
@@ -90,6 +90,11 @@ export default class ActionNavbar extends Vue {
             });
         })
     }
+
+	public todoIdGenerator(): string {
+        return (Math.floor(Math.random() * 1000000) + 1000000).toString();
+	}
+
 };
 </script>
 

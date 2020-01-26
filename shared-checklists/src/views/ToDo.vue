@@ -10,6 +10,7 @@
 						<th class="m-checkboxTitle text-left">Status</th>
 						<th class="m-titleTitle text-left">Title</th>
 						<th class="m-bodyTitle text-left">Task</th>
+						<th class="m-deleteTitle text-left"  v-if="user.data.uid === adminId"></th>
 						</tr>
 					</thead>
 					<tbody>
@@ -39,10 +40,13 @@
 									:value="task.body" 
 									@input="saveTaskBody(task, arguments[0])"/>
 							</td>
+							<td class="m-deleteColumn text-center"  v-if="user.data.uid === adminId">
+								<q-btn class="m-deleteColumn__button" flat @click="deleteTodo(document, task)">X</q-btn>
+							</td>
 						</tr>
 					</tbody>
 				</q-markup-table>
-				<div class="o-todo__addRecord">
+				<div class="o-todo__addRecord"  v-if="user.data.uid === adminId">
 					<q-btn @click="addRecord()">Add Record</q-btn>
 				</div>
 			</div>
@@ -65,9 +69,11 @@ import QInput from 'quasar';
 import ITodoCollection, {ITodo} from '@/models/todoCollection';
 import { mapGetters } from "vuex";
 import firebase from 'firebase';
+import "../registerServiceWorker";
 
 @Component
 export default class ToDo extends Vue {
+	public adminId = process.env.VUE_APP_FIREBASE_ADMIN;
 	public taskComplete: string[] = [];
 	public document: ITodoCollection = {
 		id: '',
@@ -178,6 +184,14 @@ export default class ToDo extends Vue {
 		}
 		let context = this;
 		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+		context.loadData();
+		})
+	}
+
+	public deleteTodo(document: ITodoCollection, task: ITodo) {
+		let todoDataService = new TodoDataServicesCollection();
+		let context = this;
+		todoDataService.DeleteTodoField(document.id, task).then(function () {
 		context.loadData();
 		})
 	}
