@@ -7,7 +7,7 @@
             
         </div>
 
-        <!-- Todo: Put in component. -->
+        <!-- Add Checklist Dialog. -->
 		<div class="o-actionNavbar__addDocumentDialog q-pa-md q-gutter-md">
 			<q-dialog v-model="prompt" persistent>
 			<q-card style="min-width: 400px; padding: 10px;">

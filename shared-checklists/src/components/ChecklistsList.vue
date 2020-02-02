@@ -23,7 +23,7 @@
         </div>
         <h3>Credits</h3>
         <ul>
-        <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+        <div>Students and Faculty at <a href="https://www.nebrwesleyan.edu/" title="NWU">Nebraska Wesleyan University</a>.</div>
         </ul>
     </div>
 </template>
@@ -38,42 +38,58 @@ import router from '@/router/index';
 
 @Component
 export default class ChecklistsList extends Vue {
-  public documents: ITodoCollection[] = [];
+    public documents: ITodoCollection[] = [];
+    public adminId = process.env.VUE_APP_FIREBASE_ADMIN;
 
-  public topics: string[] = [
-    "Service",
-    "Finance",
-    "Fundraise",
-    "UI/UX",
-    "Efficiency",
-    "Pitch",
-    "Human Resources",
-    "Coding",
-    "Grit",
-    "Innovators",
-    "Sales & Marketing",
-    "Personal Growth",
-    "Organizational Growth",
-    "Data",
-    "Real Estate",
-  ]
+    public get topics(): string[] {
+        let topicList = [
+        "Service",
+        "Finance",
+        "Fundraise",
+        "UI/UX",
+        "Efficiency",
+        "Pitch",
+        "Human Resources",
+        "Coding",
+        "Grit",
+        "Innovators",
+        "Sales & Marketing",
+        "Personal Growth",
+        "Organizational Growth",
+        "Data",
+        "Real Estate",
+        ]
+        let adminList = [
+            ...topicList,
+            "Pending"
+        ]
+        if (this.user.data && this.user.data.uid === this.adminId) {
+            return adminList;
+        } else {
+            return topicList;
+        }
+    }
 
-  public matchingTopics(topic: string) {
-    return this.documents.filter(document => document.topic === topic);
-  }
+    public matchingTopics(topic: string) {
+        return this.documents.filter(document => document.topic === topic);
+    }
 
-  beforeMount() {
-		firebase.auth().onAuthStateChanged(() => {
-			this.loadData();
-		})
-  }
+    public get user() {
+        return this.$store.getters.user;
+    }
+
+    beforeMount() {
+        firebase.auth().onAuthStateChanged(() => {
+            this.loadData();
+        })
+    }
   
-  public loadData() {
-		let todoDataService = new TodoDataServicesCollection();
-		todoDataService.GetAll().then((listData:any) => {
-			this.documents = listData;
-		});
-	}
+    public loadData() {
+        let todoDataService = new TodoDataServicesCollection();
+        todoDataService.GetAll().then((listData:any) => {
+            this.documents = listData;
+        });
+    }
 
 }
 </script>
@@ -117,7 +133,6 @@ export default class ChecklistsList extends Vue {
         color: $accent;
         }
     }
-  
 }
 .my-card {
   max-width: 500px;

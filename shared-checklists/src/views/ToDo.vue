@@ -70,19 +70,12 @@ import ITodoCollection, {ITodo} from '@/models/todoCollection';
 import { mapGetters } from "vuex";
 import firebase from 'firebase';
 import "../registerServiceWorker";
+import ToDoViewModule from '@/store/view/ToDoViewModule';
 
 @Component
 export default class ToDo extends Vue {
 	public adminId = process.env.VUE_APP_FIREBASE_ADMIN;
 	public taskComplete: string[] = [];
-	public document: ITodoCollection = {
-		id: '',
-		subject: '',
-		credit: '',
-		topic: '',
-		todos: [],
-	};
-	public tasks: ITodo[] = [];
 	public selected: string[] = [];
 	public readonly columns = [
 		{
@@ -107,12 +100,20 @@ export default class ToDo extends Vue {
         rowsPerPage: 250,
 	}
 
+	public get tasks(): ITodo[] {
+		return ToDoViewModule.tasks;
+	}
+	
+	public get document(): ITodoCollection {
+		return ToDoViewModule.document;
+	}
+
 	public get user() {
 		return this.$store.getters.user;
 	}
 
 	public getSelectedString() {
-      	return this.selected.length === 0 ? '' : `${this.selected.length} record${this.selected.length > 1 ? 's' : ''} selected of ${this.tasks.length}`
+		return this.selected.length === 0 ? '' : `${this.selected.length} record${this.selected.length > 1 ? 's' : ''} selected of ${this.tasks.length}`
 	}
 
 	beforeMount() {
@@ -211,20 +212,8 @@ export default class ToDo extends Vue {
 	}
 
 	public loadData() {
-		let todoDataService = new TodoDataServicesCollection();
-		todoDataService.GetRecord(this.$route.params.id).then((listData:any) => {
-			this.document = listData;
-			this.tasks = listData.todos;
-		});
+		ToDoViewModule.loadDocument(this.$route.params.id);
 	}
-
-	// public removeTask(record: any) {
-	// 	let todoDataService = new TodoDataServicesCollection();
-	// 	let context = this;
-	// 	todoDataService.Delete(record.id).then(function () {
-	// 	context.loadData();
-	// 	});
-	// }
 
 }
 
@@ -272,7 +261,17 @@ export default class ToDo extends Vue {
 
 .m-bodyTitle,
 .m-bodyColumn {
-	width: 65%;
+	width: 60%;
+	height: 100%;
+
+	&__input {
+		font-size: 1.25vmax;
+	}
+}
+
+.m-deleteTitle,
+.m-deleteColumn {
+	width: 5%;
 	height: 100%;
 
 	&__input {
@@ -311,13 +310,23 @@ export default class ToDo extends Vue {
 
 	.m-bodyTitle,
 	.m-bodyColumn {
-		width: 65%;
+		width: 60%;
 		height: 100%;
 
 		&__input {
 			font-size: 1.5vmax;
 		}
 	}	
+
+	.m-deleteTitle,
+	.m-deleteColumn {
+	width: 5%;
+	height: 100%;
+
+	&__input {
+		font-size: 1.25vmax;
+	}
+}
 }
 
 </style>

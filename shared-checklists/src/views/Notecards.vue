@@ -65,21 +65,21 @@ import QInput from 'quasar';
 import ITodoCollection, {ITodo} from '@/models/todoCollection';
 import { mapGetters } from "vuex";
 import firebase from 'firebase';
+import ToDoViewModule from '@/store/view/ToDoViewModule';
 
 @Component
 export default class Notecards extends Vue {
 	public currentCard: number = 0;
 	public toggleCard: boolean = true;
-	public document: ITodoCollection = {
-		id: '',
-		subject: '',
-		credit: '',
-		topic: '',
-		todos: [],
-	};
-	public adminUID = `yPeXhzXz9GSUoEJktjsZnDsIokG3`;
-	public tasks: ITodo[] = [];
 	public selected: string[] = [];
+
+	public get tasks(): ITodo[] {
+		return ToDoViewModule.tasks;
+	}
+	
+	public get document(): ITodoCollection {
+		return ToDoViewModule.document;
+	}
 
 	public get user() {
 		return this.$store.getters.user;
@@ -137,11 +137,7 @@ export default class Notecards extends Vue {
 	}
 
 	public loadData() {
-		let todoDataService = new TodoDataServicesCollection();
-		todoDataService.GetRecord(this.$route.params.id).then((listData:any) => {
-			this.document = listData;
-			this.tasks = listData.todos;
-		});
+		ToDoViewModule.loadDocument(this.$route.params.id);
 	}
 }
 
