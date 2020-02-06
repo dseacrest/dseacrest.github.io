@@ -1,6 +1,6 @@
 <template>
     <div class="o-actionNavbar">
-        <div class="o-actionNavbar__adminLoggedIn" v-if="user.data.uid === adminId">
+        <div class="o-actionNavbar__adminLoggedIn" v-if="user.data ? user.data.uid === adminId : false">
             <q-btn class="o-actionNavbar__adminLoggedIn__btn" flat dense @click="addDocumentDialog()">Add Checklist</q-btn>
         </div>
         <div class="o-actionNavbar__adminLoggedOut"  v-else>

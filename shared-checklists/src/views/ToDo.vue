@@ -16,7 +16,7 @@
 					<tbody>
 						<tr v-for="task in tasks" :key="task.id">
 							<td class="m-checkboxColumn text-center">
-								<q-checkbox dense v-model="taskComplete" :val="task.title"/>
+								<q-checkbox dense v-model="taskComplete" :val="task.id"/>
 							</td>
 							<td class="m-titleColumn text-left">
 									<q-input 

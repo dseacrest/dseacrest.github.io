@@ -19,4 +19,6 @@ git commit -m 'deploy'
 
 # force push to git
 
+git push -f https://github.com/dseacrest/dseacrest.github.io.git develop
+
 git push -f https://github.com/dseacrest/dseacrest.github.io.git master

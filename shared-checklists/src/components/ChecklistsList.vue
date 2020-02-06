@@ -1,9 +1,5 @@
 <template>
     <div class="o-checklist">
-        <div class="o-checklist__header">
-            <q-icon name="tab" class="o-checklist__header__notecards"/><span>   Study Cards   </span>
-            <q-icon name="done" class="o-checklist__header__checklists"/><span>   Checklists   </span>
-        </div>
         <div class="o-checklist__list">
             <q-card bordered class="my-card" v-for="(topic, index) in topics" :key="index">
                 <q-card-section>
@@ -11,16 +7,11 @@
                 </q-card-section>
             <q-separator inset />
                 <q-card-section v-for="(document, index) in matchingTopics(topic)" :key="index">
-                    {{document.subject}} |
-                    <router-link :to="{ name: 'notecards', params: {id: document.id}}">
-                        <q-icon name="tab" class="o-checklist__list__notecardsIcon"/>
-                    </router-link> |
-                    <router-link :to="{ name: 'todo', params: {id: document.id}}">
-                        <q-icon name="done" class="o-checklist__list__todoIcon"/>
-                    </router-link>
+                    <a @click="openFeatureDialog(document.id)">{{document.subject}}</a>
                 </q-card-section>
             </q-card>
         </div>
+        <FeatureSelectDialog :activeValue.sync="featureSelectDialogActive" />
         <h3>Credits</h3>
         <ul>
         <div>Students and Faculty at <a href="https://www.nebrwesleyan.edu/" title="NWU">Nebraska Wesleyan University</a>.</div>
@@ -35,9 +26,16 @@ import ITodoCollection from '@/models/todoCollection';
 import firebase from 'firebase';
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 import router from '@/router/index';
+import FeatureSelectDialog from '@/components/FeatureSelectDialog.vue';
+import ChecklistViewModule from '@/store/application/ChecklistViewModule';
 
-@Component
+@Component({
+    components: {
+        FeatureSelectDialog,
+    }
+})
 export default class ChecklistsList extends Vue {
+    public featureSelectDialogActive: boolean = false;
     public documents: ITodoCollection[] = [];
     public adminId = process.env.VUE_APP_FIREBASE_ADMIN;
 
@@ -68,6 +66,10 @@ export default class ChecklistsList extends Vue {
         } else {
             return topicList;
         }
+    }
+
+    public openFeatureDialog(documentId: string) {
+        ChecklistViewModule.openFeatureDialog(documentId);
     }
 
     public matchingTopics(topic: string) {
@@ -152,6 +154,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: $accent;
+  color: $primary;
 }
 </style>
