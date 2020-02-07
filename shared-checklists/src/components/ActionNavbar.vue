@@ -89,6 +89,7 @@ export default class ActionNavbar extends Vue {
                 path: '/todo/' + id,
             });
         })
+        this.$gtag.event('documentAdded', {event_category: `${this.documentName} in ${this.documentTopic} was added.).`, event_label: '', value: 0} );
     }
 
 	public todoIdGenerator(): string {

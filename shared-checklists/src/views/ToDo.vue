@@ -1,8 +1,7 @@
 <template>
 	<div>
 		<div class="o-todo -loggedId" v-if="user.loggedIn">
-			<h2 class="o-todo__subject">{{document.subject}}</h2>
-			<h5 class="o-todo__subjectQuestion">When You're {{document.subject}}...</h5>
+			<div class="o-todo__subject">{{document.subject}}</div>
 			<div class="o-todo__table q-pa-md q-gutter-md">
 				<q-markup-table class="o-todo__table__markup">
 					<thead>
@@ -41,7 +40,7 @@
 									@input="saveTaskBody(task, arguments[0])"/>
 							</td>
 							<td class="m-deleteColumn text-center"  v-if="user.data.uid === adminId">
-								<q-btn class="m-deleteColumn__button" flat @click="deleteTodo(document, task)">X</q-btn>
+								<q-btn dense class="m-deleteColumn__button" flat @click="deleteTodo(document, task)">X</q-btn>
 							</td>
 						</tr>
 					</tbody>
@@ -228,6 +227,10 @@ export default class ToDo extends Vue {
 }
 
 .o-todo {
+	&__subject {
+		font-size: 4em;
+		padding: 20px;
+	}
 	&__table {
 		&__markup {
 			width: 70%;
@@ -251,7 +254,7 @@ export default class ToDo extends Vue {
 
 .m-titleTitle,
 .m-titleColumn {
-	width: 30%;
+	width: 25%;
 	height: auto;
 
 	&__input {
@@ -261,7 +264,7 @@ export default class ToDo extends Vue {
 
 .m-bodyTitle,
 .m-bodyColumn {
-	width: 60%;
+	width: 65%;
 	height: 100%;
 
 	&__input {
@@ -281,6 +284,9 @@ export default class ToDo extends Vue {
 
 @media (max-width: 600px) {
 	.o-todo {
+		&__subject {
+			font-size: 3em;
+		}
 		&__table {
 			&__markup {
 				width: 95%;
@@ -299,7 +305,7 @@ export default class ToDo extends Vue {
 	}
 	.m-titleTitle,
 	.m-titleColumn {
-		width: 30%;
+		width: 25%;
 		height: auto;
 
 
@@ -310,7 +316,7 @@ export default class ToDo extends Vue {
 
 	.m-bodyTitle,
 	.m-bodyColumn {
-		width: 60%;
+		width: 65%;
 		height: 100%;
 
 		&__input {

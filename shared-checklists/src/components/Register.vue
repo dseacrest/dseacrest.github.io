@@ -75,24 +75,25 @@ export default class Register extends Vue {
   public error = null;
 
   public submit() {
-    firebase
-      .auth()
-      .createUserWithEmailAndPassword(this.form.email, this.form.password)
-      .then(data => {
-        if (data.user) {
-          data.user
-            .updateProfile({
-              displayName: this.form.name
-            })
-            .then(() => {
-              this.$router.replace({ name: "home" });
-      })
-        }
-      })
-      .catch(err => {
-        this.error = err.message;
-      });
-  }
+        firebase
+        .auth()
+        .createUserWithEmailAndPassword(this.form.email, this.form.password)
+        .then(data => {
+            if (data.user) {
+            data.user
+                .updateProfile({
+                displayName: this.form.name
+                })
+                .then(() => {
+                this.$router.replace({ name: "home" });
+        })
+            }
+        })
+        .catch(err => {
+            this.error = err.message;
+        });
+        this.$gtag.event('sign_up', {event_category: `${this.form.name} signed up.`, event_label: '', value: 0} );
+    }
 
 };
 </script>

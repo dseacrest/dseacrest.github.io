@@ -13,7 +13,12 @@ import 'firebase/firestore';   // for cloud firestore
 import 'firebase/messaging';   // for cloud messaging
 import 'firebase/functions';   // for cloud functions
 
-import 'firebase/firestore'
+import 'firebase/firestore';
+import VueGtag from "vue-gtag";
+
+Vue.use(VueGtag, {
+  config: { id: "UA-155328117-1" }
+});
 
 Vue.config.productionTip = false;
 
@@ -33,6 +38,7 @@ const firebaseApp = firebase.initializeApp(config);
 firebase.auth().onAuthStateChanged(user => {
   store.dispatch("fetchUser", user);
 });
+
 
 new Vue({
   router,

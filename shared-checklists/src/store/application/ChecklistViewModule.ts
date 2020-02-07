@@ -5,6 +5,8 @@ import Store from '@/store';
 class ChecklistViewModule extends VuexModule {
     public featureDialogActive: boolean = false;
     public documentId: string = '';
+    public documentName: string = '';
+    public documentTopic: string = '';
     
     @Mutation
     public setFeatureDialog(active: boolean) {
@@ -16,6 +18,16 @@ class ChecklistViewModule extends VuexModule {
         this.documentId = documentId;
     }
 
+    @Mutation
+    public setDocumentName(documentName: string) {
+        this.documentName = documentName;
+    }
+
+    @Mutation
+    public setDocumentTopic(documentTopic: string) {
+        this.documentTopic = documentTopic;
+    }
+
     @Action
     public async closeFeatureDialog() {
         this.setFeatureDialog(false);
@@ -25,6 +37,16 @@ class ChecklistViewModule extends VuexModule {
     public async openFeatureDialog(documentId: string) {
         this.setDocumentId(documentId);
         this.setFeatureDialog(true);
+    }
+
+    @Action
+    public async loadDocumentName(documentName: string) {
+        this.setDocumentName(documentName);
+    }
+
+    @Action
+    public async loadDocumentTopic(documentTopic: string) {
+        this.setDocumentTopic(documentTopic);
     }
 }
 

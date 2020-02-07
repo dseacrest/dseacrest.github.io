@@ -60,16 +60,18 @@ export default class Login extends Vue {
   public error = null;
   
   public submit() {
-    firebase
-      .auth()
-      .signInWithEmailAndPassword(this.form.email, this.form.password)
-      .then(data => {
-        this.$router.replace({ name: "home" });
-      })
-      .catch(err => {
-        this.error = err.message;
-      });
-  }
+        firebase
+        .auth()
+        .signInWithEmailAndPassword(this.form.email, this.form.password)
+        .then(data => {
+            this.$router.replace({ name: "home" });
+        })
+        .catch(err => {
+            this.error = err.message;
+        });
+        this.$gtag.event('login', {event_category: `${this.form.email} logged in.`, event_label: '', value: 0} );
+
+    }
 }
 </script>
 

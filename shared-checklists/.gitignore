@@ -23,4 +23,9 @@ yarn-error.log*
 *.sln
 *.sw?
 
+# Typescript Augmented types
+*.ts
+!*.d.ts
+
+# Build
 dist/

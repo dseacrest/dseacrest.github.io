@@ -7,7 +7,7 @@
                 </q-card-section>
             <q-separator inset />
                 <q-card-section v-for="(document, index) in matchingTopics(topic)" :key="index">
-                    <a @click="openFeatureDialog(document.id)">{{document.subject}}</a>
+                    <a @click="openFeatureDialog(document)">{{document.subject}}</a>
                 </q-card-section>
             </q-card>
         </div>
@@ -15,6 +15,10 @@
         <h3>Credits</h3>
         <ul>
         <div>Students and Faculty at <a href="https://www.nebrwesleyan.edu/" title="NWU">Nebraska Wesleyan University</a>.</div>
+        </ul>
+        <h3>Opt-Out</h3>
+        <ul>
+        <div>Click <a href="#" @click.prevent="disableTracking">here</a> to disable tracking via Google Analytics.</div>
         </ul>
     </div>
 </template>
@@ -68,8 +72,10 @@ export default class ChecklistsList extends Vue {
         }
     }
 
-    public openFeatureDialog(documentId: string) {
-        ChecklistViewModule.openFeatureDialog(documentId);
+    public openFeatureDialog(document: ITodoCollection) {
+        ChecklistViewModule.openFeatureDialog(document.id);
+        ChecklistViewModule.loadDocumentName(document.subject);
+        ChecklistViewModule.loadDocumentTopic(document.topic);
     }
 
     public matchingTopics(topic: string) {

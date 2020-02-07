@@ -33,12 +33,15 @@ export default class FeatureSelectDialog extends Vue {
 
     public openTodo() {
         ChecklistViewModule.closeFeatureDialog();
-        router.push({name: 'todo', params: {id: this.documentId}})
+        router.push({name: 'todo', params: {id: this.documentId}});
+        this.$gtag.event('todoClicked', {event_category: `${this.documentName} was clicked.`, event_label: `${this.documentTopic}`, value: 0} );
+
     }
 
     public openNotecards() {
         ChecklistViewModule.closeFeatureDialog();
         router.push({name: 'notecards', params: {id: this.documentId}})
+        this.$gtag.event('notecardClicked', {event_category: `${this.documentName} was clicked.`, event_label: `${this.documentTopic}`, value: 0} );
     }
 
     public get featureDialogActive() {
@@ -47,6 +50,14 @@ export default class FeatureSelectDialog extends Vue {
 
     public get documentId() {
         return ChecklistViewModule.documentId;
+    }
+
+    public get documentName() {
+        return ChecklistViewModule.documentName;
+    }
+
+    public get documentTopic() {
+        return ChecklistViewModule.documentTopic;
     }
 
     public closeDialog() {

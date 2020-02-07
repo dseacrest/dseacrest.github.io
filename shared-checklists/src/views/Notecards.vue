@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h2 v-if="user.loggedIn">{{document.subject}}</h2>
+		<div class="title" v-if="user.loggedIn">{{document.subject}}</div>
 		<div class="q-pa-md row items-start q-gutter-md" v-if="user.loggedIn">
 			<q-card class="o-notecard my-card">
 				<div class="o-notecard__card" @click="toggleCardPosition()">
@@ -145,6 +145,11 @@ export default class Notecards extends Vue {
 
 <style lang="scss" scoped>
 
+.title {
+	font-size: 4em;
+	padding: 20px;
+}
+
 .q-pa-md {
 	display: flex;
 	flex-direction: column;
@@ -182,11 +187,15 @@ export default class Notecards extends Vue {
 }
 
 @media (max-width: 600px) {
+.title {
+	font-size: 3em;
+}
+
 .o-notecard {
 	max-width: 95%;
 
 	&__card {
-		height: 250px;
+		height: 325px;
 	}
 
 }
