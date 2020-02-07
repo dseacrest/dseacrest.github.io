@@ -188,14 +188,14 @@ export default class Notecards extends Vue {
 
 @media (max-width: 600px) {
 .title {
-	font-size: 3em;
+	font-size: 2em;
 }
 
 .o-notecard {
 	max-width: 95%;
 
 	&__card {
-		height: 325px;
+		height: 300px;
 	}
 
 }
