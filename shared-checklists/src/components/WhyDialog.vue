@@ -1,8 +1,8 @@
 <template>
     <q-dialog v-model="prompt" persistent>
-        <q-card style="min-width: 450px; padding: 10px;">
+        <q-card style="min-width: 350px; padding: 10px;">
             <q-card-section>
-                <h2>Getting Started</h2>
+                <h3>Getting Started</h3>
             </q-card-section>
 
             <q-card-section>
@@ -48,7 +48,4 @@ export default class WhyDialog extends Vue {
 </script>
 
 <style lang="scss">
-.o-addDocumentDialog {
-
-}
 </style>
