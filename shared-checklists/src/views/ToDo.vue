@@ -25,7 +25,7 @@
 									debounce="500" type="text" 
 									autogrow id="txtTitle" 
 									:value="task.title" 
-									@input="saveTaskTitle(task, arguments[0])"/>
+									@input="saveTaskTitle(document, task, arguments[0])"/>
 							</td>
 							<td class="m-bodyColumn text-left">
 									<q-input 
@@ -37,7 +37,7 @@
 									autogrow 
 									id="txtBody" 
 									:value="task.body" 
-									@input="saveTaskBody(task, arguments[0])"/>
+									@input="saveTaskBody(document, task, arguments[0])"/>
 							</td>
 							<td class="m-deleteColumn text-center"  v-if="user.data.uid === adminId">
 								<q-btn dense class="m-deleteColumn__button" flat @click="deleteTodo(document, task)">X</q-btn>
@@ -45,8 +45,8 @@
 						</tr>
 					</tbody>
 				</q-markup-table>
-				<div class="o-todo__addRecord"  v-if="user.data.uid === adminId">
-					<q-btn @click="addRecord()">Add Record</q-btn>
+				<div class="o-todo__addRecord">
+					<q-btn color="white" class="text-black" @click="addRecord(document)">Add Record</q-btn>
 				</div>
 			</div>
 			<div>
@@ -121,7 +121,7 @@ export default class ToDo extends Vue {
 		})
 	}
 	
-	public saveTaskTitle(task: ITodo, title: string ) {
+	public saveTaskTitle(document: ITodoCollection, task: ITodo, title: string ) {
 		let todoDataService = new TodoDataServicesCollection();
 		let newDocument: ITodoCollection = {
 			id: this.document.id,
@@ -138,16 +138,22 @@ export default class ToDo extends Vue {
 				} else {
 					return todo;
 				}
-			})
+			}),
+			userId: this.document.userId,
 		}
 		let context = this;
-		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-		context.loadData();
-		})
+		if ((this.user.data ? this.user.data.uid : '' ) === (document.userId || process.env.VUE_APP_FIREBASE_ADMIN)) {
+			console.log(this.user.data)
+			console.log(document.userId)
+			console.log(process.env.VUE_APP_FIREBASE_ADMIN)
+			todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+			context.loadData();
+			})
+		}
 
 	}
 
-	public saveTaskBody(task: ITodo, body: string ) {
+	public saveTaskBody(document: ITodoCollection, task: ITodo, body: string ) {
 		let todoDataService = new TodoDataServicesCollection();
 		let newDocument: ITodoCollection = {
 			id: this.document.id,
@@ -164,36 +170,44 @@ export default class ToDo extends Vue {
 				} else {
 					return todo;
 				}
-			})
+			}),
+			userId: this.document.userId,
 		}
 		let context = this;
-		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-		context.loadData();
-		})
+		if ((this.user.data ? this.user.data.uid : '' ) === (document.userId || process.env.VUE_APP_FIREBASE_ADMIN)) {
+			todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+			context.loadData();
+			})
+		}
 
 	}
 
-	public addRecord() {
+	public addRecord(document: ITodoCollection) {
 		let todoDataService = new TodoDataServicesCollection();
 		let newDocument: ITodoCollection = {
 			id: this.document.id,
 			subject: this.document.subject,
 			credit: this.document.credit,
 			topic: this.document.topic,
-			todos: [...this.document.todos, {id: this.todoIdGenerator(), title:'', body:''}]
+			todos: [...this.document.todos, {id: this.todoIdGenerator(), title:'', body:''}],
+			userId: this.document.userId,
 		}
 		let context = this;
-		todoDataService.Update(newDocument, this.$route.params.id).then(function () {
-		context.loadData();
-		})
+		if ((this.user.data ? this.user.data.uid : '' ) === (document.userId || process.env.VUE_APP_FIREBASE_ADMIN)) {
+			todoDataService.Update(newDocument, this.$route.params.id).then(function () {
+			context.loadData();
+			})
+		}
 	}
 
 	public deleteTodo(document: ITodoCollection, task: ITodo) {
 		let todoDataService = new TodoDataServicesCollection();
 		let context = this;
-		todoDataService.DeleteTodoField(document.id, task).then(function () {
-		context.loadData();
-		})
+		if ((this.user.data ? this.user.data.uid : '' ) === (document.userId || process.env.VUE_APP_FIREBASE_ADMIN)) {
+			todoDataService.DeleteTodoField(document.id, task).then(function () {
+			context.loadData();
+			})
+		}
 	}
 
 	public todoIdGenerator(): string {

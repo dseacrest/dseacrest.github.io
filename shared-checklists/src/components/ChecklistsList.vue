@@ -1,25 +1,25 @@
 <template>
     <div class="o-checklist">
         <div class="o-checklist__list">
-            <q-card bordered class="my-card" v-for="(topic, index) in topics" :key="index">
-                <q-card-section>
-                    <div class="o-checklist__list__topic text-h6">{{topic}}</div>
+            <q-card class="my-card" v-for="(document, index) in documents" :key="index" flat bordered>
+                <q-card-section class="o-checklist__list__content">
+                    <q-card-section class="q-pt-xs">
+                        <div class="o-checklist__list__content__topic text-overline">{{document.topic}}</div>
+                        <div class="o-checklist__list__content__subject text-h5 q-mt-sm q-mb-xs">{{document.subject | truncateSubject}}</div>
+                        <div class="o-checklist__list__content__body text-body text-grey">
+                            {{document.todos[0].body | truncateBody}}
+                        </div>
+                    </q-card-section>
                 </q-card-section>
-            <q-separator inset />
-                <q-card-section v-for="(document, index) in matchingTopics(topic)" :key="index">
-                    <a @click="openFeatureDialog(document)">{{document.subject}}</a>
+                <q-separator />
+                <q-card-section class="o-checklist__list__actions">
+                    <q-card-actions align="right">
+                        <q-btn flat color="accent"  @click="openChecklist(document)"> Checklist </q-btn>
+                        <q-btn flat color="primary"  @click="openNotecard(document)"> Notecards </q-btn>
+                    </q-card-actions>
                 </q-card-section>
-            </q-card>
+                </q-card>
         </div>
-        <FeatureSelectDialog :activeValue.sync="featureSelectDialogActive" />
-        <h3>Credits</h3>
-        <ul>
-        <div>Students and Faculty at <a href="https://www.nebrwesleyan.edu/" title="NWU">Nebraska Wesleyan University</a>.</div>
-        </ul>
-        <h3>Opt-Out</h3>
-        <ul>
-        <div>Click <a href="#" @click.prevent="disableTracking">here</a> to disable tracking via Google Analytics.</div>
-        </ul>
     </div>
 </template>
 
@@ -30,56 +30,46 @@ import ITodoCollection from '@/models/todoCollection';
 import firebase from 'firebase';
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 import router from '@/router/index';
-import FeatureSelectDialog from '@/components/FeatureSelectDialog.vue';
-import ChecklistViewModule from '@/store/application/ChecklistViewModule';
+import HomePageViewModule from '@/store/application/HomePageViewModule';
+import {Loading} from 'quasar';
 
 @Component({
-    components: {
-        FeatureSelectDialog,
+    filters: {
+        truncateSubject(value: string) {
+            if (value.length > 40) {
+                return value.slice(0, 40) + '...';
+            } else {
+                return value;
+            }
+        }, 
+        truncateBody(value: string) {
+            if (value.length > 120) {
+                return value.slice(0, 120) + '...';
+            } else {
+                return value;
+            }
+        }
     }
 })
 export default class ChecklistsList extends Vue {
-    public featureSelectDialogActive: boolean = false;
-    public documents: ITodoCollection[] = [];
     public adminId = process.env.VUE_APP_FIREBASE_ADMIN;
 
-    public get topics(): string[] {
-        let topicList = [
-        "Service",
-        "Finance",
-        "Fundraise",
-        "UI/UX",
-        "Efficiency",
-        "Pitch",
-        "Human Resources",
-        "Coding",
-        "Grit",
-        "Innovators",
-        "Sales & Marketing",
-        "Personal Growth",
-        "Organizational Growth",
-        "Data",
-        "Real Estate",
-        ]
-        let adminList = [
-            ...topicList,
-            "Pending"
-        ]
-        if (this.user.data && this.user.data.uid === this.adminId) {
-            return adminList;
+    public openChecklist(document: ITodoCollection) {
+        router.push({name: 'todo', params: {id: document.id}});
+        this.$gtag.event('todoClicked', {event_category: `${document.subject} was clicked.`, event_label: `${document.topic}`, value: 0} );
+    }
+
+    public openNotecard(document: ITodoCollection) {
+        router.push({name: 'notecards', params: {id: document.id}})
+        this.$gtag.event('notecardClicked', {event_category: `${document.subject} was clicked.`, event_label: `${document.topic}`, value: 0} );
+    }
+
+    public get documents() {
+        if (HomePageViewModule.filteredDocuments) {
+            return HomePageViewModule.filteredDocuments.filter((document) => document.userId === (this.user.data ? this.user.data.uid : '')  || document.userId === undefined);
         } else {
-            return topicList;
+            return HomePageViewModule.documents;
         }
-    }
-
-    public openFeatureDialog(document: ITodoCollection) {
-        ChecklistViewModule.openFeatureDialog(document.id);
-        ChecklistViewModule.loadDocumentName(document.subject);
-        ChecklistViewModule.loadDocumentTopic(document.topic);
-    }
-
-    public matchingTopics(topic: string) {
-        return this.documents.filter(document => document.topic === topic);
     }
 
     public get user() {
@@ -92,11 +82,13 @@ export default class ChecklistsList extends Vue {
         })
     }
   
-    public loadData() {
+    public async loadData() {
         let todoDataService = new TodoDataServicesCollection();
-        todoDataService.GetAll().then((listData:any) => {
-            this.documents = listData;
+        Loading.show();
+        await todoDataService.GetAll().then(async (listData:any) => {
+            await HomePageViewModule.loadDocuments(listData);
         });
+        Loading.hide();
     }
 
 }
@@ -104,6 +96,10 @@ export default class ChecklistsList extends Vue {
 
 <style scoped lang="scss">
 @import '../styles/quasar.variables.scss';
+.text-overline {
+    color: $tertiary;
+}
+
 .o-checklist {
     &__header {
         margin-top: 20px; 
@@ -123,28 +119,20 @@ export default class ChecklistsList extends Vue {
         flex-wrap: wrap;
         justify-content: center; 
 
-
-        &__icon {
-            width: 32px;
-            height: 32px;
-        }
-        
-        &__topic {
-        color: $primary;
-        }
-        
-        &__notecardsIcon {
-        color: $primary;
-        }
-        
-        &__todoIcon {
-        color: $accent;
+        &__content {
+            height: 78%;
+            &__subject {
+                padding: 10px;
+            }
+            &__body {
+                padding: 10px;
+            }
         }
     }
 }
 .my-card {
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 320px;
+  min-width: 320px;
   margin: 20px;
 }
 

@@ -10,7 +10,8 @@ class ToDoViewModule extends VuexModule {
 		subject: '',
 		credit: '',
 		topic: '',
-		todos: [],
+        todos: [],
+        userId: '',
 	};
     public tasks: ITodo[] = [];
     

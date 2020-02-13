@@ -4,6 +4,7 @@ export default interface ITodoCollection {
     credit: string;
     topic: string;
     todos: ITodo[];
+    userId: string;
 }
 
 export interface ITodo {

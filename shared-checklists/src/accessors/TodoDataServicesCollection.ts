@@ -49,6 +49,7 @@ export function DocToTodoRecordMap(doc: any): ITodoCollection {
         credit: rowData.credit,
         topic: rowData.topic,
         todos: rowData.todos,
+        userId: rowData.userId,
     };
 
     return record;

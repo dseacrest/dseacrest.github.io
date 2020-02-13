@@ -17,15 +17,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import '../styles/quasar.variables.scss';
 body {
-  background-image: url("../assets/logo.png");
-  background-repeat: no-repeat;
-  background-size:100% auto;
-}
-
-@media (max-width: 600px) {
-  body {
-    background-image: url("../assets/logo-mobile.png");
-  }
+  background-color: $secondary;
 }
 </style>

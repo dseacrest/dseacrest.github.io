@@ -1,64 +1,64 @@
 <template>
-  <div class="o-register">
-    <h2>Register</h2>
-    <form action="#" @submit.prevent="submit">
-      
-      <div class="o-register__formItem -name">
-        <label for="name">Name</label>
-        <div>
-          <input
-            id="name"
-            type="name"
-            class="o-register__formItem__formControl -name"
-            name="name"
-            value
-            required
-            autofocus
-            v-model="form.name"
-          />
+    <div class="o-register">
+        <form action="#" @submit.prevent="submit" class="o-register__form">
+        <h2>Register</h2>
+        
+        <div class="o-register__form__item -name">
+            <label for="name">Name</label>
+            <div>
+            <q-input
+                id="name"
+                type="name"
+                class="o-register__formItem__formControl -name"
+                name="name"
+                value
+                required
+                autofocus
+                v-model="form.name"
+            />
+            </div>
         </div>
-      </div>
 
-      <div class="o-register__formItem -email">
-        <label for="email">Email</label>
-        <div>
-          <input
-            id="email"
-            type="email"
-            class="o-register__formItem__formControl -email"
-            name="email"
-            value
-            required
-            autofocus
-            v-model="form.email"
-          />
+        <div class="o-register__form__item -email">
+            <label for="email">Email</label>
+            <div>
+            <q-input
+                id="email"
+                type="email"
+                class="o-register__formItem__formControl -email"
+                name="email"
+                value
+                required
+                autofocus
+                v-model="form.email"
+            />
+            </div>
         </div>
-      </div>
 
-      <div class="o-register__formItem -password">
-        <label for="password">Password</label>
-        <div>
-          <input
-            id="password"
-            type="password"
-            class="o-register__formItem__formControl -password"
-            name="password"
-            required
-            v-model="form.password"
-          />
+        <div class="o-register__form__item -password">
+            <label for="password">Password</label>
+            <div>
+            <q-input
+                id="password"
+                type="password"
+                class="o-register__formItem__formControl -password"
+                name="password"
+                required
+                v-model="form.password"
+            />
+            </div>
         </div>
-      </div>
 
-      <div class="o-register__formItem -button">
-          <button type="submit">Register</button>
-      </div>
+        <div class="o-register__formItem -button">
+            <q-btn color="white" type="submit" class="btn btn-primary text-black">Register</q-btn>
+        </div>
 
-      <div class="o-register__formItem -error alert alert-danger" v-if="error">
-        {{error}}
-      </div>
+        <div class="o-register__formItem -error alert alert-danger" v-if="error">
+            {{error}}
+        </div>
 
-    </form>
-  </div>
+        </form>
+    </div>
 </template>
 
 <script lang="ts">
@@ -99,7 +99,14 @@ export default class Register extends Vue {
 </script>
 
 <style lang="scss">
-.o-register__formItem {
-  margin-bottom: 20px;
+.o-register {
+    display: flex;
+    justify-content: center;
+    &__form {
+        width: 450px;
+        &__item {
+            padding: 10px;
+        }
+    }
 }
 </style>

@@ -1,47 +1,46 @@
 <template>
 <div class="o-login">
-  <h2>Login</h2>
-  <form action="#" @submit.prevent="submit" class="o-login__form">
-    
-    <div class="o-login__formItem -email">
-      <label for="email">Email</label>
-      <div>
-        <input
-          id="email"
-          type="email"
-          class="form-control"
-          name="email"
-          value
-          required
-          autofocus
-          v-model="form.email"
-        />
-      </div>
-    </div>
+    <form action="#" @submit.prevent="submit" class="o-login__form">
+        <h2>Login</h2>
+        <div class="o-login__form__item -email">
+            <label for="email">Email</label>
+            <div>
+            <q-input
+                id="email"
+                type="email"
+                class="form-control"
+                name="email"
+                value
+                required
+                autofocus
+                v-model="form.email"
+            />
+            </div>
+        </div>
 
-    <div class="o-login__formItem -password">
-      <label for="password" >Password</label>
-      <div>
-        <input
-          id="password"
-          type="password"
-          class="form-control"
-          name="password"
-          required
-          v-model="form.password"
-        />
-      </div>
-    </div>
+        <div class="o-login__form__item -password">
+            <label for="password" >Password</label>
+            <div>
+            <q-input
+                id="password"
+                type="password"
+                class="form-control"
+                name="password"
+                required
+                v-model="form.password"
+            />
+            </div>
+        </div>
 
-    <div class="o-login__formItem -button">
-      <div>
-        <button type="submit" class="btn btn-primary">Login</button>
-      </div>
-    </div>
+        <div class="o-login__form__item -button">
+            <div>
+                <q-btn color="white" type="submit" class="btn btn-primary text-black">Login</q-btn>
+            </div>
+        </div>
 
-    <div v-if="error" class="o-login__formItem -error alert alert-danger">{{error}}</div>
+        <div v-if="error" class="o-login__formItem -error alert alert-danger">{{error}}</div>
 
-  </form>
+    </form>
 
 </div>
 </template>
@@ -76,7 +75,14 @@ export default class Login extends Vue {
 </script>
 
 <style lang="scss">
-.o-login__formItem {
-  margin-bottom: 20px;
+.o-login {
+    display: flex;
+    justify-content: center;
+    &__form {
+        width: 450px;
+        &__item {
+            padding: 10px;
+        }
+    }
 }
 </style>
