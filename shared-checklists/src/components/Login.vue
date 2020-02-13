@@ -79,7 +79,7 @@ export default class Login extends Vue {
     display: flex;
     justify-content: center;
     &__form {
-        width: 450px;
+        width: 350px;
         &__item {
             padding: 10px;
         }

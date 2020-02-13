@@ -29,7 +29,6 @@
                 name="email"
                 value
                 required
-                autofocus
                 v-model="form.email"
             />
             </div>
@@ -103,7 +102,7 @@ export default class Register extends Vue {
     display: flex;
     justify-content: center;
     &__form {
-        width: 450px;
+        width: 350px;
         &__item {
             padding: 10px;
         }

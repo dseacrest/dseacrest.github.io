@@ -65,11 +65,10 @@ export default class ChecklistsList extends Vue {
     }
 
     public get documents() {
-        if (HomePageViewModule.filteredDocuments) {
-            return HomePageViewModule.filteredDocuments.filter((document) => document.userId === (this.user.data ? this.user.data.uid : '')  || document.userId === undefined);
-        } else {
-            return HomePageViewModule.documents;
+        if (HomePageViewModule.filteredDocuments.length) {
+            return (HomePageViewModule.filteredDocuments.filter((document) => document.userId === (this.user.data ? this.user.data.uid : '')  || document.userId === undefined));
         }
+        return HomePageViewModule.documents;
     }
 
     public get user() {
@@ -77,20 +76,10 @@ export default class ChecklistsList extends Vue {
     }
 
     beforeMount() {
-        firebase.auth().onAuthStateChanged(() => {
-            this.loadData();
+        firebase.auth().onAuthStateChanged(async () => {
+            await HomePageViewModule.loadDocuments();
         })
     }
-  
-    public async loadData() {
-        let todoDataService = new TodoDataServicesCollection();
-        Loading.show();
-        await todoDataService.GetAll().then(async (listData:any) => {
-            await HomePageViewModule.loadDocuments(listData);
-        });
-        Loading.hide();
-    }
-
 }
 </script>
 

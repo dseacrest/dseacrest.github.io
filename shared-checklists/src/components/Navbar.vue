@@ -47,6 +47,7 @@ import HomePageViewModule from '../store/application/HomePageViewModule';
 import router from '@/router/index';
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 import WhyDocumentDialog from '@/components/WhyDialog.vue';
+import {Loading} from 'quasar';
 
 @Component({
     components: {
@@ -61,7 +62,9 @@ export default class NavBar extends Vue {
     
     public navigateHome() {
         HomePageViewModule.clearTopicFilter();
-        router.push({name: 'home'});
+        if(!['home'].includes(this.$route.name || '')) {
+            router.push({name: 'home'});
+        }
     }
 
     public navigateWhy() {
@@ -69,12 +72,10 @@ export default class NavBar extends Vue {
     }
 
     public navigateLogin() {
-        HomePageViewModule.clearTopicFilter();
         router.push({name: 'login'});
     }
 
     public navigateRegister() {
-        HomePageViewModule.clearTopicFilter();
         router.push({name: 'register'});
     }
 
@@ -160,13 +161,42 @@ export default class NavBar extends Vue {
 
 @media (max-width: 1100px) {
     .o-navbar {
+    background-image: url("../assets/logo-mobile.png");
+        &__logo {
+            font-size: 1.5em;
+                &__home {
+            margin-left: 25px;
+        }
+        &__why {
+            margin-left: 25px;
+        }
+        }
+        &__loggedIn {
+            &__signOut {
+                font-size: 1.5em;
+            }
+            &__filter {
+                &__select {
+                    width: 250px;
+                }
+            }
+        }
+        &__loggedOut {
+            font-size: 1.5em;
+        }
+    }
+}
+
+@media (max-width: 700px) {
+    .o-navbar {
+    background-image: url("../assets/logo-mobile.png");
         &__logo {
             font-size: 1em;
                 &__home {
-            margin-left: 55px;
+            margin-left: 25px;
         }
         &__why {
-            margin-left: 50px;
+            margin-left: 15px;
         }
         }
         &__loggedIn {
@@ -176,6 +206,62 @@ export default class NavBar extends Vue {
             &__filter {
                 &__select {
                     width: 100px;
+                }
+            }
+        }
+        &__loggedOut {
+            font-size: 1em;
+        }
+    }
+}
+
+@media (max-width: 680px) {
+    .o-navbar {
+    background-image: url("../assets/logo-mobile.png");
+        &__logo {
+            font-size: 1em;
+                &__home {
+            margin-left: 25px;
+        }
+        &__why {
+            margin-left: 10px;
+        }
+        }
+        &__loggedIn {
+            &__signOut {
+                font-size: 1em;
+            }
+            &__filter {
+                &__select {
+                    width: 70px;
+                }
+            }
+        }
+        &__loggedOut {
+            font-size: 1em;
+        }
+    }
+}
+
+@media (max-width: 650px) {
+    .o-navbar {
+    background-image: url("../assets/logo-mobile.png");
+        &__logo {
+            font-size: 1em;
+                &__home {
+            margin-left: 25px;
+        }
+        &__why {
+            margin-left: 10px;
+        }
+        }
+        &__loggedIn {
+            &__signOut {
+                font-size: 1em;
+            }
+            &__filter {
+                &__select {
+                    width: 50px;
                 }
             }
         }
