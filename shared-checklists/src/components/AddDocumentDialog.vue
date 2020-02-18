@@ -51,7 +51,7 @@
 <script lang="ts">
 import {Vue, Prop, Component} from 'vue-property-decorator'
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
-import HomePageViewModule from '../store/application/HomePageViewModule';
+import HomeViewModule from '../store/view/HomeViewModule';
 import ITodoCollection, {ITodo} from '@/models/todoCollection';
 
 
@@ -67,15 +67,15 @@ export default class AddDocumentDialog extends Vue {
     }
     
     public get prompt() {
-        return HomePageViewModule.promptAddDocumentDialog;
+        return HomeViewModule.promptAddDocumentDialog;
     }
 
     public get options() {
-        return HomePageViewModule.documentTopics;
+        return HomeViewModule.documentTopics;
     }
 
     public closeAddDocumentDialog() {
-        HomePageViewModule.loadPromptAddDocumentDialog(false);
+        HomeViewModule.loadPromptAddDocumentDialog(false);
     }
 
     public addDocument() {
@@ -94,7 +94,7 @@ export default class AddDocumentDialog extends Vue {
             });
         })
         this.$gtag.event('documentAdded', {event_category: `${this.documentName} in ${this.documentTopic} was added.).`, event_label: '', value: 0} );
-        HomePageViewModule.loadPromptAddDocumentDialog(false);
+        HomeViewModule.loadPromptAddDocumentDialog(false);
     }
 
 	public todoIdGenerator(): string {

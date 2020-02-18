@@ -2,7 +2,7 @@
     <div class="o-navbar">
         <div class="o-navbar__logo" >
             <a @click="navigateHome()" class="o-navbar__logo__home">Home</a>
-            <a @click="navigateWhy()" class="o-navbar__logo__why">Getting Started</a>
+            <a @click="navigateWhy()" class="o-navbar__logo__why" v-if="$q.platform.is.desktop">Getting Started</a>
             <WhyDocumentDialog />
         </div>
         <div class="o-navbar__loggedIn" v-if="user.loggedIn">
@@ -43,7 +43,7 @@
 import {Vue, Component} from 'vue-property-decorator';
 import { mapGetters } from "vuex";
 import firebase from "firebase";
-import HomePageViewModule from '../store/application/HomePageViewModule';
+import HomeViewModule from '@/store/view/HomeViewModule';
 import router from '@/router/index';
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 import WhyDocumentDialog from '@/components/WhyDialog.vue';
@@ -61,14 +61,14 @@ export default class NavBar extends Vue {
     }
     
     public navigateHome() {
-        HomePageViewModule.clearTopicFilter();
+        HomeViewModule.clearTopicFilter();
         if(!['home'].includes(this.$route.name || '')) {
             router.push({name: 'home'});
         }
     }
 
     public navigateWhy() {
-        HomePageViewModule.loadPromptWhyDocumentDialog(true);
+        HomeViewModule.loadPromptWhyDocumentDialog(true);
     }
 
     public navigateLogin() {
@@ -91,15 +91,15 @@ export default class NavBar extends Vue {
     }
 
     public get selectedFilter() {
-        return HomePageViewModule.documentTopic;
+        return HomeViewModule.documentTopic;
     }
 
     public set selectedFilter(value: string) {
-        HomePageViewModule.loadTopicFilter(value);
+        HomeViewModule.loadTopicFilter(value);
     }
 
     public get options() {
-        return HomePageViewModule.documentTopics;
+        return HomeViewModule.documentTopics;
     }
 };
 </script>
@@ -163,9 +163,9 @@ export default class NavBar extends Vue {
     .o-navbar {
     background-image: url("../assets/logo-mobile.png");
         &__logo {
-            font-size: 1.5em;
+            font-size: 1.75em;
                 &__home {
-            margin-left: 25px;
+            margin-left: 15px;
         }
         &__why {
             margin-left: 25px;
@@ -173,7 +173,7 @@ export default class NavBar extends Vue {
         }
         &__loggedIn {
             &__signOut {
-                font-size: 1.5em;
+                font-size: 1.75em;
             }
             &__filter {
                 &__select {
@@ -182,7 +182,7 @@ export default class NavBar extends Vue {
             }
         }
         &__loggedOut {
-            font-size: 1.5em;
+            font-size: 1.75em;
         }
     }
 }
@@ -191,9 +191,9 @@ export default class NavBar extends Vue {
     .o-navbar {
     background-image: url("../assets/logo-mobile.png");
         &__logo {
-            font-size: 1em;
+            font-size: 1.5em;
                 &__home {
-            margin-left: 25px;
+            margin-left: 17px;
         }
         &__why {
             margin-left: 15px;
@@ -205,63 +205,7 @@ export default class NavBar extends Vue {
             }
             &__filter {
                 &__select {
-                    width: 100px;
-                }
-            }
-        }
-        &__loggedOut {
-            font-size: 1em;
-        }
-    }
-}
-
-@media (max-width: 680px) {
-    .o-navbar {
-    background-image: url("../assets/logo-mobile.png");
-        &__logo {
-            font-size: 1em;
-                &__home {
-            margin-left: 25px;
-        }
-        &__why {
-            margin-left: 10px;
-        }
-        }
-        &__loggedIn {
-            &__signOut {
-                font-size: 1em;
-            }
-            &__filter {
-                &__select {
-                    width: 70px;
-                }
-            }
-        }
-        &__loggedOut {
-            font-size: 1em;
-        }
-    }
-}
-
-@media (max-width: 650px) {
-    .o-navbar {
-    background-image: url("../assets/logo-mobile.png");
-        &__logo {
-            font-size: 1em;
-                &__home {
-            margin-left: 25px;
-        }
-        &__why {
-            margin-left: 10px;
-        }
-        }
-        &__loggedIn {
-            &__signOut {
-                font-size: 1em;
-            }
-            &__filter {
-                &__select {
-                    width: 50px;
+                    width: 150px;
                 }
             }
         }

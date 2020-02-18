@@ -4,13 +4,13 @@
 		<div class="q-pa-md row items-start q-gutter-md" v-if="user.loggedIn">
 			<q-card class="o-notecard my-card">
 				<div class="o-notecard__card" @click="toggleCardPosition()">
-					<div class="bg-grey-2 text-grey" v-if="toggleCard">Click to Flip Card</div>
-					<div class="text-grey-2" v-if="!toggleCard">Click to Flip Card</div>
+					<div class="text-grey" v-if="toggleCard">Click to Flip Card</div>
+					<div class="text-grey" v-if="!toggleCard">Click to Flip Card</div>
 					<div 
 						class="o-notecard__card __title text-h6 bg-grey-2" 
 						v-if="toggleCard"
 					>
-						When You're {{document.subject}}...({{title ? title : ''}})
+						{{title ? title : ''}}
 					</div>
 					<div 
 						class="o-notecard__card -body text-subtitle1" 
@@ -65,7 +65,7 @@ import QInput from 'quasar';
 import ITodoCollection, {ITodo} from '@/models/todoCollection';
 import { mapGetters } from "vuex";
 import firebase from 'firebase';
-import ToDoViewModule from '@/store/view/ToDoViewModule';
+import DocumentModule from '@/store/application/DocumentModule';
 
 @Component
 export default class Notecards extends Vue {
@@ -74,11 +74,11 @@ export default class Notecards extends Vue {
 	public selected: string[] = [];
 
 	public get tasks(): ITodo[] {
-		return ToDoViewModule.tasks;
+		return DocumentModule.tasks;
 	}
 	
 	public get document(): ITodoCollection {
-		return ToDoViewModule.document;
+		return DocumentModule.document;
 	}
 
 	public get user() {
@@ -137,7 +137,7 @@ export default class Notecards extends Vue {
 	}
 
 	public loadData() {
-		ToDoViewModule.loadDocument(this.$route.params.id);
+		DocumentModule.loadDocument(this.$route.params.id);
 	}
 }
 
@@ -147,7 +147,7 @@ export default class Notecards extends Vue {
 
 .title {
 	font-size: 4em;
-	padding: 20px;
+	padding: 15px;
 }
 
 .q-pa-md {

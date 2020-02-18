@@ -5,6 +5,7 @@ import Login from '@/components/Login.vue';
 import Register from '@/components/Register.vue';
 import Todo from '@/views/ToDo.vue';
 import Upload from '@/views/Upload.vue';
+import Quiz from '@/views/Quiz.vue';
 import Notecards from '@/views/Notecards.vue';
 Vue.use(Router);
 
@@ -36,6 +37,11 @@ const router = new Router({
       path: "/notecards/:id",
       name: "notecards",
       component: Notecards
+    },
+    {
+      path: "/quiz/:id",
+      name: "quiz",
+      component: Quiz
     },
     {
       path: "/upload",

@@ -29,7 +29,7 @@
 <script lang="ts">
 import {Vue, Prop, Component} from 'vue-property-decorator'
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
-import HomePageViewModule from '../store/application/HomePageViewModule';
+import HomeViewModule from '../store/view/HomeViewModule';
 import ITodoCollection, {ITodo} from '@/models/todoCollection';
 
 
@@ -37,11 +37,11 @@ import ITodoCollection, {ITodo} from '@/models/todoCollection';
 export default class WhyDialog extends Vue {
 
     public get prompt() {
-        return HomePageViewModule.promptWhyDocumentDialog;
+        return HomeViewModule.promptWhyDocumentDialog;
     }
 
     public closeWhyDialog() {
-        HomePageViewModule.loadPromptWhyDocumentDialog(false);
+        HomeViewModule.loadPromptWhyDocumentDialog(false);
     }
 	
 }

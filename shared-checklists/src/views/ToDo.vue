@@ -69,7 +69,7 @@ import ITodoCollection, {ITodo} from '@/models/todoCollection';
 import { mapGetters } from "vuex";
 import firebase from 'firebase';
 import "../registerServiceWorker";
-import ToDoViewModule from '@/store/view/ToDoViewModule';
+import DocumentModule from '@/store/application/DocumentModule';
 
 @Component
 export default class ToDo extends Vue {
@@ -100,11 +100,11 @@ export default class ToDo extends Vue {
 	}
 
 	public get tasks(): ITodo[] {
-		return ToDoViewModule.tasks;
+		return DocumentModule.tasks;
 	}
 	
 	public get document(): ITodoCollection {
-		return ToDoViewModule.document;
+		return DocumentModule.document;
 	}
 
 	public get user() {
@@ -225,7 +225,7 @@ export default class ToDo extends Vue {
 	}
 
 	public loadData() {
-		ToDoViewModule.loadDocument(this.$route.params.id);
+		DocumentModule.loadDocument(this.$route.params.id);
 	}
 
 }

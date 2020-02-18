@@ -14,6 +14,7 @@
                 <q-separator />
                 <q-card-section class="o-checklist__list__actions">
                     <q-card-actions align="right">
+                        <q-btn flat color="info"  @click="openQuiz(document)"> Quiz </q-btn>
                         <q-btn flat color="accent"  @click="openChecklist(document)"> Checklist </q-btn>
                         <q-btn flat color="primary"  @click="openNotecard(document)"> Notecards </q-btn>
                     </q-card-actions>
@@ -30,7 +31,7 @@ import ITodoCollection from '@/models/todoCollection';
 import firebase from 'firebase';
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 import router from '@/router/index';
-import HomePageViewModule from '@/store/application/HomePageViewModule';
+import HomeViewModule from '@/store/view/HomeViewModule';
 import {Loading} from 'quasar';
 
 @Component({
@@ -64,11 +65,16 @@ export default class ChecklistsList extends Vue {
         this.$gtag.event('notecardClicked', {event_category: `${document.subject} was clicked.`, event_label: `${document.topic}`, value: 0} );
     }
 
+    public openQuiz(document: ITodoCollection) {
+        router.push({name: 'quiz', params: {id: document.id}})
+        this.$gtag.event('quizClicked', {event_category: `${document.subject} was clicked.`, event_label: `${document.topic}`, value: 0} );
+    }
+
     public get documents() {
-        if (HomePageViewModule.filteredDocuments.length) {
-            return (HomePageViewModule.filteredDocuments.filter((document) => document.userId === (this.user.data ? this.user.data.uid : '')  || document.userId === undefined));
+        if (HomeViewModule.filteredDocuments.length) {
+            return (HomeViewModule.filteredDocuments.filter((document) => document.userId === (this.user.data ? this.user.data.uid : '')  || document.userId === undefined));
         }
-        return HomePageViewModule.documents;
+        return HomeViewModule.documents;
     }
 
     public get user() {
@@ -77,7 +83,7 @@ export default class ChecklistsList extends Vue {
 
     beforeMount() {
         firebase.auth().onAuthStateChanged(async () => {
-            await HomePageViewModule.loadDocuments();
+            await HomeViewModule.loadDocuments();
         })
     }
 }
