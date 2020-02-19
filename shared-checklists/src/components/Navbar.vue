@@ -205,7 +205,7 @@ export default class NavBar extends Vue {
             }
             &__filter {
                 &__select {
-                    width: 150px;
+                    width: 120px;
                 }
             }
         }

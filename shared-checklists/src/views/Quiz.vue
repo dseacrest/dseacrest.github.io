@@ -8,9 +8,9 @@
 						{{title ? title : ''}}
 					</div>
 					<div class="o-quiz__card__body text-subtitle1" >
-						<q-btn :color="aColor" @click="select('A')" class="o-quiz__card__body__button text-black">{{answerA}}</q-btn>
-						<q-btn :color="bColor" @click="select('B')" class="o-quiz__card__body__button text-black">{{answerB}}</q-btn>
-						<q-btn :color="cColor" @click="select('C')" class="o-quiz__card__body__button text-black">{{answerC}}</q-btn>
+						<q-btn :color="aColor" @click="select('A')" class="o-quiz__card__body__button text-black">A. {{answerA}}</q-btn>
+						<q-btn :color="bColor" @click="select('B')" class="o-quiz__card__body__button text-black">B. {{answerB}}</q-btn>
+						<q-btn :color="cColor" @click="select('C')" class="o-quiz__card__body__button text-black">C. {{answerC}}</q-btn>
 					</div>
 				</div>
 				<q-card-actions class="o-quiz__actions" align="right">
@@ -53,7 +53,17 @@ import firebase from 'firebase';
 import DocumentModule from '@/store/application/DocumentModule';
 import QuizViewModule from '../store/view/QuizViewModule';
 
-@Component
+@Component({
+    filters: {
+        truncateBody(value: string) {
+            if (value.length > 230) {
+                return value.slice(0, 230) + '...';
+            } else {
+                return value;
+            }
+        }
+    }
+})
 export default class Quiz extends Vue {
 	public currentCard: number = 0;
 	public rightAnswer: number = 0;
@@ -250,7 +260,7 @@ export default class Quiz extends Vue {
 	max-width: 700px;
 	
 	&__card {
-		height: 350px;
+		min-height: 350px;
 		display: flex;
 		flex-direction:  column;
 		justify-content: space-between;
@@ -262,7 +272,7 @@ export default class Quiz extends Vue {
 
 		&__title {
 			font-size: 2em;
-			line-height: 4.75em;
+			line-height: 2.75em;
 		}
 
 		&__body {
@@ -273,7 +283,7 @@ export default class Quiz extends Vue {
 			&__button {
 				width: 100%;
 				margin-bottom: 10px;
-				min-height: 50px; 
+				min-height: 80px; 
 			}
 		}
 	}
@@ -295,7 +305,7 @@ export default class Quiz extends Vue {
 	max-width: 95%;
 
 	&__card {
-		height: 320px;
+		min-height: 320px;
 		&__title {
 			font-size: 1.5em;
 			line-height: 3.0em;
