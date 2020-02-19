@@ -33,6 +33,7 @@ import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection
 import router from '@/router/index';
 import HomeViewModule from '@/store/view/HomeViewModule';
 import {Loading} from 'quasar';
+import DocumentModule from '@/store/application/DocumentModule';
 
 @Component({
     filters: {
@@ -55,24 +56,33 @@ import {Loading} from 'quasar';
 export default class ChecklistsList extends Vue {
     public adminId = process.env.VUE_APP_FIREBASE_ADMIN;
 
-    public openChecklist(document: ITodoCollection) {
+    public async openChecklist(document: ITodoCollection) {
+        Loading.show()
+        await DocumentModule.loadDocument(document.id);
+        Loading.hide()
         router.push({name: 'todo', params: {id: document.id}});
         this.$gtag.event('todoClicked', {event_category: `${document.subject} was clicked.`, event_label: `${document.topic}`, value: 0} );
     }
 
-    public openNotecard(document: ITodoCollection) {
+    public async openNotecard(document: ITodoCollection) {
+        Loading.show()
+        await DocumentModule.loadDocument(document.id);
+        Loading.hide()
         router.push({name: 'notecards', params: {id: document.id}})
         this.$gtag.event('notecardClicked', {event_category: `${document.subject} was clicked.`, event_label: `${document.topic}`, value: 0} );
     }
 
-    public openQuiz(document: ITodoCollection) {
+    public async openQuiz(document: ITodoCollection) {
+        Loading.show()
+        await DocumentModule.loadDocument(document.id);
+        Loading.hide()
         router.push({name: 'quiz', params: {id: document.id}})
         this.$gtag.event('quizClicked', {event_category: `${document.subject} was clicked.`, event_label: `${document.topic}`, value: 0} );
     }
 
     public get documents() {
         if (HomeViewModule.filteredDocuments.length) {
-            return (HomeViewModule.filteredDocuments.filter((document) => document.userId === (this.user.data ? this.user.data.uid : '')  || document.userId === undefined));
+            return (HomeViewModule.filteredDocuments.filter((document) => (document.userId === (this.user.data ? this.user.data.uid : ''))  || document.userId === undefined));
         }
         return HomeViewModule.documents;
     }

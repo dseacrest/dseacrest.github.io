@@ -104,12 +104,6 @@ export default class Notecards extends Vue {
 	public getSelectedString() {
       	return this.selected.length === 0 ? '' : `${this.selected.length} record${this.selected.length > 1 ? 's' : ''} selected of ${this.tasks.length}`
 	}
-
-	beforeMount() {
-		firebase.auth().onAuthStateChanged(() => {
-			this.loadData();
-		})
-	}
 	
 	public toggleCardPosition(event: Event) {
 		if (this.toggleCard == true) {
@@ -134,10 +128,6 @@ export default class Notecards extends Vue {
 	public correct(element: any) {
 		this.tasks.push(this.tasks.splice(this.tasks.indexOf(element), 1)[0]);
 		this.toggleCard = true;
-	}
-
-	public loadData() {
-		DocumentModule.loadDocument(this.$route.params.id);
 	}
 }
 

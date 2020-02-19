@@ -53,7 +53,7 @@ import {Vue, Prop, Component} from 'vue-property-decorator'
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 import HomeViewModule from '../store/view/HomeViewModule';
 import ITodoCollection, {ITodo} from '@/models/todoCollection';
-
+import DocumentModule from '@/store/application/DocumentModule';
 
 @Component
 export default class AddDocumentDialog extends Vue {
@@ -88,10 +88,11 @@ export default class AddDocumentDialog extends Vue {
             todos: [{id: this.todoIdGenerator(), title:'', body:''}],
             userId: this.user.data.uid,
         }
-        todoDataService.Add(newDocument).then((id:any) => {
+        todoDataService.Add(newDocument).then(async (id:any) => {
             this.$router.replace({
                 path: '/todo/' + id,
             });
+            await DocumentModule.loadDocument(id);
         })
         this.$gtag.event('documentAdded', {event_category: `${this.documentName} in ${this.documentTopic} was added.).`, event_label: '', value: 0} );
         HomeViewModule.loadPromptAddDocumentDialog(false);

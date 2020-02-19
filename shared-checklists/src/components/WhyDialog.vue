@@ -1,8 +1,8 @@
 <template>
     <q-dialog v-model="prompt" persistent>
-        <q-card style="min-width: 350px; padding: 10px;">
+        <q-card class="o-whyDialog" style="min-width: 350px; padding: 10px;">
             <q-card-section>
-                <h3>Getting Started</h3>
+                <div class="o-whyDialog__title">Getting Started</div>
             </q-card-section>
 
             <q-card-section>
@@ -12,10 +12,11 @@
             <q-card-section>
                 <div class="text-body">Here's how it works:</div>
                 <ul>
-                    <li>Use The Topic Filter to Select Areas of Interest</li>
-                    <li>Click The 'Checklist' Button To Help You Complete Tasks</li>
-                    <li>Click The 'Notecards' To Study Any of the Checklists</li>
-                    <li>Click 'Add Checklist' to Create Your Own Lists & Notecards</li>
+                    <li>Use the 'Topic Filter' to select areas of interest.</li>
+                    <li>Click the 'Checklist' mode to Help you complete tasks.</li>
+                    <li>Click the 'Notecards' mode to study any of the topics.</li>
+                    <li>Click the 'Quiz' mode to challenge your knowledge. </li>
+                    <li>Click 'Add Checklist' to add your own data.</li>
                 </ul>
             </q-card-section>
 
@@ -48,4 +49,10 @@ export default class WhyDialog extends Vue {
 </script>
 
 <style lang="scss">
+
+.o-whyDialog {
+    &__title {
+        font-size: 3em;
+    }
+}
 </style>

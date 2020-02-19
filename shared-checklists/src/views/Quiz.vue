@@ -8,9 +8,9 @@
 						{{title ? title : ''}}
 					</div>
 					<div class="o-quiz__card__body text-subtitle1" >
-						<q-btn :color="aColor" @click="select('A')" class="o-quiz__card__body__button text-black">A. {{answerA}}</q-btn>
-						<q-btn :color="bColor" @click="select('B')" class="o-quiz__card__body__button text-black">B. {{answerB}}</q-btn>
-						<q-btn :color="cColor" @click="select('C')" class="o-quiz__card__body__button text-black">C. {{answerC}}</q-btn>
+						<q-btn :color="aColor" @click="select('A')" class="o-quiz__card__body__button text-black">{{answerA}}</q-btn>
+						<q-btn :color="bColor" @click="select('B')" class="o-quiz__card__body__button text-black">{{answerB}}</q-btn>
+						<q-btn :color="cColor" @click="select('C')" class="o-quiz__card__body__button text-black">{{answerC}}</q-btn>
 					</div>
 				</div>
 				<q-card-actions class="o-quiz__actions" align="right">
@@ -109,10 +109,10 @@ export default class Quiz extends Vue {
 		if (this.tasks[this.currentCard].body) {
 			do {
 				this.wrongAnswer1 = Math.ceil(Math.random() * this.tasks.length -1);
-			} while (this.wrongAnswer1 === this.currentCard);
+			} while (this.wrongAnswer1 === this.currentCard && this.tasks.length >= 3);
 			do { 
 				this.wrongAnswer2 = Math.ceil(Math.random() * this.tasks.length -1);
-			} while (this.wrongAnswer2 === this.wrongAnswer1 || this.wrongAnswer2 === this.currentCard);
+			} while ((this.wrongAnswer2 === this.wrongAnswer1 || this.wrongAnswer2 === this.currentCard) && this.tasks.length >= 3);
 		}
 	}
 
@@ -224,13 +224,10 @@ export default class Quiz extends Vue {
 	}
 
 	beforeMount() {
-		firebase.auth().onAuthStateChanged(() => {
-			this.loadData();
-		})
+		this.loadData();
 	}
 
 	public async loadData() {
-		await DocumentModule.loadDocument(this.$route.params.id);
 		this.randomRightAnswerLocationGenerator();
 		this.randomWrongAnswerGenerator();
 	}

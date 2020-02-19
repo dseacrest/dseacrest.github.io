@@ -46,7 +46,7 @@
 					</tbody>
 				</q-markup-table>
 				<div class="o-todo__addRecord">
-					<q-btn color="white" class="text-black" @click="addRecord(document)">Add Record</q-btn>
+					<q-btn color="white" class="text-black" @click="addRecord(document)" v-if="allowAddRecord(document)">Add Record</q-btn>
 				</div>
 			</div>
 			<div>
@@ -111,14 +111,16 @@ export default class ToDo extends Vue {
 		return this.$store.getters.user;
 	}
 
-	public getSelectedString() {
-		return this.selected.length === 0 ? '' : `${this.selected.length} record${this.selected.length > 1 ? 's' : ''} selected of ${this.tasks.length}`
+	public allowAddRecord(document: ITodoCollection): boolean {
+		if ((this.user.data ? this.user.data.uid : '' ) === (document.userId || process.env.VUE_APP_FIREBASE_ADMIN)) {
+			return true;
+		} else {
+			return false;
+		}
 	}
 
-	beforeMount() {
-		firebase.auth().onAuthStateChanged(() => {
-			this.loadData();
-		})
+	public getSelectedString() {
+		return this.selected.length === 0 ? '' : `${this.selected.length} record${this.selected.length > 1 ? 's' : ''} selected of ${this.tasks.length}`
 	}
 	
 	public saveTaskTitle(document: ITodoCollection, task: ITodo, title: string ) {
@@ -224,8 +226,8 @@ export default class ToDo extends Vue {
 		return newId;
 	}
 
-	public loadData() {
-		DocumentModule.loadDocument(this.$route.params.id);
+	public async loadData() {
+		await DocumentModule.loadDocument(this.$route.params.id);
 	}
 
 }
