@@ -3,11 +3,15 @@
         <div class="o-checklist__list">
             <q-card class="my-card" v-for="(document, index) in documents" :key="index" flat bordered>
                 <q-card-section class="o-checklist__list__content">
-                    <q-card-section class="q-pt-xs">
+                    <q-card-section>
                         <div class="o-checklist__list__content__topic text-overline">{{document.topic}}</div>
                         <div class="o-checklist__list__content__subject text-h5 q-mt-sm q-mb-xs">{{document.subject | truncateSubject}}</div>
                         <div class="o-checklist__list__content__body text-body text-grey">
                             {{document.todos[0].body | truncateBody}}
+                        </div>
+                        <div class="o-checklist__list__content__access">
+                            <q-badge outline color="secondary" label="Public" v-if="document.userId === undefined"/>
+                            <q-badge outline color="accent" label="Private" v-else/>
                         </div>
                     </q-card-section>
                 </q-card-section>
@@ -45,8 +49,8 @@ import DocumentModule from '@/store/application/DocumentModule';
             }
         }, 
         truncateBody(value: string) {
-            if (value.length > 120) {
-                return value.slice(0, 120) + '...';
+            if (value.length > 110) {
+                return value.slice(0, 110) + '...';
             } else {
                 return value;
             }
@@ -130,6 +134,10 @@ export default class ChecklistsList extends Vue {
                 padding: 10px;
             }
             &__body {
+                padding: 10px;
+                min-height: 80px;
+            }
+            &__access {
                 padding: 10px;
             }
         }
