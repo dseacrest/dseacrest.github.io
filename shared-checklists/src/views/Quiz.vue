@@ -46,7 +46,7 @@
 <script lang='ts'>
 import {Vue, Component, Prop} from 'vue-property-decorator'
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
-import QInput from 'quasar';
+import QInput, {Loading} from 'quasar';
 import ITodoCollection, {ITodo} from '@/models/todoCollection';
 import { mapGetters } from "vuex";
 import firebase from 'firebase';
@@ -231,6 +231,14 @@ export default class Quiz extends Vue {
 		this.randomRightAnswerLocationGenerator();
 		this.randomWrongAnswerGenerator();
 	}
+
+	beforeCreate() {
+        firebase.auth().onAuthStateChanged(async () => {
+			Loading.show();
+			await DocumentModule.loadDocument(this.$route.params.id);
+			Loading.hide();
+        })
+    }
 }
 
 </script>

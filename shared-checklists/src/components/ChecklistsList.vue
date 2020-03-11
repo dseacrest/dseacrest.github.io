@@ -88,7 +88,7 @@ export default class ChecklistsList extends Vue {
         if (HomeViewModule.filteredDocuments.length) {
             return (HomeViewModule.filteredDocuments.filter((document) => (document.userId === (this.user.data ? this.user.data.uid : ''))  || document.userId === undefined));
         }
-        return HomeViewModule.documents;
+        return HomeViewModule.documents.filter((document) => (document.userId === (this.user.data ? this.user.data.uid : ''))  || document.userId === undefined);
     }
 
     public get user() {
