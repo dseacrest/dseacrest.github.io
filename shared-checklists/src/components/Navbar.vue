@@ -9,16 +9,18 @@
             <div class="o-navbar__loggedIn__filter q-pa-md">
                 <div class="q-gutter-md col">
                 <q-select
-                    v-model="selectedFilter"
+                    :value="model"
                     use-input
-                    hide-selected
                     fill-input
-                    dark
-                    label="Topic Filter"
+                    hide-selected
                     input-debounce="0"
+                    dark
+                    color="accent"
+                    @filter="filterFn"
+                    @input="setModel"
+                    label="Search or Filter"
                     :options="options"
                     class="o-navbar__loggedIn__filter__select"
-                    v-if="!['todo', 'notecards'].includes($route.name)"
                 >
                     <template v-slot:no-option>
                     <q-item>
@@ -48,6 +50,7 @@ import router from '@/router/index';
 import {TodoDataServicesCollection} from '@/accessors/TodoDataServicesCollection';
 import WhyDocumentDialog from '@/components/WhyDialog.vue';
 import {Loading} from 'quasar';
+import { ITopicFilter } from '../models/document';
 
 @Component({
     components: {
@@ -55,6 +58,8 @@ import {Loading} from 'quasar';
     }
 })
 export default class NavBar extends Vue {
+    public model: any = null;
+    public options: any = HomeViewModule.documentSearchTopics;
 
     public get user() {
             return this.$store.getters.user;
@@ -90,16 +95,17 @@ export default class NavBar extends Vue {
         });
     }
 
-    public get selectedFilter() {
-        return HomeViewModule.documentTopic;
+    public setModel(val: any) {
+        this.navigateHome();
+        this.model = val;
+        HomeViewModule.loadTopicFilter(val);
     }
 
-    public set selectedFilter(value: string) {
-        HomeViewModule.loadTopicFilter(value);
-    }
-
-    public get options() {
-        return HomeViewModule.documentTopics;
+    public filterFn(val: string, update: ((cb: (() => void)) => void), abort: any) {
+        update(() => {
+            const needle = val.toLocaleLowerCase();
+            this.options = HomeViewModule.documentSearchTopics.filter((v) => v.toLocaleLowerCase().indexOf(needle) > -1);
+        });
     }
 };
 </script>

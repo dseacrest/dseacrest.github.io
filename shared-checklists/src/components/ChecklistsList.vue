@@ -97,7 +97,7 @@ export default class ChecklistsList extends Vue {
 
     beforeMount() {
         firebase.auth().onAuthStateChanged(async () => {
-            await HomeViewModule.loadDocuments();
+            await HomeViewModule.loadDocuments(this.$store.getters.user);
         })
     }
 }

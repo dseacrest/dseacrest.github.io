@@ -8,3 +8,8 @@ export interface ITopic {
     name: string;
     image: NodeRequire;
 }
+
+export interface ITopicFilter {
+    label: string;
+    value: string;
+}

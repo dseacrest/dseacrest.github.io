@@ -234,6 +234,7 @@ export default class ToDo extends Vue {
 	beforeCreate() {
         firebase.auth().onAuthStateChanged(async () => {
 			Loading.show();
+            await HomeViewModule.loadDocuments(this.$store.getters.user);
 			await DocumentModule.loadDocument(this.$route.params.id);
 			Loading.hide();
         })

@@ -35,7 +35,7 @@
 				</q-card-actions>
 			</q-card>
 		<div>
-			Score: {{this.score}}
+			Score: {{this.score}} of {{this.clicks}} ({{this.score != 0 ? (this.score/this.clicks).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2}) : 0}} Correct)
 		</div>
 		</div>
 
@@ -52,6 +52,8 @@ import { mapGetters } from "vuex";
 import firebase from 'firebase';
 import DocumentModule from '@/store/application/DocumentModule';
 import QuizViewModule from '../store/view/QuizViewModule';
+import HomeViewModule from '@/store/view/HomeViewModule';
+
 
 @Component({
     filters: {
@@ -74,6 +76,7 @@ export default class Quiz extends Vue {
 	public cColor: string = 'grey-2';
 	public success: boolean = false;
 	public alreadyGuessed: boolean = false;
+	public clicks: number = 0;
 
 	public get score() {
 		return QuizViewModule.score;
@@ -196,6 +199,7 @@ export default class Quiz extends Vue {
 				break;
 			default:		
 		}
+		this.clicks++;
 		this.alreadyGuessed = true;
 	}
 
@@ -223,22 +227,21 @@ export default class Quiz extends Vue {
 		QuizViewModule.resetScore();
 	}
 
-	beforeMount() {
-		this.loadData();
-	}
-
 	public async loadData() {
 		this.randomRightAnswerLocationGenerator();
 		this.randomWrongAnswerGenerator();
 	}
 
 	beforeCreate() {
-        firebase.auth().onAuthStateChanged(async () => {
+		firebase.auth().onAuthStateChanged(async () => {
 			Loading.show();
+            await HomeViewModule.loadDocuments(this.$store.getters.user);
 			await DocumentModule.loadDocument(this.$route.params.id);
 			Loading.hide();
+			this.loadData();
         })
-    }
+	}
+
 }
 
 </script>

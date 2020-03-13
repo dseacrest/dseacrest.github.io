@@ -41,7 +41,7 @@ export default class ActionNavbar extends Vue {
     }
 
     public get topics() {
-        return HomeViewModule.documentTopics;
+        return HomeViewModule.documentSearchTopics;
     }
 
 };
@@ -59,7 +59,7 @@ export default class ActionNavbar extends Vue {
     height: 40px;
     justify-content: space-between;
     align-items: center;
-    padding: 0 50px 10px 75px;
+    padding: 0 50px 10px 100px;
     background-color: $secondary;
     a {
         text-decoration: none;
