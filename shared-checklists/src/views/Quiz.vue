@@ -76,10 +76,13 @@ export default class Quiz extends Vue {
 	public cColor: string = 'grey-2';
 	public success: boolean = false;
 	public alreadyGuessed: boolean = false;
-	public clicks: number = 0;
 
 	public get score() {
 		return QuizViewModule.score;
+	}
+
+	public get clicks() {
+		return QuizViewModule.clicks;
 	}
 
 	public get tasks(): ITodo[] {
@@ -199,7 +202,7 @@ export default class Quiz extends Vue {
 				break;
 			default:		
 		}
-		this.clicks++;
+		QuizViewModule.click();
 		this.alreadyGuessed = true;
 	}
 
@@ -250,7 +253,7 @@ export default class Quiz extends Vue {
 
 .title {
 	font-size: 4em;
-	padding: 15px;
+	padding: 10px;
 }
 
 .q-pa-md {

@@ -147,7 +147,7 @@ export default class Notecards extends Vue {
 
 .title {
 	font-size: 4em;
-	padding: 15px;
+	padding: 10px;
 }
 
 .q-pa-md {

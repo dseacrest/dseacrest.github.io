@@ -10,7 +10,7 @@ cd dist
 # CHANGE DEPLOY #
 git init
 git add -A
-git commit -m 'deploy 29'
+git commit -m 'deploy 31'
 git push -f https://github.com/dseacrest/dseacrest.github.io.git master
 
 # navigate to root directory 
@@ -21,7 +21,7 @@ cd.. cd..
 # CHANGE DEPLOY #
 git init
 git add -A
-git commit -m 'deploy 29'
+git commit -m 'deploy 31'
 git push -f https://github.com/dseacrest/dseacrest.github.io.git develop
 
 

@@ -2,26 +2,40 @@
     <q-dialog v-model="prompt" persistent>
         <q-card class="o-whyDialog" style="min-width: 350px; padding: 10px;">
             <q-card-section>
-                <div class="o-whyDialog__title">Getting Started</div>
+                <div class="o-whyDialog__title text-primary">About</div>
             </q-card-section>
 
             <q-card-section>
-                <div class="text-body">You need to quickly complete complex tasks and consume new information fast.</div>
+                <div class="text-body">This site is designed for entrepreneurs, business owners, and do-gooders who need to learn and grow quickly.</div>
             </q-card-section>
            
             <q-card-section>
-                <div class="text-body">Here's how it works:</div>
+                <div class="text-body">Inside you'll find checklists, lessons, vocabulary, questions, tricks, steps, and theories of business to help you on your way.</div>
+            </q-card-section>
+
+            <q-card-section>
+                <div class="text-body">You'll find a wide variety of information organized in topics.  Use the searchbar to quick filter by topic or search for a particular document.</div>
+            </q-card-section>
+
+            <q-card-section>
+                <div class="text-body">The data is provided in three formats based on your preferred learning style:</div>
                 <ul>
-                    <li>Use the 'Topic Filter' to select areas of interest.</li>
-                    <li>Click the 'Checklist' mode to Help you complete tasks.</li>
-                    <li>Click the 'Notecards' mode to study any of the topics.</li>
                     <li>Click the 'Quiz' mode to challenge your knowledge. </li>
-                    <li>Click 'Add Checklist' to add your own data.</li>
+                    <li>Click the 'Checklist' mode to help you complete tasks.</li>
+                    <li>Click the 'Notecards' mode to study any of the documents.</li>
                 </ul>
             </q-card-section>
 
-            <q-card-actions align="right" class="text-primary">
-                <q-btn flat label="Click to Begin"  @click="closeWhyDialog()"/>
+            <q-card-section>
+                <div class="text-body">You can even add your own private checklists by clicking the "Add Checklist" button.</div>
+            </q-card-section>
+
+            <q-card-section>
+                <div class="text-body">Devon</div>
+            </q-card-section>
+
+            <q-card-actions align="right" class="o-whyDialog__beginButton text-primary">
+                <q-btn flat label="Click to Begin" @click="closeWhyDialog()"/>
             </q-card-actions>
         </q-card>
     </q-dialog>
@@ -53,6 +67,9 @@ export default class WhyDialog extends Vue {
 .o-whyDialog {
     &__title {
         font-size: 3em;
+    }
+    &__beginButton {
+        padding: 10px;
     }
 }
 </style>

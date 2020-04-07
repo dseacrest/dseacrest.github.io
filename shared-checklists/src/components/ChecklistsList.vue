@@ -6,8 +6,8 @@
                     <q-card-section>
                         <div class="o-checklist__list__content__topic text-overline">{{document.topic}}</div>
                         <div class="o-checklist__list__content__subject text-h5 q-mt-sm q-mb-xs">{{document.subject | truncateSubject}}</div>
-                        <div class="o-checklist__list__content__body text-body text-grey">
-                            {{document.todos[0].body | truncateBody}}
+                        <div class="o-checklist__list__content__body text-body text-primary">
+                            {{document.description ? document.description : '' | truncateBody}}
                         </div>
                         <div class="o-checklist__list__content__access">
                             <q-badge outline color="secondary" label="Public" v-if="document.userId === undefined"/>

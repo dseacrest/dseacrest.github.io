@@ -2,7 +2,7 @@
     <div class="o-navbar">
         <div class="o-navbar__logo" >
             <a @click="navigateHome()" class="o-navbar__logo__home">Home</a>
-            <a @click="navigateWhy()" class="o-navbar__logo__why" v-if="$q.platform.is.desktop">Getting Started</a>
+            <a @click="navigateWhy()" class="o-navbar__logo__why" v-if="$q.platform.is.desktop">About</a>
             <WhyDocumentDialog />
         </div>
         <div class="o-navbar__loggedIn" v-if="user.loggedIn">
@@ -128,7 +128,7 @@ export default class NavBar extends Vue {
             color: $primary;
         }
         &__why {
-            margin-left: 65px;
+            margin-left: 75px;
             color: white;
         }
     }

@@ -97,7 +97,7 @@ export default class ToDo extends Vue {
 		sortBy: 'title',
         descending: false,
         page: 1,
-        rowsPerPage: 250,
+        rowsPerPage: 10,
 	}
 
 	public get tasks(): ITodo[] {
@@ -130,6 +130,7 @@ export default class ToDo extends Vue {
 			id: this.document.id,
 			subject: this.document.subject,
 			credit: this.document.credit,
+			description: this.document.description,
 			topic: this.document.topic,
 			todos: this.document.todos.map((todo: ITodo) => {
 				if (todo.id === task.id) {
@@ -162,6 +163,7 @@ export default class ToDo extends Vue {
 			id: this.document.id,
 			subject: this.document.subject,
 			credit: this.document.credit,
+			description: this.document.description,
 			topic: this.document.topic,
 			todos: this.document.todos.map((todo: ITodo) => {
 				if (todo.id === task.id) {
@@ -191,6 +193,7 @@ export default class ToDo extends Vue {
 			id: this.document.id,
 			subject: this.document.subject,
 			credit: this.document.credit,
+			description: this.document.description,
 			topic: this.document.topic,
 			todos: [...this.document.todos, {id: this.todoIdGenerator(), title:'', body:''}],
 			userId: this.document.userId,
@@ -255,7 +258,7 @@ export default class ToDo extends Vue {
 .o-todo {
 	&__subject {
 		font-size: 4em;
-		padding: 20px;
+		padding: 10px;
 	}
 	&__table {
 		&__markup {

@@ -33,6 +33,14 @@
             </q-card-section>
 
             <q-card-section>
+                <div class="text-h6">Description</div>
+            </q-card-section>
+
+            <q-card-section class="q-pt-none">
+                <q-input dense v-model="documentDescription" @keyup.enter="prompt = false" />
+            </q-card-section>
+
+            <q-card-section>
                 <div class="text-h6">Credit</div>
             </q-card-section>
 
@@ -60,6 +68,7 @@ export default class AddDocumentDialog extends Vue {
     public documentName = 'Untitled';
     public documentCredit = '-';
     public documentTopic = 'Other';
+    public documentDescription = 'Description';
     public adminId = process.env.VUE_APP_FIREBASE_ADMIN;
 
 	public get user() {
@@ -84,6 +93,7 @@ export default class AddDocumentDialog extends Vue {
             id: '',
             subject: this.documentName,
             credit: this.documentCredit,
+            description: this.documentDescription,
             topic: this.documentTopic,
             todos: [{id: this.todoIdGenerator(), title:'', body:''}],
             userId: this.user.data.uid,

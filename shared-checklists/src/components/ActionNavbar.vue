@@ -5,7 +5,7 @@
         <q-btn class="o-actionNavbar__addChecklist" flat dense @click="addDocumentDialog()" v-if="user.loggedIn">Add Checklist</q-btn>
     </div>
     <!-- Add Checklist Dialog. -->
-    <div class="o-actionNavbar__addDocumentDialog q-pa-md q-gutter-md">
+    <div class="o-actionNavbar__addDocumentDialog">
         <AddDocumentDialog />
     </div>
 </div>
